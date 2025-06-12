@@ -2,7 +2,6 @@ name: Build mdBooks
 
 on:
   push:
-    # branches: [main]
   pull_request:
     branches: [main]
   workflow_dispatch:
@@ -26,8 +25,8 @@ jobs:
             # If triggered manually, use the input paths
             PATHS="${{ github.event.inputs.paths }}"
           else
-            # Default paths for push/PR events - adjust as needed
-            PATHS="book1,book2,book3"
+            # Default paths for push/PR events - adjust as needed (comma separated)
+            PATHS="srd/1.0/de"
           fi
           # Convert comma-separated list to JSON array
           JSON_ARRAY=$(echo $PATHS | jq -R -c 'split(",") | map(trim)')
