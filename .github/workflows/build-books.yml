@@ -17,30 +17,30 @@ on:
         type: string
 
 jobs:
-  determine_paths:
-    runs-on: ubuntu-latest
-    outputs:
-      matrix: ${{ steps.set-matrix.outputs.matrix }}
-    steps:
-      - name: Set matrix from input
-        id: set-matrix
-        run: |
-          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
-            # If triggered manually, use the input paths
-            PATHS="${{ github.event.inputs.paths }}"
-          else
-            # Default paths for push/PR events - adjust as needed (comma separated)
-            PATHS="srd/1.0/de"
-          fi
-          # Convert comma-separated list to JSON array
-          JSON_ARRAY=$(echo $PATHS | jq -R -c 'split(",") | map(trim)')
-          echo "matrix={\"path\":$JSON_ARRAY}" >> $GITHUB_OUTPUT
+  # determine_paths:
+  #   runs-on: ubuntu-latest
+  #   outputs:
+  #     matrix: ${{ steps.set-matrix.outputs.matrix }}
+  #   steps:
+  #     - name: Set matrix from input
+  #       id: set-matrix
+  #       run: |
+  #         if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+  #           # If triggered manually, use the input paths
+  #           PATHS="${{ github.event.inputs.paths }}"
+  #         else
+  #           # Default paths for push/PR events - adjust as needed (comma separated)
+  #           PATHS="srd/1.0/de"
+  #         fi
+  #         # Convert comma-separated list to JSON array
+  #         JSON_ARRAY=$(echo $PATHS | jq -R -c 'split(",") | map(trim)')
+  #         echo "matrix={\"path\":$JSON_ARRAY}" >> $GITHUB_OUTPUT
 
   build:
-    needs: determine_paths
     runs-on: ubuntu-latest
     strategy:
-      matrix: ${{ fromJson(needs.determine_paths.outputs.matrix) }}
+      matrix:
+        path: ["srd/1.0/de"]
       fail-fast: false
     steps:
       - name: Checkout repository
