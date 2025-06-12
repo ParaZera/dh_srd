@@ -7,8 +7,9 @@ from pathlib import Path
 from collections import defaultdict
 
 # Configuration
-SRD_ROOT = Path("/home/tim/sources/dh_srd/srd")
-LANDING_PAGE = Path("/home/tim/sources/dh_srd/script/index.html")
+# Get the directory of the current script, then navigate to the srd directory
+SRD_ROOT = Path(__file__).parent.parent / "srd"
+LANDING_PAGE = SRD_ROOT.parent / "script" / "index.html"
 PLACEHOLDER = "<!-- TRANSLATION_LINKS_PLACEHOLDER -->"
 
 # Language codes to full names mapping
