@@ -1,0 +1,119 @@
+stages:
+    - build
+    - deploy
+
+build:
+    stage: build
+    image: registry.gitlab.com/parazera/containers/mdbook:latest
+    parallel:
+        matrix:
+            - BOOK_DIR: "MiniRegelwerk"
+            - BOOK_DIR: "SystemReferenzLeitfaden"
+    script:
+        - cd $BOOK_DIR
+        - mdbook build
+        - mkdir -p ../public/$BOOK_DIR
+        - cp -r book/* ../public/$BOOK_DIR/
+    artifacts:
+        paths:
+            - public/
+        name: "book-$BOOK_DIR"
+
+pages:
+    stage: deploy
+    dependencies:
+        - build
+    script:
+        # Create main index.html with directory listing
+        - echo "Creating main index.html with directory listing..."
+        - |
+          cat > public/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Documentation Index</title>
+              <style>
+                  body {
+                      font-family: Arial, sans-serif;
+                      max-width: 800px;
+                      margin: 0 auto;
+                      padding: 20px;
+                      background-color: #f5f5f5;
+                  }
+                  .container {
+                      background-color: white;
+                      padding: 30px;
+                      border-radius: 8px;
+                      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                  }
+                  h1 {
+                      color: #333;
+                      text-align: center;
+                      margin-bottom: 30px;
+                  }
+                  ul {
+                      list-style-type: none;
+                      padding: 0;
+                  }
+                  li {
+                      margin: 10px 0;
+                      padding: 15px;
+                      background-color: #f8f9fa;
+                      border-radius: 5px;
+                      border-left: 4px solid #007bff;
+                  }
+                  a {
+                      text-decoration: none;
+                      color: #007bff;
+                      font-weight: bold;
+                      font-size: 16px;
+                  }
+                  a:hover {
+                      color: #0056b3;
+                      text-decoration: underline;
+                  }
+                  .directory-tree {
+                      background-color: #f1f3f4;
+                      padding: 15px;
+                      border-radius: 5px;
+                      margin-top: 20px;
+                      font-family: monospace;
+                      white-space: pre-line;
+                  }
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <h1>📚 Documentation Index</h1>
+                  <ul>
+          EOF
+        # Find all index.html files in subdirectories and create links
+        - |
+          for dir in public/*/; do
+              if [[ -f "$dir/index.html" ]]; then
+                  dirname=$(basename "$dir")
+                  echo "                      <li><a href=\"$dirname/index.html\">📖 $dirname</a></li>" >> public/index.html
+              fi
+          done
+        - |
+          cat >> public/index.html << 'EOF'
+                  </ul>
+                  <div class="directory-tree">
+                      <strong>Directory Structure:</strong>
+          EOF
+        - |
+          cat >> public/index.html << 'EOF'
+                  </div>
+              </div>
+          </body>
+          </html>
+          EOF
+        - echo "Main index.html created successfully"
+        - ls -la public/index.html
+    artifacts:
+        paths:
+            - public
+    only:
+        - main
