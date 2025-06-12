@@ -2,6 +2,10 @@ name: Build mdBooks
 
 on:
   push:
+    branches:
+      - main
+      - feat/landing-page
+      - "**"
   pull_request:
     branches: [main]
   workflow_dispatch:
