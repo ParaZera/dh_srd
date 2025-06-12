@@ -1,0 +1,24 @@
+/* Custom CSS to make mdBook use full width of screen */
+
+:root {
+    /* Override the default content max-width to use full screen width */
+    --content-max-width: none;
+}
+
+/* Alternative approach: Use full viewport width minus sidebar and some padding */
+.content main {
+    max-width: calc(100vw - var(--sidebar-width) - 2 * var(--page-padding) - 210px);
+}
+
+/* Ensure content doesn't get too cramped on mobile */
+@media screen and (max-width: 768px) {
+    .content main {
+        max-width: calc(100vw - 2 * var(--page-padding));
+    }
+}
+
+/* Ensure tables can still scroll horizontally if needed */
+.table-wrapper {
+    overflow-x: auto;
+    max-width: 100%;
+}
