@@ -1,0 +1,63 @@
+name: Build mdBooks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      paths:
+        description: "Comma-separated list of paths to books"
+        required: true
+        default: "book1,book2,book3"
+        type: string
+
+jobs:
+  determine_paths:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Set matrix from input
+        id: set-matrix
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            # If triggered manually, use the input paths
+            PATHS="${{ github.event.inputs.paths }}"
+          else
+            # Default paths for push/PR events - adjust as needed
+            PATHS="book1,book2,book3"
+          fi
+          # Convert comma-separated list to JSON array
+          JSON_ARRAY=$(echo $PATHS | jq -R -c 'split(",") | map(trim)')
+          echo "matrix={\"path\":$JSON_ARRAY}" >> $GITHUB_OUTPUT
+
+  build:
+    needs: determine_paths
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ fromJson(needs.determine_paths.outputs.matrix) }}
+      fail-fast: false
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: "latest"
+
+      - name: Build mdBook
+        run: |
+          echo "Building book in ${{ matrix.path }}"
+          cd "${{ matrix.path }}"
+          mdbook build
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: mdbook-${{ matrix.path }}
+          path: ${{ matrix.path }}/book
+          retention-days: 7
+
