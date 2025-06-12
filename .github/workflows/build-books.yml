@@ -51,9 +51,15 @@ jobs:
           cd "${{ matrix.path }}"
           mdbook build
 
+      - name: Set artifact name
+        id: set-artifact-name
+        run: |
+          ARTIFACT_NAME="mdbook-$(echo "${{ matrix.path }}" | tr '/' '-')"
+          echo "ARTIFACT_NAME=$ARTIFACT_NAME" >> $GITHUB_ENV
+
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
         with:
-          name: mdbook-${{ replace(matrix.path, '/', '-') }}
+          name: ${{ env.ARTIFACT_NAME }}
           path: ${{ matrix.path }}/book
           retention-days: 7
