@@ -1,0 +1,76 @@
+name: Deploy to GitHub Pages
+
+on:
+  workflow_run:
+    workflows: ["Build mdBooks"]
+    types:
+      - completed
+    branches:
+      - main
+      - feat/landing-page
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    concurrency:
+      group: "pages"
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Download artifacts
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          workflow: build-books.yml
+          workflow_conclusion: success
+          path: artifacts
+
+      - name: Create deployment directory
+        run: |
+          mkdir -p _site
+
+      - name: Extract artifacts to deployment directory
+        run: |
+          # Process each artifact directory
+          for artifact_dir in artifacts/*; do
+            if [ -d "$artifact_dir" ]; then
+              # Extract contents to appropriate path in _site
+              # The artifact name is in format mdbook-srd-1.0-de
+              # We need to convert back to proper path structure
+              artifact_name=$(basename "$artifact_dir")
+              
+              # Strip the "mdbook-" prefix
+              path_with_hyphens=${artifact_name#mdbook-}
+              
+              # Convert hyphens back to slashes for directory structure
+              target_path=$(echo "$path_with_hyphens" | tr '-' '/')
+              
+              echo "Extracting $artifact_name to _site/$target_path"
+              mkdir -p "_site/$target_path"
+              cp -r "$artifact_dir"/* "_site/$target_path"
+            fi
+          done
+
+      - name: Generate landing page
+        run: |
+          python script/gh_generate_landing_page.py
+          cp script/index.html _site/index.html
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
