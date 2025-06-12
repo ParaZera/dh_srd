@@ -9,12 +9,6 @@ on:
   pull_request:
     branches: [main]
   workflow_dispatch:
-    inputs:
-      paths:
-        description: "Comma-separated list of paths to books"
-        required: true
-        default: "book1,book2,book3"
-        type: string
 
 jobs:
   # determine_paths:
