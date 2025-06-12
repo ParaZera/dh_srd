@@ -1,13 +1,12 @@
 name: Deploy to GitHub Pages
 
 on:
+  workflow_dispatch:
   workflow_run:
-    workflows: ["Build mdBooks"]
+    workflows:
+      - "Build mdBooks"
     types:
       - completed
-    branches:
-      - main
-      - feat/landing-page
 
 jobs:
   deploy:
@@ -36,6 +35,7 @@ jobs:
           workflow: build-books.yml
           workflow_conclusion: success
           path: artifacts
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Create deployment directory
         run: |
@@ -65,12 +65,32 @@ jobs:
 
       - name: Generate landing page
         run: |
-          python script/gh_generate_landing_page.py
-          cp script/index.html _site/index.html
+          if [ -f "script/gh_generate_landing_page.py" ]; then
+            python script/gh_generate_landing_page.py
+          else
+            echo "Landing page generation script not found, using available index.html"
+          fi
+
+          # Ensure we have an index.html file in the root
+          if [ -f "script/index.html" ]; then
+            cp script/index.html _site/index.html
+          elif [ ! -f "_site/index.html" ]; then
+            # Create a basic index.html if none exists
+            echo "<html><head><title>DH SRD Documentation</title></head><body><h1>DH SRD Documentation</h1><p>Select a book from the list:</p><ul>" > _site/index.html
+            for dir in _site/*/; do
+              if [ -d "$dir" ]; then
+                dirname=$(basename "$dir")
+                echo "<li><a href=\"$dirname\">$dirname</a></li>" >> _site/index.html
+              fi
+            done
+            echo "</ul></body></html>" >> _site/index.html
+          fi
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4

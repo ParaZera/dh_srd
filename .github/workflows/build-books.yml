@@ -31,6 +31,7 @@ jobs:
   #         echo "matrix={\"path\":$JSON_ARRAY}" >> $GITHUB_OUTPUT
 
   build:
+    name: build-mdbook
     runs-on: ubuntu-latest
     strategy:
       matrix:
