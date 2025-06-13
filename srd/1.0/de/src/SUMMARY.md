@@ -48,3 +48,8 @@
     - [Schätze](./Hauptmechaniken/Schätze.md)
     - [Verbrauchsgegenstände](./Hauptmechaniken/Verbrauchsgegenstände.md)
     - [Gold](./Hauptmechaniken/Gold.md)
+
+---
+
+
+[Lizenz](./License.md)

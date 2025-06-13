@@ -7,3 +7,5 @@ title = "DH System Referenz Dokument 1.0 (Community Edition)"
 [output.html]
 additional-css = ["theme/css/custom.css"]
 fold = { "enable" = true }
+git-repository-url = "https://github.com/ParaZera/dh_srd"
+default-theme = "rust"
