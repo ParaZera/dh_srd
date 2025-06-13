@@ -23,7 +23,7 @@ Weitere Informationen finden Sie unter https://www.daggerheart.com.
 
 Es wurden keine vorherigen Änderungen durch andere vorgenommen.
 
-Änderungen: Übersetzung des Daggerheart System Reference Documents
+Änderungen: Übersetzung des Daggerheart System Reference Documents sowie Art der Darstellung
 
 ---
 
@@ -46,5 +46,5 @@ More information can be found at https://www.daggerheart.com.
 
 There are no previous modifications by others.
 
-Modifications: Translation of the Daggerheart System Reference Document
+Modifications: Translation of the Daggerheart System Reference Document and style of presentation
 
