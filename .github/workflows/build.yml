@@ -25,10 +25,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Install mdbook
-        run: |
-          curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.37/mdbook-v0.4.37-x86_64-unknown-linux-gnu.tar.gz | tar -xz
-          sudo mv mdbook /usr/local/bin/
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: "latest"
 
       - name: Build mdbook
         run: |
@@ -41,7 +41,7 @@ jobs:
           path: srd/1.0/de/book
 
   deploy:
-    if: github.ref == 'refs/heads/main'
+    # if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
