@@ -90,48 +90,65 @@ jobs:
           path: artifacts
           merge-multiple: false
 
-      - name: Create deployment directory
+      - name: Debug - Show artifacts structure
         run: |
-          mkdir -p _site
+          echo "=== Artifacts directory structure ==="
+          tree artifacts || find artifacts -type f
 
-      - name: Merge artifacts into deployment directory
+      - name: Create public directory from artifacts
+        run: |
+          mkdir -p public
+
+      - name: Merge artifacts into public directory
         run: |
           # Each artifact contains a 'public' directory with the proper structure
-          # We need to merge all of them into _site
+          # We need to merge all of them into the main public directory
           for artifact_dir in artifacts/*/; do
             if [ -d "$artifact_dir/public" ]; then
-              echo "Merging $(basename "$artifact_dir") into _site"
-              cp -r "$artifact_dir/public/"* _site/
+              echo "Merging $(basename "$artifact_dir") into public"
+              cp -r "$artifact_dir/public/"* public/
             fi
           done
 
       - name: Generate landing page
         run: |
-          if [ -f "script/gh_generate_landing_page.py" ]; then
-            python script/gh_generate_landing_page.py
+          echo "Running generate_landing_page.py script"
+          python script/generate_landing_page.py
+
+      - name: Debug - Show public structure and landing page content
+        run: |
+          echo "=== Public directory structure ==="
+          tree public || find public -type f
+          echo ""
+          echo "=== Generated index.html content ==="
+          if [ -f "script/index.html" ]; then
+            cat script/index.html
           else
-            echo "Landing page generation script not found, using available index.html"
+            echo "No index.html found in script directory"
           fi
 
-          # Ensure we have an index.html file in the root
+      - name: Move landing page to public directory
+        run: |
           if [ -f "script/index.html" ]; then
-            cp script/index.html _site/index.html
-          elif [ ! -f "_site/index.html" ]; then
+            echo "Moving generated index.html to public directory"
+            cp script/index.html public/index.html
+          else
+            echo "No index.html found in script directory, creating basic one"
             # Create a basic index.html if none exists
-            echo "<html><head><title>DH SRD Documentation</title></head><body><h1>DH SRD Documentation</h1><p>Select a book from the list:</p><ul>" > _site/index.html
-            for dir in _site/*/; do
+            echo "<html><head><title>DH SRD Documentation</title></head><body><h1>DH SRD Documentation</h1><p>Select a book from the list:</p><ul>" > public/index.html
+            for dir in public/*/; do
               if [ -d "$dir" ]; then
                 dirname=$(basename "$dir")
-                echo "<li><a href=\"$dirname\">$dirname</a></li>" >> _site/index.html
+                echo "<li><a href=\"$dirname\">$dirname</a></li>" >> public/index.html
               fi
             done
-            echo "</ul></body></html>" >> _site/index.html
+            echo "</ul></body></html>" >> public/index.html
           fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: public
 
       - name: Deploy to GitHub Pages
         id: deployment
