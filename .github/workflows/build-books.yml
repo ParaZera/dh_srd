@@ -90,17 +90,9 @@ jobs:
           path: artifacts
           merge-multiple: false
 
-      - name: Debug - Show artifacts structure
-        run: |
-          echo "=== Artifacts directory structure ==="
-          tree artifacts || find artifacts -type f
-
       - name: Create public directory from artifacts
         run: |
           mkdir -p public
-
-      - name: Merge artifacts into public directory
-        run: |
           # Each artifact contains a 'public' directory with the proper structure
           # We need to merge all of them into the main public directory
           for artifact_dir in artifacts/*/; do
@@ -115,31 +107,18 @@ jobs:
           echo "Running generate_landing_page.py script"
           python script/generate_landing_page.py
 
-      - name: Debug - Show public structure and landing page content
-        run: |
-          echo "=== Public directory structure ==="
-          tree public || find public -type f
-          echo ""
-          echo "=== Generated index.html content ==="
-          if [ -f "script/index.html" ]; then
-            cat script/index.html
-          else
-            echo "No index.html found in script directory"
-          fi
-
       - name: Move landing page to public directory
         run: |
           if [ -f "script/index.html" ]; then
             echo "Moving generated index.html to public directory"
             cp script/index.html public/index.html
           else
-            echo "No index.html found in script directory, creating basic one"
-            # Create a basic index.html if none exists
+            echo "Creating basic landing page"
             echo "<html><head><title>DH SRD Documentation</title></head><body><h1>DH SRD Documentation</h1><p>Select a book from the list:</p><ul>" > public/index.html
             for dir in public/*/; do
               if [ -d "$dir" ]; then
                 dirname=$(basename "$dir")
-                echo "<li><a href=\"$dirname\">$dirname</a></li>" >> public/index.html
+                echo "<li><a href=\"$dirname/\">$dirname</a></li>" >> public/index.html
               fi
             done
             echo "</ul></body></html>" >> public/index.html
