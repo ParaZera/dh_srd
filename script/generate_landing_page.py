@@ -47,8 +47,8 @@ def find_translations():
             if not summary_path.exists():
                 continue
 
-            # Find the index.html that corresponds to this translation
-            index_path = lang_dir.relative_to(SRD_ROOT.parent) / "book" / "index.html"
+            # Generate relative path from landing page to translation
+            relative_path = f"srd/{version}/{lang_code}/index.html"
 
             # Extract title from book.toml if available
             title = get_language_name(lang_code)
@@ -61,7 +61,7 @@ def find_translations():
                         title = title_match.group(1)
 
             translations[lang_code].append(
-                {"version": version, "path": f"/{index_path}", "title": title}
+                {"version": version, "url": relative_path, "title": title}
             )
 
     return translations
@@ -86,11 +86,11 @@ def generate_html_content(translations):
             key=lambda v: [int(n) for n in v["version"].split(".") if n.isdigit()],
         ):
             version = version_info["version"]
-            path = version_info["path"]
+            url = version_info["url"]
             title = version_info["title"]
 
             html_content += (
-                f'                <li><a href="{path}">Version {version}</a></li>\n'
+                f'                <li><a href="{url}">Version {version}</a></li>\n'
             )
 
         html_content += """            </ul>
