@@ -33,6 +33,21 @@ jobs:
           cd "${{ matrix.path }}"
           mdbook build
 
+      - name: Create public directory structure
+        run: |
+          # Extract version and language from matrix path (e.g., "srd/1.0/de")
+          IFS='/' read -ra PATH_PARTS <<< "${{ matrix.path }}"
+          VERSION="${PATH_PARTS[1]}"
+          LANG="${PATH_PARTS[2]}"
+
+          # Create the public directory structure
+          mkdir -p "public/srd/$VERSION/$LANG"
+
+          # Copy the built book to the public directory
+          cp -r "${{ matrix.path }}/book/"* "public/srd/$VERSION/$LANG/"
+
+          echo "Created public/srd/$VERSION/$LANG/ with built content"
+
       - name: Set artifact name
         id: set-artifact-name
         run: |
@@ -43,7 +58,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ${{ env.ARTIFACT_NAME }}
-          path: ${{ matrix.path }}/book
+          path: public
           retention-days: 7
 
   deploy:
@@ -79,25 +94,14 @@ jobs:
         run: |
           mkdir -p _site
 
-      - name: Extract artifacts to deployment directory
+      - name: Merge artifacts into deployment directory
         run: |
-          # Process each artifact directory
-          for artifact_dir in artifacts/*; do
-            if [ -d "$artifact_dir" ]; then
-              # Extract contents to appropriate path in _site
-              # The artifact name is in format mdbook-srd-1.0-de
-              # We need to convert back to proper path structure
-              artifact_name=$(basename "$artifact_dir")
-              
-              # Strip the "mdbook-" prefix
-              path_with_hyphens=${artifact_name#mdbook-}
-              
-              # Convert hyphens back to slashes for directory structure
-              target_path=$(echo "$path_with_hyphens" | tr '-' '/')
-              
-              echo "Extracting $artifact_name to _site/$target_path"
-              mkdir -p "_site/$target_path"
-              cp -r "$artifact_dir"/* "_site/$target_path"
+          # Each artifact contains a 'public' directory with the proper structure
+          # We need to merge all of them into _site
+          for artifact_dir in artifacts/*/; do
+            if [ -d "$artifact_dir/public" ]; then
+              echo "Merging $(basename "$artifact_dir") into _site"
+              cp -r "$artifact_dir/public/"* _site/
             fi
           done
 
