@@ -38,6 +38,9 @@ jobs:
           mkdir -p public
           ./script/generate_landing_page.py -o public
 
+      - name: Copy license file
+        run: cp license.html public/
+
       - name: Upload landing page artifact
         uses: actions/upload-artifact@v4
         with:
