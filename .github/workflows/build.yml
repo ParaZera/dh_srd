@@ -39,7 +39,7 @@ jobs:
           ./script/generate_landing_page.py -o public
 
       - name: Copy license file
-        run: cp license.html public/
+        run: cp ./script/license.html public/
 
       - name: Upload landing page artifact
         uses: actions/upload-artifact@v4
