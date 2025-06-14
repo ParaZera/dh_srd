@@ -93,7 +93,16 @@
         </header>
 
         <div class="container">
-            <!-- TRANSLATION_LINKS_PLACEHOLDER -->
+            {% for lang_code, versions in translations.items() %}
+            <div class="language-card">
+                <h2>{{ get_language_name(lang_code) }}</h2>
+                <ul>
+                    {% for version_info in versions|sort(attribute='version') %}
+                    <li><a href="{{ version_info.url }}">Version {{ version_info.version }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endfor %}
         </div>
 
         <footer>

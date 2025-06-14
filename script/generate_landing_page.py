@@ -1,16 +1,15 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.12"
+# dependencies = [ "jinja2" ]
+# ///
 # Script to generate the landing page with links to all translated documents
 
-import os
+import argparse
 import re
 from pathlib import Path
 from collections import defaultdict
-
-# Configuration
-# Get the directory of the current script, then navigate to the srd directory
-SRD_ROOT = Path(__file__).parent.parent / "srd"
-LANDING_PAGE = SRD_ROOT.parent / "script" / "index.html"
-PLACEHOLDER = "<!-- TRANSLATION_LINKS_PLACEHOLDER -->"
+from jinja2 import Environment, FileSystemLoader
 
 # Language codes to full names mapping
 LANGUAGE_NAMES = {
@@ -24,12 +23,12 @@ def get_language_name(lang_code):
     return LANGUAGE_NAMES.get(lang_code, lang_code.upper())
 
 
-def find_translations():
+def find_translations(srd_root):
     """Find all available translations in the SRD directory."""
     translations = defaultdict(list)
 
     # Walk through the SRD directory structure
-    for version_dir in SRD_ROOT.iterdir():
+    for version_dir in srd_root.iterdir():
         if not version_dir.is_dir():
             continue
 
@@ -67,68 +66,108 @@ def find_translations():
     return translations
 
 
-def generate_html_content(translations):
-    """Generate HTML content for the language cards."""
-    html_content = ""
+def generate_landing_page(translations, template_file, output_file):
+    """Generate the landing page using Jinja2 template."""
+    # Set up Jinja2 environment
+    template_path = Path(template_file)
+    env = Environment(loader=FileSystemLoader(template_path.parent))
+    env.globals["get_language_name"] = get_language_name
 
-    for lang_code, versions in sorted(translations.items()):
-        language_name = get_language_name(lang_code)
+    # Load template
+    template = env.get_template(template_path.name)
 
-        html_content += f"""
-        <div class="language-card">
-            <h2>{language_name}</h2>
-            <ul>
-"""
-
-        # Sort versions by version number (assuming they're formatted as x.y)
-        for version_info in sorted(
-            versions,
+    # Sort translations for consistent output
+    sorted_translations = dict(sorted(translations.items()))
+    for lang_code in sorted_translations:
+        sorted_translations[lang_code] = sorted(
+            sorted_translations[lang_code],
             key=lambda v: [int(n) for n in v["version"].split(".") if n.isdigit()],
-        ):
-            version = version_info["version"]
-            url = version_info["url"]
-            title = version_info["title"]
+        )
 
-            html_content += (
-                f'                <li><a href="{url}">Version {version}</a></li>\n'
-            )
+    # Render template
+    html_content = template.render(translations=sorted_translations)
 
-        html_content += """            </ul>
-        </div>
-"""
+    # Write output file
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(html_content)
 
-    return html_content
+    print(f"Generated landing page at {output_file}")
 
 
-def update_landing_page(html_content):
-    """Update the landing page HTML with the generated content."""
-    with open(LANDING_PAGE, "r", encoding="utf-8") as f:
-        content = f.read()
+def parse_arguments():
+    """Parse command line arguments."""
+    parser = argparse.ArgumentParser(
+        description="Generate landing page with links to all translated documents"
+    )
 
-    updated_content = content.replace(PLACEHOLDER, html_content)
+    # Default paths based on script location
+    script_dir = Path(__file__).parent
+    default_srd_root = script_dir.parent / "srd"
+    default_template = script_dir / "index.html.j2"
+    default_output = script_dir / "index.html"
 
-    with open(LANDING_PAGE, "w", encoding="utf-8") as f:
-        f.write(updated_content)
+    parser.add_argument(
+        "-s",
+        "--source-dir",
+        type=Path,
+        default=default_srd_root,
+        help=f"Path to the SRD directory (default: {default_srd_root})",
+    )
 
-    print(f"Updated landing page at {LANDING_PAGE}")
+    parser.add_argument(
+        "-o",
+        "--output-dir",
+        type=Path,
+        default=script_dir,
+        help=f"Output directory for the generated HTML file (default: {script_dir})",
+    )
+
+    parser.add_argument(
+        "-t",
+        "--template-file",
+        type=Path,
+        default=default_template,
+        help=f"Path to the Jinja2 template file (default: {default_template})",
+    )
+
+    return parser.parse_args()
 
 
 def main():
-    """Main function to find translations and update the landing page."""
-    print("Searching for translations...")
-    translations = find_translations()
+    """Main function to find translations and generate the landing page."""
+    args = parse_arguments()
+
+    srd_root = args.source_dir
+    output_dir = args.output_dir
+    template_file = args.template_file
+    output_file = output_dir / "index.html"
+
+    # Validate paths
+    if not srd_root.exists():
+        print(f"Error: Source directory '{srd_root}' does not exist.")
+        return 1
+
+    if not template_file.exists():
+        print(f"Error: Template file '{template_file}' does not exist.")
+        return 1
+
+    # Create output directory if it doesn't exist
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    print(f"Searching for translations in {srd_root}...")
+    translations = find_translations(srd_root)
 
     if not translations:
         print("No translations found.")
-        return
+        return 1
 
     print(f"Found translations for {len(translations)} languages:")
     for lang_code, versions in translations.items():
         print(f"  - {get_language_name(lang_code)}: {len(versions)} version(s)")
 
-    html_content = generate_html_content(translations)
-    update_landing_page(html_content)
+    generate_landing_page(translations, template_file, output_file)
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    exit(main())
