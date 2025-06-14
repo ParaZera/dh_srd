@@ -93,16 +93,22 @@
         </header>
 
         <div class="container">
-            <!-- TRANSLATION_LINKS_PLACEHOLDER -->
+            {% for lang_code, versions in translations.items() %}
+            <div class="language-card">
+                <h2>{{ get_language_name(lang_code) }}</h2>
+                <ul>
+                    {% for version_info in versions|sort(attribute='version') %}
+                    <li><a href="{{ version_info.url }}">Version {{ version_info.version }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endfor %}
         </div>
 
         <footer>
-            <p>This product includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC.
-                under the terms of the Darrington Press Community Gaming (DPCGL) License.</p>
-            <p>More information can be found at <a href="https://www.daggerheart.com">https://www.daggerheart.com</a>.
-            </p>
-            <p>There are no previous modifications by others.</p>
-            <p>Modifications: Translation of the Daggerheart System Reference Document</p>
+            <p>Copyright © 2025 ParaZera and contributors. This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+            <p>This product includes materials from the Daggerheart System Reference Document 1.0 © Critical Role, LLC under the terms of the Darrington Press Community Gaming License. More information can be found at <a href="https://darringtonpress.com/license/">https://darringtonpress.com/license/</a>. There are no previous modifications by others.</p>
+            <p>For complete license information, see our <a href="license.html">License Information</a> page.</p>
         </footer>
     </body>
 
