@@ -1,5 +1,9 @@
 ![Static Badge](https://img.shields.io/badge/License-CC--BY--4.0-blue?style=for-the-badge&link=https%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F4.0%2F)
-![Static Badge](https://img.shields.io/badge/License-DPGCL-orange?style=for-the-badge&link=https%3A%2F%2Fdarringtonpress.com%2Flicense%2F)
+
+![Static Badge](https://img.shields.io/badge/License-DPCGL-blue?style=for-the-badge&link=https://darringtonpress.com/license/)
+
+
+![Static Badge](https://img.shields.io/badge/License-DPCGL-blue?style=for-the-badge&link=https%3A%2F%2Fdarringtonpress.com%2Flicense%2F)
 
 # DH System Reference Document (Community Translation)
 
