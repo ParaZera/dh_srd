@@ -1,2 +1,4 @@
 public
 script/index.html
+.mypy_cache
+.venv
