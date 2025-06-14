@@ -2,7 +2,7 @@ name: Build and Deploy mdbook
 
 on:
   push:
-    branches: [main]
+    branches: [main, "**"]
   pull_request:
     branches: [main]
 
@@ -16,14 +16,46 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build:
+  generate-landing:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Make script executable
+        run: chmod +x ./script/generate_landing_page.py
+
+      - name: Generate landing page
+        run: |
+          mkdir -p public
+          ./script/generate_landing_page.py -o public
+
+      - name: Upload landing page artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: public-base
+          path: public/
+
+  build:
+    runs-on: ubuntu-latest
+    needs: generate-landing
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download landing page artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public-base
+          path: public/
 
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
@@ -35,19 +67,45 @@ jobs:
           cd srd/1.0/de
           mdbook build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Create public directory structure
+        run: |
+          mkdir -p public/srd/1.0/de
+          cp -r srd/1.0/de/book/* public/srd/1.0/de/
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
         with:
-          path: srd/1.0/de/book
+          name: mdbook-build
+          path: public/
 
   deploy:
-    # if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: [generate-landing, build]
     steps:
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Download landing page artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public-base
+          path: .
+
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: mdbook-build
+          path: .
+
+      - name: Upload to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
