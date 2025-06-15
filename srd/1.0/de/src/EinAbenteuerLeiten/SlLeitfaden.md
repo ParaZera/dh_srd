@@ -60,28 +60,29 @@ Sei ein gutes Vorbild dafür, wie Fiktion und Mechaniken zusammenarbeiten, um di
 Wenn der Beitrag einer spielenden Person mit der Fiktion in Konflikt steht, arbeite mit ihr zusammen, um ihn umzugestalten.
 
 ### Arbeite in Momenten und Montagen
-Wenn du eine Szene beschreibst, entscheide, welche auf Aktionen sich fokussiert wird und welche unwichtig sind.
+Wenn du eine Szene rahmst, entscheide, welche Schläge ausgekostet werden sollten und welche nicht verweilen sollten.
 
-PITFALLS TO AVOID
-UNDERMINING THE HEROES
-If a roll doesn’t go well, show how it was impacted by an 
-adversary’s prowess, environmental factors, or unexpected 
-surprises, rather than the PC’s incompetence.
-ALWAYS TELLING THE PLAYERS WHAT TO 
-ROLL
-Let the players decide how to handle a challenge.
-LETTING SCENES DRAG
-Shake it up or cut away when a scene has concluded, the 
-table’s energy is flagging, or people are talking in circles.
-SINGULAR SOLUTIONS
-Don’t get hung up on one right answer to a problem. If the 
-players have a clever idea, make it work.
-Overplanning
-Spend your prep time inventing situations instead of scripting 
-scenes. If the players surprise you, take a break to think 
-through your options. 
-HOARDING FEAR
-Spend Fear when you have the opportunity. The players will 
-always generate more.
-For more in-depth GM guidance, see pg. 140 of the 
-Daggerheart Core Rulebook.
+## Fallstricke, die es zu vermeiden gilt
+
+### Die Helden untergraben
+Wenn ein Wurf nicht gut läuft, zeige, wie er durch die Geschicklichkeit eines Antagonisten, Umweltfaktoren oder unerwartete Überraschungen beeinflusst wurde, anstatt durch die Inkompetenz des SC.
+
+### Den Spielenden immer sagen, was sie würfeln sollen
+Lass die Spielenden entscheiden, wie sie mit einer Herausforderung umgehen.
+
+### Szenen sich hinziehen lassen
+Bringe Schwung hinein oder wechsle die Szene, wenn sie abgeschlossen ist, die Energie am Tisch nachlässt, oder Leute im Kreis reden.
+
+### Einzigartige Lösungen
+Versteifte dich nicht auf eine richtige Antwort für ein Problem.
+Wenn die Spielenden eine clevere Idee haben, lass sie zu.
+
+### Überplanung
+Verwende deine Vorbereitungszeit darauf, Situationen zu erfinden, anstatt Szenen zu skripten.
+Wenn die Spielenden dich überraschen, mache eine Pause, um deine Optionen zu durchdenken.
+
+### Angst horten
+Gib Angst aus, wenn du die Gelegenheit dazu hast.
+Die Spielenden werden immer mehr generieren.
+
+> Für ausführlichere SL-Anleitung siehe Seite 140 des Daggerheart Hauptregelwerks.
