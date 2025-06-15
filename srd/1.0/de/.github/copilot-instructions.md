@@ -52,3 +52,4 @@
     - "stat block" -> "Werteblock"
     - "multi-target" -> "Mehrziel"
     - "line of sight" -> "Sichtlinie"
+    - "GM" -> "SL"
