@@ -9,8 +9,8 @@ Die Spielenden wiederum spielen die Reaktionen ihrer SCs auf das von der SL prä
 Wenn das Ergebnis einer Spieleraktion vom Schicksal oder Glück abhängt, verlangt der SL einen Aktionswurf.
 
 Wenn eine spielende Person einen Aktionswurf macht, werden Dualitätswürfel verwendet - zwei gut unterscheidbare 12-seitige Würfel ("W12"), die Hoffnung und Angst repräsentieren.
-Die Dualitätswürfel werden geworfen, relevante Modifikatoren werden zu den Ergebnissen addiert, und die Summe wird mit einem vom SL festgelegten Schwierigkeitswert verglichen.
-Wenn die Summe den Schwierigkeitswert erreicht oder übersteigt, gelingt der spielenden Person die Aktion.
+Die Dualitätswürfel werden geworfen, relevante Modifikatoren werden zu den Ergebnissen addiert, und die Summe wird mit einem vom SL festgelegten Schwierigkeitsgrad verglichen.
+Wenn die Summe den Schwierigkeitsgrad erreicht oder übersteigt, gelingt der spielenden Person die Aktion.
 Ist sie niedriger, scheitert sie.
 
 Zusätzlich verändert sich die Situation basierend darauf, welcher Dualitätswürfel höher würfelt, entweder gibt er dem Spielenden hilfreiche Hoffnungsmarker oder erzeugt erschreckende Angstmarker für die SL.

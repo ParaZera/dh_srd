@@ -13,7 +13,7 @@
     - "duality dice" -> "Dualitätswürfel"
     - "fear" -> "Angst"
     - "hope" -> "Hoffnung"
-    - "difficulty" -> "Schwierigkeitswert"
+    - "difficulty" -> "Schwierigkeitsgrad"
     - "Ancestry" -> "Abstammung"
     - "Community" -> "Gemeinschaft"
     - "Feature" -> "Fähigkeit"
@@ -56,3 +56,4 @@
     - "spotlight" -> "Rampenlicht"
     - "loot" -> "Schätze"
     - "statblock" -> "Werteblock"
+    - "•" -> "-"

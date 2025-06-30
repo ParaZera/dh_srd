@@ -1,5 +1,5 @@
 # Vorteile und Nachteile gewähren
-Um eindringlich zu vermitteln, wie die Handlungen oder Umstände eines SCs ihre Handlungsfähigkeit beeinflussen, gewähre ihnen Vorteilswürfel (oder verhänge Nachteilswürfel), anstatt den Schwierigkeitswert eines Aktionswurfs anzupassen.
+Um eindringlich zu vermitteln, wie die Handlungen oder Umstände eines SCs ihre Handlungsfähigkeit beeinflussen, gewähre ihnen Vorteilswürfel (oder verhänge Nachteilswürfel), anstatt den Schwierigkeitsgrad eines Aktionswurfs anzupassen.
 
 ## Antagonisten-Aktionswürfe
 Standardmäßig machen Antagonisten normalerweise keine Aktionswürfe, außer Angriffswürfen und allen einzigartigen Aktionen, die in ihren Werteblöcken beschrieben sind.
@@ -7,7 +7,7 @@ Jede andere Aktion, die ein Antagonist versucht, gelingt einfach ohne Aktionswur
 
 Jedoch kannst du einem Antagonisten trotzdem einen **Aktionswurf** geben, für besonders dramatische oder schwierige Aufgaben, die die SCs nicht beeinflussen können.
 Für den Aktionswurf eines Antagonisten würfle einen W20.
-Wenn das Ergebnis gleich oder größer als der Schwierigkeitswert der Aktion ist, gelingt die Aktion — andernfalls scheitert sie.
+Wenn das Ergebnis gleich oder größer als der Schwierigkeitsgrad der Aktion ist, gelingt die Aktion — andernfalls scheitert sie.
 Du kannst eine Angst vor dem Würfeln ausgeben, um eine relevante Erfahrung aus dem Werteblock des Antagonisten zur Summe hinzuzufügen.
 Verwende das gleiche Verfahren, wenn ein Antagonist einen **Reaktionswurf** macht.
 

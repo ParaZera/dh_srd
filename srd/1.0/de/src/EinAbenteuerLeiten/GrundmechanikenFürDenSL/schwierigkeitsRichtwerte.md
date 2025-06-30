@@ -1,8 +1,8 @@
 # Schwierigkeits-Richtwerte
-Der Schwierigkeitswert eines Angriffswurfs gegen einen Antagonisten entspricht dem Schwierigkeitswert des Antagonisten.
-Der Schwierigkeitswert aller anderen Aktionswürfe gegen einen Antagonisten entspricht dem Schwierigkeitswert des Antagonisten plus (falls zutreffend) dem Wert eines der relevanten Erfahrungsmodifikatoren des Antagonisten.
+Der Schwierigkeitsgrad eines Angriffswurfs gegen einen Antagonisten entspricht dem Schwierigkeitsgrad des Antagonisten.
+Der Schwierigkeitsgrad aller anderen Aktionswürfe gegen einen Antagonisten entspricht dem Schwierigkeitsgrad des Antagonisten plus (falls zutreffend) dem Wert eines der relevanten Erfahrungsmodifikatoren des Antagonisten.
 
-Wenn eine spielende Person einen Aktionswurf ohne spezifizierten Schwierigkeitswert macht, legt die SL den Schwierigkeitswert entsprechend der Gesamtheit der Umstände fest.
+Wenn eine spielende Person einen Aktionswurf ohne spezifizierten Schwierigkeitsgrad macht, legt die SL den Schwierigkeitsgrad entsprechend der Gesamtheit der Umstände fest.
 Siehe die folgende Richtwert-Tabelle für weitere Anleitung:
 
 ## Agilität
