@@ -17,25 +17,25 @@ Der Typ des Antagonisten erscheint neben seinem Niveau.
 Der Typ eines Antagonisten repräsentiert die Rolle, die er in einem Konflikt spielt.
 Die Antagonisten-Typen sind:
 
-• **Schläger:** Zäh; haben mächtige Angriffe.
+- **Schläger:** Zäh; haben mächtige Angriffe.
 
-• **Horden:** Gruppen identischer Kreaturen, die zusammen als eine einzige Einheit handeln.
+- **Horden:** Gruppen identischer Kreaturen, die zusammen als eine einzige Einheit handeln.
 
-• **Anführer:** Befehligen und beschwören andere Antagonisten.
+- **Anführer:** Befehligen und beschwören andere Antagonisten.
 
-• **Lakaien:** Leicht zu besiegen, aber gefährlich in großer Anzahl.
+- **Lakaien:** Leicht zu besiegen, aber gefährlich in großer Anzahl.
 
-• **Fernkämpfer:** Zerbrechlich in Nahkämpfen, aber verursachen hohen Schaden auf Distanz.
+- **Fernkämpfer:** Zerbrechlich in Nahkämpfen, aber verursachen hohen Schaden auf Distanz.
 
-• **Schleicher:** Manövrieren und nutzen Gelegenheiten, um Gegner zu überfallen.
+- **Schleicher:** Manövrieren und nutzen Gelegenheiten, um Gegner zu überfallen.
 
-• **Soziale:** Stellen Herausforderungen im Gespräch statt im Kampf dar.
+- **Soziale:** Stellen Herausforderungen im Gespräch statt im Kampf dar.
 
-• **Solos:** Stellen eine gewaltige Herausforderung für eine ganze Gruppe dar, mit oder ohne Unterstützung.
+- **Solos:** Stellen eine gewaltige Herausforderung für eine ganze Gruppe dar, mit oder ohne Unterstützung.
 
-• **Standards:** Repräsentativ für ihre fiktionale Gruppe.
+- **Standards:** Repräsentativ für ihre fiktionale Gruppe.
 
-• **Unterstützer:** Verstärken ihre Verbündeten und stören ihre Gegner.
+- **Unterstützer:** Verstärken ihre Verbündeten und stören ihre Gegner.
 
 ### Beschreibung
 Eine Zusammenfassung des Aussehens und Verhaltens des Antagonisten.
@@ -78,11 +78,11 @@ Hinweis: Der Stress jedes Antagonisten wird einzeln verfolgt.
 Wenn eine Fähigkeit verlangt, dass die SL Stress ausgibt, um sie zu aktivieren, muss der Stress von dem Antagonisten kommen, dessen Fähigkeit aktiviert wird.
 Wenn eine Fähigkeit eine Angst-Anforderung hat, muss sie zusätzlich zu bereits ausgegebener Angst ausgegeben werden — zum Beispiel, um die SCs zu unterbrechen und das Rampenlicht auf den Antagonisten zu richten.
 
-• **Aktionen:** Ein spezieller Angriff oder eine andere einzigartige Aktion, die der Antagonist ausführen kann, wenn das Rampenlicht auf ihm liegt.
+- **Aktionen:** Ein spezieller Angriff oder eine andere einzigartige Aktion, die der Antagonist ausführen kann, wenn das Rampenlicht auf ihm liegt.
 
-• **Reaktionen:** Spezielle Effekte, die wirksam werden, wenn ihr Auslöser eintritt, unabhängig davon, ob das Rampenlicht auf dem Antagonisten liegt.
+- **Reaktionen:** Spezielle Effekte, die wirksam werden, wenn ihr Auslöser eintritt, unabhängig davon, ob das Rampenlicht auf dem Antagonisten liegt.
 
-• **Passive:** Spezielle Fähigkeiten, die standardmäßig wirksam bleiben und keine Ressourcen oder Auslöser zur Aktivierung benötigen.
+- **Passive:** Spezielle Fähigkeiten, die standardmäßig wirksam bleiben und keine Ressourcen oder Auslöser zur Aktivierung benötigen.
 
 ### Angst-Fähigkeit(en)
 Wirkungsvolle Effekte, die eine Angst zur Aktivierung kosten.

@@ -1,1 +1,140 @@
-# Antagonisten Nach Niveau
+# Antagonisten nach Niveau
+
+Dieser Abschnitt enthält die folgenden Werteblöcke:
+
+## Niveau 1 (Stufe 1)
+- Säure-Gräber
+- Bär
+- Höhlen-Oger
+- Konstrukt
+- Hofbeamte
+- Tiefwurzel-Verteidiger
+- Schreckens-Wolf
+- Riesen-Moskitos
+- Riesen-Ratte
+- Riesen-Skorpion
+- Glas-Schlange
+- Hetzer
+- Bogenschützen-Wache
+- Klingen-Wache
+- Haupt-Wache
+- Zackenklinge-Bandit
+- Zackenklinge-Hexer
+- Zackenklinge-Kniebrecher
+- Zackenklinge-Lakai
+- Zackenklinge-Leutnant
+- Zackenklinge-Schatten
+- Zackenklinge-Scharfschütze
+- Händler
+- Geringes Chaos-Elemental
+- Geringes Feuer-Elemental
+- Geringer Dämon
+- Geringer Treant
+- Grüner Schleim
+- Winziger Grüner Schleim
+- Roter Schleim
+- Winziger Roter Schleim
+- Geringer Adliger
+- Piraten-Kapitän
+- Piraten-Räuber
+- Piraten-Schläger
+- Söldner
+- Skelett-Bogenschütze
+- Skelett-Bagger
+- Skelett-Ritter
+- Skelett-Krieger
+- Zauberklinge
+- Ratten-Schwarm
+- Sylvanischer Soldat
+- Dorngestrüpp-Schwarm
+- Dorngestrüpp
+- Waffenmeister
+- Junge Dryade
+- Muskulöser Zombie
+- Flickwerk-Zombie-Koloss
+- Verfaulter Zombie
+- Taumelnder Zombie
+- Zombie-Rudel
+
+## Niveau 2 (Stufen 2–4)
+- Bogenschützen-Geschwader
+- Lehrlings-Attentäter
+- Attentäter-Giftmischer
+- Meister-Attentäter
+- Kampf-Kiste
+- Chaos-Schädel
+- Wehrpflichtiger
+- Kurtisane
+- Kult-Adept
+- Kult-Fang
+- Kult-Eingeweihter
+- Dämonische Hunde-Rudel
+- Elektrische Aale
+- Elite-Soldat
+- Fehlgeschlagenes Experiment
+- Riesen-Bestienmeister
+- Riesen-Schläger
+- Riesen-Rekrut
+- Riesen-Adler
+- Gorgone
+- Jugendlicher Flimmerfalter
+- Ritter des Reiches
+- Maskierter Dieb
+- Händler-Baron
+- Minotaurus-Zerstörer
+- Sterblicher Jäger
+- Königlicher Berater
+- Geheimniswahrer
+- Hai
+- Sirene
+- Spektraler Bogenschütze
+- Spektraler Kapitän
+- Spektraler Wächter
+- Spion
+- Steingeist
+- Kriegszauberer
+
+## Niveau 3 (Stufen 5–7)
+- Erwachsener Flimmerfalter
+- Dämon der Habgier
+- Dämon der Verzweiflung
+- Dämon der Hybris
+- Dämon der Eifersucht
+- Dämon des Zorns
+- Schreckens-Fledermaus
+- Dryade
+- Elementarer Funke
+- Größeres Erd-Elemental
+- Größeres Wasser-Elemental
+- Riesiger Grüner Schleim
+- Hydra
+- Monarch
+- Hirsch-Ritter
+- Eichen-Treant
+- Treant-Setzling
+- Haupt-Vampir
+- Vampir
+- Schließfach-Wächter Kerkermeister
+- Schließfach-Wächter Wache
+- Schließfach-Wächter Geschützturm
+- Junger Eis-Drache
+
+## Niveau 4 (Stufen 8–10)
+- Erz-Nekromant
+- Gefallene Stoßtruppe
+- Gefallener Zauberer
+- Gefallener Kriegsherr: Sphären-Brecher
+- Gefallener Kriegsherr: Unbesiegter Champion
+- Geheiligter Bogenschütze
+- Geheiligter Soldat
+- Hoher Seraph
+- Kraken
+- Orakel des Verderbens
+- Äußere Sphären-Abscheulichkeit
+- Äußere Sphären-Verderber
+- Äußere Sphären-Diener
+- Vulkan-Drache: Obsidian-Räuber
+- Vulkan-Drache: Geschmolzene Geißel
+- Vulkan-Drache: Aschen-Tyrann
+- Perfektionierter Zombie
+- Zombie-Legion

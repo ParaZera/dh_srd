@@ -27,14 +27,14 @@ Dynamische Countdowns schreiten entsprechend dieser Tabelle voran:
 
 ## Erweiterte Countdown-Funktionen
 
-• Countdowns mit **zufälligen Startwerten**
+- Countdowns mit **zufälligen Startwerten**
 
-• **Schleifen-Countdowns,** die sich auf ihren Startwert zurücksetzen, nachdem ihr Countdown-Effekt ausgelöst wurde
+- **Schleifen-Countdowns,** die sich auf ihren Startwert zurücksetzen, nachdem ihr Countdown-Effekt ausgelöst wurde
 
-• **Steigende Countdowns**, die ihren Startwert jedes Mal um 1 erhöhen, wenn sie eine Schleife durchlaufen
+- **Steigende Countdowns**, die ihren Startwert jedes Mal um 1 erhöhen, wenn sie eine Schleife durchlaufen
 
-• **Sinkende Countdowns**, die ihren Startwert jedes Mal um 1 verringern, wenn sie eine Schleife durchlaufen
+- **Sinkende Countdowns**, die ihren Startwert jedes Mal um 1 verringern, wenn sie eine Schleife durchlaufen
 
-• **Verknüpfte Fortschritts- und Konsequenz-Countdowns**, die gleichzeitig entsprechend denselben Aktionswurf-Ergebnissen voranschreiten
+- **Verknüpfte Fortschritts- und Konsequenz-Countdowns**, die gleichzeitig entsprechend denselben Aktionswurf-Ergebnissen voranschreiten
 
-• **Langfristige Countdowns**, die nach dem **Rasten** anstatt nach Aktionswürfen voranschreiten
+- **Langfristige Countdowns**, die nach dem **Rasten** anstatt nach Aktionswürfen voranschreiten

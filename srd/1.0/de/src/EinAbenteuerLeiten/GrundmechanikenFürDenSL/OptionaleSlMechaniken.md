@@ -18,11 +18,11 @@ Dann würfelt eine spielende Person einen ihrer Dualitätswürfel und interpreti
 ## Fall- und Kollisionsschaden
 Wenn ein Charakter zu Boden fällt, kannst du das Folgende als Richtlinie verwenden, um den Schaden zu bestimmen, den er erleidet:
 
-• Ein Fall aus Sehr Naher Reichweite verursacht 1W10+3 physischen Schaden.
+- Ein Fall aus Sehr Naher Reichweite verursacht 1W10+3 physischen Schaden.
 
-• Ein Fall aus Naher Reichweite verursacht 1W20+5 physischen Schaden.
+- Ein Fall aus Naher Reichweite verursacht 1W20+5 physischen Schaden.
 
-• Ein Fall aus Weiter oder Sehr Weiter Reichweite verursacht 1W100+15 physischen Schaden oder Tod nach Ermessen der SL.
+- Ein Fall aus Weiter oder Sehr Weiter Reichweite verursacht 1W100+15 physischen Schaden oder Tod nach Ermessen der SL.
 
 Wenn ein Charakter mit gefährlicher Geschwindigkeit mit einem Objekt oder einem anderen Charakter kollidiert, erleidet er 1W20+5 direkten physischen Schaden.
 
