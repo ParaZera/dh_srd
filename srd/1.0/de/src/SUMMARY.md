@@ -99,7 +99,7 @@
         - [Würfel würfeln](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/WürfelWürfeln.md)
         - [Züge machen](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/ZügeMachen.md)
         - [Angst nutzen](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/AngstNutzen.md)
-        - [schwierigkeitsbenchmark](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/schwierigkeitsbenchmark.md)
+        - [schwierigkeits-Richtwerte](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/schwierigkeitsRichtwerte.md)
         - [Vorteile und Nachteile nutzen](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/VorteileUndNachteileNutzen.md)
         - [Countdowns](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/Countdowns.md)
         - [Gold, Equipment und Beute](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/GoldEquipmentUndBeute.md)
