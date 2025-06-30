@@ -53,3 +53,4 @@
     - "multi-target" -> "Mehrziel"
     - "line of sight" -> "Sichtlinie"
     - "GM" -> "SL"
+    - "spotlight" -> "Rampenlicht"
