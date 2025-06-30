@@ -100,7 +100,7 @@
         - [Züge machen](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/ZügeMachen.md)
         - [Angst nutzen](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/AngstNutzen.md)
         - [schwierigkeits-Richtwerte](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/schwierigkeitsRichtwerte.md)
-        - [Vorteile und Nachteile nutzen](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/VorteileUndNachteileNutzen.md)
+        - [Vorteile und Nachteile gewähren](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/VorteileUndNachteileGewähren.md)
         - [Countdowns](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/Countdowns.md)
         - [Gold, Equipment und Beute](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/GoldEquipmentUndBeute.md)
         - [SL NSCs spielen](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/SlNscsSpielen.md)
