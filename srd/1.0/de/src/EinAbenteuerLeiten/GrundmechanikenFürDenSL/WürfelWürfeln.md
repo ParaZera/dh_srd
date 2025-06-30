@@ -16,10 +16,10 @@ Zum Beispiel verursacht ein Angriff, der `3W6+2` Schaden verursacht, bei einem k
 Nachdem eine spielende Person einen Zug beschrieben hat, könntest du entscheiden, dass ein Aktionswurf notwendig ist, um zu bestimmen, wie die Szene voranschreitet.
 Verwende diesen Leitfaden, um zu bestimmen, was du der spielenden Person beschreibst, und wähle die Option, die am besten zur Situation passt:
 
-• Bestimme, ob der Wurf notwendig ist, unter Berücksichtigung der Erfahrungen oder Hintergrundgeschichte des SCs, des Drucks, unter dem sie handeln, und der möglichen Ergebnisse.
+- Bestimme, ob der Wurf notwendig ist, unter Berücksichtigung der Erfahrungen oder Hintergrundgeschichte des SCs, des Drucks, unter dem sie handeln, und der möglichen Ergebnisse.
 
-• Lege die Einsätze eines Aktionswurfs fest, bevor die spielende Person ihn macht.
+- Lege die Einsätze eines Aktionswurfs fest, bevor die spielende Person ihn macht.
 
-• Kommuniziere alle unvermeidlichen Konsequenzen.
+- Kommuniziere alle unvermeidlichen Konsequenzen.
 
-• Wenn gewünscht, kannst du der spielenden Person die Möglichkeit anbieten, auf einen Aktionswurf zu verzichten, um im Gegenzug ein interessante Ereignis, Kosten oder einer Komplikation in Kauf zu nehmen.
+- Wenn gewünscht, kannst du der spielenden Person die Möglichkeit anbieten, auf einen Aktionswurf zu verzichten, um im Gegenzug ein interessante Ereignis, Kosten oder einer Komplikation in Kauf zu nehmen.

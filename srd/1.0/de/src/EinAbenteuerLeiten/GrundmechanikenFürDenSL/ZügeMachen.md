@@ -10,15 +10,15 @@ Die SL kann einen SL-Zug machen, wann immer sie will, aber die Häufigkeit und S
 
 Mache einen SL-Zug, wenn die Spielenden:
 
-• Mit Angst würfeln
+- Mit Angst würfeln
 
-• Einen Aktionswurf nicht schaffen
+- Einen Aktionswurf nicht schaffen
 
-• Etwas tun, das unvermeidliche Konsequenzen hat
+- Etwas tun, das unvermeidliche Konsequenzen hat
 
-• Dir eine "goldene Gelegenheit" geben (eine Möglichkeit, die eine sofortige Reaktion verlangt)
+- Dir eine "goldene Gelegenheit" geben (eine Möglichkeit, die eine sofortige Reaktion verlangt)
 
-• Dich ansehen, um zu erfahren, was als nächstes passiert
+- Dich ansehen, um zu erfahren, was als nächstes passiert
 
 ## SL-Züge wählen
 Das Ergebnis des Aktionswurfs einer spielenden Person bestimmt deine Reaktion:
@@ -29,33 +29,33 @@ Bei einem **Erfolg mit Hoffnung** lässt du die spielende Person ihren Erfolg be
 
 Bei einem **Erfolg mit Angst** arbeitest du mit der spielenden Person zusammen, um ihren Erfolg zu beschreiben, dann nimmst du eine Angst und machst einen SL-Zug, um eine geringfügige Konsequenz, Komplikation oder Kosten einzuführen:
 
-• Ein Antagonist greift an
+- Ein Antagonist greift an
 
-• Der SC markiert einen Stress
+- Der SC markiert einen Stress
 
-• Du führst eine neue Bedrohung ein
+- Du führst eine neue Bedrohung ein
 
-• Du erhöhst die Einsätze des Konflikts
+- Du erhöhst die Einsätze des Konflikts
 
 Bei einem **Fehlschlag mit Hoffnung** beschreibst du, wie der SC nicht bekommt, was er will, dann machst du einen SL-Zug, um eine geringfügige Konsequenz, Komplikation oder Kosten einzuführen:
 
-• Ein Antagonist greift an
+- Ein Antagonist greift an
 
-• Der SC markiert einen Stress
+- Der SC markiert einen Stress
 
-• Du führst eine neue Bedrohung ein
+- Du führst eine neue Bedrohung ein
 
-• Du erhöhst die Einsätze des Konflikts
+- Du erhöhst die Einsätze des Konflikts
 
 Bei einem **Fehlschlag mit Angst** beschreibst du, wie die Dinge schief gehen, dann machst du einen SL-Zug, um eine große Konsequenz, Komplikation oder Kosten einzuführen:
 
-• Du bringst sie in unmittelbare Gefahr
+- Du bringst sie in unmittelbare Gefahr
 
-• Sie werden zum Fokus mehrerer Antagonisten
+- Sie werden zum Fokus mehrerer Antagonisten
 
-• Sie werden von ihrer Gruppe getrennt
+- Sie werden von ihrer Gruppe getrennt
 
-• Sie verlieren eine wichtige Gelegenheit für immer
+- Sie verlieren eine wichtige Gelegenheit für immer
 
 ## Schnellreferenz: Aktionswürfe auflösen
 Wenn du dir unsicher bist, wie du einen Wurf auflösen sollst, denke an diese kurzen Phrasen:
@@ -70,13 +70,13 @@ Wenn du dir unsicher bist, wie du einen Wurf auflösen sollst, denke an diese ku
 
 Wenn der Zug, den du machen solltest, nicht offensichtlich aus der Fiktion hervorgeht, lass dich von der Liste "Beispiel-SL-Züge" inspirieren:
 
-• Führe ein neues Hindernis oder einen neuen Feind ein
+- Führe ein neues Hindernis oder einen neuen Feind ein
 
-• Frage die spielende Person, was passiert
+- Frage die spielende Person, was passiert
 
-• Lass den SC einen Stress markieren
+- Lass den SC einen Stress markieren
 
-• Sage den Spielenden "alles ist in Ordnung... vorerst"
+- Sage den Spielenden "alles ist in Ordnung... vorerst"
 
 ## Sanfte und harte Züge
 Sanfte Züge gehen leichter mit den Spielenden um — sie geben der Gruppe neue Informationen über die Szene und bieten ihnen eine Gelegenheit, darauf zu reagieren.
@@ -86,34 +86,34 @@ Verwende sanftere Züge bei Würfen mit Hoffnung und härtere Züge bei Würfen 
 
 > **Beispiel-SL-Züge**
 > 
-> • Zeige, wie die Welt reagiert
+> - Zeige, wie die Welt reagiert
 > 
-> • Stelle eine Frage und baue auf der Antwort auf
+> - Stelle eine Frage und baue auf der Antwort auf
 > 
-> • Lass einen NSC entsprechend seinem Motiv handeln
+> - Lass einen NSC entsprechend seinem Motiv handeln
 > 
-> • Treibe einen SC zum Handeln an, indem du ihm sein Ziel vor die Nase hälst
+> - Treibe einen SC zum Handeln an, indem du ihm sein Ziel vor die Nase hälst
 > 
-> • Signalisiere eine unmittelbar bevorstehende Off-Screen-Bedrohung
+> - Signalisiere eine unmittelbar bevorstehende Off-Screen-Bedrohung
 > 
-> • Enthülle eine unwillkommene Wahrheit oder unerwartete Gefahr
+> - Enthülle eine unwillkommene Wahrheit oder unerwartete Gefahr
 > 
-> • Zwinge die Gruppe, sich zu trennen
+> - Zwinge die Gruppe, sich zu trennen
 > 
-> • Lass einen SC Stress markieren
+> - Lass einen SC Stress markieren
 > 
-> • Mache einen Zug, den die Charaktere nicht sehen
+> - Mache einen Zug, den die Charaktere nicht sehen
 > 
-> • Zeige ihnen Kollateralschäden
+> - Zeige ihnen Kollateralschäden
 > 
-> • Entferne einem Zustand von einem Antagonisten
+> - Entferne einem Zustand von einem Antagonisten
 > 
-> • Verändere die Umgebung
+> - Verändere die Umgebung
 > 
-> • Stelle einen Antagonisten ins Rampenlicht
+> - Stelle einen Antagonisten ins Rampenlicht
 > 
-> • Nimm jemanden Gefangen oder stehle etwas Wichtiges
+> - Nimm jemanden Gefangen oder stehle etwas Wichtiges
 > 
-> • Verwende die Hintergrundgeschichte eines SCs gegen ihn
+> - Verwende die Hintergrundgeschichte eines SCs gegen ihn
 > 
-> • Entferne eine Handlungsmöglichkeit dauerhaft
+> - Entferne eine Handlungsmöglichkeit dauerhaft

@@ -6,13 +6,13 @@ Schätze als Sammelbegriff umfasst alle Verbrauchsgegenstände oder wiederverwen
 
 Um einen zufälligen Gegenstand zu generieren, wähle eine Seltenheit, würfle die angegebenen Würfel und ordne die Gesamtsumme dem Gegenstand in der Tabelle zu:
 
-• **Gewöhnlich:** 1W12 oder 2W12
+- **Gewöhnlich:** 1W12 oder 2W12
 
-• **Ungewöhnlich:** 2W12 oder 3W12
+- **Ungewöhnlich:** 2W12 oder 3W12
 
-• **Selten:** 3W12 oder 4W12
+- **Selten:** 3W12 oder 4W12
 
-• **Legendär:** 4W12 oder 5W12
+- **Legendär:** 4W12 oder 5W12
 
 | Wurf | Schatz | Beschreibung |
 |------|--------|--------------|
