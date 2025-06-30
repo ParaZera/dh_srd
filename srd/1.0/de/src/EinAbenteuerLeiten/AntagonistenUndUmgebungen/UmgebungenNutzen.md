@@ -37,5 +37,5 @@ Vorgeschlagene Antagonisten, die in Szenen innerhalb der Umgebung auftreten kön
 ### Fähigkeiten
 Fähigkeiten bieten Inspiration für SL-Züge, die du verwenden kannst und die die dynamische Landschaft oder Situation repräsentieren.
 
-### Fähigkeiten-Fragen
+### Fähigkeits-Fragen
 Anregungen für Handlungsaufhänger, Erzählmaschinen und Verbindungen zu anderen Geschichtselementen.
