@@ -1,1 +1,0 @@
-# Grundmechaniken für den SL

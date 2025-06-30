@@ -1,14 +1,15 @@
 # Einleitung
-Der GM ist dafür verantwortlich, die Erzählung zu leiten und die Welt zu verkörpern, in der die SCs leben. Dieser Abschnitt bietet dir Ratschläge für das Leiten von Daggerheart: 
+Die SL ist dafür verantwortlich, die Erzählung zu leiten und die Welt zu verkörpern, in der die SCs leben.
+Dieser Abschnitt bietet dir unter Anderem Ratschläge für das Leiten von Daggerheart:
 
-- die Verwendung der Grundmechaniken
+- die Verwendung der Hauptmechaniken
 
-- das Erschaffen unvergesslicher Begegnungen
+- die Erschaffung denkwürdiger Begegnungen
 
-- die Planung aufregender Sitzungen
+- die Planung spannender Spielrunden
 
-- die Auswahl, Erstellung und Verwendung von GM-Zügen
+- die Auswahl, Erschaffung und Verwendung von SL-Aktionen
 
-- das Gestalten einer vollständigen Kampagne
+- die Gestaltung einer vollständigen Kampagne
 
-- das Führen dynamischer NSCs; und mehr
+- das Spielen dynamischer NSCs

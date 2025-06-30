@@ -4,7 +4,7 @@ Der Kampf-Rollstuhl ist ein Regelwerk, das entwickelt wurde, um dir zu helfen, e
 Dieser Abschnitt bietet Mechaniken und narrative Anleitung, von der du ausgehen kannst, aber zögere nicht, die Beschreibung anzupassen, um am besten zu deinem Charakter zu passen.
 Hab Spaß mit dem Design des Rollstuhls deines Charakters und mache ihn so einzigartig oder maßgeschneidert wie du möchtest.
 
-## Aktion Und Bewegung
+## Aktion und Bewegung
 Wenn du beschreibst, wie sich dein Charakter bewegt, kannst du Beschreibungen wie die folgenden verwenden:
 
 - "Ich rolle zur Tür hinüber, um zu sehen, ob sie offen ist."
@@ -15,11 +15,14 @@ Wenn du beschreibst, wie sich dein Charakter bewegt, kannst du Beschreibungen wi
 
 ## Konsequenzen
 Hier sind einige Wege, wie du Komplikationen beschreiben könntest, denen dein Charakter begegnet, wenn er seinen Rollstuhl benutzt:
+
 "Ich ziehe meine Bremsen, aber ich denke nicht daran, den losen Kies auf dem Boden zu berücksichtigen."
+
 "Ich treffe ungeschickt eine Eisstelle und werde über mein Ziel hinaus weggeschleudert."
+
 "Ich will mich zur Verfolgung abstoßen, aber eines meiner vorderen Lenkräder bleibt in einem Riss im Pflaster hängen und bremst mich für einen Moment aus."
 
-SLs sollten es vermeiden, den Rollstuhl eines Charakters zu zerbrechen oder ihn anderweitig aus dem Spiel zu entfernen als Konsequenz, es sei denn, alle am Tisch, besonders die spielende Person des Rollstuhlbenutzenden, geben ihre Zustimmung.
+SLs sollten es vermeiden, den Rollstuhl eines Charakters zu zerbrechen oder ihn anderweitig aus dem Spiel zu entfernen als Konsequenz, es sei denn, alle am Tisch, besonders die spielende Person des rollstuhlfahrenden Charakters, geben ihre Zustimmung.
 
 ## Ausweichen
 Es wird angenommen, dass dein Charakter geschickt darin ist, seinen Rollstuhl zu bewegen und in ihm zahlreiche Situationen zu meistern.
@@ -32,7 +35,7 @@ Falls du einen Charakter spielst, der eingeschränkte oder keine Beweglichkeit i
 Zum Beispiel könnte dein Charakter eine psychische Verbindung verwenden, um den Stuhl wie einen Pseudo-Elektro-Rollstuhl zu führen.
 Alle hier vorgestellten Regeln können an die Bedürfnisse jedes Charakters angepasst werden.
 
-## Dein Modell Wählen
+## Dein Modell wählen
 Alle Kampf-Rollstühle sind als Primärwaffen ausgerüstet.
 Es gibt drei Modelle von Rollstühlen: leicht, schwer und arkan.
 Du bist ermutigt, die Art von Charakter zu berücksichtigen, den du spielst, und die Klasse, zu der er gehört, dann das Modell zu wählen, das am besten zu diesem Charakterkonzept passt.
