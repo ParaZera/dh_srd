@@ -16,208 +16,57 @@ Siehe die folgende Richtwert-Tabelle für weitere Anleitung:
 | **25** | Sprinten in Weiter Reichweite durch eine erbitterte Schlacht in unwegsamen Gelände. | Einen Laufsprung von der fünffachen Körpergröße machen (etwa 10 Meter für einen Menschen). | Über einen sehr schmalen Balken bei aktivem Sturm und Regen rennen. |
 | **30** | Über die Köpfe deiner Feinde in einer erbitterten Schlacht sprinten. | Einen Laufsprung von der zehnfachen Körpergröße machen (etwa 20 Meter für einen Menschen). | Über einen 2,5 cm breiten, ölverschmierten Balken bei aktivem Sturm und Regen rennen. |
 
-STRENGTH
-roll
-lift
-smash
-grapple
-5
-Lift a chair.
-Destroy a glass cup.
-Subdue a child.
-10
-Lift a table or small chest.
-Destroy a small wooden table.
-Subdue a weak adult.
-15
-Lift a grown person or large chest.
-Break through a wooden door.
-Subdue an average adult.
-20
-Lift the side of a laden cart or carry a 
-large chest up stairs.
-Break through a stone wall.
-Subdue a skilled wrestler.
-25
-Lift a horse, an ox, or a large monster.
-Break through a dragon’s teeth.
-Subdue a large beast.
-30
-Lift a falling portcullis gate.
-Break a god’s grip.
-Subdue a legendary beast.
+## Stärke
 
-FINESSE
-roll
-control
-hide
-tinker
-5
-Ride a horse through easy terrain.
-Evade notice under full cover on a 
-moonless night.
-Open a sticky lock with the 
-appropriate key.
-10
-Drive an ox-pulled cart.
-Evade notice in limited cover on a 
-moonless night.
-Open a simple puzzle box.
-15
-Ride a horse through rough terrain.
-Evade notice in limited cover on an 
-average night.
-Disable a standard trap.
-20
-Drive a cart through rough terrain.
-Evade notice in the shadows on an 
-average night.
-Disable a complicated trap.
-25
-Ride a wild horse through dangerous 
-terrain.
-Evade notice with minimal cover in 
-ample light.
-Open a door secured by a sequence 
-of elaborate locks.
-30
-Ride an enraged beast through 
-dangerous terrain.
-Evade notice with no cover in full 
-daylight.
-Disable an incredibly sensitive and 
-deadly trap.
+| SW | Heben | Zerschlagen | Ringen |
+|----|-------|-------------|--------|
+| **5** | Einen Stuhl heben. | Eine Glastasse zerstören. | Ein Kind bezwingen. |
+| **10** | Einen Tisch oder eine kleine Truhe heben. | Einen kleinen Holztisch zerstören. | Eine schwächliche erwachsene Person bezwingen. |
+| **15** | Eine erwachsene Person oder eine große Truhe heben. | Durch eine Holztür brechen. | Eine durchschnittliche erwachsene Person bezwingen. |
+| **20** | Die Seite eines beladenen Wagens heben oder eine große Truhe eine Treppe hochtragen. | Durch eine Steinmauer brechen. | Eine geübte Ringkämpferin bezwingen. |
+| **25** | Ein Pferd, einen Ochsen oder ein großes Monster heben. | Durch die Zähne eines Drachens brechen. | Ein großes Tier bezwingen. |
+| **30** | Ein fallendes Fallgitter heben. | Den Griff eines Gottes brechen. | Ein legendäres Tier bezwingen. |
 
-INSTINCT
-roll
-perceive
-sense
-navigate
-5
-Hear a loud noise twenty paces away.
-Detect an obvious ambush or notice an 
-obvious deception.
-Follow a well-trod path in good 
-lighting and weather.
-10
-Hear a speaking voice fifty paces 
-away.
-Detect a looming threat or notice an 
-average person’s lies.
-Follow an average path in good 
-lighting and weather.
-15
-Hear someone walking in the woods 
-fifty paces away.
-Detect hostile intent from a foe or see 
-through a merchant’s lies.
-Follow a subtle path through rough 
-conditions.
-20
-Hear someone sneaking through the 
-woods fifty paces away.
-Detect a politician’s veiled hostility or 
-detect a nearby assassin.
-Follow a subtle path through harsh 
-conditions.
-25
-Hear a prowling animal fifty paces 
-away.
-Identify a spymaster’s plot or read a 
-politican’s true intentions.
-Find your way with no path through 
-dangerous conditions.
-30
-Hear a diving bird a hundred paces 
-away.
-Sense a shred of doubt within a god’s 
-pronouncement.
-Find your way through a trickery 
-god’s maze.
+## Finesse
 
-PRESENCE
-roll
-charm
-perform
-deceive
-5
-Win the trust of a friendly neighbor.
-Earn a meal from a friendly crowd.
-Trick a trusting acquaintance.
-10
-Win the trust of a friendly stranger.
-Earn room and board in a small town or 
-impress a small crowd.
-Trick an average stranger.
-15
-Win the trust of a cautious stranger or 
-talk your way into a noble’s party.
-Earn room and board in a low-end 
-tavern or impress a large crowd.
-Trick an average merchant.
-20
-Win the trust of a sympathetic foe or 
-talk your way into an enemy’s party.
-Earn lodging in a high-end tavern or 
-impress a full theater.
-Trick a trained courtier.
-25
-Turn an enemy against their ruler or 
-talk your way into a fae court.
-Earn your keep in a royal court or 
-impress a full colosseum.
-Trick a spymaster.
-30
-Talk a hostile god into granting you a 
-boon.
-Save yourself from execution after 
-offending the queen. 
-Trick a god.
+| SW | Kontrolle | Verstecken | Basteln |
+|----|-----------|------------|---------|
+| **5** | Ein Pferd durch einfaches Gelände reiten. | Bei voller Deckung in einer mondlosen Nacht unbemerkt bleiben. | Ein klebriges Schloss mit dem passenden Schlüssel öffnen. |
+| **10** | Einen ochsengezogenen Wagen fahren. | Bei begrenzter Deckung in einer mondlosen Nacht unbemerkt bleiben. | Eine einfache Rätselbox öffnen. |
+| **15** | Ein Pferd durch unwegsames Gelände reiten. | Bei begrenzter Deckung in einer durchschnittlichen Nacht unbemerkt bleiben. | Eine Standardfalle entschärfen. |
+| **20** | Einen Wagen durch unwegsames Gelände fahren. | In den Schatten einer durchschnittlichen Nacht unbemerkt bleiben. | Eine komplizierte Falle entschärfen. |
+| **25** | Ein wildes Pferd durch gefährliches Gelände reiten. | Bei minimaler Deckung bei reichlich Licht unbemerkt bleiben. | Eine Tür öffnen, die durch eine Abfolge ausgeklügelter Schlösser gesichert ist. |
+| **30** | Ein wütendes Tier durch gefährliches Gelände reiten. | Ohne Deckung bei hellem Tageslicht unbemerkt bleiben. | Eine unglaublich empfindliche und tödliche Falle entschärfen. |
 
-KNOWLEDGE
-roll
-recall
-analyze
-comprehend
-5
-Recall uncommon facts about your 
-community.
-Unpack an obvious metaphor in a simple 
-text.
-Learn simple skills from an excellent 
-teacher.
-10
-Recall uncommon facts about a 
-neighboring community.
-Identify obvious subtext in a 
-conversation.
-Learn simple skills from an average 
-teacher.
-15
-Recall uncommon facts about a 
-distant community.
-Break an average cipher in a coded 
-message.
-Learn complicated skills from an 
-excellent teacher.
-20
-Recall specialized facts about a 
-distant community.
-Identify a weakness in a complicated 
-battle plan.
-Learn complicated skills under poor 
-conditions.
-25
-Recall specialized facts about a fallen 
-kingdom.
-Predict the downfall of a nation based 
-on concealed misdeeds.
-Learn complicated skills quickly 
-under dangerous conditions.
-30
-Recall secret information about an 
-obscure historical group.
-Identify the weakness in a divine 
-champion’s fighting form.
-Learn complicated skills quickly 
-from incomplete information.
+## Instinkt
+
+| SW | Wahrnehmen | Erspüren | Navigieren |
+|----|------------|----------|------------|
+| **5** | Ein lautes Geräusch in 20 Schritt Entfernung hören. | Einen offensichtlichen Hinterhalt entdecken oder eine offensichtliche Täuschung bemerken. | Einem gut ausgetretenen Pfad bei guter Beleuchtung und gutem Wetter folgen. |
+| **10** | Eine sprechende Stimme in 50 Schritt Entfernung hören. | Eine drohende Bedrohung entdecken oder die Lügen einer durchschnittlichen Person bemerken. | Einem durchschnittlichen Pfad bei guter Beleuchtung und gutem Wetter folgen. |
+| **15** | Jemanden in 50 Schritt Entfernung durch den Wald gehen hören. | Feindliche Absichten eines Feindes entdecken oder die Lügen einer Händlerin durchschauen. | Einem subtilen Pfad durch schwierige Bedingungen folgen. |
+| **20** | Jemanden in 50 Schritt Entfernung durch den Wald schleichen hören. | Die verhüllte Feindseligkeit einer Politikerin entdecken oder eine nahegelegene Meuchelmörderin entdecken. | Einem subtilen Pfad durch harte Bedingungen folgen. |
+| **25** | Ein lauerndes Tier in 50 Schritt Entfernung hören. | Die Intrige einer Spionagemeisterin identifizieren oder die wahren Absichten einer Politikerin lesen. | Den Weg ohne Pfad durch gefährliche Bedingungen finden. |
+| **30** | Einen sturzfliegenden Vogel in 100 Schritt Entfernung hören. | Einen Hauch von Zweifel in der Verkündigung eines Gottes erspüren. | Den Weg durch das Labyrinth eines Trickster-Gottes finden. |
+
+## Präsenz
+
+| SW | Charme | Auftreten | Täuschen |
+|----|--------|-----------|----------|
+| **5** | Das Vertrauen einer freundlichen Nachbarin gewinnen. | Eine Mahlzeit von einer freundlichen Menge verdienen. | Eine vertrauensvolle Bekannte austricksen. |
+| **10** | Das Vertrauen einer freundlichen Fremden gewinnen. | Verpflegung und Unterkunft in einer kleinen Stadt verdienen oder eine kleine Menge beeindrucken. | Eine durchschnittliche Fremde austricksen. |
+| **15** | Das Vertrauen einer vorsichtigen Fremden gewinnen oder sich in die Feier einer Adeligen hineinreden. | Verpflegung und Unterkunfst in einer einfachen Taverne verdienen oder eine große Menge beeindrucken. | Eine durchschnittliche Händlerin austricksen. |
+| **20** | Das Vertrauen einer sympathischen Feindin gewinnen oder sich in die Feier einer Feindin hineinreden. | Ein Zimmer in einer hochwertigen Taverne verdienen oder ein volles Theater beeindrucken. | Eine ausgebildete Hofbeamtin austricksen. |
+| **25** | Eine Feindin gegen ihre Herrscherin wenden oder sich in den Hof einer Fae hineinreden. | Seinen Lebensunterhalt an einem königlichen Hof verdienen oder ein volles Kolosseum beeindrucken. | Eine Spionagemeisterin austricksen. |
+| **30** | Einen feindseligen Gott dazu bringen, dir einen Gefallen zu gewähren. | Dich vor der Hinrichtung retten, nachdem du die Königin beleidigt hast. | Einen Gott austricksen. |
+
+## Wissen
+
+| SW | Erinnern | Analysieren | Verstehen |
+|----|----------|-------------|-----------|
+| **5** | Dich an ungewöhnliche Fakten über deine Gemeinschaft erinnern. | Eine offensichtliche Metapher in einem einfachen Text entschlüsseln. | Einfache Fähigkeiten von einer exzellenten Lehrerin lernen. |
+| **10** | Dich an ungewöhnliche Fakten über eine benachbarte Gemeinschaft erinnern. | Offensichtlichen Subtext in einem Gespräch identifizieren. | Einfache Fähigkeiten von einer durchschnittlichen Lehrerin lernen. |
+| **15** | Dich an ungewöhnliche Fakten über eine entfernte Gemeinschaft erinnern. | Eine durchschnittliche Chiffre in einer codierten Nachricht knacken. | Komplizierte Fähigkeiten von einer exzellenten Lehrerin lernen. |
+| **20** | Spezialisierte Fakten über eine entfernte Gemeinschaft erinnern. | Eine Schwäche in einem komplizierten Schlachtplan identifizieren. | Komplizierte Fähigkeiten unter schlechten Bedingungen lernen. |
+| **25** | Spezialisierte Fakten über ein gefallenes Königreich erinnern. | Den Untergang einer Nation basierend auf verborgenen Missetaten vorhersagen. | Komplizierte Fähigkeiten schnell unter gefährlichen Bedingungen lernen. |
+| **30** | Geheime Informationen über eine obskure historische Gruppe erinnern. | Die Schwäche in der Kampfform einer göttlichen Heldin identifizieren. | Komplizierte Fähigkeiten schnell aus unvollständigen Informationen lernen. |
