@@ -76,7 +76,7 @@ Die SL kann eine Angst-Marke ausgeben, um die relevante Erfahrung eines Antagoni
 Es gibt drei Arten von Antagonisten-Fähigkeiten: Aktionen, Reaktionen und Passive.
 Hinweis: Der Stress jedes Antagonisten wird einzeln verfolgt.
 Wenn eine Fähigkeit verlangt, dass die SL Stress ausgibt, um sie zu aktivieren, muss der Stress von dem Antagonisten kommen, dessen Fähigkeit aktiviert wird.
-Wenn eine Fähigkeit eine Angst-Anforderung hat, muss sie zusätzlich zu bereits ausgegebener Angst ausgegeben werden—zum Beispiel, um die SCs zu unterbrechen und das Rampenlicht auf den Antagonisten zu richten.
+Wenn eine Fähigkeit eine Angst-Anforderung hat, muss sie zusätzlich zu bereits ausgegebener Angst ausgegeben werden — zum Beispiel, um die SCs zu unterbrechen und das Rampenlicht auf den Antagonisten zu richten.
 
 • **Aktionen:** Ein spezieller Angriff oder eine andere einzigartige Aktion, die der Antagonist ausführen kann, wenn das Rampenlicht auf ihm liegt.
 
@@ -91,43 +91,43 @@ Wirkungsvolle Effekte, die eine Angst zur Aktivierung kosten.
 
 ### Aktionen
 
-**Schwinger** - Aktion: Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
+**Schwinger - Aktion**: Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
 Bei einem Erfolg verursache X direkten physischen Schaden.
 
-**Zerfetzender Schlag** - Aktion: Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
+**Zerfetzender Schlag - Aktion**: Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
 Bei einem Erfolg verursache X physischen Schaden und das Ziel muss ein Rüstungsfeld markieren, ohne dessen Vorteil zu erhalten (es kann trotzdem Rüstung verwenden, um den Schaden zu reduzieren).
 
-**Mehr, wo das herkam** - Aktion: Beschwöre drei Gezackte Messer-Lakaien, die in Weiter Reichweite erscheinen.
+**Mehr, wo das herkam - Aktion**: Beschwöre drei *Zackenmesser-Lakaien*, die in Weiter Reichweite erscheinen.
 
 ### Reaktionen
 
-**Schwerer Schläger** - Reaktion: Wenn dieser Antagonist mit einem Standardangriff Schaden verursacht, kannst du eine Angst ausgeben, um einen +X Bonus auf den Schadenswurf zu erhalten.
+**Schwerer Schläger - Reaktion**: Wenn dieser Antagonist mit einem Standardangriff Schaden verursacht, kannst du eine Angst ausgeben, um einen +X Bonus auf den Schadenswurf zu erhalten.
 
-**Zusammenarbeit** - Reaktion: Wenn ein anderer Antagonist in Sehr Naher Reichweite zu diesem Antagonisten X Schaden an einer Kreatur verursacht, kannst du einen Stress markieren, um einen Standardangriff gegen dieselbe Kreatur zu machen.
+**Zusammenarbeit - Reaktion**: Wenn ein anderer Antagonist in Sehr Naher Reichweite zu diesem Antagonisten X Schaden an einer Kreatur verursacht, kannst du einen Stress markieren, um einen Standardangriff gegen dieselbe Kreatur zu machen.
 Bei einem Erfolg kombiniere den Schaden.
 
-**Schwung** - Reaktion: Wenn dieser Antagonist einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion**: Wenn dieser Antagonist einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
 ### Passive
 
-**Horde (X)** - Passiv: Wenn die Horde die Hälfte oder mehr ihrer TP markiert hat, verursacht ihr Standardangriff stattdessen X Schaden.
+**Horde (X) - Passiv**: Wenn die Horde die Hälfte oder mehr ihrer TP markiert hat, verursacht ihr Standardangriff stattdessen X Schaden.
 
-**Lakai (X)** - Passiv: Dieser Antagonist wird besiegt, wenn er irgendeinen Schaden erleidet.
+**Lakai (X) - Passiv**: Dieser Antagonist wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle X Schaden, die ein SC diesem Antagonisten zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Unerbittlich (X)** - Passiv: Dieser Antagonist kann bis zu X Mal pro SL-Zug ins Rampenlicht gestellt werden.
+**Unerbittlich (X) - Passiv**: Dieser Antagonist kann bis zu X Mal pro SL-Zug ins Rampenlicht gestellt werden.
 Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
-**Langsam** - Passiv: Wenn du diesen Antagonisten ins Rampenlicht stellst und er keinen Marker auf seinem Werteblock hat, kann er noch nicht handeln.
+**Langsam - Passiv**: Wenn du diesen Antagonisten ins Rampenlicht stellst und er keinen Marker auf seinem Werteblock hat, kann er noch nicht handeln.
 Platziere einen Marker auf seinem Werteblock und beschreibe, was er vorzubereiten scheint.
 Wenn du diesen Antagonisten ins Rampenlicht stellst und er einen Marker auf seinem Werteblock hat, entferne den Marker und er kann handeln.
 
-**Arkane Form** - Passiv: Dieser Antagonist ist resistent gegen magischen Schaden.
+**Arkane Form - Passiv**: Dieser Antagonist ist resistent gegen magischen Schaden.
 
-**Gepanzerter Panzer** - Passiv: Wenn dieser Antagonist physischen Schaden erleidet, reduziere ihn um X.
+**Gepanzertert - Passiv**: Wenn dieser Antagonist physischen Schaden erleidet, reduziere ihn um X.
 
 ### Angst-Fähigkeiten
 
-**Explosion** - Aktion: Gib eine Angst aus, um in einer feurigen Explosion zu zerbersten.
+**Explosion - Aktion**: Gib eine Angst aus, um in einer feurigen Explosion zu zerbersten.
 Mache einen Angriff gegen alle Ziele in Naher Reichweite.
-Ziele, gegen die der Antagonist erfolgreich ist, erleiden 1W8 magischen Schaden und werden auf Weite Reichweite zurückgeschleudert.
+Ziele, gegen die der Antagonist erfolgreich ist, erleiden X magischen Schaden und werden auf Weite Reichweite zurückgeschleudert.
