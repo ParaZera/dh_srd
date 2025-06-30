@@ -102,7 +102,7 @@
         - [schwierigkeits-Richtwerte](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/schwierigkeitsRichtwerte.md)
         - [Vorteile und Nachteile gewähren](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/VorteileUndNachteileGewähren.md)
         - [Countdowns](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/Countdowns.md)
-        - [Gold, Equipment und Beute](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/GoldEquipmentUndBeute.md)
+        - [Gold, Equipment und Schätze](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/GoldEquipmentUndSchätze.md)
         - [SL NSCs spielen](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/SlNscsSpielen.md)
         - [Optionale SL-Mechaniken](./EinAbenteuerLeiten/GrundmechanikenFürDenSL/OptionaleSlMechaniken.md)
     - [Antagonisten und Umgebungen](./EinAbenteuerLeiten/AntagonistenUndUmgebungen.md)

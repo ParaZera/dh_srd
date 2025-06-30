@@ -1,1 +1,0 @@
-# Gold, Equipment und Beute

@@ -54,3 +54,4 @@
     - "line of sight" -> "Sichtlinie"
     - "GM" -> "SL"
     - "spotlight" -> "Rampenlicht"
+    - "loot" -> "Schätze"
