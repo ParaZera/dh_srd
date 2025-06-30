@@ -1,31 +1,15 @@
 # Umgebungen anpassen
-ADAPTING ENVIRONMENTS
-Sometimes you want to use an environment but it’s at the 
-wrong tier for your party. Or you might want to replace 
-a feature or two, then present it as an entirely different 
-environment. Whether planning your session or even 
-improvising an environment mid-session, you can adjust an 
-existing environment’s stat block to fit the needs of your 
-scene or improvise elements as needed. The environments 
-framework is there to help organize ideas, not to stifle 
-creativity.
-When you need to quickly adjust a stat block to a different 
-tier, you can simply replace its existing statistics with those 
-listed on the Environment Statistics by Tier table, using the 
-column that corresponds to your party’s tier.
-BENCHMARK STATISTICS FOR ENVIRONMENTS BY TIER
-Environment Statistic
-Tier 1
-Tier 2
-Tier 3
-Tier 4
-Damage Dice
-1d6+1 to 1d8+3
-2d6+3 to 2d10+2
-3d8+3 to 3d10+1
-4d8+3 to 4d10+10
-Difficulty
-11
-14
-17
-20
+
+Manchmal möchtest du eine Umgebung verwenden, aber sie ist auf dem falschen Niveau für deine Gruppe.
+Oder du möchtest ein oder zwei Fähigkeiten ersetzen und sie dann als völlig andere Umgebung präsentieren.
+Ob du deine Spielrunde planst oder sogar mitten in der Spielrunde eine Umgebung improvisierst, du kannst den Werteblock einer bestehenden Umgebung anpassen, um den Bedürfnissen deiner Szene zu entsprechen, oder Elemente nach Bedarf improvisieren.
+Das Umgebungs-Framework ist da, um Ideen zu organisieren, nicht um Kreativität zu ersticken.
+
+Wenn du schnell einen Werteblock an ein anderes Niveau anpassen musst, kannst du einfach seine bestehenden Statistiken durch die in der Tabelle "Umgebungsstatistiken nach Niveau" aufgelisteten ersetzen, wobei du die Spalte verwendest, die dem Niveau deiner Gruppe entspricht.
+
+## Richtwerte für Umgebungsstatistiken nach Niveau
+
+| Umgebungsstatistik | Niveau 1 | Niveau 2 | Niveau 3 | Niveau 4 |
+|-------------------|----------|----------|----------|----------|
+| **Schadenswürfel** | 1W6+1 bis 1W8+3 | 2W6+3 bis 2W10+2 | 3W8+3 bis 3W10+1 | 4W8+3 bis 4W10+10 |
+| **Schwierigkeitsgrad** | 11 | 14 | 17 | 20 |
