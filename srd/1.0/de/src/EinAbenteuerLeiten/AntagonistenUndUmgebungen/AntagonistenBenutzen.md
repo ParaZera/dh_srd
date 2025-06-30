@@ -1,143 +1,133 @@
 # Antagonisten benutzen
-USING ADVERSARIES
-ADVERSARY STAT BLOCKS
-All the information required to run an adversary is contained 
-in their stat block. An adversary’s stat block includes their: 
-NAME
-Each stat block has a unique name. Abilities that affect 
-adversaries with a certain name include all adversaries who 
-use that stat block, regardless of their in-story name.
-TIER
-Each adversary is designed to oppose PCs of a certain tier. If 
-you confront the party with an adversary from another tier, 
-adjust their stats.
-TYPE
-The adversary’s type appears alongside their tier. An 
-adversary’s type represents the role they play in a conflict. 
-The adversary types are:
-• Bruisers: tough; deliver powerful attacks.
-• Hordes: groups of identical creatures acting together as a 
-single unit.
-• Leaders: command and summon other adversaries.
-• Minions: easily dispatched but dangerous in numbers.
-• Ranged: fragile in close encounters but deal high damage 
-at range.
-• Skulks: maneuver and exploit opportunities to ambush 
-opponents.
-• Socials: present challenges around conversation instead 
-of combat.
-• Solos: present a formidable challenge to a whole party, 
-with or without support.
-• Standards: representative of their fictional group.
-• Supports: enhance their allies and disrupt their 
-opponents.
-DESCRIPTION
-A summary of the adversary's appearance and demeanor.
-MOTIVES & TACTICS
-Suggusted impulses, actions and goals for the adversary.
-DIFFICULTY
-The Difficulty of any roll made against the adversary, unless 
-otherwise noted.
-DAMAGE THRESHOLDS, HIT POINTS,  
-AND STRESS
-These systems function the same way they do for PCs. The 
-numbers listed after “Threshold” are the adversary’s Major 
-and Severe Thresholds.
-ATTACK MODIFIER
-When you attack with the adversary, apply this bonus or 
-penalty to your attack roll.
-STANDARD ATTACK
-A description of the adversary’s primary mode of inflicting 
-harm on the PCs. It includes the attack’s name, its effective 
-range, and the damage it deals on a success. Using an 
-adversary’s standard attack is a GM move.
-EXPERIENCE (OPTIONAL)
-The GM can spend a Fear to add an adversary’s relevant 
-Experience to raise their attack roll or increase the Difficulty of 
-a roll made against them.
-EXAMPLE EXPERIENCES:
-Acrobatics
-Hunt from Above
-Navigation
-Ambusher
-Intimidation
-Nobility
-Bartering
-Intrusion
-Quick Reflexes
-Blademaster
-Keen Senses
-Socialite
-Bodyguard
-Magical 
-Knowledge
-Stealth
-Commander
-Nature’s Friend
-Tracker
-FEATURE(S)
-There are three kinds of adversary features: actions, 
-reactions, and passives. Note: each adversaries stress 
-is tracked individually. If a feature requires the GM to 
-spend Stress to activate it, the Stress must come from the 
-adversary whose feature is being activate. If a feature has a 
-Fear requirement, it must be spent in addition to any Fear 
-already spent—for instance, to interrupt the PCs and put the 
-spotlight on the adversary.
-• Actions: a special attack or other unique action that the 
-adversary can perform when the spotlight is on them.
-• Reactions: special effects that take effect when their 
-trigger occurs, regardless of whether the spotlight is on 
-the adversary.
-• Passives: special abilities that remain in effect by default 
-and require no resources or triggers to activate.
-FEAR FEATURE(S)
-High-impact effects that cost a Fear to activate.
-EXAMPLE ADVERSARY FEATURES:
-ACTIONS
-Haymaker - Action: Make an attack against a target within 
-Very Close range. On a success, deal X direct physical 
-damage.
-Shredding Strike - Action: Make an attack against a target 
-within Very Close range. On a success, deal X physical 
-damage and the target must mark an Armor Slot without 
-gaining its benefit (they can still use armor to reduce the 
-damage).
-More Where That Came From - Action: Summon three 
-Jagged Knife Lackeys, who appear at Far range.
-REACTIONS
-Heavy Hitter - Reaction: When this adversary deals 
-damage with a standard attack, you can spend a Fear to 
-gain a +X bonus to the damage roll.
-Team-Up - Reaction: When another adversary within Very 
-Close range of this adversary deals X damage to a creature, 
-you can mark a Stress to make a standard attack against 
-that same creature. On a success, combine the damage.
-Momentum - Reaction: When this adversary makes a 
-successful attack against a PC, you gain a Fear.
-PASSIVES
-Horde (X) - Passive: When the Horde has marked half or 
-more of their HP, their standard attack deals X damage 
-instead. 
-Minion (X) - Passive: This adversary is defeated when they 
-take any damage. For every X damage a PC deals to this 
-adversary, defeat an additional Minion within range the 
-attack would succeed against.
-Relentless (X) - Passive: This adversary can be spotlighted 
-up to X times per GM turn. Spend Fear as usual to spotlight 
-them.
-Slow - Passive: When you spotlight this adversary and they 
-don’t have a token on their stat block, they can’t act yet. 
-Place a token on their stat block and describe what they’re 
-preparing to do. When you spotlight this adversary and 
-they have a token on their stat block, clear the token and 
-they can act.
-Arcane Form - Passive: This adversary is resistant to magic 
-damage.
-Armored Carapace - Passive: When this adversary takes 
-physical damage, reduce it by X.
-FEAR FEATURES
-Explosion - Action: Spend a Fear to erupt in a fiery 
-explosion. Make an attack against all targets within Close 
-range. Targets the adversary succeeds against take 1d8 
-magic damage and are knocked back to Far range.
+
+## Antagonisten-Werteblöcke
+Alle Informationen, die zum Spielen eines Antagonisten benötigt werden, sind in seinem Werteblock enthalten.
+Der Werteblock eines Antagonisten enthält folgende Elemente:
+
+### Name
+Jeder Werteblock hat einen eindeutigen Namen.
+Fähigkeiten, die Antagonisten mit einem bestimmten Namen betreffen, schließen alle Antagonisten ein, die diesen Werteblock verwenden, unabhängig von ihrem Namen in der Geschichte.
+
+### Niveau
+Jeder Antagonist ist darauf ausgelegt, SCs eines bestimmten Niveaus entgegenzutreten.
+Wenn du die Gruppe mit einem Antagonisten aus einem anderen Niveau konfrontierst, passe seine Werte an.
+
+### Typ
+Der Typ des Antagonisten erscheint neben seinem Niveau.
+Der Typ eines Antagonisten repräsentiert die Rolle, die er in einem Konflikt spielt.
+Die Antagonisten-Typen sind:
+
+• **Schläger:** Zäh; haben mächtige Angriffe.
+
+• **Horden:** Gruppen identischer Kreaturen, die zusammen als eine einzige Einheit handeln.
+
+• **Anführer:** Befehligen und beschwören andere Antagonisten.
+
+• **Lakaien:** Leicht zu besiegen, aber gefährlich in großer Anzahl.
+
+• **Fernkämpfer:** Zerbrechlich in Nahkämpfen, aber verursachen hohen Schaden auf Distanz.
+
+• **Schleicher:** Manövrieren und nutzen Gelegenheiten, um Gegner zu überfallen.
+
+• **Soziale:** Stellen Herausforderungen im Gespräch statt im Kampf dar.
+
+• **Solos:** Stellen eine gewaltige Herausforderung für eine ganze Gruppe dar, mit oder ohne Unterstützung.
+
+• **Standards:** Repräsentativ für ihre fiktionale Gruppe.
+
+• **Unterstützer:** Verstärken ihre Verbündeten und stören ihre Gegner.
+
+### Beschreibung
+Eine Zusammenfassung des Aussehens und Verhaltens des Antagonisten.
+
+### Motive & Taktiken
+Vorgeschlagene Impulse, Handlungen und Ziele für den Antagonisten.
+
+### Schwierigkeitsgrad
+Der Schwierigkeitsgrad jedes Wurfs gegen den Antagonisten, sofern nicht anders angegeben.
+
+### Schadensschwellen, Trefferpunkte und Stress
+Diese Systeme funktionieren genauso wie bei SCs.
+Die nach "Schwelle" aufgelisteten Zahlen sind die Schweren und Verheerenden Schwellen des Antagonisten.
+
+### Angriffsmodifikator
+Wenn du mit dem Antagonisten angreifst, wende diesen Bonus oder Malus auf deinen Angriffswurf an.
+
+### Standardangriff
+Eine Beschreibung der primären Art des Antagonisten, den SCs Schaden zuzufügen.
+Sie enthält den **Namen** des Angriffs, seine effektive **Reichweite** und den **Schaden**, den er bei einem Erfolg verursacht.
+Die Verwendung des **Standardangriffs** eines Antagonisten ist ein SL-Zug.
+
+### Erfahrung (optional)
+Die SL kann eine Angst-Marke ausgeben, um die relevante Erfahrung eines Antagonisten hinzuzufügen, um seinen Angriffswurf zu erhöhen oder den Schwierigkeitsgrad eines gegen ihn gemachten Wurfs zu steigern.
+
+**Beispiel-Erfahrungen**:
+
+| | | |
+|---|---|---|
+| Adel | Akrobatik | Befehlshaber |
+| Einschüchterung | Eindringen | Fährtenleser |
+| Feilschen | Freund der Natur | Gesellschaft |
+| Heimlichkeit | Hinterhalt | Jagen von oben |
+| Klingenmeister | Leibwache | Magisches Wissen |
+| Navigation | Scharfe Sinne | Schnelle Reflexe |
+
+### Fähigkeit(en)
+Es gibt drei Arten von Antagonisten-Fähigkeiten: Aktionen, Reaktionen und Passive.
+Hinweis: Der Stress jedes Antagonisten wird einzeln verfolgt.
+Wenn eine Fähigkeit verlangt, dass die SL Stress ausgibt, um sie zu aktivieren, muss der Stress von dem Antagonisten kommen, dessen Fähigkeit aktiviert wird.
+Wenn eine Fähigkeit eine Angst-Anforderung hat, muss sie zusätzlich zu bereits ausgegebener Angst ausgegeben werden—zum Beispiel, um die SCs zu unterbrechen und das Rampenlicht auf den Antagonisten zu richten.
+
+• **Aktionen:** Ein spezieller Angriff oder eine andere einzigartige Aktion, die der Antagonist ausführen kann, wenn das Rampenlicht auf ihm liegt.
+
+• **Reaktionen:** Spezielle Effekte, die wirksam werden, wenn ihr Auslöser eintritt, unabhängig davon, ob das Rampenlicht auf dem Antagonisten liegt.
+
+• **Passive:** Spezielle Fähigkeiten, die standardmäßig wirksam bleiben und keine Ressourcen oder Auslöser zur Aktivierung benötigen.
+
+### Angst-Fähigkeit(en)
+Wirkungsvolle Effekte, die eine Angst zur Aktivierung kosten.
+
+## Beispiele für Antagonisten-Fähigkeiten
+
+### Aktionen
+
+**Schwinger** - Aktion: Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
+Bei einem Erfolg verursache X direkten physischen Schaden.
+
+**Zerfetzender Schlag** - Aktion: Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
+Bei einem Erfolg verursache X physischen Schaden und das Ziel muss ein Rüstungsfeld markieren, ohne dessen Vorteil zu erhalten (es kann trotzdem Rüstung verwenden, um den Schaden zu reduzieren).
+
+**Mehr, wo das herkam** - Aktion: Beschwöre drei Gezackte Messer-Lakaien, die in Weiter Reichweite erscheinen.
+
+### Reaktionen
+
+**Schwerer Schläger** - Reaktion: Wenn dieser Antagonist mit einem Standardangriff Schaden verursacht, kannst du eine Angst ausgeben, um einen +X Bonus auf den Schadenswurf zu erhalten.
+
+**Zusammenarbeit** - Reaktion: Wenn ein anderer Antagonist in Sehr Naher Reichweite zu diesem Antagonisten X Schaden an einer Kreatur verursacht, kannst du einen Stress markieren, um einen Standardangriff gegen dieselbe Kreatur zu machen.
+Bei einem Erfolg kombiniere den Schaden.
+
+**Schwung** - Reaktion: Wenn dieser Antagonist einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+
+### Passive
+
+**Horde (X)** - Passiv: Wenn die Horde die Hälfte oder mehr ihrer TP markiert hat, verursacht ihr Standardangriff stattdessen X Schaden.
+
+**Lakai (X)** - Passiv: Dieser Antagonist wird besiegt, wenn er irgendeinen Schaden erleidet.
+Für alle X Schaden, die ein SC diesem Antagonisten zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+
+**Unerbittlich (X)** - Passiv: Dieser Antagonist kann bis zu X Mal pro SL-Zug ins Rampenlicht gestellt werden.
+Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+
+**Langsam** - Passiv: Wenn du diesen Antagonisten ins Rampenlicht stellst und er keinen Marker auf seinem Werteblock hat, kann er noch nicht handeln.
+Platziere einen Marker auf seinem Werteblock und beschreibe, was er vorzubereiten scheint.
+Wenn du diesen Antagonisten ins Rampenlicht stellst und er einen Marker auf seinem Werteblock hat, entferne den Marker und er kann handeln.
+
+**Arkane Form** - Passiv: Dieser Antagonist ist resistent gegen magischen Schaden.
+
+**Gepanzerter Panzer** - Passiv: Wenn dieser Antagonist physischen Schaden erleidet, reduziere ihn um X.
+
+### Angst-Fähigkeiten
+
+**Explosion** - Aktion: Gib eine Angst aus, um in einer feurigen Explosion zu zerbersten.
+Mache einen Angriff gegen alle Ziele in Naher Reichweite.
+Ziele, gegen die der Antagonist erfolgreich ist, erleiden 1W8 magischen Schaden und werden auf Weite Reichweite zurückgeschleudert.

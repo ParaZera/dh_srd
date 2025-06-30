@@ -55,3 +55,4 @@
     - "GM" -> "SL"
     - "spotlight" -> "Rampenlicht"
     - "loot" -> "Schätze"
+    - "statblock" -> "Werteblock"

@@ -1,0 +1,1 @@
+# Richtwerte für Antagonisten Werteblöcke

@@ -1,1 +1,0 @@
-# Richtwerte für Antagonisten Statblöcke
