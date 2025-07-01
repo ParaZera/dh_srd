@@ -88,7 +88,7 @@ Einmal pro langer Rast, nachdem ein Verbündeter einen Zauberwirken-Wurf mit dei
 **Arkane Ladung:** Du kannst magische Energie sammeln, um deine Fähigkeiten zu verstärken.
 Wenn du magischen Schaden nimmst, wirst du geladen.
 Alternativ kannst du 2 Hoffnung ausgeben, um geladen zu werden.
-Wenn du erfolgreich einen Angriff machst, der magischen Schaden verursacht, während du geladen bist, kannst du deine Ladung aufheben, um entweder einen +10 Bonus auf den Schadenswurf zu erhalten oder einen +3 Bonus auf den Schwierigkeitswert eines Reaktionswurfs zu erhalten, den der Zauber das Ziel machen lässt.
+Wenn du erfolgreich einen Angriff machst, der magischen Schaden verursacht, während du geladen bist, kannst du deine Ladung aufheben, um entweder einen +10 Bonus auf den Schadenswurf zu erhalten oder einen +3 Bonus auf den Schwierigkeitsgrad eines Reaktionswurfs zu erhalten, den der Zauber das Ziel machen lässt.
 Du hörst auf, geladen zu sein, bei deiner nächsten langen Rast.
 
 > **Hintergrundfragen**

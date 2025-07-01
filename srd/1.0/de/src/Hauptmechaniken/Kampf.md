@@ -3,10 +3,10 @@ Daggerheart folgt im Kampf demselben kollaborativem Spielfluss wie außerhalb de
 
 ## Ausweichen
 Ausweichen repräsentiert die Fähigkeit eines Charakters, Angriffen und anderen unerwünschten Effekten auszuweichen.
-Jeder Wurf gegen einen SC hat einen Schwierigkeitswert gleich dem Ausweichen des Ziels.
+Jeder Wurf gegen einen SC hat einen Schwierigkeitsgrad gleich dem Ausweichen des Ziels.
 Das Basis-Ausweichen eines SCs wird durch seine Klasse bestimmt, kann aber durch Domänenkarten, Ausrüstung, Zustände und andere Effekte modifiziert werden.
 
-> **Hinweis:** Angriffe gegen Antagonisten verwenden dessen Schwierigkeitswert anstelle des Ausweichen-Werts.
+> **Hinweis:** Angriffe gegen Antagonisten verwenden dessen Schwierigkeitsgrad anstelle des Ausweichen-Werts.
 
 ## Trefferpunkte & Schadensschwellen
 Trefferpunkte (TP) repräsentieren die Fähigkeit eines Charakters, körperlichen Verletzungen zu widerstehen.

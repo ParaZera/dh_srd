@@ -8,18 +8,18 @@ Jeder Zug, bei dem Erfolg trivial wäre oder Scheitern langweilig wäre, gelingt
 Alle Aktionswürfe erfordern ein Paar W12, die Dualitätswürfel genannt werden.
 Das sind zwei visuell unterscheidbare zwölfseitige Würfel, wobei ein Würfel die Hoffnung und der andere die Angst repräsentiert.
 
-Um einen Aktionswurf zu machen, würfelst du die Dualitätswürfel, addierst die Ergebnisse, wendest alle relevanten Modifikatoren an und vergleichst die Gesamtsumme mit einem Schwierigkeitswert, um das Ergebnis zu bestimmen:
+Um einen Aktionswurf zu machen, würfelst du die Dualitätswürfel, addierst die Ergebnisse, wendest alle relevanten Modifikatoren an und vergleichst die Gesamtsumme mit einem Schwierigkeitsgrad, um das Ergebnis zu bestimmen:
 
-- **Erfolg mit Hoffnung:** Wenn deine Gesamtsumme den Schwierigkeitswert erreicht oder übertrifft UND dein Hoffnungswürfel ein höheres Ergebnis zeigt als dein Angstwürfel, hast du einen "Erfolg mit Hoffnung" gewürfelt.
+- **Erfolg mit Hoffnung:** Wenn deine Gesamtsumme den Schwierigkeitsgrad erreicht oder übertrifft UND dein Hoffnungswürfel ein höheres Ergebnis zeigt als dein Angstwürfel, hast du einen "Erfolg mit Hoffnung" gewürfelt.
 Du hast Erfolg und erhältst 1 Hoffnung.
 
-- **Erfolg mit Angst:** Wenn deine Gesamtsumme den Schwierigkeitswert erreicht oder übertrifft UND dein Angstwürfel ein höheres Ergebnis zeigt als dein Hoffnungswürfel, hast du einen "Erfolg mit Angst" gewürfelt.
+- **Erfolg mit Angst:** Wenn deine Gesamtsumme den Schwierigkeitsgrad erreicht oder übertrifft UND dein Angstwürfel ein höheres Ergebnis zeigt als dein Hoffnungswürfel, hast du einen "Erfolg mit Angst" gewürfelt.
 Du hast Erfolg mit Kosten oder Komplikationen, aber die SL erhält 1 Angst.
 
-- **Scheitern mit Hoffnung:** Wenn deine Gesamtsumme geringer ist als der Schwierigkeitswert UND dein Hoffnungswürfel ein höheres Ergebnis zeigt als dein Angstwürfel, hast du ein "Scheitern mit Hoffnung" gewürfelt.
+- **Scheitern mit Hoffnung:** Wenn deine Gesamtsumme geringer ist als der Schwierigkeitsgrad UND dein Hoffnungswürfel ein höheres Ergebnis zeigt als dein Angstwürfel, hast du ein "Scheitern mit Hoffnung" gewürfelt.
 Du scheiterst mit einer kleinen Konsequenz und erhältst 1 Hoffnung, dann schwenkt das Rampenlicht zur SL.
 
-- **Scheitern mit Angst:** Wenn deine Gesamtsumme geringer ist als der Schwierigkeitswert UND dein Angstwürfel ein höheres Ergebnis zeigt als dein Hoffnungswürfel, hast du ein "Scheitern mit Angst" gewürfelt.
+- **Scheitern mit Angst:** Wenn deine Gesamtsumme geringer ist als der Schwierigkeitsgrad UND dein Angstwürfel ein höheres Ergebnis zeigt als dein Hoffnungswürfel, hast du ein "Scheitern mit Angst" gewürfelt.
 Du scheiterst mit einer schwerwiegenden Konsequenz und die SL erhält 1 Angst, dann schwenkt das Rampenlicht zur SL.
 
 - **Kritischer Erfolg:** Wenn die Dualitätswürfel übereinstimmende Ergebnisse zeigen, hast du einen "Kritischen Erfolg" ("Krit") gewürfelt.
@@ -41,10 +41,10 @@ Die folgenden Schritte beschreiben detaillierter das Verfahren, das alle Aktions
 Einige Aktionen und Effekte spezifizieren in ihrer Beschreibung, welche Eigenschaft für den Wurf gilt; andernfalls teilt die SL der handelnden spielenden Person mit, welche Charaktereigenschaft am besten zu der versuchten Aktion passt.
 Wenn mehr als eine Eigenschaft für den Wurf gelten könnte, wählt die SL oder lässt die handelnde spielende Person entscheiden.
 
-#### Schritt 2: Bestimme den Schwierigkeitswert
-Einige Aktionen und Fähigkeiten geben in ihrer Beschreibung an, was der Schwierigkeitswert ist.
-Andernfalls bestimmt die SL den Schwierigkeitswert basierend auf dem Szenario.
-Die SL kann wählen, ob sie den Schwierigkeitswert mit dem Tisch teilt.
+#### Schritt 2: Bestimme den Schwierigkeitsgrad
+Einige Aktionen und Fähigkeiten geben in ihrer Beschreibung an, was der Schwierigkeitsgrad ist.
+Andernfalls bestimmt die SL den Schwierigkeitsgrad basierend auf dem Szenario.
+Die SL kann wählen, ob sie den Schwierigkeitsgrad mit dem Tisch teilt.
 In jedem Fall sollte die SL die potenziellen Konsequenzen des Scheiterns der handelnden spielenden Person mitteilen.
 
 #### Schritt 3: Wende zusätzliche Würfel und Modifikatoren an
@@ -102,8 +102,8 @@ Sofern nicht anders angegeben, kannst du jeden Bonus, Modifikator oder Effekt au
 
 ### Eigenschaftswürfe
 Ein Aktionswurf, der spezifiziert, welche Charaktereigenschaft für ihn gilt, wird **Eigenschaftswurf** genannt.
-Im Text einer Fähigkeit oder eines Effekts wird ein Eigenschaftswurf mit dem Format `[Eigenschaft]-Wurf (Schwierigkeitswert)` referenziert (z.B. *"Agilitätswurf (12)"*).
-Wenn der Text eines Effekts den Schwierigkeitswert eines Eigenschaftswurfs nicht spezifiziert, setzt die SL den Schwierigkeitswert basierend auf den Umständen.
+Im Text einer Fähigkeit oder eines Effekts wird ein Eigenschaftswurf mit dem Format `[Eigenschaft]-Wurf (Schwierigkeitsgrad)` referenziert (z.B. *"Agilitätswurf (12)"*).
+Wenn der Text eines Effekts den Schwierigkeitsgrad eines Eigenschaftswurfs nicht spezifiziert, setzt die SL den Schwierigkeitsgrad basierend auf den Umständen.
 
 Fähigkeiten und Effekte, die einen Eigenschaftswurf beeinflussen, beeinflussen auch jeden Aktionswurf, der dieselbe Eigenschaft verwendet, einschließlich Angriffswürfe, Zauberwirken-Würfe und Standard-Aktionswürfe.
 

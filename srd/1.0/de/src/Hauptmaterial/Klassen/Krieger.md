@@ -16,7 +16,7 @@ Krieger sind dafür bekannt, eine bevorzugte Waffe zu haben; zwischen sie und ih
 **Keine Gnade:** Gib 3 Hoffnung aus, um einen +1 Bonus auf deine Angriffswürfe bis zu deiner nächsten Rast zu erhalten.
 
 ## Klassenfähigkeiten
-**Gelegenheitsangriff:** Wenn ein Antagonist in Nahkampfreichweite versucht, diese Reichweite zu verlassen, mache einen Reaktionswurf mit einer Eigenschaft deiner Wahl gegen seinen Schwierigkeitswert.
+**Gelegenheitsangriff:** Wenn ein Antagonist in Nahkampfreichweite versucht, diese Reichweite zu verlassen, mache einen Reaktionswurf mit einer Eigenschaft deiner Wahl gegen seinen Schwierigkeitsgrad.
 Wähle einen Effekt bei Erfolg oder zwei, wenn du kritisch erfolgreich bist:
 
 - Er kann sich nicht von seinem aktuellen Ort bewegen.
