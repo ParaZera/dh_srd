@@ -1,6 +1,6 @@
 # Niveau 1 (Stufe 1) Antagonisten
 
-## SÄURE-GRÄBER
+## Säure-Gräber
  **Niveau 1 Solo**
  
  Ein pferdegroßes Insekt mit Grabklauen und saurem Blut.
@@ -28,3 +28,26 @@
  
  **Säurebad - Reaktion**: Wenn der Gräber verheerenden Schaden erleidet, werden alle Kreaturen in Naher Reichweite in seinem sauren Blut gebadet und erleiden **1W10** physischen Schaden.
  Diese Spritzer bedecken den Boden in Sehr Naher Reichweite mit Blut, und alle Kreaturen außer dem Gräber, die sich hindurchbewegen, erleiden **1W6** physischen Schaden.
+ 
+
+## Bär
+**Niveau 1 Schläger**
+
+Ein großer Bär mit dichtem Fell und mächtigen Klauen.
+
+**Motive & Taktiken:** Klettern, Territorium verteidigen, schlagen, verfolgen
+
+> **Schwierigkeitsgrad:** 14 | **Schwellen:** 9/17 | **TP:** 7 | **Stress:** 2
+> 
+> **Angriff:** +1 | **Klauen:** Nahkampf | 1W8+3 phy
+> 
+> **Erfahrung:** Hinterhalt +3, Scharfe Sinne +2
+
+### Fähigkeiten
+
+**Überwältigende Kraft - Passiv:** Ziele, die TP durch den Standardangriff des Bären markieren, werden auf Sehr Nahe Reichweite zurückgeschleudert.
+
+**Biss - Aktion:** Markiere einen Stress, um einen Angriff gegen ein Ziel in Nahkampfreichweite zu machen.
+Bei einem Erfolg verursache **3W4+10** physischen Schaden und das Ziel ist *Festgehalten*, bis es sich mit einem erfolgreichen Stärke-Wurf befreit.
+
+**Schwung - Reaktion:** Wenn der Bär einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
