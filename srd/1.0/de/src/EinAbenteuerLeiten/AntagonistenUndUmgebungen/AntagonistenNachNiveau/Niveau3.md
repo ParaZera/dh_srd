@@ -161,7 +161,7 @@ Aktiviere beim ersten Mal, wenn ein Angriff in Sichtweite des Dämons gemacht wi
 Er reduziert sich, wenn ein SC eine gewalttätige Aktion ausführt.
 Wenn er auslöst, beschwöre **1W4** Geringe Dämonen, die in Naher Reichweite erscheinen.
 
-## Dire Fledermaus
+## Schatten Fledermaus
 **Niveau 3 Schleicher**
 
 Eine weitflügge Fledermaus, die ihrem Vampirherrn endlos treu ist.
@@ -208,7 +208,7 @@ Ein Ziel muss einen Geschicklichkeitswurf bestehen oder mehr als 20 Schaden an d
 
 **Wir sind eins - Reaktion:** Wenn ein Verbündeter in Naher Reichweite stirbt, kannst du eine Angst ausgeben, um 2 TP und 2 Stress zu heilen, während die Lebensenergie des gefallenen Verbündeten in den Wald zurückkehrt.
 
-## Elementares Funken
+## Elementarer Funken
 **Niveau 3 Minion**
 
 Ein glühendes Mote elementaren Feuers.
@@ -228,7 +228,7 @@ Für jeden 9 Schaden, den ein SC dem Elementar zufügt, besiege ein zusätzliche
 Diese Minions bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
 Bei einem Erfolg fügen sie jeweils **5** physischen Schaden zu. Kombiniere diesen Schaden.
 
-## Größerer Erdelementar
+## Größeres Erdelementar
 **Niveau 3 Schläger**
 
 Ein lebendiger Erdrutsch aus Felsen und Staub, so groß wie ein Haus.
@@ -258,7 +258,7 @@ Ziele, die erfolgreich sind, erleiden halben Schaden.
 
 **Schwung - Reaktion:** Wenn der Elementar einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
-## Größerer Wasserelementar
+## Größeres Wasserelementar
 **Niveau 3 Unterstützer**
 
 Eine riesige lebende Welle, die auf Feinde herabstürzt.
@@ -281,7 +281,7 @@ Ein Ziel kann sich befreien und damit beide Bedingungen beenden, indem es einen 
 
 **Hohe Flut - Reaktion:** Wenn der Elementar einen erfolgreichen Standardangriff macht, kannst du einen Stress markieren, um das Ziel auf Nahe Reichweite zurückzustoßen.
 
-## Riesige grüne Schleim
+## Riesiger grüner Schleim
 **Niveau 3 Schleicher**
 
 Ein durchsichtiger grüner Haufen aus Säure, höher als die meisten Menschen.
@@ -408,7 +408,7 @@ Ziele, gegen die der Treant erfolgreich ist, erleiden **2W10+5** physischen Scha
 Der Treant ist während des Verwurzelns *Eingeschränkt* und kann diese Wirkung beenden, anstatt sich zu bewegen, während er im Rampenlicht steht.
 Während des Verwurzelns hat der Treant Widerstand gegen physischen Schaden.
 
-## Treant-Sämling
+## Treant-Keimling
 **Niveau 3 Minion**
 
 Ein kleiner, empfindungsfähiger Baumsämling.
@@ -478,7 +478,7 @@ Der Vampir heilt dann einen TP.
 
 **Nebelgestalt - Reaktion:** Wenn der Vampir physischen Schaden erleidet, kannst du eine Angst ausgeben, um halben Schaden zu erleiden.
 
-## Schließfach-Wächter-Kerkermeister
+## Tresorhüter-Kerkermeister
 **Niveau 3 Unterstützer**
 
 Ein kastenförmiges, staubbedecktes Konstrukt mit dicken metallischen Schwingtüren an seinem Rumpf.
@@ -498,7 +498,7 @@ Kreaturen, die im Kerkermeister gefangen sind, sind immun gegen diese Fähigkeit
 Bei einem Erfolg ist das Ziel im Kerkermeister *Festgehalten*, bis es mit einem erfolgreichen Stärke-Wurf (18) befreit wird.
 Während es *Festgehalten* ist, kann das Ziel nur den Kerkermeister angreifen.
 
-## Schließfach-Wächter-Wächter
+## Tresorhüter-Wächter
 **Niveau 3 Schläger**
 
 Ein staubbedecktes goldenes Konstrukt mit kastenförmigen Gliedmaßen und einem riesigen Streitkolben als Hand.
@@ -524,7 +524,7 @@ Ziele, die erfolgreich sind, erleiden halben Schaden und werden nicht zurückges
 
 **Schwung - Reaktion:** Wenn der Wächter einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
-## Schließfach-Wächter-Geschützturm
+## Tresorhüter-Geschützturm
 **Niveau 3 Fernkampf**
 
 Ein massiver lebender Geschützturm mit verstärkter Rüstung und zwölf kolbengetriebenen mechanischen Beinen.

@@ -437,7 +437,7 @@ Wenn die Gorgone besiegt wird, enden alle Versteinerungs-Countdowns.
 
 **Schwung - Reaktion:** Wenn die Gorgone einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
-## Junge Flickerfliege
+## Junger Flickerflügel
 **Niveau 2 Solo**
 
 Ein pferdegroßes Insekt mit irisierenden Schuppen und kristallinen Flügeln, das sich schneller bewegt als das Auge sehen kann.
