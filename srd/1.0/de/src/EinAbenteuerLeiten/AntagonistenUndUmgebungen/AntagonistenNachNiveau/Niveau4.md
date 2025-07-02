@@ -432,3 +432,89 @@ Ziele, die erfolgreich sind, erleiden halben Schaden und müssen einen Stress ma
 **Lava-Spritzer - Reaktion:** Wenn die Geschmolzene Geißel verheerenden Schaden durch einen Angriff in Sehr Naher Reichweite erleidet, schießt geschmolzenes Blut aus der Wunde und verursacht **2W10+4** direkten physischen Schaden am Angreifer.
 
 **Aschene Rache (Phasenwechsel) - Reaktion:** Wenn die Geschmolzene Geißel ihren letzten TP markiert, ersetze sie durch den Aschenen Tyrannen und stelle ihn sofort ins Rampenlicht.
+
+## Vulkandrache: Aschener Tyrann
+**Niveau 4 Solo**
+
+Kein Feind hatte jemals die Frechheit, den Drachen so zu verwunden.
+Während die Lava sich setzt, wird sie zu Asche gemahlen wie die vergangenen Feinde des Drachen.
+
+**Motive & Taktiken:** Ersticken, fliegen, einschüchtern, töten oder getötet werden
+
+> **Schwierigkeitsgrad:** 18 | **Schwellen:** 29/55 | **TP:** 8 | **Stress:** 5
+> 
+> **Angriff:** +10 | **Klauen und Zähne:** Nah | 4W12+15 phy
+> 
+> **Erfahrung:** Jagd von oben +5
+
+### Fähigkeiten
+
+**Unerbittlich (4) - Passiv:** Der Aschene Tyrann kann bis zu vier Mal pro SL-Zug ins Rampenlicht gestellt werden.
+Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+
+**In die Ecke gedrängt - Passiv:** Markiere einen Stress anstatt eine Angst auszugeben, um den Aschenen Tyrannen ins Rampenlicht zu stellen.
+
+**Verletzte Flügel - Passiv:** Während er fliegt, erhält der Aschene Tyrann einen +1 Bonus auf seinen Schwierigkeitsgrad.
+
+**Asche zu Asche - Passiv:** Wenn ein SC einen Fehlschlag würfelt, während er in Naher Reichweite zum Aschenen Tyrannen ist, verliert er eine Hoffnung und du erhältst eine Angst.
+Wenn der SC keine Hoffnung verlieren kann, muss er einen TP markieren.
+
+**Verzweifelte Raserei - Aktion:** Markiere einen Stress, um einen Angriff gegen alle Ziele in Naher Reichweite zu machen.
+Ziele, gegen die der Aschene Tyrann erfolgreich ist, erleiden **2W20+2** physischen Schaden, werden auf Nahe Reichweite von ihrer ursprünglichen Position zurückgeschleudert und müssen einen Stress markieren.
+
+**Aschenwolke - Aktion:** Gib eine Angst aus, um den Boden zu zerschmettern und Asche in Weiter Reichweite aufzuwirbeln.
+Während es sich in der Aschenwolke befindet, hat ein Ziel Nachteil bei Aktionswürfen.
+Die Aschenwolke klärt sich auf, wenn das nächste Mal ein Antagonist ins Rampenlicht gestellt wird.
+
+**Apokalyptisches Toben - Aktion:** Countdown (1W12).
+Gib eine Angst aus, um zu aktivieren.
+Er reduziert sich, wenn ein SC mit Angst würfelt.
+Wenn er auslöst, tobt der Aschene Tyrann umher und verursacht Umweltschäden (wie ein Erdbeben, eine Lawine oder einstürzende Wände).
+Alle Ziele in Weiter Reichweite müssen einen Stärke-Reaktionswurf machen.
+Ziele, die scheitern, erleiden **2W10+10** physischen Schaden und sind durch Trümmer *Festgehalten*, bis sie sich mit einem erfolgreichen Stärke-Wurf befreien.
+Ziele, die erfolgreich sind, erleiden halben Schaden.
+Wenn der Aschene Tyrann besiegt wird, während dieser Countdown aktiv ist, löse den Countdown sofort aus, da die Zerstörung durch seine Todeskämpfe verursacht wird.
+
+## Perfektionierter Zombie
+**Niveau 4 Schläger**
+
+Ein hochaufragender, muskulöser Zombie mit magisch verstärkter Kraft und Geschicklichkeit.
+
+**Motive & Taktiken:** Verzehren, verfolgen, verstümmeln, terrorisieren
+
+> **Schwierigkeitsgrad:** 20 | **Schwellen:** 40/70 | **TP:** 9 | **Stress:** 4
+> 
+> **Angriff:** +4 | **Große Axt:** Sehr Nah | 4W12+15 phy
+
+### Fähigkeiten
+
+**Furchteinflößend - Passiv:** Wenn der Zombie einen erfolgreichen Angriff macht, verlieren alle SCs in Weiter Reichweite eine Hoffnung und du erhältst eine Angst.
+
+**Furchterregende Präsenz - Passiv:** SCs können keine Hoffnung ausgeben, um Fähigkeiten gegen den Zombie zu verwenden.
+
+**Perfekter Schlag - Aktion:** Markiere einen Stress, um einen Standardangriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
+Ziele, gegen die der Zombie erfolgreich ist, sind *verwundbar* bis zu ihrer nächsten Rast.
+
+**Geschickter Opportunist - Reaktion:** Wenn ein anderer Antagonist Schaden an einem Ziel in Sehr Naher Reichweite zum Zombie verursacht, kannst du eine Angst ausgeben, um den Standardangriffschaden des Zombies zum Schadenswurf hinzuzufügen.
+
+## Zombie-Legion
+**Niveau 4 Horde (/TP)**
+
+Ein großes Rudel Untoter, immer noch mächtig trotz ihres verwesenden Fleisches.
+
+**Motive & Taktiken:** Gehirn verzehren, Fleisch zerreißen, umzingeln
+
+> **Schwierigkeitsgrad:** 17 | **Schwellen:** 25/45 | **TP:** 8 | **Stress:** 5
+> 
+> **Angriff:** +2 | **Tentakel:** Nah | 4W6+10 phy
+
+### Fähigkeiten
+
+**Horde (2W6+5) - Passiv:** Wenn die Legion die Hälfte oder mehr ihrer TP markiert hat, verursacht ihr Standardangriff stattdessen **2W6+5** physischen Schaden.
+
+**Unbeugsam - Passiv:** Die Legion ist resistent gegen physischen Schaden.
+
+**Unerbittlich (2) - Passiv:** Die Legion kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
+Gib Angst wie üblich aus, um sie ins Rampenlicht zu stellen.
+
+**Überwältigen - Reaktion:** Wenn die Legion leichten Schaden durch einen Angriff in Nahkampfreichweite erleidet, kannst du einen Stress markieren, um einen Standardangriff mit Vorteil gegen den Angreifer zu machen.
