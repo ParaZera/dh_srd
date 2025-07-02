@@ -264,7 +264,7 @@ Wenn die Schlange im Rampenlicht steht, würfle diesen Würfel.
 Bei einem Ergebnis von 5 oder höher müssen alle Ziele vor der Schlange in Weiter Reichweite bei einem Agilität-Reaktionswurf erfolgreich sein oder **1W4** physischen Schaden erleiden.
 Die Schlange kann in diesem SL-Zug ein zweites Mal das Rampenlicht übernehmen.
 
-## Hetzer
+## Habicht
 **Niveau 1 Standard**
 
 Ein wendiger Kämpfer, bewaffnet mit Speeren.
@@ -425,7 +425,7 @@ Ein Dieb mit einfacher Kleidung und kleinen Dolchen, begierig darauf, sich zu be
 
 ### Fähigkeiten
 
-**Lakai (3) - Passiv:** Der Lakai wird besiegt, wenn er irgendeinen Schaden erleidet.
+**Lakai (3) - Passiv:** Der Lakaie wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 3 Schaden, die ein SC dem Lakaien zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Zackenklinge-Lakaien in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
@@ -493,6 +493,50 @@ Ein dürrer Bandit, der aus der Deckung mit einem Kurzbogen zuschlägt.
 ### Fähigkeiten
 
 **Ungesehener Schlag - Passiv:** Wenn der Scharfschütze Versteckt ist, wenn er einen erfolgreichen Standardangriff gegen ein Ziel macht, verursacht er stattdessen **1W10+4** physischen Schaden anstelle seines Standardschadens.
+
+## Händler
+**Niveau 1 Sozial**
+
+Ein fein gekleideter Händler mit einem scharfen Blick für finanziellen Gewinn.
+
+**Motive & Taktiken:** Billig kaufen und teuer verkaufen, Nachfrage schaffen, Preise aufblähen, Profit suchen
+
+> **Schwierigkeitsgrad:** 12 | **Schwellen:** 4/8 | **TP:** 3 | **Stress:** 3
+> 
+> **Angriff:** -4 | **Keule:** Nahkampf | 1W4+1 phy
+> 
+> **Erfahrung:** Schlauer Verhandler +3
+
+### Fähigkeiten
+
+**Vorzugsbehandlung - Passiv:** Ein SC, der bei einem Präsenz-Wurf gegen den Händler erfolgreich ist, erhält einen Rabatt beim Kauf.
+Ein SC, der bei einem Präsenz-Wurf gegen den Händler scheitert, muss mehr bezahlen und hat Nachteil bei zukünftigen Präsenz-Würfen gegen den Händler.
+
+**Hinhalten - Passiv:** Wenn ein SC 14 oder weniger bei einem Präsenz-Wurf gegen den Händler würfelt, muss er einen Stress markieren.
+
+## Geringes Chaos-Elemental
+**Niveau 1 Solo**
+
+Eine schillernde Masse unkontrollierbarer Magie.
+
+**Motive & Taktiken:** Verwirren, destabilisieren, verwandeln
+
+> **Schwierigkeitsgrad:** 14 | **Schwellen:** 7/14 | **TP:** 7 | **Stress:** 3
+> 
+> **Angriff:** +3 | **Verzerrungsexplosion:** Nah | 1W12+6 mag
+
+### Fähigkeiten
+
+**Arkane Form - Passiv:** Das Elemental ist resistent gegen magischen Schaden.
+
+**Widerlicher Fluss - Aktion:** Markiere einen TP, um alle Ziele in Naher Reichweite zu zwingen, einen Stress zu markieren und *verwundbar* zu werden, bis zu ihrer nächsten Rast oder bis sie einen TP heilen.
+
+**Realität umgestalten - Aktion:** Gib eine Angst aus, um den Bereich in Sehr Naher Reichweite in ein anderes Biom zu verwandeln.
+Alle Ziele in diesem Bereich erleiden **2W6+3** direkten magischen Schaden.
+
+**Magische Reflexion - Reaktion:** Wenn das Elemental Schaden durch einen Angriff in Naher Reichweite erleidet, verursache dem Angreifer Schaden in Höhe der Hälfte des Schadens, den er verursacht hat.
+
+**Schwung - Reaktion:** Wenn das Elemental einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
 ## Geringes Feuer-Elemental
 **Niveau 1 Solo**
@@ -786,7 +830,7 @@ Ein zerbrechliches Skelett mit einem Kurzbogen und Pfeilen.
 **Tödlicher Schuss - Aktion:** Mache einen Angriff gegen ein verwundbares Ziel in Weiter Reichweite.
 Bei einem Erfolg markiere einen Stress, um **3W4+8** physischen Schaden zu verursachen.
 
-## Skelett-Bagger
+## Skelett-Schlurfer
 **Niveau 1 Lakai**
 
 Ein klappernder Haufen Knochen.
@@ -1073,7 +1117,7 @@ Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen geme
 Bei einem Erfolg verursachen sie jeweils 2 physischen Schaden.
 Kombiniere diesen Schaden.
 
-## Taumelnder Zombie
+## Schlurfender Zombie
 **Niveau 1 Standard**
 
 Eine belebte Leiche, die sich wackelig bewegt, nur vom Hunger getrieben.
