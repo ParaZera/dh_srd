@@ -531,7 +531,7 @@ Eine schillernde Masse unkontrollierbarer Magie.
 
 **Widerlicher Fluss - Aktion:** Markiere einen TP, um alle Ziele in Naher Reichweite zu zwingen, einen Stress zu markieren und *verwundbar* zu werden, bis zu ihrer nächsten Rast oder bis sie einen TP heilen.
 
-**Realität umgestalten - Aktion:** Gib eine Angstmarke aus, um den Bereich in Sehr Naher Reichweite in ein anderes Biom zu verwandeln.
+**Realität verändern - Aktion:** Gib eine Angstmarke aus, um den Bereich in Sehr Naher Reichweite in ein anderes Biom zu verwandeln.
 Alle Ziele in diesem Bereich erleiden **2W6+3** direkten magischen Schaden.
 
 **Magische Reflexion - Reaktion:** Wenn das Elementar Schaden durch einen Angriff in Naher Reichweite erleidet, verursache dem Angreifer Schaden in Höhe der Hälfte des Schadens, den er verursacht hat.
@@ -571,7 +571,7 @@ Ziele, gegen die das Elementar erfolgreich ist, erleiden **1W8** magischen Schad
 ## Geringer Dämon
 **Niveau 1 Solo**
 
-Eine purpurne Kreatur aus den Kreisen Unten, verzehrt von Wut gegen alle Sterblichen.
+Eine purpurne Kreatur aus den unteren Sphären, verzehrt von Wut gegen alle Sterblichen.
 
 **Motive & Taktiken:** Erratisch handeln, Ziele zusammentreiben, Schmerz genießen, quälen
 
@@ -584,7 +584,7 @@ Eine purpurne Kreatur aus den Kreisen Unten, verzehrt von Wut gegen alle Sterbli
 **Unerbittlich (2) - Passiv:** Der Dämon kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
 Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
-**Alle müssen fallen - Passiv:** Wenn ein SC einen Fehlschlag mit Angst würfelt, während er in Naher Reichweite zum Dämon ist, verliert er eine Hoffnung.
+**Alle müssen leiden - Passiv:** Wenn ein SC einen Fehlschlag mit Angst würfelt, während er in Naher Reichweite zum Dämon ist, verliert er eine Hoffnung.
 
 **Höllenfeuer - Aktion:** Gib eine Angstmarke aus, um Höllenfeuer in Weiter Reichweite regnen zu lassen.
 Alle Ziele im Bereich müssen einen Agilität-Reaktionswurf machen.
@@ -745,7 +745,7 @@ Ein charismatischer Seeräuber mit einem beeindruckenden Hut, begierig darauf zu
 **Verstärkung - Aktion:** Einmal pro Szene markiere einen Stress, um eine Piraten-Räuber-Horde zu beschwören, die in Weiter Reichweite erscheint.
 
 **Keine Gnade - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen, das drei oder mehr Piraten in Nahkampfreichweite hat.
-Der Kapitän führt die Piraten dabei an, Drohungen und Versprechen eines nassen Grabs zu schleudern.
+Der Kapitän führt die Piraten dabei an, Drohungen und Versprechen eines nassen Grabs auszusprechen.
 Das Ziel muss einen Präsenz-Reaktionswurf machen.
 Bei einem Fehlschlag markiert das Ziel **1W4+1** Stress.
 Bei einem Erfolg muss es einen Stress markieren.
@@ -794,7 +794,7 @@ Bei einem Erfolg markiere einen Stress, um dich in Nahkampfreichweite zum Ziel z
 ## Söldner
 **Niveau 1 Lakai**
 
-Ein bewaffneter Söldner, der sein Glück versucht.
+Ein bewaffneter Söldner, der sein Glück sucht.
 
 **Motive & Taktiken:** Angreifen, aufschlitzen, überwältigen, profitieren
 
@@ -843,10 +843,10 @@ Ein klappernder Haufen Knochen.
 
 ### Fähigkeiten
 
-**Lakai (4) - Passiv:** Der Bagger wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 4 Schaden, die ein SC dem Bagger zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+**Lakai (4) - Passiv:** Der Schlurfer wird besiegt, wenn er irgendeinen Schaden erleidet.
+Für alle 4 Schaden, die ein SC dem Schlurfer zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Bagger in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Schlurfer in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 1 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -875,7 +875,7 @@ Bei einem Erfolg erleidet das Ziel **1W4+8** physischen Schaden und verliert **1
 ## Skelett-Krieger
 **Niveau 1 Standard**
 
-Ein erdbedecktes Skelett, bewaffnet mit einer rostigen Klinge.
+Ein hünenhaftes Skelett, bewaffnet mit einer rostigen Klinge.
 
 **Motive & Taktiken:** Tod vortäuschen, zusammenrotten, Haut stehlen
 
@@ -955,9 +955,9 @@ Eine Kreatur, die vom Baum getroffen wird, muss bei einem Agilität-Reaktionswur
 **Einmischen - Reaktion:** Wenn der Soldat einen erfolgreichen Angriff macht, kannst du einen Stress markieren, um Versteckt zu werden bis zum nächsten Angriff des Soldaten oder bis ein SC bei einem Instinkt-Wurf (14) erfolgreich ist, um ihn zu finden.
 
 ## Dorngestrüpp-Schwarm
-**Niveau 1 Horde (/TP)**
+**Niveau 1 Horde (3/TP)**
 
-Eine Ansammlung belebter, bluttrinkender Tumbleweed, jeder von der Größe eines großen Kürbisses.
+Eine Ansammlung belebter, bluttrinkender Steppenläufer, jeder von der Größe eines großen Kürbisses.
 
 **Motive & Taktiken:** Verdauen, verstricken, bewegungsunfähig machen
 
@@ -1012,17 +1012,17 @@ Ein Waffenmeister mit einem Schwert, das doppelt so groß ist wie er selbst.
 
 > **Schwierigkeitsgrad:** 14 | **Schwellen:** 8/15 | **TP:** 6 | **Stress:** 3
 > 
-> **Angriff:** +2 | **Claymore:** Sehr Nah | 1W12+2 phy
+> **Angriff:** +2 | **Breitschwert:** Sehr Nah | 1W12+2 phy
 
 ### Fähigkeiten
 
 **Reizender Schlag - Aktion:** Mache einen Standardangriff gegen ein Ziel.
 Bei einem Erfolg markiere einen Stress, um das Ziel bis zu seinem nächsten erfolgreichen Angriff zu Verspotten.
-Das nächste Mal, wenn das Verspottete Ziel angreift, hat es Nachteil gegen andere Ziele als den Waffenmeister.
+Das nächste Mal, wenn das Verspottete Ziel angreift, hat es einen Nachteil gegen andere Ziele als den Waffenmeister.
 
 **Adrenalinschub - Aktion:** Einmal pro Szene gib eine Angstmarke aus, um 2 TP und 2 Stress zu heilen.
 
-**Schwung - Reaktion:** Wenn der Waffenmeister einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn der Waffenmeister einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angstmarke.
 
 ## Junge Dryade
 **Niveau 1 Anführer**
@@ -1045,7 +1045,7 @@ Bei einem Erfolg verursachen ihre Angriffe halben Schaden.
 **Dorniger Käfig - Aktion:** Gib eine Angstmarke aus, um einen Käfig um ein Ziel in Sehr Naher Reichweite zu formen und es *Festzuhalten*, bis es mit einem erfolgreichen Stärke-Wurf befreit wird.
 Wenn eine Kreatur einen Aktionswurf gegen den Käfig macht, muss sie einen Stress markieren.
 
-**Schwung - Reaktion:** Wenn die Dryade einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn die Dryade einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angstmarke.
 
 ## Muskulöser Zombie
 **Niveau 1 Schläger**
@@ -1074,7 +1074,7 @@ Bei einem Erfolg verursacht der Angriff direkten Schaden.
 ## Flickwerk-Zombie-Koloss
 **Niveau 1 Solo**
 
-Ein ragender Zusammenschluss von Leichen, die sich als eins bewegen, mit rumpfgroßen Gliedmaßen und Fäusten so groß wie ein erwachsener Halbling.
+Eine riesige Menge von ineinander verschlungenen Leichen, die sich als eins bewegen, mit rumpfgroßen Gliedmaßen und Fäusten so groß wie ein erwachsener Halbling.
 
 **Motive & Taktiken:** Leichen absorbieren, um sich schlagen, hungern, terrorisieren
 
