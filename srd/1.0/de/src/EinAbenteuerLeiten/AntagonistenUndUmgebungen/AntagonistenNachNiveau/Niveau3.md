@@ -221,7 +221,7 @@ Ein glühendes Mote elementaren Feuers.
 
 ### Fähigkeiten
 
-**Minion () - Passiv:** Das Elementar wird besiegt, wenn es Schaden erleidet.
+**Minion (9) - Passiv:** Das Elementar wird besiegt, wenn es Schaden erleidet.
 Für jeden 9 Schaden, den ein SC dem Elementar zufügt, besiege ein zusätzliches Minion in Reichweite, gegen das der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Elementaren Funken in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
@@ -241,22 +241,22 @@ Ein lebendiger Erdrutsch aus Felsen und Staub, so groß wie ein Haus.
 
 ### Fähigkeiten
 
-**Langsam - Passiv:** Wenn du den Elementar ins Rampenlicht stellst und er keinen Marker auf seinem Werteblock hat, kann er noch nicht handeln.
+**Langsam - Passiv:** Wenn du das Elementar ins Rampenlicht stellst und er keinen Marker auf seinem Werteblock hat, kann er noch nicht handeln.
 Setze einen Marker auf seinen Werteblock und beschreibe, was er vorbereitet.
-Wenn du den Elementar ins Rampenlicht stellst und er einen Marker auf seinem Werteblock hat, entferne den Marker und er kann handeln.
+Wenn du das Elementar ins Rampenlicht stellst und er einen Marker auf seinem Werteblock hat, entferne den Marker und er kann handeln.
 
-**Zerschmetternde Schläge - Passiv:** Wenn der Elementar einen erfolgreichen Angriff macht, muss das Ziel ein Rüstungsfeld markieren, ohne dessen Vorteile zu erhalten (es kann die Rüstung weiterhin zur Schadensreduzierung verwenden).
+**Zerschmetternde Schläge - Passiv:** Wenn das Elementar einen erfolgreichen Angriff macht, muss das Ziel ein Rüstungsfeld markieren, ohne dessen Vorteile zu erhalten (es kann die Rüstung weiterhin zur Schadensreduzierung verwenden).
 Wenn es kein Rüstungsfeld markieren kann, muss es zusätzlich einen TP markieren.
 
-**Unbeweglicher Gegenstand - Passiv:** Ein Angriff, der den Elementar bewegen würde, bewegt ihn um zwei Reichweiten weniger (zum Beispiel wird weit zu sehr nah).
-Wenn der Elementar physischen Schaden erleidet, reduziere ihn um 7.
+**Unbeweglicher Gegenstand - Passiv:** Ein Angriff, der das Elementar bewegen würde, bewegt ihn um zwei Reichweiten weniger (zum Beispiel wird weit zu sehr nah).
+Wenn das Elementar physischen Schaden erleidet, reduziere ihn um 7.
 
 **Felssturz - Aktion:** Markiere einen Stress, um einen Felssturz zu erzeugen, der das Land vor dem Elementar in Naher Reichweite mit Geröll bedeckt.
 Alle Ziele in diesem Gebiet müssen einen Geschicklichkeits-Reaktionswurf (19) machen.
 Ziele, die scheitern, erleiden **2W12+5** physischen Schaden und werden bis zu ihrem nächsten Wurf mit Hoffnung verwundbar.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
 
-**Schwung - Reaktion:** Wenn der Elementar einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn das Elementar einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
 ## Größeres Wasserelementar
 **Niveau 3 Unterstützer**
@@ -276,10 +276,10 @@ Bei einem Erfolg erleidet das Ziel **2W4+7** physischen Schaden und seine nächs
 Bei einem Fehlschlag muss das Ziel einen Stress markieren.
 
 **Ertrinkende Umarmung - Aktion:** Gib eine Angstmarke aus, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
-Ziele, gegen die der Elementar erfolgreich ist, werden *Eingeschlossen* und *verwundbar*, während sie zu ertrinken beginnen.
+Ziele, gegen die das Elementar erfolgreich ist, werden *Eingeschlossen* und *verwundbar*, während sie zu ertrinken beginnen.
 Ein Ziel kann sich befreien und damit beide Bedingungen beenden, indem es einen erfolgreichen Stärke- oder Instinkt-Wurf macht.
 
-**Hohe Flut - Reaktion:** Wenn der Elementar einen erfolgreichen Standardangriff macht, kannst du einen Stress markieren, um das Ziel auf Nahe Reichweite zurückzustoßen.
+**Hohe Flut - Reaktion:** Wenn das Elementar einen erfolgreichen Standardangriff macht, kannst du einen Stress markieren, um das Ziel auf Nahe Reichweite zurückzustoßen.
 
 ## Riesiger grüner Schleim
 **Niveau 3 Schleicher**

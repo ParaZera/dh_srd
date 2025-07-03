@@ -514,7 +514,7 @@ Ein SC, der bei einem Präsenz-Wurf gegen den Händler scheitert, muss mehr beza
 
 **Hinhalten - Passiv:** Wenn ein SC 14 oder weniger bei einem Präsenz-Wurf gegen den Händler würfelt, muss er einen Stress markieren.
 
-## Geringes Chaos-Elemental
+## Geringes Chaos-Elementar
 **Niveau 1 Solo**
 
 Eine schillernde Masse unkontrollierbarer Magie.
@@ -527,18 +527,18 @@ Eine schillernde Masse unkontrollierbarer Magie.
 
 ### Fähigkeiten
 
-**Arkane Form - Passiv:** Das Elemental ist resistent gegen magischen Schaden.
+**Arkane Form - Passiv:** Das Elementar ist resistent gegen magischen Schaden.
 
 **Widerlicher Fluss - Aktion:** Markiere einen TP, um alle Ziele in Naher Reichweite zu zwingen, einen Stress zu markieren und *verwundbar* zu werden, bis zu ihrer nächsten Rast oder bis sie einen TP heilen.
 
 **Realität umgestalten - Aktion:** Gib eine Angstmarke aus, um den Bereich in Sehr Naher Reichweite in ein anderes Biom zu verwandeln.
 Alle Ziele in diesem Bereich erleiden **2W6+3** direkten magischen Schaden.
 
-**Magische Reflexion - Reaktion:** Wenn das Elemental Schaden durch einen Angriff in Naher Reichweite erleidet, verursache dem Angreifer Schaden in Höhe der Hälfte des Schadens, den er verursacht hat.
+**Magische Reflexion - Reaktion:** Wenn das Elementar Schaden durch einen Angriff in Naher Reichweite erleidet, verursache dem Angreifer Schaden in Höhe der Hälfte des Schadens, den er verursacht hat.
 
-**Schwung - Reaktion:** Wenn das Elemental einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn das Elementar einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
-## Geringes Feuer-Elemental
+## Geringes Feuer-Elementar
 **Niveau 1 Solo**
 
 Eine lebende Flamme von der Größe eines großen Lagerfeuers.
@@ -551,7 +551,7 @@ Eine lebende Flamme von der Größe eines großen Lagerfeuers.
 
 ### Fähigkeiten
 
-**Unerbittlich (2) - Passiv:** Das Elemental kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
+**Unerbittlich (2) - Passiv:** Das Elementar kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
 Gib Angst wie üblich aus, um es ins Rampenlicht zu stellen.
 
 **Verbrannte Erde - Aktion:** Markiere einen Stress, um einen Punkt in Weiter Reichweite zu wählen.
@@ -562,11 +562,11 @@ Ziele, die erfolgreich sind, erleiden halben Schaden.
 
 **Explosion - Aktion:** Gib eine Angstmarke aus, um in einer feurigen Explosion zu zerbersten.
 Mache einen Angriff gegen alle Ziele in Naher Reichweite.
-Ziele, gegen die das Elemental erfolgreich ist, erleiden **1W8** magischen Schaden und werden auf Weite Reichweite zurückgeschleudert.
+Ziele, gegen die das Elementar erfolgreich ist, erleiden **1W8** magischen Schaden und werden auf Weite Reichweite zurückgeschleudert.
 
-**Zunder verzehren - Reaktion:** Drei Mal pro Szene, wenn sich das Elemental auf hochentzündliche Objekte bewegt, verzehre sie, um einen TP oder einen Stress zu heilen.
+**Zunder verzehren - Reaktion:** Drei Mal pro Szene, wenn sich das Elementar auf hochentzündliche Objekte bewegt, verzehre sie, um einen TP oder einen Stress zu heilen.
 
-**Schwung - Reaktion:** Wenn das Elemental einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn das Elementar einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
 ## Geringer Dämon
 **Niveau 1 Solo**
