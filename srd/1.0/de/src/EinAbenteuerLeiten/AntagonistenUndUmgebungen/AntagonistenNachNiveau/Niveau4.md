@@ -223,7 +223,7 @@ Wenn der Seraph bei einem Standardangriff gegen ein Schuldiges Ziel erfolgreich 
 Der Seraph kann nur ein Ziel gleichzeitig markieren.
 
 **Gottesstrahlen - Aktion:** Markiere einen Stress, um einen Splitter der Göttlichkeit als sengenden Lichtstrahl zu reflektieren, der bis zu zwanzig Ziele in Sehr Weiter Reichweite trifft.
-Ziele müssen einen Präsenz-Reaktionswurf machen, mit Nachteil wenn sie als Schuldig markiert sind.
+Ziele müssen einen Präsenz-Reaktionswurf machen, mit einem Nachteil wenn sie als Schuldig markiert sind.
 Ziele, die scheitern, erleiden **4W6+12** magischen Schaden.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
 
@@ -310,7 +310,7 @@ Eine chaotische Verhöhnung des Lebens, ständig im Fluss.
 **Chaotische Form - Passiv:** Wenn die Abscheulichkeit angreift, würfle 2W4 und verwende das Ergebnis als ihren Angriffswert.
 
 **Desorientierende Präsenz - Passive:** Wenn ein Ziel Schaden von der Abscheulichkeit erleidet, muss es einen Instinkt-Reaktionswurf machen.
-Bei einem Fehlschlag erhält es Nachteil auf seinen nächsten Aktionswurf und du erhältst eine Angst.
+Bei einem Fehlschlag erhält es einen Nachteil auf seinen nächsten Aktionswurf und du erhältst eine Angst.
 
 **Realitätsbeben - Aktion:** Gib eine Angstmarke aus, um die Ränder der Realität in einem Bereich in Weiter Reichweite der Abscheulichkeit zu erschüttern.
 Alle Ziele in diesem Bereich müssen einen Wissens-Reaktionswurf bestehen oder bis zum Ende der Szene aus der Realität gefallen sein.
@@ -463,7 +463,7 @@ Wenn der SC keine Hoffnung verlieren kann, muss er einen TP markieren.
 Ziele, gegen die der Aschene Tyrann erfolgreich ist, erleiden **2W20+2** physischen Schaden, werden auf Nahe Reichweite von ihrer ursprünglichen Position zurückgeschleudert und müssen einen Stress markieren.
 
 **Aschenwolke - Aktion:** Gib eine Angstmarke aus, um den Boden zu zerschmettern und Asche in Weiter Reichweite aufzuwirbeln.
-Während es sich in der Aschenwolke befindet, hat ein Ziel Nachteil bei Aktionswürfen.
+Während es sich in der Aschenwolke befindet, hat ein Ziel einen Nachteil bei Aktionswürfen.
 Die Aschenwolke klärt sich auf, wenn das nächste Mal ein Antagonist ins Rampenlicht gestellt wird.
 
 **Apokalyptisches Toben - Aktion:** Countdown (1W12).
@@ -517,4 +517,4 @@ Ein großes Rudel Untoter, immer noch mächtig trotz ihres verwesenden Fleisches
 **Unerbittlich (2) - Passiv:** Die Legion kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
 Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
 
-**Überwältigen - Reaktion:** Wenn die Legion leichten Schaden durch einen Angriff in Nahkampfreichweite erleidet, kannst du einen Stress markieren, um einen Standardangriff mit Vorteil gegen den Angreifer zu machen.
+**Überwältigen - Reaktion:** Wenn die Legion leichten Schaden durch einen Angriff in Nahkampfreichweite erleidet, kannst du einen Stress markieren, um einen Standardangriff mit einem Vorteil gegen den Angreifer zu machen.

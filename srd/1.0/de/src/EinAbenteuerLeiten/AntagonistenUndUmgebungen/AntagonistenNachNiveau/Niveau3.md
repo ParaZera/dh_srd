@@ -31,7 +31,7 @@ Für jedes Ziel, das scheitert, erhältst du eine Angst und der Flimmerflügel e
 Wenn der Flimmerflügel zum ersten Mal Schaden erleidet, aktiviere den Countdown.
 Wenn er auslöst, atmet der Flimmerflügel halluzinatorisches Gas auf alle Ziele vor ihm bis zu Weiter Reichweite.
 Ziele müssen einen Instinkt-Reaktionswurf machen oder von furchteinflößenden Halluzinationen gequält werden.
-Ziele, deren Ängste dem Flimmerflügel bekannt sind, haben Nachteil bei diesem Wurf.
+Ziele, deren Ängste dem Flimmerflügel bekannt sind, haben bei diesem Wurf einen Nachteil.
 Ziele, die scheitern, verlieren 2 Hoffnung und erleiden **3W8+3** direkten magischen Schaden.
 
 **Unheimliche Reflexe - Reaktion:** Wenn der Flimmerflügel Schaden durch einen Angriff in Naher Reichweite erleidet, kannst du einen Stress markieren, um halben Schaden zu erleiden.
@@ -272,7 +272,7 @@ Eine riesige lebende Welle, die auf Feinde herabstürzt.
 ### Fähigkeiten
 
 **Wasserstrahl - Aktion:** Markiere einen Stress, um ein Ziel in Sehr Naher Reichweite anzugreifen.
-Bei einem Erfolg erleidet das Ziel **2W4+7** physischen Schaden und seine nächste Aktion hat Nachteil.
+Bei einem Erfolg erleidet das Ziel **2W4+7** physischen Schaden und seine nächste Aktion hat einen Nachteil.
 Bei einem Fehlschlag muss das Ziel einen Stress markieren.
 
 **Ertrinkende Umarmung - Aktion:** Gib eine Angstmarke aus, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
@@ -491,7 +491,7 @@ Ein kastenförmiges, staubbedecktes Konstrukt mit dicken metallischen Schwingtü
 
 ### Fähigkeiten
 
-**Blockierender Schild - Passiv:** Kreaturen in Nahkampfreichweite zum Kerkermeister haben Nachteil bei Angriffswürfen gegen ihn.
+**Blockierender Schild - Passiv:** Kreaturen in Nahkampfreichweite zum Kerkermeister haben einen Nachteil bei Angriffswürfen gegen ihn.
 Kreaturen, die im Kerkermeister gefangen sind, sind immun gegen diese Fähigkeit.
 
 **Einschließen - Aktion:** Markiere einen Stress, um einen Angriff gegen ein Ziel in Sehr Naher Reichweite zu machen.
@@ -514,7 +514,7 @@ Ein staubbedecktes goldenes Konstrukt mit kastenförmigen Gliedmaßen und einem 
 **Kinetischer Schlag - Passiv:** Ziele, die Schaden durch den Standardangriff des Wächters erleiden, werden auf Sehr Nahe Reichweite zurückgeschleudert.
 
 **Einkreisen - Aktion:** Markiere einen Stress, um ein Ziel in Sehr Naher Reichweite zu wählen, auf das du dich konzentrierst.
-Dieses Ziel hat Nachteil bei Angriffswürfen, wenn es in Sehr Naher Reichweite zum Wächter ist.
+Dieses Ziel hat einen Nachteil bei Angriffswürfen, wenn es in Sehr Naher Reichweite zum Wächter ist.
 Der Wächter kann sich nur auf ein Ziel gleichzeitig konzentrieren.
 
 **Mana-Geschoss - Aktion:** Gib eine Angstmarke aus, um explosive Magie auf einen Punkt in Weiter Reichweite zu schleudern.
@@ -583,6 +583,6 @@ Alle Ziele in diesem Bereich müssen bei einem Instinkt-Reaktionswurf erfolgreic
 Für jeden SC, der den Reaktionswurf verfehlt, erhältst du eine Angst.
 
 **Gefrorene Schuppen - Reaktion:** Wenn eine Kreatur einen erfolgreichen Angriff gegen den Drachen aus Sehr Naher Reichweite macht, muss sie einen Stress markieren und wird Unterkühlt bis zu ihrer nächsten Rast oder bis sie einen Stress heilt.
-Während sie Unterkühlt sind, haben sie Nachteil bei Angriffswürfen.
+Während sie Unterkühlt sind, haben sie einen Nachteil bei Angriffswürfen.
 
 **Schwung - Reaktion:** Wenn der Drache einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.

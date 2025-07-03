@@ -16,7 +16,7 @@ Eine Gruppe ausgebildeter Bogenschützen mit massiven Bögen.
 **Horde (1W6+3) - Passiv:** Wenn das Geschwader die Hälfte oder mehr seiner TP markiert hat, verursacht sein Standardangriff stattdessen **1W6+3** physischen Schaden.
 
 **Fokussierte Salve - Aktion:** Gib eine Angstmarke aus, um einen Punkt in Weiter Reichweite zu visieren.
-Mache einen Angriff mit Vorteil gegen alle Ziele in Naher Reichweite zu diesem Punkt.
+Mache einen Angriff mit einem Vorteil gegen alle Ziele in Naher Reichweite zu diesem Punkt.
 Ziele, gegen die das Geschwader erfolgreich ist, erleiden **1W10+4** physischen Schaden.
 
 **Unterdrückungsfeuer - Aktion:** Markiere einen Stress, um einen Punkt in Weiter Reichweite zu visieren.
@@ -64,10 +64,10 @@ Ein listiger Schurke, geschickt sowohl in Giften als auch im Hinterhalt.
 
 **Grindletooth-Gift - Passiv:** Ziele, die TP durch die Angriffe des Attentäters markieren, sind *verwundbar*, bis sie einen TP heilen.
 
-**Aus dem Nichts - Passiv:** Der Attentäter hat Vorteil bei Angriffen, wenn er Versteckt ist.
+**Aus dem Nichts - Passiv:** Der Attentäter hat einen Vorteil bei Angriffen, wenn er Versteckt ist.
 
 **Begasung - Aktion:** Wirf eine Rauchbombe, die die Luft in Naher Reichweite mit Rauch füllt und alle Ziele in diesem Bereich *Benommen* macht.
-Benommene Ziele haben Nachteil bei ihrem nächsten Aktionswurf und entfernen dann den Zustand.
+Benommene Ziele haben einen Nachteil bei ihrem nächsten Aktionswurf und entfernen dann den Zustand.
 
 ## Meister-Attentäter
 **Niveau 2 Anführer**
@@ -428,7 +428,7 @@ Ein schlangenköpfiger, schuppiger Humanoider mit einem vergoldeten Bogen, wüte
 
 **Unerbittlich (2) - Passiv:** Die Gorgone kann bis zu zwei Mal pro GM-Zug ins Rampenlicht gestellt werden. Gib Angst wie üblich aus, um sie ins Rampenlicht zu stellen.
 
-**Sonnenbrenner-Pfeile - Passiv:** Wenn die Gorgone einen erfolgreichen Standardangriff ausführt, leuchtet das Ziel bis zum Ende der Szene und kann nicht mehr versteckt werden. Angriffswürfe gegen ein leuchtendes Ziel haben Vorteil.
+**Sonnenbrenner-Pfeile - Passiv:** Wenn die Gorgone einen erfolgreichen Standardangriff ausführt, leuchtet das Ziel bis zum Ende der Szene und kann nicht mehr versteckt werden. Angriffswürfe gegen ein leuchtendes Ziel haben einen Vorteil.
 
 **Schlangenkronen - Aktion:** Mache einen Angriffswurf gegen ein Ziel in Nahkampfreichweite mit den schützenden Schlangen der Gorgone. Bei einem Erfolg markiere einen Stress, um **2W10+4** physischen Schaden zuzufügen und das Ziel muss einen Stress markieren.
 
@@ -452,11 +452,11 @@ Ein pferdegroßes Insekt mit irisierenden Schuppen und kristallinen Flügeln, da
 
 **Unerbittlich (3) - Passiv:** Die Flickerfly kann bis zu drei Mal pro GM-Zug ins Rampenlicht gestellt werden. Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
 
-**Unvergleichliche Genauigkeit - Passiv:** Bevor die Flickerfly einen Angriff ausführt, würfle einen W6. Bei einem Ergebnis von 4 oder höher wird die Ausweichfähigkeit des Ziels gegen diesen Angriff halbiert.
+**Unvergleichliche Genauigkeit - Passiv:** Bevor der Flickerflügel einen Angriff ausführt, würfle einen W6. Bei einem Ergebnis von 4 oder höher wird die Ausweichfähigkeit des Ziels gegen diesen Angriff halbiert.
 
-**Geisteshauch - Aktion:** Markiere einen Stress, um eine magisch blendende Darstellung zu erzeugen, die die Gedanken der nahegelegenen Feinde ergreift. Alle Ziele in Naher Reichweite müssen einen Instinkt-Reaktionswurf machen. Für jedes Ziel, das gescheitert ist, erhältst du eine Angst und die Flickerfly erfährt eine der Ängste des Ziels.
+**Geisteshauch - Aktion:** Markiere einen Stress, um eine magisch blendende Darstellung zu erzeugen, die die Gedanken der nahegelegenen Feinde ergreift. Alle Ziele in Naher Reichweite müssen einen Instinkt-Reaktionswurf machen. Für jedes Ziel, das gescheitert ist, erhältst du eine Angst und der Flickerflügel erfährt eine der Ängste des Ziels.
 
-**Halluzinatorischer Atem - Reaktion:** Countdown (Schleife 1W6). Wenn die Flickerfly zum ersten Mal Schaden erleidet, aktiviere den Countdown. Wenn er auslöst, atmet die Flickerfly halluzinatorisches Gas auf alle Ziele vor ihnen bis zu Weiter Reichweite aus. Die Ziele müssen einen Instinkt-Reaktionswurf bestehen oder von angsteinflößenden Halluzinationen gequält werden. Ziele, deren Ängste der Flickerfly bekannt sind, haben bei diesem Wurf Nachteil. Ziele, die scheitern, müssen einen Stress markieren und einen Hoffnungspunkt verlieren.
+**Halluzinatorischer Atem - Reaktion:** Countdown (Schleife 1W6). Wenn der Flickerflügel zum ersten Mal Schaden erleidet, aktiviere den Countdown. Wenn er auslöst, atmet der Flickerflügel halluzinatorisches Gas auf alle Ziele vor ihnen bis zu Weiter Reichweite aus. Die Ziele müssen einen Instinkt-Reaktionswurf bestehen oder von angsteinflößenden Halluzinationen gequält werden. Ziele, deren Ängste der Flickerfly bekannt sind, haben bei diesem Wurf einen Nachteil. Ziele, die scheitern, müssen einen Stress markieren und einen Hoffnungspunkt verlieren.
 
 ## Ritter des Reiches
 **Niveau 2 Anführer**

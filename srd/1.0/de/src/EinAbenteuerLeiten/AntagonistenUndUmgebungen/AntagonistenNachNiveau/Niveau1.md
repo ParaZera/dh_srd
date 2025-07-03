@@ -106,7 +106,7 @@ Ziele, gegen die das Konstrukt erfolgreich ist, erleiden **1W8** physischen Scha
 Das Konstrukt kann dann wieder das Rampenlicht übernehmen.
 
 **Todesbeben - Reaktion:** Wenn das Konstrukt seinen letzten TP markiert, bricht die Magie, die ihn antreibt, in einer Kraftexplosion zusammen.
-Mache einen Angriff mit Vorteil gegen alle Ziele in Sehr Naher Reichweite.
+Mache einen Angriff mit einem Vorteil gegen alle Ziele in Sehr Naher Reichweite.
 Ziele, gegen die das Konstrukt erfolgreich ist, erleiden **1W12+2** magischen Schaden.
 
 ## Hofbeamte
@@ -149,14 +149,14 @@ Eine stämmige Pflanzenperson mit greifenden Ranken.
 Jedes auf diese Weise zurückgestoßene Ziel muss einen Stress markieren.
 
 **Greifen und Zerren - Aktion:** Mache einen Angriff gegen ein Ziel in Naher Reichweite.
-Bei einem Erfolg gib eine Angstmarke aus, um es in Nahkampfreichweite zu ziehen, verursache **1W6+2** physischen Schaden und halte es *Festgehalten*, bis der Verteidiger verheerenden Schaden erleidet.
+Bei einem Erfolg gib eine Angstmarke aus, um es in Nahkampfreichweite zu ziehen, verursache **1W6+2** physischen Schaden. Das Ziel ist *Festgehalten*, bis der Verteidiger verheerenden Schaden erleidet.
 
 ## Schatten-Wolf
 **Niveau 1 Schleicher**
 
-Ein großer Wolf mit bedrohlichen Zähnen, selten allein angetroffen.
+Ein großer Wolf mit bedrohlichen Zähnen, selten allein anzutreffen.
 
-**Motive & Taktiken:** Territorium verteidigen, belästigen, Rudel beschützen, umzingeln, verfolgen
+**Motive & Taktiken:** Territorium verteidigen, jagen, Rudel beschützen, umzingeln, verfolgen
 
 > **Schwierigkeitsgrad:** 12 | **Schwellen:** 5/9 | **TP:** 4 | **Stress:** 3
 > 
@@ -174,7 +174,7 @@ Bei einem Erfolg verursache **3W4+10** direkten physischen Schaden und mache es 
 ## Riesen-Moskitos
 **Niveau 1 Horde (/TP)**
 
-Dutzende faustgroße Moskitos, die zusammen zum Schutz fliegen.
+Dutzende faustgroße Moskitos, die als Schutz zusammen fliegen.
 
 **Motive & Taktiken:** Wegfliegen, belästigen, Blut stehlen
 
@@ -197,7 +197,7 @@ Dutzende faustgroße Moskitos, die zusammen zum Schutz fliegen.
 
 Ein katzengroßes Nagetier, geschickt im Sammeln und Überleben.
 
-**Motive & Taktiken:** Graben, Hunger, sammeln, zermürben
+**Motive & Taktiken:** Graben, hungern, sammeln, zermürben
 
 > **Schwierigkeitsgrad:** 10 | **Schwellen:** Keine | **TP:** 1 | **Stress:** 1
 > 
@@ -218,7 +218,7 @@ Kombiniere diesen Schaden.
 ## Riesen-Skorpion
 **Niveau 1 Schläger**
 
-Ein menschengroßer Spinnentier mit reißenden Scheren und einem stechenden Schwanz.
+Ein menschengroßes Spinnentier mit reißenden Scheren und einem stechenden Schwanz.
 
 **Motive & Taktiken:** Hinterhalt, füttern, ringen, vergiften
 
@@ -233,19 +233,19 @@ Ein menschengroßer Spinnentier mit reißenden Scheren und einem stechenden Schw
 **Doppelschlag - Aktion:** Markiere einen Stress, um einen Standardangriff gegen zwei Ziele in Nahkampfreichweite zu machen.
 
 **Giftiger Stachel - Aktion:** Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
-Bei einem Erfolg gib eine Angstmarke aus, um **1W4+4** physischen Schaden zu verursachen und es zu vergiften, bis zu seiner nächsten Rast oder bis es bei einem Wissen-Wurf (16) erfolgreich ist.
+Bei einem Erfolg gib eine Angstmarke aus, um **1W4+4** physischen Schaden zu verursachen und es zu vergiften. Die Vergiftung hält bis zu seiner nächsten Rast oder bis es bei einem Wissen-Wurf (16) erfolgreich ist and.
 Während es vergiftet ist, muss das Ziel einen W6 würfeln, bevor es einen Aktionswurf macht.
 Bei einem Ergebnis von 4 oder weniger muss es einen Stress markieren.
 
-**Schwung - Reaktion:** Wenn der Skorpion einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn der Skorpion einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angstmarke.
 
 
 ## Glas-Schlange
 **Niveau 1 Standard**
 
-Eine klare Schlange mit einem massiven Kopf, die überall, wo sie hingeht, eine Glassplitter-Spur hinterlässt.
+Eine durchsichtige Schlange mit einem massiven Kopf, die überall, wo sie hingeht, eine Glassplitter-Spur hinterlässt.
 
-**Motive & Taktiken:** Klettern, füttern, Abstand halten, erschrecken
+**Motive & Taktiken:** Klettern, fressen, Abstand halten, erschrecken
 
 > **Schwierigkeitsgrad:** 14 | **Schwellen:** 6/10 | **TP:** 5 | **Stress:** 3
 > 
@@ -256,7 +256,7 @@ Eine klare Schlange mit einem massiven Kopf, die überall, wo sie hingeht, eine 
 **Rüstungs-zerfetzende Splitter - Passiv:** Bei einem erfolgreichen Angriff in Nahkampfreichweite gegen die Schlange muss der Angreifer ein Rüstungsfeld markieren, ohne dessen Vorteile zu erhalten (er kann trotzdem Rüstung verwenden, um den Schaden zu reduzieren).
 Wenn er kein Rüstungsfeld markieren kann, muss er einen zusätzlichen TP markieren.
 
-**Wirbelnde Schlange - Aktion:** Markiere einen Stress, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
+**Wirbelnde Schlingen - Aktion:** Markiere einen Stress, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
 Ziele, gegen die die Schlange erfolgreich ist, erleiden **1W6+1** physischen Schaden.
 
 **Spucker - Aktion:** Gib eine Angstmarke aus, um einen W6 Spucker-Würfel einzuführen.
@@ -267,19 +267,19 @@ Die Schlange kann in diesem SL-Zug ein zweites Mal das Rampenlicht übernehmen.
 ## Habicht
 **Niveau 1 Standard**
 
-Ein wendiger Kämpfer, bewaffnet mit Speeren.
+Ein wendiger Kämpfer, bewaffnet mit Krallen.
 
-**Motive & Taktiken:** Flanke, belästigen, ködern, profitieren
+**Motive & Taktiken:** Flanke, jagen, ködern, profitieren
 
 > **Schwierigkeitsgrad:** 12 | **Schwellen:** 5/9 | **TP:** 3 | **Stress:** 3
 > 
-> **Angriff:** +1 | **Speer:** Nah | 1W6+2 phy
+> **Angriff:** +1 | **Krallen:** Nah | 1W6+2 phy
 > 
 > **Erfahrung:** Tarnung +2
 
 ### Fähigkeiten
 
-**Abstand halten - Passiv:** Nach einem Standardangriff kann sich der Hetzer überall in Weiter Reichweite bewegen.
+**Abstand halten - Passiv:** Nach einem Standardangriff kann sich der Habicht überall in Weiter Reichweite bewegen.
 
 **Rückzug - Reaktion:** Wenn sich eine Kreatur in Nahkampfreichweite bewegt, um einen Angriff zu machen, kannst du vor dem Angriffswurf einen Stress markieren, um dich überall in Naher Reichweite zu bewegen und einen Angriff gegen diese Kreatur zu machen.
 Bei einem Erfolg verursache **1W10+2** physischen Schaden.
@@ -289,7 +289,7 @@ Bei einem Erfolg verursache **1W10+2** physischen Schaden.
 
 Eine große Wache mit einem Langbogen und Köcher mit Pfeilen, die in den Farben der Siedlung befiedert sind.
 
-**Motive & Taktiken:** Verhaften, Tore schließen, den Tag überstehen, festnageln
+**Motive & Taktiken:** Verhaften, Tore schließen, den Tag überstehen, Gegner festsetzen
 
 > **Schwierigkeitsgrad:** 10 | **Schwellen:** 4/8 | **TP:** 3 | **Stress:** 2
 > 
@@ -301,14 +301,14 @@ Eine große Wache mit einem Langbogen und Köcher mit Pfeilen, die in den Farben
 
 **Lähmender Schuss - Aktion:** Mache einen Angriff gegen ein Ziel in Weiter Reichweite.
 Bei einem Erfolg markiere einen Stress, um **1W12+3** physischen Schaden zu verursachen.
-Wenn das Ziel durch diesen Angriff TP markiert, hat es Nachteil bei Agilität-Würfen, bis es mindestens 1 TP heilt.
+Wenn das Ziel durch diesen Angriff TP markiert, hat es einen Nachteil bei Agilität-Würfen, bis es mindestens 1 TP heilt.
 
 ## Klingen-Wache
 **Niveau 1 Standard**
 
 Eine gepanzerte Wache mit einem Schwert und Schild, die in den Farben der Siedlung bemalt sind.
 
-**Motive & Taktiken:** Verhaften, Tore schließen, den Tag überstehen, festnageln
+**Motive & Taktiken:** Verhaften, Tore schließen, den Tag überstehen, Gegner festsetzen
 
 > **Schwierigkeitsgrad:** 12 | **Schwellen:** 5/9 | **TP:** 5 | **Stress:** 2
 > 
@@ -324,12 +324,12 @@ Wenn zusätzliche Klingen-Wachen in einer Linie neben der ersten stehen und jede
 **Festhalten - Aktion:** Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
 Bei einem Erfolg markiere einen Stress, um das Ziel *Festzuhalten*, bis es sich mit einem erfolgreichen Angriff, Finesse-Wurf oder Stärke-Wurf befreit.
 
-## Haupt-Wache
+## Hauptmann der Wache
 **Niveau 1 Anführer**
 
 Eine erfahrene Wache mit einem Streitkolben, einer Pfeife und einer brüllenden Stimme.
 
-**Motive & Taktiken:** Verhaften, Tore schließen, festnageln, Ruhm suchen
+**Motive & Taktiken:** Verhaften, Tore schließen, Gegner festsetzen, Ruhm suchen
 
 > **Schwierigkeitsgrad:** 15 | **Schwellen:** 7/13 | **TP:** 7 | **Stress:** 3
 > 
@@ -339,15 +339,15 @@ Eine erfahrene Wache mit einem Streitkolben, einer Pfeife und einer brüllenden 
 
 ### Fähigkeiten
 
-**Wachen sammeln - Aktion:** Gib 2 Angstmarken aus, um die Haupt-Wache und bis zu 2W4 Verbündete in Weiter Reichweite ins Rampenlicht zu stellen.
+**Wachen sammeln - Aktion:** Gib 2 Angstmarken aus, um den Hauptmann der Wache und bis zu 2W4 Verbündete in Weiter Reichweite ins Rampenlicht zu stellen.
 
 **Auf mein Signal - Reaktion:** Countdown (5).
-Wenn die Haupt-Wache zum ersten Mal im Rampenlicht steht, aktiviere den Countdown.
+Wenn der Hauptmann der Wache zum ersten Mal im Rampenlicht steht, aktiviere den Countdown.
 Er reduziert sich, wenn ein SC einen Angriffswurf macht.
-Wenn er ausgelöst wird, machen alle Bogenschützen-Wachen in Weiter Reichweite einen Standardangriff mit Vorteil gegen das nächste Ziel in ihrer Reichweite.
+Wenn er ausgelöst wird, machen alle Bogenschützen-Wachen in Weiter Reichweite einen Standardangriff mit einem Vorteil gegen das nächste Ziel in ihrer Reichweite.
 Wenn mehrere Angriffe gegen dasselbe Ziel erfolgreich sind, kombiniere ihren Schaden.
 
-**Schwung - Reaktion:** Wenn die Haupt-Wache einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn der Hauptmann der Wache einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angstmarke.
 
 ## Zackenklinge-Bandit
 **Niveau 1 Standard**
@@ -371,7 +371,7 @@ Ein listiger Krimineller in einem Umhang mit einem der charakteristischen Messer
 ## Zackenklinge-Hexer
 **Niveau 1 Unterstützer**
 
-Ein stabführender Bandit in einem Umhang, geschmückt mit magischen Utensilien, der Flüche einsetzt, um Feinde zu ärgern.
+Ein stabführender Bandit in einem Umhang, geschmückt mit magischen Utensilien, der Flüche einsetzt, um Feinde zu stören.
 
 **Motive & Taktiken:** Befehligen, verfluchen, profitieren
 
@@ -392,7 +392,7 @@ Markiere einen Stress, um **2W6+3** magischen Schaden an Zielen zu verursachen, 
 ## Zackenklinge-Kniebrecher
 **Niveau 1 Schläger**
 
-Ein einschüchternder Raufbold mit einer großen Keule.
+Ein einschüchternder Hüne mit einer großen Keule.
 
 **Motive & Taktiken:** Ringen, einschüchtern, profitieren, stehlen
 
@@ -406,9 +406,9 @@ Ein einschüchternder Raufbold mit einer großen Keule.
 
 **Ich hab sie - Passiv:** Kreaturen, die vom Kniebrecher *Festgehalten* werden, erleiden doppelten Schaden von Angriffen anderer Antagonisten.
 
-**Niederhalten - Aktion:** Mache einen Angriff gegen ein Ziel in Nahkampfreichweite.
+**Unterdrücken - Aktion:** Mache einen Angriff gegen ein Ziel in Nahkampfreichweite.
 Bei einem Erfolg erleidet das Ziel keinen Schaden, ist aber *Festgehalten* und *verwundbar*.
-Das Ziel kann sich befreien und beide Zustände beenden mit einem erfolgreichen Stärke-Wurf oder wird automatisch befreit, wenn der Kniebrecher schweren oder größeren Schaden erleidet.
+Das Ziel kann sich befreien und beide Zustände mit einem erfolgreichen Stärke-Wurf beenden oder wird automatisch befreit, wenn der Kniebrecher mindestens schweren Schaden erleidet.
 
 ## Zackenklinge-Lakai
 **Niveau 1 Lakai**
@@ -436,7 +436,7 @@ Kombiniere diesen Schaden.
 ## Zackenklinge-Leutnant
 **Niveau 1 Anführer**
 
-Ein erfahrener Bandit in hochwertigen Ledern mit starker Stimme und listigen Augen.
+Ein erfahrener Bandit in hochwertiger Lederrüstung mit starker Stimme und listigen Augen.
 
 **Motive & Taktiken:** Mobben, befehligen, profitieren, verstärken
 
@@ -460,7 +460,7 @@ Bei einem Erfolg verursache **2W6+12** physischen Schaden und das Ziel muss eine
 ## Zackenklinge-Schatten
 **Niveau 1 Schleicher**
 
-Ein wendiger Schurke mit einem bösen Messer, der Schattenmagie nutzt, um Ziele zu isolieren.
+Ein gewandter Schurke mit einem abscheulichen Messer, der Schattenmagie nutzt, um Ziele zu isolieren.
 
 **Motive & Taktiken:** Hinterhalt, verbergen, teilen, profitieren
 
@@ -472,10 +472,10 @@ Ein wendiger Schurke mit einem bösen Messer, der Schattenmagie nutzt, um Ziele 
 
 ### Fähigkeiten
 
-**Heimtücke - Passiv:** Wenn der Schatten bei einem Standardangriff erfolgreich ist, der Vorteil hat, verursacht er stattdessen **1W6+6** physischen Schaden anstelle seines Standardschadens.
+**Heimtücke - Passiv:** Wenn der Schatten bei einem Standardangriff erfolgreich ist, der einen Vorteil hat, verursacht er stattdessen **1W6+6** physischen Schaden anstelle seines Standardschadens.
 
 **Verhüllt - Aktion:** Werde Versteckt bis nach dem nächsten Angriff des Schattens.
-Angriffe, die gemacht werden, während man durch diese Fähigkeit Versteckt ist, haben Vorteil.
+Angriffe, die gemacht werden, während man durch diese Fähigkeit Versteckt ist, haben einen Vorteil.
 
 ## Zackenklinge-Scharfschütze
 **Niveau 1 Fernkampf**
@@ -510,7 +510,7 @@ Ein fein gekleideter Händler mit einem scharfen Blick für finanziellen Gewinn.
 ### Fähigkeiten
 
 **Vorzugsbehandlung - Passiv:** Ein SC, der bei einem Präsenz-Wurf gegen den Händler erfolgreich ist, erhält einen Rabatt beim Kauf.
-Ein SC, der bei einem Präsenz-Wurf gegen den Händler scheitert, muss mehr bezahlen und hat Nachteil bei zukünftigen Präsenz-Würfen gegen den Händler.
+Ein SC, der bei einem Präsenz-Wurf gegen den Händler scheitert, muss mehr bezahlen und hat einen Nachteil bei zukünftigen Präsenz-Würfen gegen den Händler.
 
 **Hinhalten - Passiv:** Wenn ein SC 14 oder weniger bei einem Präsenz-Wurf gegen den Händler würfelt, muss er einen Stress markieren.
 
@@ -723,7 +723,7 @@ Ein reich gekleideter und geschmückter Aristokrat voller Hybris.
 
 **Verbannung - Aktion:** Gib eine Angstmarke aus und visiere einen SC an.
 Der Adlige verkündet, dass das Ziel und seine Verbündeten aus dem Territorium des Adligen verbannt sind.
-Während sie verbannt sind, haben das Ziel und seine Verbündeten Nachteil bei sozialen Situationen in der Domäne des Adligen.
+Während sie verbannt sind, haben das Ziel und seine Verbündeten einen Nachteil bei sozialen Situationen in der Domäne des Adligen.
 
 ## Piraten-Kapitän
 **Niveau 1 Anführer**
@@ -930,7 +930,7 @@ Eine huschende Masse gewöhnlicher Nagetiere, die sich wie eine gefräßige Well
 
 **Horde (1W4+1) - Passiv:** Wenn der Schwarm die Hälfte oder mehr seiner TP markiert hat, verursacht sein Standardangriff stattdessen **1W4+1** physischen Schaden.
 
-**Ins Gesicht - Passiv:** Alle Ziele in Nahkampfreichweite haben Nachteil bei Angriffen gegen andere Ziele als den Schwarm.
+**Ins Gesicht - Passiv:** Alle Ziele in Nahkampfreichweite haben einen Nachteil bei Angriffen gegen andere Ziele als den Schwarm.
 
 ## Sylvanischer Soldat
 **Niveau 1 Standard**
