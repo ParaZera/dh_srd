@@ -17,14 +17,14 @@
  ### Fähigkeiten
  
  **Unerbittlich (3) - Passiv**: Der Gräber kann bis zu drei Mal pro SL-Zug ins Rampenlicht gestellt werden.
- Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+ Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
  
  **Erderuption** - Aktion: Markiere einen Stress, damit der Gräber aus dem Boden hervorbricht.
  Alle Kreaturen in Sehr Naher Reichweite müssen bei einem Agilität-Reaktionswurf erfolgreich sein oder werden umgeworfen, was sie *verwundbar* macht, bis sie das nächste Mal handeln.
  
  **Säure spucken - Aktion**: Mache einen Angriff gegen alle Ziele vor dem Gräber in Naher Reichweite.
  Ziele, gegen die der Gräber erfolgreich ist, erleiden **2W6** physischen Schaden und müssen ein Rüstungsfeld markieren, ohne dessen Vorteile zu erhalten (sie können trotzdem Rüstung verwenden, um den Schaden zu reduzieren).
- Wenn sie kein Rüstungsfeld markieren können, müssen sie einen zusätzlichen TP markieren und du erhältst einen Angstpunkt.
+ Wenn sie kein Rüstungsfeld markieren können, müssen sie einen zusätzlichen TP markieren und du erhältst eine Angstmarke.
  
  **Säurebad - Reaktion**: Wenn der Gräber verheerenden Schaden erleidet, werden alle Kreaturen in Naher Reichweite in seinem sauren Blut gebadet und erleiden **1W10** physischen Schaden.
  Diese Spritzer bedecken den Boden in Sehr Naher Reichweite mit Blut, und alle Kreaturen außer dem Gräber, die sich hindurchbewegen, erleiden **1W6** physischen Schaden.
@@ -127,7 +127,7 @@ Eine ehrgeizige und protzig gekleidete Gesellschaftsperson.
 **Spott - Aktion:** Markiere einen Stress, um etwas Spöttisches zu sagen und ein Ziel in Naher Reichweite zu zwingen, einen Präsenz-Reaktionswurf (14) zu machen, um zu sehen, ob es das Gesicht wahren kann.
 Bei einem Fehlschlag muss das Ziel 2 Stress markieren und ist *verwundbar*, bis die Szene endet.
 
-**Sündenbock - Aktion:** Gib eine Angst aus und visiere einen SC an.
+**Sündenbock - Aktion:** Gib eine Angstmarke aus und visiere einen SC an.
 Die Hofbeamte überzeugt eine Menge oder eine prominente Person, dass das Ziel die Ursache ihres aktuellen Konflikts oder Unglücks ist.
 
 ## Tiefwurzel-Verteidiger
@@ -149,7 +149,7 @@ Eine stämmige Pflanzenperson mit greifenden Ranken.
 Jedes auf diese Weise zurückgestoßene Ziel muss einen Stress markieren.
 
 **Greifen und Zerren - Aktion:** Mache einen Angriff gegen ein Ziel in Naher Reichweite.
-Bei einem Erfolg gib eine Angst aus, um es in Nahkampfreichweite zu ziehen, verursache **1W6+2** physischen Schaden und halte es *Festgehalten*, bis der Verteidiger verheerenden Schaden erleidet.
+Bei einem Erfolg gib eine Angstmarke aus, um es in Nahkampfreichweite zu ziehen, verursache **1W6+2** physischen Schaden und halte es *Festgehalten*, bis der Verteidiger verheerenden Schaden erleidet.
 
 ## Schatten-Wolf
 **Niveau 1 Schleicher**
@@ -210,7 +210,7 @@ Ein katzengroßes Nagetier, geschickt im Sammeln und Überleben.
 **Lakai (3) - Passiv:** Die Ratte wird besiegt, wenn sie irgendeinen Schaden erleidet.
 Für alle 3 Schaden, die ein SC der Ratte zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Riesen-Ratten in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Riesen-Ratten in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 1 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -233,7 +233,7 @@ Ein menschengroßer Spinnentier mit reißenden Scheren und einem stechenden Schw
 **Doppelschlag - Aktion:** Markiere einen Stress, um einen Standardangriff gegen zwei Ziele in Nahkampfreichweite zu machen.
 
 **Giftiger Stachel - Aktion:** Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
-Bei einem Erfolg gib eine Angst aus, um **1W4+4** physischen Schaden zu verursachen und es zu vergiften, bis zu seiner nächsten Rast oder bis es bei einem Wissen-Wurf (16) erfolgreich ist.
+Bei einem Erfolg gib eine Angstmarke aus, um **1W4+4** physischen Schaden zu verursachen und es zu vergiften, bis zu seiner nächsten Rast oder bis es bei einem Wissen-Wurf (16) erfolgreich ist.
 Während es vergiftet ist, muss das Ziel einen W6 würfeln, bevor es einen Aktionswurf macht.
 Bei einem Ergebnis von 4 oder weniger muss es einen Stress markieren.
 
@@ -259,7 +259,7 @@ Wenn er kein Rüstungsfeld markieren kann, muss er einen zusätzlichen TP markie
 **Wirbelnde Schlange - Aktion:** Markiere einen Stress, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
 Ziele, gegen die die Schlange erfolgreich ist, erleiden **1W6+1** physischen Schaden.
 
-**Spucker - Aktion:** Gib eine Angst aus, um einen W6 Spucker-Würfel einzuführen.
+**Spucker - Aktion:** Gib eine Angstmarke aus, um einen W6 Spucker-Würfel einzuführen.
 Wenn die Schlange im Rampenlicht steht, würfle diesen Würfel.
 Bei einem Ergebnis von 5 oder höher müssen alle Ziele vor der Schlange in Weiter Reichweite bei einem Agilität-Reaktionswurf erfolgreich sein oder **1W4** physischen Schaden erleiden.
 Die Schlange kann in diesem SL-Zug ein zweites Mal das Rampenlicht übernehmen.
@@ -339,7 +339,7 @@ Eine erfahrene Wache mit einem Streitkolben, einer Pfeife und einer brüllenden 
 
 ### Fähigkeiten
 
-**Wachen sammeln - Aktion:** Gib 2 Angst aus, um die Haupt-Wache und bis zu 2W4 Verbündete in Weiter Reichweite ins Rampenlicht zu stellen.
+**Wachen sammeln - Aktion:** Gib 2 Angstmarken aus, um die Haupt-Wache und bis zu 2W4 Verbündete in Weiter Reichweite ins Rampenlicht zu stellen.
 
 **Auf mein Signal - Reaktion:** Countdown (5).
 Wenn die Haupt-Wache zum ersten Mal im Rampenlicht steht, aktiviere den Countdown.
@@ -428,7 +428,7 @@ Ein Dieb mit einfacher Kleidung und kleinen Dolchen, begierig darauf, sich zu be
 **Lakai (3) - Passiv:** Der Lakaie wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 3 Schaden, die ein SC dem Lakaien zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Zackenklinge-Lakaien in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Zackenklinge-Lakaien in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 2 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -452,7 +452,7 @@ Ein erfahrener Bandit in hochwertigen Ledern mit starker Stimme und listigen Aug
 
 **Mehr, wo das herkam - Aktion:** Beschwöre drei Zackenklinge-Lakaien, die in Weiter Reichweite erscheinen.
 
-**Gnadenstoß - Aktion:** Gib eine Angst aus, um einen Angriff gegen ein verwundbares Ziel in Naher Reichweite zu machen.
+**Gnadenstoß - Aktion:** Gib eine Angstmarke aus, um einen Angriff gegen ein verwundbares Ziel in Naher Reichweite zu machen.
 Bei einem Erfolg verursache **2W6+12** physischen Schaden und das Ziel muss einen Stress markieren.
 
 **Schwung - Reaktion:** Wenn der Leutnant einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
@@ -531,7 +531,7 @@ Eine schillernde Masse unkontrollierbarer Magie.
 
 **Widerlicher Fluss - Aktion:** Markiere einen TP, um alle Ziele in Naher Reichweite zu zwingen, einen Stress zu markieren und *verwundbar* zu werden, bis zu ihrer nächsten Rast oder bis sie einen TP heilen.
 
-**Realität umgestalten - Aktion:** Gib eine Angst aus, um den Bereich in Sehr Naher Reichweite in ein anderes Biom zu verwandeln.
+**Realität umgestalten - Aktion:** Gib eine Angstmarke aus, um den Bereich in Sehr Naher Reichweite in ein anderes Biom zu verwandeln.
 Alle Ziele in diesem Bereich erleiden **2W6+3** direkten magischen Schaden.
 
 **Magische Reflexion - Reaktion:** Wenn das Elemental Schaden durch einen Angriff in Naher Reichweite erleidet, verursache dem Angreifer Schaden in Höhe der Hälfte des Schadens, den er verursacht hat.
@@ -560,7 +560,7 @@ Alle Kreaturen in diesem Bereich müssen einen Agilität-Reaktionswurf machen.
 Ziele, die scheitern, erleiden **2W8** magischen Schaden durch die Flammen.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
 
-**Explosion - Aktion:** Gib eine Angst aus, um in einer feurigen Explosion zu zerbersten.
+**Explosion - Aktion:** Gib eine Angstmarke aus, um in einer feurigen Explosion zu zerbersten.
 Mache einen Angriff gegen alle Ziele in Naher Reichweite.
 Ziele, gegen die das Elemental erfolgreich ist, erleiden **1W8** magischen Schaden und werden auf Weite Reichweite zurückgeschleudert.
 
@@ -586,7 +586,7 @@ Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
 **Alle müssen fallen - Passiv:** Wenn ein SC einen Fehlschlag mit Angst würfelt, während er in Naher Reichweite zum Dämon ist, verliert er eine Hoffnung.
 
-**Höllenfeuer - Aktion:** Gib eine Angst aus, um Höllenfeuer in Weiter Reichweite regnen zu lassen.
+**Höllenfeuer - Aktion:** Gib eine Angstmarke aus, um Höllenfeuer in Weiter Reichweite regnen zu lassen.
 Alle Ziele im Bereich müssen einen Agilität-Reaktionswurf machen.
 Ziele, die scheitern, erleiden **1W20+3** magischen Schaden.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
@@ -611,7 +611,7 @@ Ein beweglicher Setzling, der sich erhebt, um seinen Wald zu verteidigen.
 **Lakai (5) - Passiv:** Der Treant wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 5 Schaden, die ein SC dem Treant zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Geringen Treants in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Geringen Treants in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 4 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -643,7 +643,7 @@ Bei einem Erfolg hüllt der Schleim es ein und das Ziel muss 2 Stress markieren.
 Das Ziel muss zusätzlichen Stress markieren, wenn es einen Aktionswurf macht.
 Wenn der Schleim verheerenden Schaden erleidet, wird das Ziel befreit.
 
-**Teilen - Reaktion:** Wenn der Schleim 3 oder mehr TP markiert hat, kannst du eine Angst ausgeben, um ihn in zwei Winzige Grüne Schleime zu teilen (ohne markierte TP oder Stress).
+**Teilen - Reaktion:** Wenn der Schleim 3 oder mehr TP markiert hat, kannst du eine Angstmarke ausgeben, um ihn in zwei Winzige Grüne Schleime zu teilen (ohne markierte TP oder Stress).
 Stelle beide sofort ins Rampenlicht.
 
 ## Winziger Grüner Schleim
@@ -684,7 +684,7 @@ Er entzündet jedes brennbare Objekt, das er berührt.
 Bei einem Erfolg erleidet das Ziel **1W8** magischen Schaden und ist Entzündet, bis es mit einem erfolgreichen Finesse-Wurf (14) gelöscht wird.
 Während es Entzündet ist, erleidet das Ziel **1W4** magischen Schaden, wenn es einen Aktionswurf macht.
 
-**Teilen - Reaktion:** Wenn der Schleim 3 oder mehr TP markiert hat, kannst du eine Angst ausgeben, um ihn in zwei Winzige Rote Schleime zu teilen (ohne markierte TP oder Stress).
+**Teilen - Reaktion:** Wenn der Schleim 3 oder mehr TP markiert hat, kannst du eine Angstmarke ausgeben, um ihn in zwei Winzige Rote Schleime zu teilen (ohne markierte TP oder Stress).
 Stelle beide sofort ins Rampenlicht.
 
 ## Winziger Roter Schleim
@@ -721,7 +721,7 @@ Ein reich gekleideter und geschmückter Aristokrat voller Hybris.
 
 **Wachen, ergreift sie! - Aktion:** Einmal pro Szene markiere einen Stress, um 1W4 Klingen-Wachen zu beschwören, die in Weiter Reichweite erscheinen, um den Willen des Adligen durchzusetzen.
 
-**Verbannung - Aktion:** Gib eine Angst aus und visiere einen SC an.
+**Verbannung - Aktion:** Gib eine Angstmarke aus und visiere einen SC an.
 Der Adlige verkündet, dass das Ziel und seine Verbündeten aus dem Territorium des Adligen verbannt sind.
 Während sie verbannt sind, haben das Ziel und seine Verbündeten Nachteil bei sozialen Situationen in der Domäne des Adligen.
 
@@ -744,7 +744,7 @@ Ein charismatischer Seeräuber mit einem beeindruckenden Hut, begierig darauf zu
 
 **Verstärkung - Aktion:** Einmal pro Szene markiere einen Stress, um eine Piraten-Räuber-Horde zu beschwören, die in Weiter Reichweite erscheint.
 
-**Keine Gnade - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen, das drei oder mehr Piraten in Nahkampfreichweite hat.
+**Keine Gnade - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen, das drei oder mehr Piraten in Nahkampfreichweite hat.
 Der Kapitän führt die Piraten dabei an, Drohungen und Versprechen eines nassen Grabs zu schleudern.
 Das Ziel muss einen Präsenz-Reaktionswurf machen.
 Bei einem Fehlschlag markiert das Ziel **1W4+1** Stress.
@@ -807,7 +807,7 @@ Ein bewaffneter Söldner, der sein Glück versucht.
 **Lakai (4) - Passiv:** Der Söldner wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 4 Schaden, die ein SC dem Söldner zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Söldner in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Söldner in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 3 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -846,7 +846,7 @@ Ein klappernder Haufen Knochen.
 **Lakai (4) - Passiv:** Der Bagger wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 4 Schaden, die ein SC dem Bagger zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Bagger in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Bagger in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 1 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -911,7 +911,7 @@ Ein Söldner, der Schwertkampf und Magie zu tödlicher Wirkung verbindet.
 Alle Ziele müssen bei einem Agilität-Reaktionswurf erfolgreich sein oder **1W8+2** magischen Schaden erleiden.
 Du erhältst eine Angst für jedes Ziel, das durch diesen Angriff TP markiert hat.
 
-**Bewegt euch als Einheit - Aktion:** Gib 2 Angst aus, um bis zu fünf Verbündete in Weiter Reichweite ins Rampenlicht zu stellen.
+**Bewegt euch als Einheit - Aktion:** Gib 2 Angstmarken aus, um bis zu fünf Verbündete in Weiter Reichweite ins Rampenlicht zu stellen.
 
 **Schwung - Reaktion:** Wenn die Zauberklinge einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
@@ -949,7 +949,7 @@ Ein Feenkrieger, geschmückt mit Rüstung aus Blättern und Rinde.
 
 **Rudel-Taktiken - Passiv:** Wenn der Soldat einen Standardangriff macht und ein anderer Sylvanischer Soldat in Nahkampfreichweite des Ziels ist, verursache stattdessen **1W8+5** physischen Schaden anstelle des Standardschadens.
 
-**Waldkontrolle - Aktion:** Gib eine Angst aus, um einen Baum in Naher Reichweite zu fällen.
+**Waldkontrolle - Aktion:** Gib eine Angstmarke aus, um einen Baum in Naher Reichweite zu fällen.
 Eine Kreatur, die vom Baum getroffen wird, muss bei einem Agilität-Reaktionswurf (15) erfolgreich sein oder **1W10** physischen Schaden erleiden.
 
 **Einmischen - Reaktion:** Wenn der Soldat einen erfolgreichen Angriff macht, kannst du einen Stress markieren, um Versteckt zu werden bis zum nächsten Angriff des Soldaten oder bis ein SC bei einem Instinkt-Wurf (14) erfolgreich ist, um ihn zu finden.
@@ -995,7 +995,7 @@ Ein belebtes, bluttrinkende Tumbleweed.
 **Lakai (4) - Passiv:** Das Dorngestrüpp wird besiegt, wenn es irgendeinen Schaden erleidet.
 Für alle 4 Schaden, die ein SC dem Dorngestrüpp zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Dorngestrüpp in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Dorngestrüpp in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 2 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -1020,7 +1020,7 @@ Ein Waffenmeister mit einem Schwert, das doppelt so groß ist wie er selbst.
 Bei einem Erfolg markiere einen Stress, um das Ziel bis zu seinem nächsten erfolgreichen Angriff zu Verspotten.
 Das nächste Mal, wenn das Verspottete Ziel angreift, hat es Nachteil gegen andere Ziele als den Waffenmeister.
 
-**Adrenalinschub - Aktion:** Einmal pro Szene gib eine Angst aus, um 2 TP und 2 Stress zu heilen.
+**Adrenalinschub - Aktion:** Einmal pro Szene gib eine Angstmarke aus, um 2 TP und 2 Stress zu heilen.
 
 **Schwung - Reaktion:** Wenn der Waffenmeister einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
@@ -1042,7 +1042,7 @@ Eine herrische Baumperson, die die Verteidigung ihres Waldes anführt.
 **Stimme des Waldes - Aktion:** Markiere einen Stress, um **1W4** Verbündete in Reichweite eines Ziels ins Rampenlicht zu stellen, das sie angreifen können, ohne sich zu bewegen.
 Bei einem Erfolg verursachen ihre Angriffe halben Schaden.
 
-**Dorniger Käfig - Aktion:** Gib eine Angst aus, um einen Käfig um ein Ziel in Sehr Naher Reichweite zu formen und es *Festzuhalten*, bis es mit einem erfolgreichen Stärke-Wurf befreit wird.
+**Dorniger Käfig - Aktion:** Gib eine Angstmarke aus, um einen Käfig um ein Ziel in Sehr Naher Reichweite zu formen und es *Festzuhalten*, bis es mit einem erfolgreichen Stärke-Wurf befreit wird.
 Wenn eine Kreatur einen Aktionswurf gegen den Käfig macht, muss sie einen Stress markieren.
 
 **Schwung - Reaktion:** Wenn die Dryade einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
@@ -1112,7 +1112,7 @@ Eine verwesende Leiche, die auf ihre Beute zutaumelt.
 **Lakai (3) - Passiv:** Der Zombie wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 3 Schaden, die ein SC dem Zombie zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Verfaulten Zombies in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Verfaulten Zombies in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 2 physischen Schaden.
 Kombiniere diesen Schaden.

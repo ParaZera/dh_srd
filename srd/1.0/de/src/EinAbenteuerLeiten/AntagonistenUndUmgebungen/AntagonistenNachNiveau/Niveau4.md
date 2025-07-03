@@ -16,16 +16,16 @@ Ein verwesender Magier, geschmückt in dunkle, zerfetzte Gewänder.
 ### Fähigkeiten
 
 **Totentanz - Aktion:** Markiere einen Stress, um **1W4** Verbündete ins Rampenlicht zu stellen.
-Angriffe, die sie machen, während sie auf diese Weise im Rampenlicht stehen, verursachen halben Schaden, oder vollen Schaden, wenn du eine Angst ausgibst.
+Angriffe, die sie machen, während sie auf diese Weise im Rampenlicht stehen, verursachen halben Schaden, oder vollen Schaden, wenn du eine Angstmarke ausgibst.
 
 **Strahl der Verwesung - Aktion:** Markiere 2 Stress, um alle Ziele in Weiter Reichweite einen Stärke-Reaktionswurf machen zu lassen.
 Ziele, die scheitern, erleiden **2W20+12** magischen Schaden und du erhältst eine Angst.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
 Ein Ziel, das 2 oder mehr TP markiert, muss auch 2 Stress markieren und wird *verwundbar*, bis es mit Hoffnung würfelt.
 
-**Öffne die Tore des Todes - Aktion:** Gib eine Angst aus, um eine Zombie-Legion zu beschwören, die in Naher Reichweite erscheint und sofort das Rampenlicht übernimmt.
+**Öffne die Tore des Todes - Aktion:** Gib eine Angstmarke aus, um eine Zombie-Legion zu beschwören, die in Naher Reichweite erscheint und sofort das Rampenlicht übernimmt.
 
-**Heute nicht, meine Lieben - Reaktion:** Wenn der Nekromant 7 oder mehr seiner TP markiert hat, kannst du eine Angst ausgeben, um ihn an einen sicheren Ort teleportieren zu lassen, wo er sich erholen kann.
+**Heute nicht, meine Lieben - Reaktion:** Wenn der Nekromant 7 oder mehr seiner TP markiert hat, kannst du eine Angstmarke ausgeben, um ihn an einen sicheren Ort teleportieren zu lassen, wo er sich erholen kann.
 Ein SC, der bei einem Instinkt-Wurf erfolgreich ist, kann der Teleportationsmagie zu seinem Ziel folgen.
 
 **Dein Leben gehört mir - Reaktion:** Countdown (Schleife 2W6).
@@ -51,7 +51,7 @@ Für alle 12 Schaden, die ein SC der Stoßtruppe zufügt, besiege einen zusätzl
 
 **Aura des Untergangs - Passiv:** Wenn ein SC TP durch einen Angriff der Stoßtruppe markiert, verliert er eine Hoffnung.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Gefallenen Stoßtruppen in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Gefallenen Stoßtruppen in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 12 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -71,7 +71,7 @@ Ein mächtiger Magier, gebunden durch die Abmachungen, die er im Leben getroffen
 
 ### Fähigkeiten
 
-**Flächenbrand - Aktion:** Gib eine Angst aus, um einen alles verzehrenden Feuersturm zu entfesseln und einen Angriff gegen alle Ziele in Naher Reichweite zu machen.
+**Flächenbrand - Aktion:** Gib eine Angstmarke aus, um einen alles verzehrenden Feuersturm zu entfesseln und einen Angriff gegen alle Ziele in Naher Reichweite zu machen.
 Ziele, gegen die der Zauberer erfolgreich ist, erleiden **2W10+6** direkten magischen Schaden.
 
 **Alptraum-Tableau - Aktion:** Markiere einen Stress, um ein Ziel in Weiter Reichweite in einer mächtigen Illusion seiner schlimmsten Ängste zu fangen.
@@ -101,7 +101,7 @@ Ein Gefallener Gott, gehüllt in Wut und Groll, der jahrtausendelange Erfahrung 
 ### Fähigkeiten
 
 **Unerbittlich (2) - Passiv:** Der Sphärenbrecher kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
 **Feuerwut-Plattenrüstung - Passiv:** Wenn der Sphärenbrecher Schaden erleidet, reduziere ihn um **2W10**.
 
@@ -137,14 +137,14 @@ Das, was nur die Gefürchtetesten zu fürchten haben.
 ### Fähigkeiten
 
 **Unerbittlich (3) - Passiv:** Der Unbesiegte Champion kann bis zu drei Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
 **Schwankende Rüstung - Passiv:** Wenn der Unbesiegte Champion Schaden erleidet, reduziere ihn um **1W10**.
 
 **Zerschmetternder Schlag - Aktion:** Markiere einen Stress, um einen Standardangriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
 SCs, gegen die der Champion erfolgreich ist, verlieren eine Anzahl von Hoffnung entsprechend den TP, die sie durch diesen Angriff markiert haben.
 
-**Endlose Legionen - Aktion:** Gib eine Angst aus, um eine Anzahl von Gefallenen Stoßtruppen zu beschwören, die der doppelten Anzahl der SCs entspricht.
+**Endlose Legionen - Aktion:** Gib eine Angstmarke aus, um eine Anzahl von Gefallenen Stoßtruppen zu beschwören, die der doppelten Anzahl der SCs entspricht.
 Die Stoßtruppen erscheinen in Weiter Reichweite.
 
 **Kreis der Entweihung - Reaktion:** Countdown (1W8).
@@ -190,9 +190,9 @@ Seelen der Gläubigen, erhoben mit göttlichen Waffen.
 **Lakai (13) - Passiv:** Der Soldat wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 13 Schaden, die ein SC dem Soldaten zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Göttlicher Flug - Passiv:** Während der Soldat fliegt, gib eine Angst aus, um dich bis zu Weiter Reichweite anstatt Naher Reichweite zu bewegen, bevor du eine Aktion ausführst.
+**Göttlicher Flug - Passiv:** Während der Soldat fliegt, gib eine Angstmarke aus, um dich bis zu Weiter Reichweite anstatt Naher Reichweite zu bewegen, bevor du eine Aktion ausführst.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Geheiligten Soldaten in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Geheiligten Soldaten in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 10 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -213,11 +213,11 @@ Ein göttlicher Champion, Anführer einer geheiligten Schar von Kriegern, die de
 ### Fähigkeiten
 
 **Unerbittlich (3) - Passiv:** Der Seraph kann bis zu drei Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
-**Göttlicher Flug - Passiv:** Während der Seraph fliegt, gib eine Angst aus, um dich bis zu Weiter Reichweite anstatt Naher Reichweite zu bewegen, bevor du eine Aktion ausführst.
+**Göttlicher Flug - Passiv:** Während der Seraph fliegt, gib eine Angstmarke aus, um dich bis zu Weiter Reichweite anstatt Naher Reichweite zu bewegen, bevor du eine Aktion ausführst.
 
-**Urteil - Aktion:** Gib eine Angst aus, um ein Ziel in den Augen des Gottes des Seraphs als Schuldig zu markieren, bis der Seraph besiegt wird.
+**Urteil - Aktion:** Gib eine Angstmarke aus, um ein Ziel in den Augen des Gottes des Seraphs als Schuldig zu markieren, bis der Seraph besiegt wird.
 Während es Schuldig ist, erhält das Ziel keine Hoffnung bei einem Ergebnis mit Hoffnung.
 Wenn der Seraph bei einem Standardangriff gegen ein Schuldiges Ziel erfolgreich ist, verursacht er verheerenden Schaden anstelle seines Standardschadens.
 Der Seraph kann nur ein Ziel gleichzeitig markieren.
@@ -227,7 +227,7 @@ Ziele müssen einen Präsenz-Reaktionswurf machen, mit Nachteil wenn sie als Sch
 Ziele, die scheitern, erleiden **4W6+12** magischen Schaden.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
 
-**Wir sind eins - Aktion:** Einmal pro Szene gib eine Angst aus, um alle anderen Antagonisten in Weiter Reichweite ins Rampenlicht zu stellen.
+**Wir sind eins - Aktion:** Einmal pro Szene gib eine Angstmarke aus, um alle anderen Antagonisten in Weiter Reichweite ins Rampenlicht zu stellen.
 Angriffe, die sie machen, während sie auf diese Weise im Rampenlicht stehen, verursachen halben Schaden.
 
 ## Kraken
@@ -246,7 +246,7 @@ Eine legendäre Bestie der See, größer als die größte Galeone, mit saugnapfb
 ### Fähigkeiten
 
 **Unerbittlich (3) - Passiv:** Der Kraken kann bis zu drei Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
 **Viele Tentakel - Passiv:** Während der Kraken 7 oder weniger markierte TP hat, kann er seinen Standardangriff gegen zwei Ziele in Reichweite machen.
 
@@ -255,7 +255,7 @@ Bei einem Erfolg markiere einen Stress, um es mit einem Tentakel zu greifen und 
 Das Ziel ist *Festgehalten* und *verwundbar*, bis es sich mit einem erfolgreichen Stärke-Wurf befreit oder der Kraken schweren oder größeren Schaden erleidet.
 Während es auf diese Weise *Festgehalten* und *verwundbar* ist, muss ein Ziel einen Stress markieren, wenn es einen Aktionswurf macht.
 
-**Kochende Explosion - Aktion:** Gib eine Angst aus, um eine Linie kochenden Wassers auf beliebig viele Ziele in einer Linie bis zu Weiter Reichweite zu speien.
+**Kochende Explosion - Aktion:** Gib eine Angstmarke aus, um eine Linie kochenden Wassers auf beliebig viele Ziele in einer Linie bis zu Weiter Reichweite zu speien.
 Alle Ziele müssen bei einem Agilität-Reaktionswurf erfolgreich sein oder **4W6+9** physischen Schaden erleiden.
 Wenn ein Ziel ein Rüstungsfeld markiert, um den Schaden zu reduzieren, muss es auch einen Stress markieren.
 
@@ -280,12 +280,12 @@ Ein hochaufragender Unsterblicher und Inkarnation des Schicksals, verflucht, nur
 
 **Wände ziehen sich zusammen - Passiv:** Wenn eine Kreatur in Sehr Weiter Reichweite des Orakels einen Fehlschlag würfelt, muss sie einen Stress markieren.
 
-**Schicksal verkünden - Aktion:** Gib eine Angst aus, um einem Ziel in Weiter Reichweite eine Vision seiner persönlichen Albträume zu präsentieren.
+**Schicksal verkünden - Aktion:** Gib eine Angstmarke aus, um einem Ziel in Weiter Reichweite eine Vision seiner persönlichen Albträume zu präsentieren.
 Das Ziel muss einen Wissens-Reaktionswurf machen.
 Bei einem Fehlschlag verliert es alle Hoffnungen und erleidet **2W20+4** direkten magischen Schaden.
 Bei einem Erfolg erleidet es halben Schaden und verliert eine Hoffnung.
 
-**Peiniger beschwören - Aktion:** Einmal pro Tag gib 2 Ängste aus, um 2W4 Minion-Stufen 2 oder darunter zu beschwören, die mit einem der persönlichen Albträume des SCs zu tun haben.
+**Peiniger beschwören - Aktion:** Einmal pro Tag gib 2 Angstmarken aus, um 2W4 Minion-Stufen 2 oder darunter zu beschwören, die mit einem der persönlichen Albträume des SCs zu tun haben.
 Sie erscheinen in Naher Reichweite relativ zu diesem SC.
 
 **Unheilvolles Wissen - Reaktion:** Wenn das Orakel eine sterbliche Kreatur sieht, weiß es sofort einen ihrer persönlichen Albträume.
@@ -312,7 +312,7 @@ Eine chaotische Verhöhnung des Lebens, ständig im Fluss.
 **Desorientierende Präsenz - Passive:** Wenn ein Ziel Schaden von der Abscheulichkeit erleidet, muss es einen Instinkt-Reaktionswurf machen.
 Bei einem Fehlschlag erhält es Nachteil auf seinen nächsten Aktionswurf und du erhältst eine Angst.
 
-**Realitätsbeben - Aktion:** Gib eine Angst aus, um die Ränder der Realität in einem Bereich in Weiter Reichweite der Abscheulichkeit zu erschüttern.
+**Realitätsbeben - Aktion:** Gib eine Angstmarke aus, um die Ränder der Realität in einem Bereich in Weiter Reichweite der Abscheulichkeit zu erschüttern.
 Alle Ziele in diesem Bereich müssen einen Wissens-Reaktionswurf bestehen oder bis zum Ende der Szene aus der Realität gefallen sein.
 Wenn ein aus der Realität gefallenes Ziel Hoffnung ausgibt oder Rüstungsfelder, TP oder Stress markiert, muss es die ausgegebene oder markierte Menge verdoppeln.
 
@@ -357,7 +357,7 @@ Eine vage humanoide Form, der Erinnerung und Identität beraubt.
 **Minion (13) - Passiv:** Der Thrall wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für jeden 13 Schaden, den ein SC dem Thrall zufügt, besiege einen zusätzlichen Minion in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Äußeren Bereiche Thralls in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Äußeren Bereiche Thralls in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 11 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -378,7 +378,7 @@ Eine massive geflügelte Kreatur mit Obsidianschuppen und unmöglich scharfen Kl
 ### Fähigkeiten
 
 **Unerbittlich (2) - Passiv:** Der Obsidian-Räuber kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
 **Fliegend - Passiv:** Während er fliegt, erhält der Obsidian-Räuber einen +3 Bonus auf seinen Schwierigkeitsgrad.
 
@@ -409,7 +409,7 @@ Von seinen Wunden erzürnt, bricht der Drache in geschmolzene Lava aus.
 ### Fähigkeiten
 
 **Unerbittlich (3) - Passiv:** Die Geschmolzene Geißel kann bis zu drei Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um sie ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
 
 **Rissige Schuppen - Passiv:** Wenn die Geschmolzene Geißel Schaden erleidet, würfle eine Anzahl von W6 entsprechend den markierten TP.
 Für jedes Ergebnis von 4 oder höher erhältst du eine Angst.
@@ -418,7 +418,7 @@ Für jedes Ergebnis von 4 oder höher erhältst du eine Angst.
 Bei einem Erfolg erleidet das Ziel **4W8+1** physischen Schaden, verliert eine Hoffnung und wird auf Nahe Reichweite zurückgeschleudert.
 Die Geschmolzene Geißel heilt einen Stress.
 
-**Eruption - Aktion:** Gib eine Angst aus, um Lava unter den Schuppen der Geschmolzenen Geißel ausbrechen zu lassen und den Bereich in Sehr Naher Reichweite mit geschmolzener Lava zu füllen.
+**Eruption - Aktion:** Gib eine Angstmarke aus, um Lava unter den Schuppen der Geschmolzenen Geißel ausbrechen zu lassen und den Bereich in Sehr Naher Reichweite mit geschmolzener Lava zu füllen.
 Alle Ziele in diesem Bereich müssen bei einem Agilität-Reaktionswurf erfolgreich sein oder **4W6+6** physischen Schaden erleiden und auf Nahe Reichweite zurückgeschleudert werden.
 Dieser Bereich bleibt Lava.
 Wenn eine andere Kreatur als die Geschmolzene Geißel diesen Bereich betritt oder darin handelt, muss sie 6 TP markieren.
@@ -450,7 +450,7 @@ Während die Lava sich setzt, wird sie zu Asche gemahlen wie die vergangenen Fei
 ### Fähigkeiten
 
 **Unerbittlich (4) - Passiv:** Der Aschene Tyrann kann bis zu vier Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
 **In die Ecke gedrängt - Passiv:** Markiere einen Stress anstatt eine Angst auszugeben, um den Aschenen Tyrannen ins Rampenlicht zu stellen.
 
@@ -462,12 +462,12 @@ Wenn der SC keine Hoffnung verlieren kann, muss er einen TP markieren.
 **Verzweifelte Raserei - Aktion:** Markiere einen Stress, um einen Angriff gegen alle Ziele in Naher Reichweite zu machen.
 Ziele, gegen die der Aschene Tyrann erfolgreich ist, erleiden **2W20+2** physischen Schaden, werden auf Nahe Reichweite von ihrer ursprünglichen Position zurückgeschleudert und müssen einen Stress markieren.
 
-**Aschenwolke - Aktion:** Gib eine Angst aus, um den Boden zu zerschmettern und Asche in Weiter Reichweite aufzuwirbeln.
+**Aschenwolke - Aktion:** Gib eine Angstmarke aus, um den Boden zu zerschmettern und Asche in Weiter Reichweite aufzuwirbeln.
 Während es sich in der Aschenwolke befindet, hat ein Ziel Nachteil bei Aktionswürfen.
 Die Aschenwolke klärt sich auf, wenn das nächste Mal ein Antagonist ins Rampenlicht gestellt wird.
 
 **Apokalyptisches Toben - Aktion:** Countdown (1W12).
-Gib eine Angst aus, um zu aktivieren.
+Gib eine Angstmarke aus, um zu aktivieren.
 Er reduziert sich, wenn ein SC mit Angst würfelt.
 Wenn er auslöst, tobt der Aschene Tyrann umher und verursacht Umweltschäden (wie ein Erdbeben, eine Lawine oder einstürzende Wände).
 Alle Ziele in Weiter Reichweite müssen einen Stärke-Reaktionswurf machen.
@@ -495,7 +495,7 @@ Ein hochaufragender, muskulöser Zombie mit magisch verstärkter Kraft und Gesch
 **Perfekter Schlag - Aktion:** Markiere einen Stress, um einen Standardangriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
 Ziele, gegen die der Zombie erfolgreich ist, sind *verwundbar* bis zu ihrer nächsten Rast.
 
-**Geschickter Opportunist - Reaktion:** Wenn ein anderer Antagonist Schaden an einem Ziel in Sehr Naher Reichweite zum Zombie verursacht, kannst du eine Angst ausgeben, um den Standardangriffschaden des Zombies zum Schadenswurf hinzuzufügen.
+**Geschickter Opportunist - Reaktion:** Wenn ein anderer Antagonist Schaden an einem Ziel in Sehr Naher Reichweite zum Zombie verursacht, kannst du eine Angstmarke ausgeben, um den Standardangriffschaden des Zombies zum Schadenswurf hinzuzufügen.
 
 ## Zombie-Legion
 **Niveau 4 Horde (/TP)**
@@ -515,6 +515,6 @@ Ein großes Rudel Untoter, immer noch mächtig trotz ihres verwesenden Fleisches
 **Unbeugsam - Passiv:** Die Legion ist resistent gegen physischen Schaden.
 
 **Unerbittlich (2) - Passiv:** Die Legion kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um sie ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
 
 **Überwältigen - Reaktion:** Wenn die Legion leichten Schaden durch einen Angriff in Nahkampfreichweite erleidet, kannst du einen Stress markieren, um einen Standardangriff mit Vorteil gegen den Angreifer zu machen.

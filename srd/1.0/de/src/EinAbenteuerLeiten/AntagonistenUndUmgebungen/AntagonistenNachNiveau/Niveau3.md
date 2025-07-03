@@ -14,13 +14,13 @@ Ein geflügeltes Insekt von der Größe eines großen Hauses mit schillernden Sc
 ### Fähigkeiten
 
 **Unerbittlich (4) - Passiv:** Der Flimmerflügel kann bis zu vier Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
 **Verfehlt nie - Passiv:** Wenn der Flimmerflügel einen Angriff macht, wird das Ausweichen des Ziels gegen den Angriff halbiert.
 
 **Tödlicher Flug - Passiv:** Während er fliegt, kann sich der Flimmerflügel bis zu Weiter Reichweite anstatt Naher Reichweite bewegen, bevor er eine Aktion ausführt.
 
-**Wirbelwind - Aktion:** Gib eine Angst aus, um zu wirbeln und einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
+**Wirbelwind - Aktion:** Gib eine Angstmarke aus, um zu wirbeln und einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
 Ziele, gegen die der Flimmerflügel erfolgreich ist, erleiden **3W8** direkten physischen Schaden.
 
 **Geistertanz - Aktion:** Markiere einen Stress, um eine magisch blendende Vorstellung zu erschaffen, die die Geister nahegelegener Feinde ergreift.
@@ -58,7 +58,7 @@ Füge dem Dämon eine Handvoll Gold für jede Handvoll Gold hinzu, die SCs für 
 
 **Zahlen müssen steigen - Passiv:** Füge einen Bonus zu den Angriffswürfen des Dämons hinzu, der der Anzahl der Handvoll Gold entspricht, die er hat.
 
-**Geld ist Zeit - Aktion:** Gib 3 Handvoll Gold aus (oder eine Angst), um **1W4+1** Verbündete ins Rampenlicht zu stellen.
+**Geld ist Zeit - Aktion:** Gib 3 Handvoll Gold aus (oder eine Angstmarke), um **1W4+1** Verbündete ins Rampenlicht zu stellen.
 
 ## Dämon der Verzweiflung
 **Niveau 3 Schleicher**
@@ -77,7 +77,7 @@ Eine verhüllte Dämonenkreatur mit langen Gliedmaßen und sickernden Schatten.
 
 **Tiefen der Verzweiflung - Passiv:** Der Dämon verursacht doppelten Schaden an SCs mit 0 Hoffnung.
 
-**Euer Kampf ist sinnlos - Aktion:** Gib eine Angst aus, um die Geister aller SCs in Weiter Reichweite zu belasten.
+**Euer Kampf ist sinnlos - Aktion:** Gib eine Angstmarke aus, um die Geister aller SCs in Weiter Reichweite zu belasten.
 Alle betroffenen Ziele ersetzen ihren Hoffnungswürfel durch einen W8, bis sie einen Erfolg mit Hoffnung würfeln oder ihre nächste Rast.
 
 **Eure Freunde werden euch im Stich lassen - Reaktion:** Wenn ein SC mit Angst scheitert, kannst du einen Stress markieren, um alle anderen SCs in Naher Reichweite eine Hoffnung verlieren zu lassen.
@@ -106,7 +106,7 @@ Wenn er immer noch scheitert, markiert er 2 Stress und der Dämon heilt einen St
 
 **Unvergleichliche Fertigkeit - Aktion:** Markiere einen Stress, um den Standardangriffschaden des Dämons an einem Ziel in Naher Reichweite zu verursachen.
 
-**Die Wurzel der Schlechtigkeit - Aktion:** Gib eine Angst aus, um zwei andere Dämonen in Weiter Reichweite ins Rampenlicht zu stellen.
+**Die Wurzel der Schlechtigkeit - Aktion:** Gib eine Angstmarke aus, um zwei andere Dämonen in Weiter Reichweite ins Rampenlicht zu stellen.
 
 **Ihr verblasst im Vergleich - Reaktion:** Wenn ein SC einen Wurf in Naher Reichweite zum Dämon verfehlt, muss er einen Stress markieren.
 
@@ -131,7 +131,7 @@ Eine launische Kreatur mit dürren Gliedmaßen und unstillbaren Begierden.
 
 **Rivalität - Reaktion:** Wenn eine Kreatur in Naher Reichweite Schaden von einem anderen Antagonisten erleidet, kannst du einen Stress markieren, um einen W4 zum Schadenswurf hinzuzufügen.
 
-**Was eures ist, ist meins - Reaktion:** Wenn ein SC verheerenden Schaden in Sehr Naher Reichweite zum Dämon erleidet, kannst du eine Angst ausgeben, um das Ziel einen Finesse-Reaktionswurf machen zu lassen.
+**Was eures ist, ist meins - Reaktion:** Wenn ein SC verheerenden Schaden in Sehr Naher Reichweite zum Dämon erleidet, kannst du eine Angstmarke ausgeben, um das Ziel einen Finesse-Reaktionswurf machen zu lassen.
 Bei einem Fehlschlag ergreift der Dämon einen Gegenstand oder Verbrauchsgegenstand seiner Wahl aus dem Inventar des Ziels.
 
 ## Dämon des Zorns
@@ -151,7 +151,7 @@ Ein massiger Dämon mit felsbrockengroßen Fäusten, getrieben von endloser Wut.
 
 **Unerbittliche Wut - Passiv:** Die Angriffe des Dämons verursachen direkten Schaden.
 
-**Kampflust - Aktion:** Gib eine Angst aus, um das Blut aller SCs in Weiter Reichweite zum Kochen zu bringen.
+**Kampflust - Aktion:** Gib eine Angstmarke aus, um das Blut aller SCs in Weiter Reichweite zum Kochen zu bringen.
 Sie verwenden einen W20 als ihren Angst-Würfel bis zum Ende der Szene.
 
 **Vergeltung - Reaktion:** Wenn der Dämon Schaden durch einen Angriff in Naher Reichweite erleidet, kannst du einen Stress markieren, um einen Standardangriff gegen den Angreifer zu machen.
@@ -204,9 +204,9 @@ Erschaffe ein Gebiet mit Dornen, das einen Bereich in Naher Reichweite dieses Pu
 Alle Ziele in diesem Gebiet erleiden **2W6+2** physischen Schaden, wenn sie handeln.
 Ein Ziel muss einen Geschicklichkeitswurf bestehen oder mehr als 20 Schaden an der Dryade mit einem Angriff verursachen, um das Gebiet zu verlassen.
 
-**Setze Sämlinge - Aktion:** Gib eine Angst aus, um drei Treant-Sämlings-Minions heranwachsen zu lassen, die in Naher Reichweite erscheinen und sofort das Rampenlicht übernehmen.
+**Setze Sämlinge - Aktion:** Gib eine Angstmarke aus, um drei Treant-Sämlings-Minions heranwachsen zu lassen, die in Naher Reichweite erscheinen und sofort das Rampenlicht übernehmen.
 
-**Wir sind eins - Reaktion:** Wenn ein Verbündeter in Naher Reichweite stirbt, kannst du eine Angst ausgeben, um 2 TP und 2 Stress zu heilen, während die Lebensenergie des gefallenen Verbündeten in den Wald zurückkehrt.
+**Wir sind eins - Reaktion:** Wenn ein Verbündeter in Naher Reichweite stirbt, kannst du eine Angstmarke ausgeben, um 2 TP und 2 Stress zu heilen, während die Lebensenergie des gefallenen Verbündeten in den Wald zurückkehrt.
 
 ## Elementarer Funken
 **Niveau 3 Minion**
@@ -224,7 +224,7 @@ Ein glühendes Mote elementaren Feuers.
 **Minion () - Passiv:** Das Elementar wird besiegt, wenn es Schaden erleidet.
 Für jeden 9 Schaden, den ein SC dem Elementar zufügt, besiege ein zusätzliches Minion in Reichweite, gegen das der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel auszuwählen und alle Elementaren Funken in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Elementaren Funken in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Minions bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
 Bei einem Erfolg fügen sie jeweils **5** physischen Schaden zu. Kombiniere diesen Schaden.
 
@@ -275,7 +275,7 @@ Eine riesige lebende Welle, die auf Feinde herabstürzt.
 Bei einem Erfolg erleidet das Ziel **2W4+7** physischen Schaden und seine nächste Aktion hat Nachteil.
 Bei einem Fehlschlag muss das Ziel einen Stress markieren.
 
-**Ertrinkende Umarmung - Aktion:** Gib eine Angst aus, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
+**Ertrinkende Umarmung - Aktion:** Gib eine Angstmarke aus, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
 Ziele, gegen die der Elementar erfolgreich ist, werden *Eingeschlossen* und *verwundbar*, während sie zu ertrinken beginnen.
 Ein Ziel kann sich befreien und damit beide Bedingungen beenden, indem es einen erfolgreichen Stärke- oder Instinkt-Wurf macht.
 
@@ -308,7 +308,7 @@ Bei einem Erfolg hüllt der Schleim das Ziel ein und das Ziel muss 2 Stress mark
 Während es *Eingehüllt* ist, muss das Ziel jedes Mal, wenn es einen Aktionswurf macht, zusätzlich einen Stress markieren.
 Wenn der Schleim verheerenden Schaden erleidet, werden alle eingehüllten Ziele befreit und der Zustand wird aufgehoben.
 
-**Teilen - Reaktion:** Wenn der Schleim 4 oder mehr TP markiert hat, kannst du eine Angst ausgeben, um ihn in zwei grüne Schleime zu teilen (ohne markierte TP oder Stress).
+**Teilen - Reaktion:** Wenn der Schleim 4 oder mehr TP markiert hat, kannst du eine Angstmarke ausgeben, um ihn in zwei grüne Schleime zu teilen (ohne markierte TP oder Stress).
 Sofort beide ins Rampenlicht stellen.
 
 ## Hydra
@@ -328,9 +328,9 @@ Ein vierbeiniges, schuppiges Ungeheuer mit mehreren langen, halslangen Köpfen, 
 Wenn die Hydra schweren oder größeren Schaden erleidet, verliert sie einen Kopf.
 
 **Unerbittlich (X) - Passiv:** Die Hydra kann bis zu X Mal pro SL-Zug ins Rampenlicht gestellt werden, wobei X die Anzahl der Köpfe der Hydra ist.
-Gib Angst wie üblich aus, um sie ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
 
-**Regeneration - Aktion:** Wenn die Hydra markierte TP hat, gib eine Angst aus, um eine TP zu heilen und zwei Köpfe wachsen zu lassen.
+**Regeneration - Aktion:** Wenn die Hydra markierte TP hat, gib eine Angstmarke aus, um eine TP zu heilen und zwei Köpfe wachsen zu lassen.
 
 **Furchterregender Chor - Aktion:** Alle SCs in Weiter Reichweite verlieren 2 Hoffnung.
 
@@ -358,7 +358,7 @@ Ein SC, der einen Präsenzwurf schafft, kann ein Gerichtsverfahren durch Kampf o
 **Kronenwache - Aktion:** Einmal pro Szene, markiere einen Stress, um sechs Minions der Stufe 3 herbeizurufen, die in Naher Reichweite erscheinen, um den Willen des Monarchen durchzusetzen.
 
 **Kriegserklärung - Reaktion:** Langfristiger Countdown (8).
-Gib eine Angst aus, um zu aktivieren, nachdem der Wunsch des Monarchen nach Krieg zum ersten Mal offenbart wurde.
+Gib eine Angstmarke aus, um zu aktivieren, nachdem der Wunsch des Monarchen nach Krieg zum ersten Mal offenbart wurde.
 Wenn er auslöst, hat der Monarch einen Grund, die Nation zum Krieg zu mobilisieren, und die Unterstützung, um aus diesem Grund zu handeln.
 Du erhältst 1W4 Angst.
 
@@ -379,7 +379,7 @@ Ein Ritter mit riesigen, majestätischen Geweihen, der eine Rüstung aus gefähr
 
 **Von oben - Passiv:** Wenn der Ritter einen Standardangriff aus der Höhe auf ein Ziel erfolgreich ausführt, fügt er stattdessen **3W12+3** physischen Schaden zu.
 
-**Klinge des Waldes - Aktion:** Gib eine Angst aus, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite auszuführen.
+**Klinge des Waldes - Aktion:** Gib eine Angstmarke aus, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite auszuführen.
 Ziele, gegen die der Ritter erfolgreich ist, erleiden physischen Schaden in Höhe von **3W4** plus der Major-Schwellenwert des Ziels.
 
 **Dornenrüstung - Reaktion:** Wenn der Ritter Schaden durch einen Angriff in Naher Reichweite erleidet, kannst du einen Stress markieren, um dem Angreifer **1W10+5** physischen Schaden zuzufügen.
@@ -424,7 +424,7 @@ Ein kleiner, empfindungsfähiger Baumsämling.
 **Minion () - Passiv:** Der Sämling wird besiegt, wenn er Schaden erleidet.
 Für jeden 6 Schaden, den ein SC dem Sämling zufügt, besiege ein zusätzliches Minion in Reichweite, gegen das der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel auszuwählen und alle Treant-Sämlinge in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Treant-Sämlinge in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Minions bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
 Bei einem Erfolg fügen sie jeweils **8** physischen Schaden zu. Kombiniere diesen Schaden.
 
@@ -451,7 +451,7 @@ Bei einem Fehlschlag erhältst du **1W4** Angst.
 **Von Anhängern leben - Aktion:** Wenn der Vampir in Nahkampfreichweite eines Verbündeten ist, kann er diesen dazu bringen, einen TP zu markieren.
 Der Vampir heilt dann einen TP.
 
-**Die Jagd ist eröffnet - Aktion:** Gib 2 Angst aus, um **1W4** Vampire herbeizurufen, die in Weiter Reichweite erscheinen und sofort das Rampenlicht übernehmen.
+**Die Jagd ist eröffnet - Aktion:** Gib 2 Angstmarken aus, um **1W4** Vampire herbeizurufen, die in Weiter Reichweite erscheinen und sofort das Rampenlicht übernehmen.
 
 **Lebensraub - Reaktion:** Wenn der Vampir im Rampenlicht steht, würfle einen W8.
 Bei einem Ergebnis von 6 oder höher müssen alle Ziele in Sehr Naher Reichweite einen TP markieren.
@@ -476,7 +476,7 @@ Bei einem Erfolg erleidet das Ziel **5W4** physischen Schaden.
 Ein Ziel, das durch diesen Angriff TP markiert, verliert eine Hoffnung und muss einen Stress markieren.
 Der Vampir heilt dann einen TP.
 
-**Nebelgestalt - Reaktion:** Wenn der Vampir physischen Schaden erleidet, kannst du eine Angst ausgeben, um halben Schaden zu erleiden.
+**Nebelgestalt - Reaktion:** Wenn der Vampir physischen Schaden erleidet, kannst du eine Angstmarke ausgeben, um halben Schaden zu erleiden.
 
 ## Tresorhüter-Kerkermeister
 **Niveau 3 Unterstützer**
@@ -517,7 +517,7 @@ Ein staubbedecktes goldenes Konstrukt mit kastenförmigen Gliedmaßen und einem 
 Dieses Ziel hat Nachteil bei Angriffswürfen, wenn es in Sehr Naher Reichweite zum Wächter ist.
 Der Wächter kann sich nur auf ein Ziel gleichzeitig konzentrieren.
 
-**Mana-Geschoss - Aktion:** Gib eine Angst aus, um explosive Magie auf einen Punkt in Weiter Reichweite zu schleudern.
+**Mana-Geschoss - Aktion:** Gib eine Angstmarke aus, um explosive Magie auf einen Punkt in Weiter Reichweite zu schleudern.
 Alle Ziele in Sehr Naher Reichweite zu diesem Punkt müssen einen Agilität-Reaktionswurf machen.
 Ziele, die scheitern, erleiden **2W8+20** magischen Schaden und werden auf Nahe Reichweite zurückgeschleudert.
 Ziele, die erfolgreich sind, erleiden halben Schaden und werden nicht zurückgeschleudert.
@@ -541,7 +541,7 @@ Ein massiver lebender Geschützturm mit verstärkter Rüstung und zwölf kolbeng
 Platziere einen Marker auf seinem Werteblock und beschreibe, was er vorbereitet.
 Wenn du den Geschützturm ins Rampenlicht stellst und er einen Marker auf seinem Werteblock hat, entferne den Marker und er kann angreifen.
 
-**Ziel markieren - Aktion:** Gib eine Angst aus, um ein Ziel in Weiter Reichweite zu Markieren, bis der Geschützturm zerstört wird oder das Markierte Ziel Versteckt wird.
+**Ziel markieren - Aktion:** Gib eine Angstmarke aus, um ein Ziel in Weiter Reichweite zu Markieren, bis der Geschützturm zerstört wird oder das Markierte Ziel Versteckt wird.
 Während das Ziel Markiert ist, wird sein Ausweichen halbiert.
 
 **Feuer konzentrieren - Reaktion:** Wenn ein anderer Antagonist Schaden an einem Ziel in Weiter Reichweite zum Geschützturm verursacht, kannst du einen Stress markieren, um den Standardangriffschaden des Geschützturms zum Schadenswurf hinzuzufügen.
@@ -567,18 +567,18 @@ Ein gletscherblauer Drache mit vier mächtigen Gliedmaßen und frostgetönten Fl
 ### Fähigkeiten
 
 **Unerbittlich (3) - Passiv:** Der Drache kann bis zu drei Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um ihn ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
 **Zerreißen und Zermalmen - Passiv:** Wenn ein Ziel, das vom Drachen Schaden erleidet, kein Rüstungsfeld markiert, um den Schaden zu reduzieren, muss es einen Stress markieren.
 
 **Keine Hoffnung - Passiv:** Wenn ein SC mit Angst würfelt, während er in Weiter Reichweite zum Drachen ist, verliert er eine Hoffnung.
 
-**Schneesturm-Atem - Aktion:** Gib 2 Angst aus, um einen eisigen Wirbel vor dem Drachen in Naher Reichweite freizusetzen.
+**Schneesturm-Atem - Aktion:** Gib 2 Angstmarken aus, um einen eisigen Wirbel vor dem Drachen in Naher Reichweite freizusetzen.
 Alle Ziele in diesem Bereich müssen einen Agilität-Reaktionswurf machen.
 Ziele, die scheitern, erleiden **4W6+5** magischen Schaden und sind durch Eis *Festgehalten*, bis sie sich mit einem erfolgreichen Stärke-Wurf befreien.
 Ziele, die erfolgreich sind, müssen 2 Stress markieren oder halben Schaden erleiden.
 
-**Lawine - Aktion:** Gib eine Angst aus, um den Drachen einen gewaltigen Niedergang von Schnee und Eis entfesseln zu lassen, der alle anderen Kreaturen in Weiter Reichweite bedeckt.
+**Lawine - Aktion:** Gib eine Angstmarke aus, um den Drachen einen gewaltigen Niedergang von Schnee und Eis entfesseln zu lassen, der alle anderen Kreaturen in Weiter Reichweite bedeckt.
 Alle Ziele in diesem Bereich müssen bei einem Instinkt-Reaktionswurf erfolgreich sein oder in Schnee und Gestein begraben werden und *verwundbar* werden, bis sie sich aus den Trümmern ausgraben.
 Für jeden SC, der den Reaktionswurf verfehlt, erhältst du eine Angst.
 

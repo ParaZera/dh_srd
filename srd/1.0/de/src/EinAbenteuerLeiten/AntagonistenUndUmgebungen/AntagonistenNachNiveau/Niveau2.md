@@ -15,7 +15,7 @@ Eine Gruppe ausgebildeter Bogenschützen mit massiven Bögen.
 
 **Horde (1W6+3) - Passiv:** Wenn das Geschwader die Hälfte oder mehr seiner TP markiert hat, verursacht sein Standardangriff stattdessen **1W6+3** physischen Schaden.
 
-**Fokussierte Salve - Aktion:** Gib eine Angst aus, um einen Punkt in Weiter Reichweite zu visieren.
+**Fokussierte Salve - Aktion:** Gib eine Angstmarke aus, um einen Punkt in Weiter Reichweite zu visieren.
 Mache einen Angriff mit Vorteil gegen alle Ziele in Naher Reichweite zu diesem Punkt.
 Ziele, gegen die das Geschwader erfolgreich ist, erleiden **1W10+4** physischen Schaden.
 
@@ -42,7 +42,7 @@ Ein junger Azubi, begierig darauf, sich zu beweisen.
 **Lakai (6) - Passiv:** Der Attentäter wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 6 Schaden, die ein SC dem Attentäter zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Lehrlings-Attentäter in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Lehrlings-Attentäter in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 4 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -88,7 +88,7 @@ Ein erfahrener Killer mit bedrohlicher Stimme und tödlicher Klinge.
 
 **Schlagt als einer zu - Aktion:** Markiere einen Stress, um so viele andere Attentäter ins Rampenlicht zu stellen, wie der Attentäter unmarkierte Stress hat.
 
-**Die subtile Klinge - Reaktion:** Wenn der Attentäter erfolgreich einen Standardangriff gegen ein verwundbares Ziel macht, kannst du eine Angst ausgeben, um stattdessen verheerenden Schaden zu verursachen anstelle seines Standardschadens.
+**Die subtile Klinge - Reaktion:** Wenn der Attentäter erfolgreich einen Standardangriff gegen ein verwundbares Ziel macht, kannst du eine Angstmarke ausgeben, um stattdessen verheerenden Schaden zu verursachen anstelle seines Standardschadens.
 
 **Schwung - Reaktion:** Wenn der Attentäter einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
@@ -108,7 +108,7 @@ Ein würfelförmiges Konstrukt mit einer anderen Rune auf jeder ihrer sechs Seit
 ### Fähigkeiten
 
 **Unerbittlich (2) - Passiv:** Die Kiste kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
-Gib Angst wie üblich aus, um sie ins Rampenlicht zu stellen.
+Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
 
 **Zufällige Taktiken - Aktion:** Markiere einen Stress und würfle einen W6.
 Die Kiste verwendet den entsprechenden Zug:
@@ -145,7 +145,7 @@ Ein schwebender humanoider Schädel, belebt von schillernder Magie.
 **Magieausbruch - Aktion:** Markiere einen Stress, um einen Angriff gegen alle Ziele in Naher Reichweite zu machen.
 Ziele, gegen die der Schädel erfolgreich ist, erleiden **2W6+4** magischen Schaden.
 
-**Magie absaugen - Aktion:** Gib eine Angst aus, um einen Angriff gegen einen SC mit einer Zauberwirken-Eigenschaft in Sehr Naher Reichweite zu machen.
+**Magie absaugen - Aktion:** Gib eine Angstmarke aus, um einen Angriff gegen einen SC mit einer Zauberwirken-Eigenschaft in Sehr Naher Reichweite zu machen.
 Bei einem Erfolg markiert das Ziel **1W4** Stress und der Schädel heilt entsprechend viele Stress.
 Zusätzlich kann der Schädel bei einem Erfolg sofort wieder ins Rampenlicht gestellt werden.
 
@@ -165,7 +165,7 @@ Ein schlecht ausgebildeter Zivilist, der in den Krieg gepresst wurde.
 **Lakai (6) - Passiv:** Der Wehrpflichtige wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 6 Schaden, die ein SC dem Wehrpflichtigen zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Wehrpflichtigen in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Wehrpflichtigen in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 6 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -203,12 +203,12 @@ Ein erfahrener Magier, der Schatten und Angst einsetzt.
 
 ### Fähigkeiten
 
-**Entkräftender Schlag - Aktion:** Gib eine Angst aus, um einen Standardangriff gegen ein Ziel in Reichweite zu machen.
+**Entkräftender Schlag - Aktion:** Gib eine Angstmarke aus, um einen Standardangriff gegen ein Ziel in Reichweite zu machen.
 Bei einem Erfolg muss das Ziel einen Stress markieren.
 
 **Schatten der Gefallenen - Aktion:** Markiere einen Stress, um einen Verbündeten in Naher Reichweite in einen Schutzschleier zu hüllen, bis der Adept seinen letzten TP markiert. Während des Schutzes hat das Ziel Resistenz gegen allen Schaden.
 
-**Schattenfesseln - Aktion:** Gib eine Angst aus und wähle einen Punkt in Weiter Reichweite.
+**Schattenfesseln - Aktion:** Gib eine Angstmarke aus und wähle einen Punkt in Weiter Reichweite.
 Alle Ziele in Naher Reichweite zu diesem Punkt sind in rauchigen Ketten gefesselt, bis sie sich mit einem erfolgreichen Stärke- oder Instinkt-Wurf befreien. Ein Ziel, das von dieser Fähigkeit gefesselt wird, muss einen Hoffnungspunkt ausgeben, um einen Aktionswurf zu machen.
 
 **Angst ist Treibstoff - Reaktion:** Zweimal pro Szene, wenn ein SC mit Angst einen Fehlschlag würfelt, heile einen Stress.
@@ -246,7 +246,7 @@ Ein niederrangiger Kultist in einfachen Roben, begierig darauf, Macht zu erlange
 **Lakai (6) - Passiv:** Der Initiierte wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 6 Schaden, die ein SC dem Initiierte zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Kult-Initiierte in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Kult-Initiierte in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 5 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -385,7 +385,7 @@ Ein Riese, der sich in geliehener Rüstung kämpft.
 **Lakai (6) - Passiv:** Der Rekrut wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für alle 7 Schaden, die ein SC dem Rekruten zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angst aus, um ein Ziel zu wählen und alle Riesen-Rekruten in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Riesen-Rekruten in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 5 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -432,7 +432,7 @@ Ein schlangenköpfiger, schuppiger Humanoider mit einem vergoldeten Bogen, wüte
 
 **Schlangenkronen - Aktion:** Mache einen Angriffswurf gegen ein Ziel in Nahkampfreichweite mit den schützenden Schlangen der Gorgone. Bei einem Erfolg markiere einen Stress, um **2W10+4** physischen Schaden zuzufügen und das Ziel muss einen Stress markieren.
 
-**Versteinernder Blick - Reaktion:** Wenn die Gorgone durch einen Angriff in Naher Reichweite Schaden erleidet, kannst du eine Angst ausgeben, um den Angreifer zu zwingen, einen Instinkt-Reaktionswurf zu machen. Bei einem Fehlschlag beginnt er sich zu versteinern, markiert einen TP und startet einen Versteinerungs-Countdown (4). Dieser Countdown läuft ab, wenn die Gorgone angegriffen wird. Wenn er auslöst, muss das Ziel einen Todeswurf machen.
+**Versteinernder Blick - Reaktion:** Wenn die Gorgone durch einen Angriff in Naher Reichweite Schaden erleidet, kannst du eine Angstmarke ausgeben, um den Angreifer zu zwingen, einen Instinkt-Reaktionswurf zu machen. Bei einem Fehlschlag beginnt er sich zu versteinern, markiert einen TP und startet einen Versteinerungs-Countdown (4). Dieser Countdown läuft ab, wenn die Gorgone angegriffen wird. Wenn er auslöst, muss das Ziel einen Todeswurf machen.
 Wenn die Gorgone besiegt wird, enden alle Versteinerungs-Countdowns.
 
 **Schwung - Reaktion:** Wenn die Gorgone einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
@@ -450,7 +450,7 @@ Ein pferdegroßes Insekt mit irisierenden Schuppen und kristallinen Flügeln, da
 
 ### Fähigkeiten
 
-**Unerbittlich (3) - Passiv:** Die Flickerfly kann bis zu drei Mal pro GM-Zug ins Rampenlicht gestellt werden. Gib Angst wie üblich aus, um sie ins Rampenlicht zu stellen.
+**Unerbittlich (3) - Passiv:** Die Flickerfly kann bis zu drei Mal pro GM-Zug ins Rampenlicht gestellt werden. Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
 
 **Unvergleichliche Genauigkeit - Passiv:** Bevor die Flickerfly einen Angriff ausführt, würfle einen W6. Bei einem Ergebnis von 4 oder höher wird die Ausweichfähigkeit des Ziels gegen diesen Angriff halbiert.
 
@@ -515,7 +515,7 @@ Ein vollendeter Händler mit einem großen Unternehmen unter seinem Kommando.
 
 ### Fähigkeiten
 
-**Jeder hat einen Preis - Aktion:** Gib eine Angst aus, um einem Ziel ein gefährliches Angebot für etwas zu machen, das es will oder braucht. Wenn es sich um einen SC handelt, muss dieser einen Präsenz-Reaktionswurf (17) machen. Bei einem Fehlschlag muss er 2 Stress markieren oder das Angebot annehmen.
+**Jeder hat einen Preis - Aktion:** Gib eine Angstmarke aus, um einem Ziel ein gefährliches Angebot für etwas zu machen, das es will oder braucht. Wenn es sich um einen SC handelt, muss dieser einen Präsenz-Reaktionswurf (17) machen. Bei einem Fehlschlag muss er 2 Stress markieren oder das Angebot annehmen.
 
 **Die beste Muskelkraft, die man kaufen kann - Aktion:** Einmal pro Szene, markiere einen Stress, um 1W4+1 Tier 1 Gegner zu beschwören, die in Erscheinung treten, um den Willen des Barons durchzusetzen.
 
@@ -557,7 +557,7 @@ Eine untote Gestalt in einem schweren Lederumhang, mit suchenden Augen und einer
 
 **Erschreckend - Passiv:** Wenn der Jäger einen erfolgreichen Angriff ausführt, verlieren alle SCs in Weiter Reichweite einen Hoffnungspunkt und du erhältst eine Angst.
 
-**Todesgriff - Aktion:** Gib eine Angst aus, um ein Ziel in Sehr Naher Reichweite mit einem nekrotischen Todesgriff zu verfluchen, bis zum Ende der Szene.
+**Todesgriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel in Sehr Naher Reichweite mit einem nekrotischen Todesgriff zu verfluchen, bis zum Ende der Szene.
 Angriffe, die der Jäger gegen ein vom Todesgriff betroffenes Ziel ausführt, verursachen direkten Schaden. Der Jäger kann nur einen Todesgriff gleichzeitig aufrechterhalten.
 
 **Unvermeidlicher Tod - Aktion:** Markiere einen Stress, um 1W4 Verbündete ins Rampenlicht zu stellen. Angriffe, die sie während sie auf diese Weise ins Rampenlicht gestellt werden, ausführen, verursachen halben Schaden.
@@ -583,7 +583,7 @@ Ein hochrangiger Höfling mit dem Ohr der lokalen Noblesse.
 
 **Ohren beugen - Aktion:** Markiere einen Stress, um einen NPC in Naher Reichweite mit geflüsterten Worten zu beeinflussen. Die Meinung dieses Ziels zu einer Angelegenheit ändert sich zugunsten der Präferenz des Beraters, es sei denn, sie steht in direktem Gegensatz zu den Motiven des Ziels.
 
-**Sündenbock - Aktion:** Gib eine Angst aus, um eine Menge oder eine bemerkenswerte Person davon zu überzeugen, dass eine Person oder Gruppe für ein Problem verantwortlich ist, das das Ziel betrifft. Das Ziel wird bis zu seiner Überzeugung von der Unschuld des Sündenbocks mit einem erfolgreichen Präsenzwurf (17) feindlich gegenüber dem Sündenbock.
+**Sündenbock - Aktion:** Gib eine Angstmarke aus, um eine Menge oder eine bemerkenswerte Person davon zu überzeugen, dass eine Person oder Gruppe für ein Problem verantwortlich ist, das das Ziel betrifft. Das Ziel wird bis zu seiner Überzeugung von der Unschuld des Sündenbocks mit einem erfolgreichen Präsenzwurf (17) feindlich gegenüber dem Sündenbock.
 
 ## Geheimnisträger
 **Niveau 2 Anführer**
@@ -600,7 +600,7 @@ Ein heimlicher Anführer mit einem direkten Kanal zu den Gefallenen Göttern.
 
 ### Fähigkeiten
 
-**Nutze deinen Moment - Aktion:** Gib 2 Ängste aus, um 1W4 Verbündete ins Rampenlicht zu stellen. Angriffe, die sie während sie auf diese Weise ins Rampenlicht gestellt werden, ausführen, verursachen halben Schaden.
+**Nutze deinen Moment - Aktion:** Gib 2 Angstmarken aus, um 1W4 Verbündete ins Rampenlicht zu stellen. Angriffe, die sie während sie auf diese Weise ins Rampenlicht gestellt werden, ausführen, verursachen halben Schaden.
 
 **Der Wille unseres Meisters - Reaktion:** Wenn du einen Verbündeten in Weiter Reichweite ins Rampenlicht stellst, markiere einen Stress, um eine Angst zu gewinnen.
 
@@ -646,7 +646,7 @@ Eine halb-fischige Person mit schimmernden Schuppen und einer unwiderstehlichen 
 
 **Gefangene Audience - Passiv:** Wenn die Sirene einen Standardangriff gegen ein Ziel ausführt, das von ihrem Gesang gefangen genommen wurde, verursacht der Angriff **2W10+1** Schaden anstelle des Standardschadens.
 
-**Bezaubernder Gesang - Aktion:** Gib eine Angst aus, um ein Lied zu singen, das alle Ziele in Naher Reichweite betrifft. Die Ziele müssen einen Instinkt-Reaktionswurf bestehen oder bis sie 2 Stress markieren, *Verzaubert* werden. Andere Sirenen in Naher Reichweite des Ziels können einen Stress markieren, um jeweils einen Bonus von +1 auf den Schwierigkeitsgrad des Reaktionswurfs zu gewähren. Während sie *Verzaubert* sind, kann ein Ziel nicht handeln und ist *verwundbar*.
+**Bezaubernder Gesang - Aktion:** Gib eine Angstmarke aus, um ein Lied zu singen, das alle Ziele in Naher Reichweite betrifft. Die Ziele müssen einen Instinkt-Reaktionswurf bestehen oder bis sie 2 Stress markieren, *Verzaubert* werden. Andere Sirenen in Naher Reichweite des Ziels können einen Stress markieren, um jeweils einen Bonus von +1 auf den Schwierigkeitsgrad des Reaktionswurfs zu gewähren. Während sie *Verzaubert* sind, kann ein Ziel nicht handeln und ist *verwundbar*.
 
 ## Spektral-Bogenschütze
 **Niveau 2 Fernkampf**
@@ -665,7 +665,7 @@ Ein gespenstischer Kämpfer mit einem ätherischen Bogen, unfähig, loszulassen,
 
 **Gespenstisch - Passiv:** Der Bogenschütze hat Resistenz gegen physischen Schaden. Markiere einen Stress, um bis zu Naher Reichweite durch feste Objekte zu bewegen.
 
-**Wähle dein Ziel - Aktion:** Gib eine Angst aus, um einen Angriff in Weiter Reichweite gegen einen SC zu machen, der sich in Sehr Naher Reichweite von mindestens zwei anderen SCs befindet. Bei einem Erfolg erleidet das Ziel **2W8+12** physischen Schaden.
+**Wähle dein Ziel - Aktion:** Gib eine Angstmarke aus, um einen Angriff in Weiter Reichweite gegen einen SC zu machen, der sich in Sehr Naher Reichweite von mindestens zwei anderen SCs befindet. Bei einem Erfolg erleidet das Ziel **2W8+12** physischen Schaden.
 
 ## Spektral-Kapitän
 **Niveau 2 Anführer**
@@ -684,7 +684,7 @@ Ein gespenstischer Kommandant, der seine Truppen über den Tod hinaus führt.
 
 **Gespenstisch - Passiv:** Der Kapitän hat Resistenz gegen physischen Schaden. Markiere einen Stress, um bis zu Naher Reichweite durch feste Objekte zu bewegen.
 
-**Unendliche Schlacht - Aktion:** Gib zwei Ängste aus, um bis zu 1W4+1 besiegte spektrale Verbündete zurück ins Rampenlicht zu rufen, an den Punkten, an denen sie zuerst erschienen sind (ohne markierte TP oder Stress).
+**Unendliche Schlacht - Aktion:** Gib zwei Angstmarken aus, um bis zu 1W4+1 besiegte spektrale Verbündete zurück ins Rampenlicht zu rufen, an den Punkten, an denen sie zuerst erschienen sind (ohne markierte TP oder Stress).
 
 **Halt durch - Reaktion:** Wenn die spektralen Verbündeten des Kapitäns einen Reaktionswurf machen müssen, kannst du einen Stress markieren, um diesen Verbündeten einen Bonus von +2 auf den Wurf zu geben.
 
@@ -707,7 +707,7 @@ Ein gespenstischer Kämpfer mit Speeren und Schwertern, verankert durch die Pfli
 
 **Gespenstisch - Passiv:** Der Wächter hat Resistenz gegen physischen Schaden. Markiere einen Stress, um bis zu Naher Reichweite durch feste Objekte zu bewegen.
 
-**Grabklinge - Aktion:** Gib eine Angst aus, um einen Angriff gegen ein Ziel in Sehr Naher Reichweite zu machen. Bei einem Erfolg füge **2W10+6** physischen Schaden zu und das Ziel muss einen Stress markieren.
+**Grabklinge - Aktion:** Gib eine Angstmarke aus, um einen Angriff gegen ein Ziel in Sehr Naher Reichweite zu machen. Bei einem Erfolg füge **2W10+6** physischen Schaden zu und das Ziel muss einen Stress markieren.
 
 ## Spion
 **Niveau 2 Sozial**
@@ -724,7 +724,7 @@ Ein geschickter Spionage-Agent mit einem Händchen dafür, am richtigen Ort zu s
 
 ### Fähigkeiten
 
-**Geheimnisse sammeln - Aktion:** Gib eine Angst aus, um zu beschreiben, wie der Spion ein Geheimnis über einen SC in der Szene kennt.
+**Geheimnisse sammeln - Aktion:** Gib eine Angstmarke aus, um zu beschreiben, wie der Spion ein Geheimnis über einen SC in der Szene kennt.
 
 **Mäuschen an der Wand - Reaktion:** Wenn ein SC oder eine Gruppe etwas Sensibles bespricht, kannst du einen Stress markieren, um zu enthüllen, dass der Spion in der Szene anwesend ist und sie beobachtet.
 Wenn der Spion der Szene entkommt, um seine Erkenntnisse zu melden, erhältst du **1W4** Angst.
@@ -750,7 +750,7 @@ Während er sich in Stein oder Erde befindet, ist er Versteckt und immun gegen a
 **Felshinterhalt - Aktion:** Während er Versteckt ist, markiere einen Stress, um in Nahkampfreichweite zu einem Ziel in Sehr Naher Reichweite zu springen.
 Das Ziel muss bei einem Agilität- oder Instinkt-Reaktionswurf (15) erfolgreich sein oder **2W8** physischen Schaden erleiden und vorübergehend *Festgehalten* werden.
 
-**Lawinengebrüll - Aktion:** Gib eine Angst aus, um in einer Höhle zu brüllen und einen Höhleneinsturz zu verursachen.
+**Lawinengebrüll - Aktion:** Gib eine Angstmarke aus, um in einer Höhle zu brüllen und einen Höhleneinsturz zu verursachen.
 Alle Ziele in Naher Reichweite müssen bei einem Agilität-Reaktionswurf (14) erfolgreich sein oder **2W10** physischen Schaden erleiden.
 Die Trümmer können mit einem Fortschritts-Countdown (8) geräumt werden.
 
@@ -775,13 +775,13 @@ Ein kampferprobter Magier, ausgebildet in zerstörerischer Magie.
 
 **Bannkugel erneuern - Aktion:** Markiere einen Stress, um die "Bannkugel"-Reaktion des Zauberers zu erneuern.
 
-**Eruption - Aktion:** Gib eine Angst aus und wähle einen Punkt in Weiter Reichweite.
+**Eruption - Aktion:** Gib eine Angstmarke aus und wähle einen Punkt in Weiter Reichweite.
 Ein Sehr Naher Bereich um diesen Punkt bricht in unpassierbares Gelände aus.
 Alle Ziele in diesem Bereich müssen einen Agilität-Reaktionswurf (14) machen.
 Ziele, die scheitern, erleiden **2W10** physischen Schaden und werden aus dem Bereich geschleudert.
 Ziele, die erfolgreich sind, erleiden halben Schaden und werden nicht bewegt.
 
-**Arkane Artillerie - Aktion:** Gib eine Angst aus, um einen präzisen Hagel magischer Explosionen zu entfesseln.
+**Arkane Artillerie - Aktion:** Gib eine Angstmarke aus, um einen präzisen Hagel magischer Explosionen zu entfesseln.
 Alle Ziele in der Szene müssen einen Agilität-Reaktionswurf machen.
 Ziele, die scheitern, erleiden **2W12** magischen Schaden.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
