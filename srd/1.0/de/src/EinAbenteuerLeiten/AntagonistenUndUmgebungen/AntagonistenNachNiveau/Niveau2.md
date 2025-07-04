@@ -490,7 +490,7 @@ Ein listiger Dieb mit akrobatischem Geschick und einem Hang zum Dramatischen.
 
 > **Schwierigkeitsgrad:** 14 | **Schwellen:** 8/17 | **TP:** 4 | **Stress:** 5
 > 
-> **Angriff:** +3 | **Hiebschwert:** Nahkampf | 2W8+3 phy
+> **Angriff:** +3 | **Verdeckte Klinge:** Nahkampf | 2W8+3 phy
 > 
 > **Erfahrung:** Akrobatik +3
 
@@ -503,7 +503,7 @@ Ein listiger Dieb mit akrobatischem Geschick und einem Hang zum Dramatischen.
 ## Händler-Baron
 **Niveau 2 Sozial**
 
-Ein vollendeter Händler mit einem großen Unternehmen unter seinem Kommando.
+Ein erfolgreicher Händler mit einem großen Unternehmen unter seinem Kommando.
 
 **Motive & Taktiken:** Macht missbrauchen, Ressourcen sammeln, Minions mobilisieren
 
@@ -520,9 +520,9 @@ Ein vollendeter Händler mit einem großen Unternehmen unter seinem Kommando.
 **Die beste Muskelkraft, die man kaufen kann - Aktion:** Einmal pro Szene, markiere einen Stress, um 1W4+1 Tier 1 Gegner zu beschwören, die in Erscheinung treten, um den Willen des Barons durchzusetzen.
 
 ## Minotaurus-Zerstörer
-**Niveau 2 Prügler**
+**Niveau 2 Schläger**
 
-Ein massiver, stierköpfiger Firbolg mit einem schnellen Temperament.
+Ein massiver, stierköpfiger Firbolg mit einem hitzigen Temperament.
 
 **Motive & Taktiken:** Verschlingen, aufspießen, navigieren, überwältigen, verfolgen
 
@@ -536,11 +536,11 @@ Ein massiver, stierköpfiger Firbolg mit einem schnellen Temperament.
 
 **Hochfahren - Passiv:** Du musst eine Angst ausgeben, um den Minotaurus ins Rampenlicht zu stellen. Während er im Rampenlicht steht, kann er seinen Standardangriff gegen alle Ziele in Reichweite ausführen.
 
-**Durchstoßender Stier - Aktion:** Markiere einen Stress, um durch eine Gruppe in Naher Reichweite zu stürmen und einen Angriff gegen alle Ziele in der Bahn des Minotaurus auszuführen. Ziele, gegen die der Minotaurus erfolgreich ist, erleiden **2W6+8** physischen Schaden und werden auf Sehr Weite Reichweite zurückgeschlagen. Wenn ein Ziel in ein festes Objekt oder eine andere Kreatur geschlagen wird, erleidet es zusätzlichen **1W6** Schaden (kombiniere den Schaden).
+**Tobender Stier - Aktion:** Markiere einen Stress, um durch eine Gruppe in Naher Reichweite zu toben und einen Angriff gegen alle Ziele in der Bahn des Minotaurus auszuführen. Ziele, gegen die der Minotaurus erfolgreich ist, erleiden **2W6+8** physischen Schaden und werden auf Sehr Weite Reichweite zurückgeschlagen. Wenn ein Ziel in ein festes Objekt oder eine andere Kreatur geschlagen wird, erleidet es zusätzlichen **1W6** Schaden (kombiniere den Schaden).
 
 **Durchbohren - Aktion:** Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite, während du dich in Nahkampfreichweite zu ihm bewegst. Bei einem Erfolg füge **2W8** direkten physischen Schaden zu.
 
-## Sterblicher Jäger
+## Jäger der Sterblichen
 **Niveau 2 Anführer**
 
 Eine untote Gestalt in einem schweren Lederumhang, mit suchenden Augen und einer lässig grausamen Haltung.
@@ -557,7 +557,7 @@ Eine untote Gestalt in einem schweren Lederumhang, mit suchenden Augen und einer
 
 **Erschreckend - Passiv:** Wenn der Jäger einen erfolgreichen Angriff ausführt, verlieren alle SCs in Weiter Reichweite einen Hoffnungspunkt und du erhältst eine Angst.
 
-**Todesgriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel in Sehr Naher Reichweite mit einem nekrotischen Todesgriff zu verfluchen, bis zum Ende der Szene.
+**Todesgriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel in Sehr Naher Reichweite mit einem nekrotischen Todesgriff zu verfluchen (bis zum Ende der Szene).
 Angriffe, die der Jäger gegen ein vom Todesgriff betroffenes Ziel ausführt, verursachen direkten Schaden. Der Jäger kann nur einen Todesgriff gleichzeitig aufrechterhalten.
 
 **Unvermeidlicher Tod - Aktion:** Markiere einen Stress, um 1W4 Verbündete ins Rampenlicht zu stellen. Angriffe, die sie während sie auf diese Weise ins Rampenlicht gestellt werden, ausführen, verursachen halben Schaden.
@@ -573,7 +573,7 @@ Ein hochrangiger Höfling mit dem Ohr der lokalen Noblesse.
 
 > **Schwierigkeitsgrad:** 14 | **Schwellen:** 8/15 | **TP:** 3 | **Stress:** 3
 > 
-> **Angriff:** -3 | **Zauberstab:** Weit | 1W4+3 phy
+> **Angriff:** -3 | **Stab:** Weit | 1W4+3 phy
 > 
 > **Erfahrung:** Verwaltung +3, Höfling +3
 
@@ -581,14 +581,14 @@ Ein hochrangiger Höfling mit dem Ohr der lokalen Noblesse.
 
 **Verheerende Erwiderung - Passiv:** Ein SC, der weniger als 17 bei einem Aktionswurf gegen den Berater würfelt, muss einen Stress markieren.
 
-**Ohren beugen - Aktion:** Markiere einen Stress, um einen NPC in Naher Reichweite mit geflüsterten Worten zu beeinflussen. Die Meinung dieses Ziels zu einer Angelegenheit ändert sich zugunsten der Präferenz des Beraters, es sei denn, sie steht in direktem Gegensatz zu den Motiven des Ziels.
+**Willen beugen - Aktion:** Markiere einen Stress, um einen NPC in Naher Reichweite mit geflüsterten Worten zu beeinflussen. Die Meinung dieses Ziels zu einer Angelegenheit ändert sich zugunsten der Präferenz des Beraters, es sei denn, sie steht in direktem Gegensatz zu den Motiven des Ziels.
 
 **Sündenbock - Aktion:** Gib eine Angstmarke aus, um eine Menge oder eine bemerkenswerte Person davon zu überzeugen, dass eine Person oder Gruppe für ein Problem verantwortlich ist, das das Ziel betrifft. Das Ziel wird bis zu seiner Überzeugung von der Unschuld des Sündenbocks mit einem erfolgreichen Präsenzwurf (17) feindlich gegenüber dem Sündenbock.
 
 ## Geheimnisträger
 **Niveau 2 Anführer**
 
-Ein heimlicher Anführer mit einem direkten Kanal zu den Gefallenen Göttern.
+Ein heimlicher Führer mit einem direkten Kanal zu den Gefallenen Göttern.
 
 **Motive & Taktiken:** Große Macht anhäufen, planen, das Kommando übernehmen
 
@@ -604,12 +604,12 @@ Ein heimlicher Anführer mit einem direkten Kanal zu den Gefallenen Göttern.
 
 **Der Wille unseres Meisters - Reaktion:** Wenn du einen Verbündeten in Weiter Reichweite ins Rampenlicht stellst, markiere einen Stress, um eine Angst zu gewinnen.
 
-**Beschwörungsritual - Reaktion:** Countdown (6). Wenn der Geheimnisträger zum ersten Mal im Rampenlicht steht, aktiviere den Countdown. Wenn er TP markiert, verringere diesen Countdown um die Anzahl der markierten TP. Wenn er auslöst, beschwöre einen Minderer Dämon, der in Naher Reichweite erscheint.
+**Beschwörungsritual - Reaktion:** Countdown (6). Wenn der Geheimnisträger zum ersten Mal im Rampenlicht steht, aktiviere den Countdown. Wenn er TP markiert, verringere diesen Countdown um die Anzahl der markierten TP. Wenn er auslöst, beschwöre einen Geringen Dämons in Naher Reichweite.
 
 **Gefallene Hunde - Reaktion:** Einmal pro Szene, wenn der Geheimnisträger 2 oder mehr TP markiert, kannst du einen Stress markieren, um ein Dämonenhunde-Pack zu beschwören, das in Naher Reichweite erscheint und sofort ins Rampenlicht gestellt wird.
 
 ## Hai
-**Niveau 2 Prügler**
+**Niveau 2 Schläger**
 
 Ein großer aquatischer Räuber, immer in Bewegung.
 
@@ -625,7 +625,7 @@ Ein großer aquatischer Räuber, immer in Bewegung.
 
 **Erschreckend - Passiv:** Wenn der Hai einen erfolgreichen Angriff ausführt, verlieren alle SCs in Weiter Reichweite einen Hoffnungspunkt und du erhältst eine Angst.
 
-**Zerreißender Biss - Passiv:** Wenn der Hai einen erfolgreichen Angriff ausführt, muss das Ziel einen Rüstungsplatz markieren, ohne die Vorteile zu erhalten (es kann die Rüstung weiterhin verwenden, um den Schaden zu reduzieren). Wenn es keinen Rüstungsplatz markieren kann, muss es ein zusätzliches HP markieren.
+**Zerreißender Biss - Passiv:** Wenn der Hai einen erfolgreichen Angriff ausführt, muss das Ziel einen Rüstungsplatz markieren, ohne die Vorteile zu erhalten (es kann die Rüstung weiterhin verwenden, um den Schaden zu reduzieren). Wenn es keinen Rüstungsplatz markieren kann, muss es einen zusätzlichen TP markieren.
 
 **Blut im Wasser - Reaktion:** Wenn eine Kreatur in Naher Reichweite des Hais TP von einem Angriff einer anderen Kreatur markiert, kannst du einen Stress markieren, um den Hai sofort ins Rampenlicht zu stellen, ihn in Nahkampfreichweite des Ziels zu bewegen und einen Standardangriff auszuführen.
 
@@ -644,14 +644,14 @@ Eine halb-fischige Person mit schimmernden Schuppen und einer unwiderstehlichen 
 
 ### Fähigkeiten
 
-**Gefangene Audience - Passiv:** Wenn die Sirene einen Standardangriff gegen ein Ziel ausführt, das von ihrem Gesang gefangen genommen wurde, verursacht der Angriff **2W10+1** Schaden anstelle des Standardschadens.
+**Gefesseltes Publikum - Passiv:** Wenn die Sirene einen Standardangriff gegen ein Ziel ausführt, das von ihrem Gesang in den Bann gezogen wurde, verursacht der Angriff **2W10+1** Schaden anstelle des Standardschadens.
 
-**Bezaubernder Gesang - Aktion:** Gib eine Angstmarke aus, um ein Lied zu singen, das alle Ziele in Naher Reichweite betrifft. Die Ziele müssen einen Instinkt-Reaktionswurf bestehen oder bis sie 2 Stress markieren, *Verzaubert* werden. Andere Sirenen in Naher Reichweite des Ziels können einen Stress markieren, um jeweils einen Bonus von +1 auf den Schwierigkeitsgrad des Reaktionswurfs zu gewähren. Während sie *Verzaubert* sind, kann ein Ziel nicht handeln und ist *verwundbar*.
+**Bezaubernder Gesang - Aktion:** Gib eine Angstmarke aus, um ein Lied zu singen, das alle Ziele in Naher Reichweite betrifft. Die Ziele müssen einen Instinkt-Reaktionswurf bestehen oder werden *Verzaubert*, bis sie 2 Stress markieren. Andere Sirenen in Naher Reichweite des Ziels können einen Stress markieren, um jeweils einen Bonus von +1 auf den Schwierigkeitsgrad des Reaktionswurfs zu gewähren. Während ein Ziel *Verzaubert* ist, kann es nicht handeln und ist *verwundbar*.
 
 ## Spektral-Bogenschütze
 **Niveau 2 Fernkampf**
 
-Ein gespenstischer Kämpfer mit einem ätherischen Bogen, unfähig, loszulassen, während ihr Schützling verwundbar ist.
+Ein gespenstischer Kämpfer mit einem ätherischen Bogen der sich an diese Sphäre klammert, solange sein Schützling nicht in Sicherheit ist.
 
 **Motive & Taktiken:** Durch feste Objekte bewegen, aus dem Getümmel heraushalten, alte Schlachten wiederholen
 
@@ -688,12 +688,12 @@ Ein gespenstischer Kommandant, der seine Truppen über den Tod hinaus führt.
 
 **Halt durch - Reaktion:** Wenn die spektralen Verbündeten des Kapitäns einen Reaktionswurf machen müssen, kannst du einen Stress markieren, um diesen Verbündeten einen Bonus von +2 auf den Wurf zu geben.
 
-**Schwung - Reaktion:** Wenn der Kapitän einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn der Kapitän einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angstmarke.
 
 ## Spektral-Wächter
 **Niveau 2 Standard**
 
-Ein gespenstischer Kämpfer mit Speeren und Schwertern, verankert durch die Pflicht.
+Ein gespenstischer Kämpfer mit Speeren und Schwertern, gebunden durch seinen Schwur.
 
 **Motive & Taktiken:** Durch feste Objekte bewegen, Schatz schützen, alte Schlachten wiederholen
 
@@ -724,7 +724,7 @@ Ein geschickter Spionage-Agent mit einem Händchen dafür, am richtigen Ort zu s
 
 ### Fähigkeiten
 
-**Geheimnisse sammeln - Aktion:** Gib eine Angstmarke aus, um zu beschreiben, wie der Spion ein Geheimnis über einen SC in der Szene kennt.
+**Geheimnisse sammeln - Aktion:** Gib eine Angstmarke aus, um zu beschreiben, dass der Spion ein Geheimnis über einen SC in der Szene kennt.
 
 **Mäuschen an der Wand - Reaktion:** Wenn ein SC oder eine Gruppe etwas Sensibles bespricht, kannst du einen Stress markieren, um zu enthüllen, dass der Spion in der Szene anwesend ist und sie beobachtet.
 Wenn der Spion der Szene entkommt, um seine Erkenntnisse zu melden, erhältst du **1W4** Angst.
@@ -776,7 +776,7 @@ Ein kampferprobter Magier, ausgebildet in zerstörerischer Magie.
 **Bannkugel erneuern - Aktion:** Markiere einen Stress, um die "Bannkugel"-Reaktion des Zauberers zu erneuern.
 
 **Eruption - Aktion:** Gib eine Angstmarke aus und wähle einen Punkt in Weiter Reichweite.
-Ein Sehr Naher Bereich um diesen Punkt bricht in unpassierbares Gelände aus.
+Ein Sehr Naher Bereich um diesen Punkt verwandelt sich in unpassierbares Gelände.
 Alle Ziele in diesem Bereich müssen einen Agilität-Reaktionswurf (14) machen.
 Ziele, die scheitern, erleiden **2W10** physischen Schaden und werden aus dem Bereich geschleudert.
 Ziele, die erfolgreich sind, erleiden halben Schaden und werden nicht bewegt.

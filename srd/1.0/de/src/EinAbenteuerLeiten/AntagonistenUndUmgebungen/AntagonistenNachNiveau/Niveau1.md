@@ -1134,7 +1134,7 @@ Eine belebte Leiche, die sich wackelig bewegt, nur vom Hunger getrieben.
 
 **Schrecklich - Passiv:** Ziele, die TP durch die Angriffe des Zombies markieren, müssen auch einen Stress markieren.
 
-## Zombie-Rudel
+## Zombie-Pack
 **Niveau 1 Horde (/TP)**
 
 Eine Gruppe taumelnder Leichen, die sich instinktiv zusammen bewegen.
