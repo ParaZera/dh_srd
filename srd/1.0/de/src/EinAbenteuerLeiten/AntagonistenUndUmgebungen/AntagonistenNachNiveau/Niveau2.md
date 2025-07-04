@@ -3,7 +3,7 @@
 ## Bogenschützen-Geschwader
 **Niveau 2 Horde (/TP)**
 
-Eine Gruppe ausgebildeter Bogenschützen mit massiven Bögen.
+Eine Gruppe ausgebildeter Bogenschützen mit riesigen Bögen.
 
 **Motive & Taktiken:** Zusammenhalten, überleben, Salvenfeuer
 
@@ -29,7 +29,7 @@ Bei einem Erfolg erleidet sie halben Schaden.
 
 Ein junger Azubi, begierig darauf, sich zu beweisen.
 
-**Motive & Taktiken:** Rücksichtslos handeln, töten, ihren Wert beweisen, angeben
+**Motive & Taktiken:** Rücksichtslos handeln, töten, seinen Wert beweisen, angeben
 
 > **Schwierigkeitsgrad:** 13 | **Schwellen:** Keine | **TP:** 1 | **Stress:** 1
 > 
@@ -66,7 +66,7 @@ Ein listiger Schurke, geschickt sowohl in Giften als auch im Hinterhalt.
 
 **Aus dem Nichts - Passiv:** Der Attentäter hat einen Vorteil bei Angriffen, wenn er Versteckt ist.
 
-**Begasung - Aktion:** Wirf eine Rauchbombe, die die Luft in Naher Reichweite mit Rauch füllt und alle Ziele in diesem Bereich *Benommen* macht.
+**Ausräuchern - Aktion:** Wirf eine Rauchbombe, die die Luft in Naher Reichweite mit Rauch füllt und alle Ziele in diesem Bereich *Benommen* macht.
 Benommene Ziele haben einen Nachteil bei ihrem nächsten Aktionswurf und entfernen dann den Zustand.
 
 ## Meister-Attentäter
@@ -86,7 +86,7 @@ Ein erfahrener Killer mit bedrohlicher Stimme und tödlicher Klinge.
 
 **Werden es nicht kommen sehen - Passiv:** Der Attentäter verursacht direkten Schaden, während er Versteckt ist.
 
-**Schlagt als einer zu - Aktion:** Markiere einen Stress, um so viele andere Attentäter ins Rampenlicht zu stellen, wie der Attentäter unmarkierte Stress hat.
+**Handelt als eine Person - Aktion:** Markiere einen Stress, um so viele andere Attentäter ins Rampenlicht zu stellen, wie der Attentäter unmarkierte Stress hat.
 
 **Die subtile Klinge - Reaktion:** Wenn der Attentäter erfolgreich einen Standardangriff gegen ein verwundbares Ziel macht, kannst du eine Angstmarke ausgeben, um stattdessen verheerenden Schaden zu verursachen anstelle seines Standardschadens.
 
@@ -117,7 +117,7 @@ Die Kiste verwendet den entsprechenden Zug:
 3. Zertrampeln. Die Kiste rast erratisch herum. Mache einen Angriff gegen alle SCs in Naher Reichweite. Ziele, gegen die die Kiste erfolgreich ist, erleiden **1W6+5** physischen Schaden und sind *verwundbar* bis zu ihrem nächsten Wurf mit Hoffnung.
 4. Schockgas. Die Kiste sprüht ein silbernes Gas aus, das vor Blitzen sprüht. Alle Ziele in Naher Reichweite müssen bei einem Finesse-Reaktionswurf erfolgreich sein oder 3 Stress markieren.
 5. Betäubender Schlag. Die Kiste springt und ihre Seiten klatschen zusammen, was einen kleinen Schallknall erzeugt. Alle Ziele in Sehr Naher Reichweite müssen bei einem Stärke-Reaktionswurf erfolgreich sein oder *verwundbar* werden, bis der Würfel besiegt ist.
-6. Psionisches Wimmern. Die Kiste gibt einen Schwarm mechanischer Bienen frei, deren Summen sterbliche Geister erschüttert. Alle Ziele in Naher Reichweite müssen bei einem Präsenz-Reaktionswurf erfolgreich sein oder **2W4+9** direkten magischen Schaden erleiden.
+6. Psionisches Summen. Die Kiste gibt einen Schwarm mechanischer Bienen frei, deren Summen den Geist der sterbliche erschüttert. Alle Ziele in Naher Reichweite müssen bei einem Präsenz-Reaktionswurf erfolgreich sein oder **2W4+9** direkten magischen Schaden erleiden.
 
 **Überladung - Reaktion:** Bevor du Schaden für den Angriff der Kiste würfelst, kannst du einen Stress markieren, um einen W6 zum Schadenswurf hinzuzufügen.
 Zusätzlich erhältst du eine Angst.
@@ -152,7 +152,7 @@ Zusätzlich kann der Schädel bei einem Erfolg sofort wieder ins Rampenlicht ges
 ## Wehrpflichtiger
 **Niveau 2 Lakai**
 
-Ein schlecht ausgebildeter Zivilist, der in den Krieg gepresst wurde.
+Ein schlecht ausgebildeter Zivilist, der in den Krieg gezwungen wurde.
 
 **Motive & Taktiken:** Befehlen folgen, zusammenrotten, überleben
 
@@ -173,7 +173,7 @@ Kombiniere diesen Schaden.
 ## Kurtisane
 **Niveau 2 Sozial**
 
-Ein vollendeter Manipulator und Meister der sozialen Künste.
+Eine vollendete Manipulatorin und Meisterin der sozialen Künste.
 
 **Motive & Taktiken:** Verführen, manövrieren, Gönner sichern
 
@@ -185,7 +185,7 @@ Ein vollendeter Manipulator und Meister der sozialen Künste.
 
 ### Fähigkeiten
 
-**Brandender Blick - Reaktion:** Wenn ein SC in Naher Reichweite einen Präsenzwurf macht, kannst du einen Stress markieren, um mit dem Blick auf das Ergebnis zu zeigen.
+**Brennender Blick - Reaktion:** Wenn ein SC in Naher Reichweite einen Präsenzwurf macht, kannst du einen Stress markieren, um mit dem Blick auf das Ergebnis zu zeigen.
 Bei einem Fehlschlag muss das Ziel 2 Stress markieren und ist bis zum Ende der Szene oder bis es einen sozialen Erfolg gegen die Kurtisane erzielt, *verwundbar*. Bei einem Erfolg muss das Ziel einen Stress markieren.
 
 ## Kult-Adept
@@ -206,7 +206,7 @@ Ein erfahrener Magier, der Schatten und Angst einsetzt.
 **Entkräftender Schlag - Aktion:** Gib eine Angstmarke aus, um einen Standardangriff gegen ein Ziel in Reichweite zu machen.
 Bei einem Erfolg muss das Ziel einen Stress markieren.
 
-**Schatten der Gefallenen - Aktion:** Markiere einen Stress, um einen Verbündeten in Naher Reichweite in einen Schutzschleier zu hüllen, bis der Adept seinen letzten TP markiert. Während des Schutzes hat das Ziel Resistenz gegen allen Schaden.
+**Schatten der Gefallenen - Aktion:** Markiere einen Stress, um einen Verbündeten in Naher Reichweite in einen Schutzschleier zu hüllen, bis der Adept seinen letzten TP markiert. Während des Schutzes hat das Ziel Resistenz gegen jeden Schaden.
 
 **Schattenfesseln - Aktion:** Gib eine Angstmarke aus und wähle einen Punkt in Weiter Reichweite.
 Alle Ziele in Naher Reichweite zu diesem Punkt sind in rauchigen Ketten gefesselt, bis sie sich mit einem erfolgreichen Stärke- oder Instinkt-Wurf befreien. Ein Ziel, das von dieser Fähigkeit gefesselt wird, muss einen Hoffnungspunkt ausgeben, um einen Aktionswurf zu machen.
@@ -226,16 +226,16 @@ Ein professioneller Killer, der zum Kultisten wurde.
 
 ### Fähigkeiten
 
-**Umarmung des Schattens - Passiv:** Der Zahn kann an vertikalen Flächen klettern und gehen. Markiere einen Stress, um von einem Schatten zu einem anderen in Weiter Reichweite zu wechseln.
+**Umarmung des Schattens - Passiv:** Der Fang kann an vertikalen Flächen klettern und gehen. Markiere einen Stress, um von einem Schatten zu einem anderen in Weiter Reichweite zu wechseln.
 
-**Abtrennen des Nachzüglers - Aktion:** Markiere einen Stress, um ein Ziel in Nahkampfreichweite einen Instinkt-Reaktionswurf machen zu lassen. Bei einem Fehlschlag muss das Ziel 2 Stress markieren und wird mit dem Zahn in einen Schatten in Weiter Reichweite teleportiert, wodurch es vorübergehend *verwundbar* wird. Bei einem Erfolg muss das Ziel einen Stress markieren.
+**Abtrennen des Nachzüglers - Aktion:** Markiere einen Stress, um ein Ziel in Nahkampfreichweite einen Instinkt-Reaktionswurf machen zu lassen. Bei einem Fehlschlag muss das Ziel 2 Stress markieren und wird mit dem Fang in einen Schatten in Weiter Reichweite teleportiert, wodurch es vorübergehend *verwundbar* wird. Bei einem Erfolg muss das Ziel einen Stress markieren.
 
 ## Kult-Initiierter
 **Niveau 2 Lakai**
 
 Ein niederrangiger Kultist in einfachen Roben, begierig darauf, Macht zu erlangen.
 
-**Motive & Taktiken:** Befehlen folgen, Macht gewinnen, verbotene Kenntnisse suchen
+**Motive & Taktiken:** Befehlen folgen, Macht gewinnen, verbotenes Wissen suchen
 
 > **Schwierigkeitsgrad:** 13 | **Schwellen:** Keine | **TP:** 1 | **Stress:** 1
 > 
@@ -252,7 +252,7 @@ Bei einem Erfolg verursachen sie jeweils 5 physischen Schaden.
 Kombiniere diesen Schaden.
 
 ## Dämonenhunde-Pack
-**Niveau 2 Horde (/TP)**
+**Niveau 2 Horde (1/TP)**
 
 Unnatürliche Hunde, die von Höllenfeuer durchzogen sind.
 
@@ -275,7 +275,7 @@ Unnatürliche Hunde, die von Höllenfeuer durchzogen sind.
 ## Elektrische Aale
 **Niveau 2 Horde (/TP)**
 
-Ein Schwarm von Aalen, die sich zusammenziehen und elektrisieren.
+Ein Schwarm von Aalen, die umkreisen und elektrisieren.
 
 **Motive & Taktiken:** Größere Raubtiere vermeiden, Beute schocken, zerreißen
 
@@ -309,7 +309,7 @@ Ein gepanzerter Page oder erfahrener Bürger, der aufsteigen möchte.
 ## Fehlgeschlagenes Experiment
 **Niveau 2 Standard**
 
-Ein magisches nekromantisches Experiment, das schiefgegangen ist und sie verzerrt und ungeschickt gemacht hat.
+Ein magisches nekromantisches Experiment, das schiefgegangen ist und die Wirker verzerrt und entartet zurücklässt.
 
 **Motive & Taktiken:** Verschlingen, jagen, verfolgen
 
@@ -325,14 +325,14 @@ Ein magisches nekromantisches Experiment, das schiefgegangen ist und sie verzerr
 
 **Überwältigen - Passiv:** Wenn ein Ziel, das das Experiment angreift, andere Gegner in Sehr Naher Reichweite hat, verursacht das Experiment doppelten Schaden.
 
-**Stolpernder Satz - Aktion:** Markiere einen Stress, um das Experiment als zusätzlichen SL-Zug ins Rampenlicht zu stellen, anstatt Angst auszugeben.
+**Stolpernder Sprung - Aktion:** Markiere einen Stress, um das Experiment als zusätzlichen SL-Zug ins Rampenlicht zu stellen, anstatt Angst auszugeben.
 
 ## Riesen-Bestienmeister
 **Niveau 2 Anführer**
 
-Ein lederner Krieger mit Peitsche und massivem Bogen.
+Ein in Leder gehüllter Krieger mit Peitsche und massivem Bogen.
 
-**Motive & Taktiken:** Befehlen, leben verdienen, manövrieren, festnageln, Begleittiere schützen
+**Motive & Taktiken:** Befehlen, Gold verdienen, manövrieren, festnageln, Begleittiere schützen
 
 > **Schwierigkeitsgrad:** 16 | **Schwellen:** 12/24 | **TP:** 6 | **Stress:** 5
 > 
@@ -342,14 +342,14 @@ Ein lederner Krieger mit Peitsche und massivem Bogen.
 
 ### Fähigkeiten
 
-**Zwei als Eins - Passiv:** Wenn der Bestienmeister ins Rampenlicht gestellt wird, kannst du auch einen Tier 1 Tiergegner, der sich derzeit unter seiner Kontrolle befindet, ins Rampenlicht stellen.
+**Zwei als Eins - Passiv:** Wenn der Bestienmeister ins Rampenlicht gestellt wird, kannst du auch einen Niveau 1 Tiergegner, der sich derzeit unter seiner Kontrolle befindet, ins Rampenlicht stellen.
 
 **Festnagelnder Schlag - Aktion:** Mache einen Standardangriff gegen ein Ziel. Bei einem Erfolg kannst du einen Stress markieren, um sie an einer nahegelegenen Oberfläche festzunageln. Das festgenagelte Ziel ist *Festgehalten*, bis es sich mit einem erfolgreichen Finesse- oder Stärke-Wurf befreit.
 
-**Tödlicher Gefährte - Aktion:** Zweimal pro Szene beschwöre einen Bären, einen Toten Hund oder einen ähnlichen Tiergegner der Stufe 1 unter der Kontrolle des Bestienmeisters. Der Gegner erscheint in Naher Reichweite und wird sofort ins Rampenlicht gestellt.
+**Tödlicher Gefährte - Aktion:** Zweimal pro Szene beschwöre einen Bären, einen Schattenwolf oder einen ähnlichen Tiergegner der Stufe 1 unter der Kontrolle des Bestienmeisters. Der Antagonist erscheint in Naher Reichweite und wird sofort ins Rampenlicht gestellt.
 
-## Riesen-Prügler
-**Niveau 2 Prügler**
+## Riesen-Schläger
+**Niveau 2 Schläger**
 
 Ein besonders muskulöser Riese, der einen Kriegshammer hält, der größer ist als ein Mensch.
 
@@ -363,18 +363,18 @@ Ein besonders muskulöser Riese, der einen Kriegshammer hält, der größer ist 
 
 ### Fähigkeiten
 
-**Rammbock - Aktion:** Markiere einen Stress, um mit dem Prügler auf ein unbelebtes Objekt in Naher Reichweite zuzurennen, das er vernichten könnte (wie eine Wand, einen Wagen oder einen Marktstand), und es zu zerstören. Alle Ziele in Sehr Naher Reichweite des Objekts müssen einen Agilität-Reaktionswurf machen oder **2W4+3** physischen Schaden durch die Trümmer erleiden.
+**Rammbock - Aktion:** Markiere einen Stress, um mit dem Schläger auf ein unbelebtes Objekt in Naher Reichweite zuzurennen, das er vernichten könnte (wie eine Wand, einen Wagen oder einen Marktstand), und es zu zerstören. Alle Ziele in Sehr Naher Reichweite des Objekts müssen einen Agilität-Reaktionswurf machen oder **2W4+3** physischen Schaden durch die Trümmer erleiden.
 
-**Blutige Vergeltung - Reaktion:** Wenn der Prügler in Sehr Naher Reichweite von einem Angriff 2 oder mehr TP erleidet, kannst du einen Standardangriff gegen den Angreifer ausführen. Bei einem Erfolg fügt der Prügler **2W6+15** physischen Schaden anstelle seines Standardschadens zu.
+**Blutige Vergeltung - Reaktion:** Wenn der Schläger in Sehr Naher Reichweite von einem Angriff 2 oder mehr TP erleidet, kannst du einen Standardangriff gegen den Angreifer ausführen. Bei einem Erfolg fügt der Schläger **2W6+15** physischen Schaden anstelle seines Standardschadens zu.
 
-**Schwung - Reaktion:** Wenn der Prügler einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn der Schläger einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angstmarke.
 
 ## Riesen-Rekrut
 **Niveau 2 Lakai**
 
-Ein Riese, der sich in geliehener Rüstung kämpft.
+Ein Riese, der in geliehener Rüstung kämpft.
 
-**Motive & Taktiken:** Zuschlagen, leben verdienen, überwältigen, terrorisieren
+**Motive & Taktiken:** Zuschlagen, Gold verdienen, überwältigen, terrorisieren
 
 > **Schwierigkeitsgrad:** 13 | **Schwellen:** Keine | **TP:** 1 | **Stress:** 2
 > 
@@ -405,7 +405,7 @@ Ein riesiger Greifvogel mit blutbesudelten Krallen.
 
 **Flug - Passiv:** Während des Flugs erhält der Adler einen Bonus von +3 auf seinen Schwierigkeitsgrad.
 
-**Tödlicher Sturz - Aktion:** Markiere einen Stress, um ein Ziel in Weiter Reichweite anzugreifen. Bei einem Erfolg füge **2W10+2** physischen Schaden zu und werfe das Ziel um, wodurch es bis zu seiner nächsten Aktion *verwundbar* wird.
+**Tödlicher Sturzflug - Aktion:** Markiere einen Stress, um ein Ziel in Weiter Reichweite anzugreifen. Bei einem Erfolg füge **2W10+2** physischen Schaden zu und werfe das Ziel um, wodurch es bis zu seiner nächsten Aktion *verwundbar* wird.
 
 **Abheben - Aktion:** Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite. Bei einem Erfolg füge **2W4+3** physischen Schaden zu und das Ziel muss einen Agilität-Reaktionswurf machen oder vorübergehend in den massiven Krallen des Adlers *Festgehalten* werden. Wenn das Ziel *Festgehalten* wird, hebt der Adler sofort in die Luft auf Sehr Weite Reichweite über das Schlachtfeld ab, während er es hält.
 
@@ -414,9 +414,9 @@ Ein riesiger Greifvogel mit blutbesudelten Krallen.
 ## Gorgone
 **Niveau 2 Solo**
 
-Ein schlangenköpfiger, schuppiger Humanoider mit einem vergoldeten Bogen, wütend darüber, dass ihr Frieden gestört wurde.
+Ein schlangenköpfiger, schuppiger Humanoider mit einem vergoldeten Bogen, wütend darüber, dass sein Frieden gestört wurde.
 
-**Motive & Taktiken:** Ecken, Treffer-und-Lauf, versteinern, Rache suchen
+**Motive & Taktiken:** In die Enge treiben, Angreifen und Zurückziehen, versteinern, Rache suchen
 
 > **Schwierigkeitsgrad:** 15 | **Schwellen:** 13/25 | **TP:** 9 | **Stress:** 3
 > 
@@ -430,10 +430,10 @@ Ein schlangenköpfiger, schuppiger Humanoider mit einem vergoldeten Bogen, wüte
 
 **Sonnenbrenner-Pfeile - Passiv:** Wenn die Gorgone einen erfolgreichen Standardangriff ausführt, leuchtet das Ziel bis zum Ende der Szene und kann nicht mehr versteckt werden. Angriffswürfe gegen ein leuchtendes Ziel haben einen Vorteil.
 
-**Schlangenkronen - Aktion:** Mache einen Angriffswurf gegen ein Ziel in Nahkampfreichweite mit den schützenden Schlangen der Gorgone. Bei einem Erfolg markiere einen Stress, um **2W10+4** physischen Schaden zuzufügen und das Ziel muss einen Stress markieren.
+**Schlangenkronen - Aktion:** Mache einen Angriffswurf gegen ein Ziel in Nahkampfreichweite mit den Schlangen des Gorgonen. Bei einem Erfolg markiere einen Stress, um **2W10+4** physischen Schaden zuzufügen und das Ziel einen Stress markieren zu lassen.
 
-**Versteinernder Blick - Reaktion:** Wenn die Gorgone durch einen Angriff in Naher Reichweite Schaden erleidet, kannst du eine Angstmarke ausgeben, um den Angreifer zu zwingen, einen Instinkt-Reaktionswurf zu machen. Bei einem Fehlschlag beginnt er sich zu versteinern, markiert einen TP und startet einen Versteinerungs-Countdown (4). Dieser Countdown läuft ab, wenn die Gorgone angegriffen wird. Wenn er auslöst, muss das Ziel einen Todeswurf machen.
-Wenn die Gorgone besiegt wird, enden alle Versteinerungs-Countdowns.
+**Versteinernder Blick - Reaktion:** Wenn der Gorgone durch einen Angriff in Naher Reichweite Schaden erleidet, kannst du eine Angstmarke ausgeben, um den Angreifer zu zwingen, einen Instinkt-Reaktionswurf zu machen. Bei einem Fehlschlag beginnt er sich zu versteinern, markiert einen TP und startet einen Versteinerungs-Countdown (4). Dieser Countdown läuft ab, wenn die Gorgone angegriffen wird. Wenn er auslöst, muss das Ziel eine Todesaktion machen.
+Wenn der Gorgone besiegt wird, enden alle Versteinerungs-Countdowns.
 
 **Schwung - Reaktion:** Wenn die Gorgone einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
 
@@ -442,7 +442,7 @@ Wenn die Gorgone besiegt wird, enden alle Versteinerungs-Countdowns.
 
 Ein pferdegroßes Insekt mit irisierenden Schuppen und kristallinen Flügeln, das sich schneller bewegt als das Auge sehen kann.
 
-**Motive & Taktiken:** Sammle glänzende Dinge, jagen, swoop
+**Motive & Taktiken:** Sammle glänzende Dinge, jagen, Sturtzflug
 
 > **Schwierigkeitsgrad:** 14 | **Schwellen:** 13/26 | **TP:** 10 | **Stress:** 5
 > 
@@ -450,13 +450,13 @@ Ein pferdegroßes Insekt mit irisierenden Schuppen und kristallinen Flügeln, da
 
 ### Fähigkeiten
 
-**Unerbittlich (3) - Passiv:** Die Flickerfly kann bis zu drei Mal pro GM-Zug ins Rampenlicht gestellt werden. Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
+**Unerbittlich (3) - Passiv:** Der Flickerflügel kann bis zu drei Mal pro GM-Zug ins Rampenlicht gestellt werden. Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
 
 **Unvergleichliche Genauigkeit - Passiv:** Bevor der Flickerflügel einen Angriff ausführt, würfle einen W6. Bei einem Ergebnis von 4 oder höher wird die Ausweichfähigkeit des Ziels gegen diesen Angriff halbiert.
 
-**Geisteshauch - Aktion:** Markiere einen Stress, um eine magisch blendende Darstellung zu erzeugen, die die Gedanken der nahegelegenen Feinde ergreift. Alle Ziele in Naher Reichweite müssen einen Instinkt-Reaktionswurf machen. Für jedes Ziel, das gescheitert ist, erhältst du eine Angst und der Flickerflügel erfährt eine der Ängste des Ziels.
+**Geisteshauch - Aktion:** Markiere einen Stress, um eine magisch blendende Darstellung zu erzeugen, die die Gedanken der nahegelegenen Feinde ergreift. Alle Ziele in Naher Reichweite müssen einen Instinkt-Reaktionswurf machen. Für jedes Ziel, das gescheitert ist, erhältst du eine Angstmarke und der Flickerflügel erfährt eine der Ängste des Ziels.
 
-**Halluzinatorischer Atem - Reaktion:** Countdown (Schleife 1W6). Wenn der Flickerflügel zum ersten Mal Schaden erleidet, aktiviere den Countdown. Wenn er auslöst, atmet der Flickerflügel halluzinatorisches Gas auf alle Ziele vor ihnen bis zu Weiter Reichweite aus. Die Ziele müssen einen Instinkt-Reaktionswurf bestehen oder von angsteinflößenden Halluzinationen gequält werden. Ziele, deren Ängste der Flickerfly bekannt sind, haben bei diesem Wurf einen Nachteil. Ziele, die scheitern, müssen einen Stress markieren und einen Hoffnungspunkt verlieren.
+**Halluzinatorischer Atem - Reaktion:** Countdown (Schleife 1W6). Wenn der Flickerflügel zum ersten Mal Schaden erleidet, aktiviere den Countdown. Wenn er auslöst, atmet der Flickerflügel halluzinatorisches Gas auf alle Ziele vor ihm bis zu Weiter Reichweite aus. Die Ziele müssen einen Instinkt-Reaktionswurf bestehen oder von angsteinflößenden Halluzinationen gequält werden. Ziele, deren Ängste dem Flickerflügel bekannt sind, haben bei diesem Wurf einen Nachteil. Ziele, die scheitern, müssen einen Stress markieren und einen Hoffnungspunkt verlieren.
 
 ## Ritter des Reiches
 **Niveau 2 Anführer**
