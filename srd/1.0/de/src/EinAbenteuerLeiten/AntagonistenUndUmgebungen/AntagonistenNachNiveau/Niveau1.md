@@ -208,7 +208,7 @@ Ein katzengroßes Nagetier, geschickt im Sammeln und Überleben.
 ### Fähigkeiten
 
 **Lakai (3) - Passiv:** Die Ratte wird besiegt, wenn sie irgendeinen Schaden erleidet.
-Für alle 3 Schaden, die ein SC der Ratte zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 3 Schaden, die ein SC der Ratte zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Riesen-Ratten in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -426,7 +426,7 @@ Ein Dieb mit einfacher Kleidung und kleinen Dolchen, begierig darauf, sich zu be
 ### Fähigkeiten
 
 **Lakai (3) - Passiv:** Der Lakaie wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 3 Schaden, die ein SC dem Lakaien zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 3 Schaden, die ein SC dem Lakaien zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Zackenklinge-Lakaien in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -609,7 +609,7 @@ Ein beweglicher Setzling, der sich erhebt, um seinen Wald zu verteidigen.
 ### Fähigkeiten
 
 **Lakai (5) - Passiv:** Der Treant wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 5 Schaden, die ein SC dem Treant zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 5 Schaden, die ein SC dem Treant zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Geringen Treants in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -805,7 +805,7 @@ Ein bewaffneter Söldner, der sein Glück sucht.
 ### Fähigkeiten
 
 **Lakai (4) - Passiv:** Der Söldner wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 4 Schaden, die ein SC dem Söldner zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 4 Schaden, die ein SC dem Söldner zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Söldner in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -844,7 +844,7 @@ Ein klappernder Haufen Knochen.
 ### Fähigkeiten
 
 **Lakai (4) - Passiv:** Der Schlurfer wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 4 Schaden, die ein SC dem Schlurfer zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 4 Schaden, die ein SC dem Schlurfer zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Schlurfer in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -993,7 +993,7 @@ Ein belebtes, bluttrinkende Tumbleweed.
 ### Fähigkeiten
 
 **Lakai (4) - Passiv:** Das Dorngestrüpp wird besiegt, wenn es irgendeinen Schaden erleidet.
-Für alle 4 Schaden, die ein SC dem Dorngestrüpp zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 4 Schaden, die ein SC dem Dorngestrüpp zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Dorngestrüpp in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -1110,7 +1110,7 @@ Eine verwesende Leiche, die auf ihre Beute zutaumelt.
 ### Fähigkeiten
 
 **Lakai (3) - Passiv:** Der Zombie wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 3 Schaden, die ein SC dem Zombie zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 3 Schaden, die ein SC dem Zombie zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Verfaulten Zombies in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.

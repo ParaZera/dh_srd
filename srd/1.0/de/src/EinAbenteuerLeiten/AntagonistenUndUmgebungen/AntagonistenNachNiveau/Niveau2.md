@@ -40,7 +40,7 @@ Ein junger Azubi, begierig darauf, sich zu beweisen.
 ### Fähigkeiten
 
 **Lakai (6) - Passiv:** Der Attentäter wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 6 Schaden, die ein SC dem Attentäter zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 6 Schaden, die ein SC dem Attentäter zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Lehrlings-Attentäter in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -163,7 +163,7 @@ Ein schlecht ausgebildeter Zivilist, der in den Krieg gezwungen wurde.
 ### Fähigkeiten
 
 **Lakai (6) - Passiv:** Der Wehrpflichtige wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 6 Schaden, die ein SC dem Wehrpflichtigen zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 6 Schaden, die ein SC dem Wehrpflichtigen zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Wehrpflichtigen in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -244,7 +244,7 @@ Ein niederrangiger Kultist in einfachen Roben, begierig darauf, Macht zu erlange
 ### Fähigkeiten
 
 **Lakai (6) - Passiv:** Der Initiierte wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 6 Schaden, die ein SC dem Initiierte zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 6 Schaden, die ein SC dem Initiierte zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Kult-Initiierte in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -383,7 +383,7 @@ Ein Riese, der in geliehener Rüstung kämpft.
 ### Fähigkeiten
 
 **Lakai (6) - Passiv:** Der Rekrut wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 7 Schaden, die ein SC dem Rekruten zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 7 Schaden, die ein SC dem Rekruten zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Riesen-Rekruten in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
@@ -517,7 +517,7 @@ Ein erfolgreicher Händler mit einem großen Unternehmen unter seinem Kommando.
 
 **Jeder hat einen Preis - Aktion:** Gib eine Angstmarke aus, um einem Ziel ein gefährliches Angebot für etwas zu machen, das es will oder braucht. Wenn es sich um einen SC handelt, muss dieser einen Präsenz-Reaktionswurf (17) machen. Bei einem Fehlschlag muss er 2 Stress markieren oder das Angebot annehmen.
 
-**Die beste Muskelkraft, die man kaufen kann - Aktion:** Einmal pro Szene, markiere einen Stress, um 1W4+1 Tier 1 Gegner zu beschwören, die in Erscheinung treten, um den Willen des Barons durchzusetzen.
+**Die beste Muskelkraft, die man kaufen kann - Aktion:** Einmal pro Szene, markiere einen Stress, um 1W4+1 Niveau 1 Gegner zu beschwören, die in Erscheinung treten, um den Willen des Barons durchzusetzen.
 
 ## Minotaurus-Zerstörer
 **Niveau 2 Schläger**

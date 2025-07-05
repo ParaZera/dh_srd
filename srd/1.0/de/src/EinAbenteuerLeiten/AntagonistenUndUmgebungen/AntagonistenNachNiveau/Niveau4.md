@@ -47,7 +47,7 @@ Eine verfluchte Seele, gebunden an den Willen der Gefallenen.
 ### Fähigkeiten
 
 **Lakai (12) - Passiv:** Die Stoßtruppe wird besiegt, wenn sie irgendeinen Schaden erleidet.
-Für alle 12 Schaden, die ein SC der Stoßtruppe zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 12 Schaden, die ein SC der Stoßtruppe zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Aura des Untergangs - Passiv:** Wenn ein SC TP durch einen Angriff der Stoßtruppe markiert, verliert er eine Hoffnung.
 
@@ -188,7 +188,7 @@ Seelen der Gläubigen, erhoben mit göttlichen Waffen.
 ### Fähigkeiten
 
 **Lakai (13) - Passiv:** Der Soldat wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für alle 13 Schaden, die ein SC dem Soldaten zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 13 Schaden, die ein SC dem Soldaten zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Göttlicher Flug - Passiv:** Während der Soldat fliegt, gib eine Angstmarke aus, um dich bis zu Weiter Reichweite anstatt Naher Reichweite zu bewegen, bevor du eine Aktion ausführst.
 
@@ -285,7 +285,7 @@ Das Ziel muss einen Wissens-Reaktionswurf machen.
 Bei einem Fehlschlag verliert es alle Hoffnungen und erleidet **2W20+4** direkten magischen Schaden.
 Bei einem Erfolg erleidet es halben Schaden und verliert eine Hoffnung.
 
-**Peiniger beschwören - Aktion:** Einmal pro Tag gib 2 Angstmarken aus, um 2W4 Lakaien-Stufen 2 oder darunter zu beschwören, die mit einem der persönlichen Albträume des SCs zu tun haben.
+**Peiniger beschwören - Aktion:** Einmal pro Tag gib 2 Angstmarken aus, um 2W4 Lakaien - Stufen 2 oder darunter zu beschwören, die mit einem der persönlichen Albträume des SCs zu tun haben.
 Sie erscheinen in Naher Reichweite relativ zu diesem SC.
 
 **Unheilvolles Wissen - Reaktion:** Wenn das Orakel eine sterbliche Kreatur sieht, weiß es sofort einen ihrer persönlichen Albträume.
@@ -355,7 +355,7 @@ Eine vage humanoide Form, der Erinnerung und Identität beraubt.
 ### Fähigkeiten
 
 **Lakai (13) - Passiv:** Der Thrall wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für jeden 13 Schaden, den ein SC dem Thrall zufügt, besiege einen zusätzliche Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 13 Schaden, die ein SC dem Sklaven zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Äußeren Bereiche Thralls in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.

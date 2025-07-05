@@ -222,10 +222,10 @@ Eine glühende Wolke elementaren Feuers.
 ### Fähigkeiten
 
 **Lakai (9) - Passiv:** Das Elementar wird besiegt, wenn es Schaden erleidet.
-Für jede 9 Schaden, den ein SC dem Elementar zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+Für jede 9 Schaden, die ein SC dem Elementar zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Elementaren Funken in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
-Dieser Lakai bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
+Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
 Bei einem Erfolg fügen sie jeweils **5** physischen Schaden zu. Kombiniere diesen Schaden.
 
 ## Größeres Erdelementar
@@ -422,7 +422,7 @@ Ein kleiner, empfindungsfähiger Baumsämling.
 ### Fähigkeiten
 
 **Lakai (6) - Passiv:** Der Sämling wird besiegt, wenn er Schaden erleidet.
-Für jeden 6 Schaden, den ein SC dem Sämling zufügt, besiege ein zusätzlichen Lakai in Reichweite, gegen das der Angriff erfolgreich wäre.
+Für jede 6 Schaden, die ein SC dem Sämling zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Treant-Sämlinge in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
