@@ -224,7 +224,7 @@ Eine glühende Wolke elementaren Feuers.
 **Lakai (9) - Passiv:** Das Elementar wird besiegt, wenn es Schaden erleidet.
 Für jede 9 Schaden, die ein SC dem Elementar zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Elementaren Funken in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Elementaren Funken in Naher Reichweite zum Ziel ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
 Bei einem Erfolg fügen sie jeweils **5** physischen Schaden zu. Kombiniere diesen Schaden.
 
@@ -241,14 +241,14 @@ Ein lebendiger Erdrutsch aus Felsen und Staub, so groß wie ein Haus.
 
 ### Fähigkeiten
 
-**Langsam - Passiv:** Wenn du das Elementar ins Rampenlicht stellst und er keinen Marker auf seinem Werteblock hat, kann er noch nicht handeln.
-Setze einen Marker auf seinen Werteblock und beschreibe, was er vorbereitet.
-Wenn du das Elementar ins Rampenlicht stellst und er einen Marker auf seinem Werteblock hat, entferne den Marker und er kann handeln.
+**Langsam - Passiv:** Wenn du das Elementar ins Rampenlicht stellst und es keinen Marker auf seinem Werteblock hat, kann es noch nicht handeln.
+Setze einen Marker auf seinen Werteblock und beschreibe, was es vorbereitet.
+Wenn du das Elementar ins Rampenlicht stellst und es einen Marker auf seinem Werteblock hat, entferne den Marker und es kann handeln.
 
 **Zerschmetternde Schläge - Passiv:** Wenn das Elementar einen erfolgreichen Angriff macht, muss das Ziel ein Rüstungsfeld markieren, ohne dessen Vorteile zu erhalten (es kann die Rüstung weiterhin zur Schadensreduzierung verwenden).
 Wenn es kein Rüstungsfeld markieren kann, muss es zusätzlich einen TP markieren.
 
-**Unbeweglicher Gegenstand - Passiv:** Ein Angriff, der das Elementar bewegen würde, bewegt ihn um zwei Reichweiten weniger (zum Beispiel wird weit zu sehr nah).
+**Unbeweglicher Gegenstand - Passiv:** Ein Angriff, der das Elementar bewegen würde, bewegt es um zwei Reichweiten weniger (zum Beispiel wird weit zu sehr nah).
 Wenn das Elementar physischen Schaden erleidet, reduziere ihn um 7.
 
 **Felssturz - Aktion:** Markiere einen Stress, um einen Felssturz zu erzeugen, der das Land vor dem Elementar in Naher Reichweite mit Geröll bedeckt.
@@ -256,7 +256,7 @@ Alle Ziele in diesem Gebiet müssen einen Geschicklichkeits-Reaktionswurf (19) m
 Ziele, die scheitern, erleiden **2W12+5** physischen Schaden und werden bis zu ihrem nächsten Wurf mit Hoffnung verwundbar.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
 
-**Schwung - Reaktion:** Wenn das Elementar einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.
+**Schwung - Reaktion:** Wenn das Elementar einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angstmarke.
 
 ## Größeres Wasserelementar
 **Niveau 3 Unterstützer**
@@ -284,7 +284,7 @@ Ein Ziel kann sich befreien und damit beide Bedingungen beenden, indem es einen 
 ## Riesiger grüner Schleim
 **Niveau 3 Schleicher**
 
-Ein durchsichtiger grüner Haufen aus Säure, höher als die meisten Menschen.
+Ein durchsichtiger grüner Haufen aus Säure, größer als die meisten Menschen.
 
 **Motive & Taktiken:** Tarnung, heranschleichen, einhüllen, sich vermehren
 
@@ -309,12 +309,12 @@ Während es *Eingehüllt* ist, muss das Ziel jedes Mal, wenn es einen Aktionswur
 Wenn der Schleim verheerenden Schaden erleidet, werden alle eingehüllten Ziele befreit und der Zustand wird aufgehoben.
 
 **Teilen - Reaktion:** Wenn der Schleim 4 oder mehr TP markiert hat, kannst du eine Angstmarke ausgeben, um ihn in zwei grüne Schleime zu teilen (ohne markierte TP oder Stress).
-Sofort beide ins Rampenlicht stellen.
+Stelle sofort beide ins Rampenlicht.
 
 ## Hydra
 **Niveau 3 Solo**
 
-Ein vierbeiniges, schuppiges Ungeheuer mit mehreren langen, halslangen Köpfen, die mit bedrohlichen Reißzähnen gefüllt sind.
+Ein vierbeiniges, schuppiges Ungeheuer mit langen Hälsen und Reiszahn gespickten Mäulern.
 
 **Motive & Taktiken:** Verschlingen, regenerieren, erschrecken
 
@@ -324,13 +324,13 @@ Ein vierbeiniges, schuppiges Ungeheuer mit mehreren langen, halslangen Köpfen, 
 
 ### Fähigkeiten
 
-**Viele-Köpfe-Bedrohung - Passiv:** Die Hydra beginnt mit drei Köpfen und kann bis zu fünf haben.
+**Vielköpfige-Bedrohung - Passiv:** Die Hydra beginnt mit drei Köpfen und kann bis zu fünf haben.
 Wenn die Hydra schweren oder größeren Schaden erleidet, verliert sie einen Kopf.
 
-**Unerbittlich (X) - Passiv:** Die Hydra kann bis zu X Mal pro SL-Zug ins Rampenlicht gestellt werden, wobei X die Anzahl der Köpfe der Hydra ist.
+**Unerbittlich (X) - Passiv:** Die Hydra kann bis zu `X` Mal pro SL-Zug ins Rampenlicht gestellt werden, wobei `X` die Anzahl der Köpfe der Hydra ist.
 Gib Angstmarken wie üblich aus, um sie ins Rampenlicht zu stellen.
 
-**Regeneration - Aktion:** Wenn die Hydra markierte TP hat, gib eine Angstmarke aus, um eine TP zu heilen und zwei Köpfe wachsen zu lassen.
+**Regeneration - Aktion:** Wenn die Hydra markierte TP hat, gib eine Angstmarke aus, um einen TP zu heilen und zwei Köpfe wachsen zu lassen.
 
 **Furchterregender Chor - Aktion:** Alle SCs in Weiter Reichweite verlieren 2 Hoffnung.
 
@@ -342,7 +342,7 @@ Während sie benommen ist, kann sie ihre Regenerationsaktion nicht verwenden, is
 
 Der souveräne Herrscher einer Nation, umwoben vom Privileg der Tradition und mit unvergleichlicher Macht in seinem Herrschaftsgebiet.
 
-**Motive & Taktiken:** Vasallen kontrollieren, Rivalen vernichten, ein Erbe schmieden
+**Motive & Taktiken:** Vasallen kontrollieren, Rivalen vernichten, ein Erbe hinterlassen
 
 > **Schwierigkeitsgrad:** 16 | **Schwellen:** 16/32 | **TP:** 6 | **Stress:** 5
 > 
@@ -357,9 +357,9 @@ Ein SC, der einen Präsenzwurf schafft, kann ein Gerichtsverfahren durch Kampf o
 
 **Kronenwache - Aktion:** Einmal pro Szene, markiere einen Stress, um sechs Lakaien der Stufe 3 herbeizurufen, die in Naher Reichweite erscheinen, um den Willen des Monarchen durchzusetzen.
 
-**Kriegserklärung - Reaktion:** Langfristiger Countdown (8).
-Gib eine Angstmarke aus, um zu aktivieren, nachdem der Wunsch des Monarchen nach Krieg zum ersten Mal offenbart wurde.
-Wenn er auslöst, hat der Monarch einen Grund, die Nation zum Krieg zu mobilisieren, und die Unterstützung, um aus diesem Grund zu handeln.
+**Casus Belli - Reaktion:** Langfristiger Countdown (8).
+Nachdem der Wunsch des Monarchen nach Krieg zum ersten mal offenbart wurde, gib 1 Angstmarke aus um einen langfristigen Countdown zu starten.
+Wenn der Countdown auslöst, hat der Monarch einen Grund, die Nation zum Krieg zu mobilisieren, und die nötige Unterstützung, um aus diesem Grund heraus zu handeln.
 Du erhältst 1W4 Angst.
 
 ## Hirschritter
