@@ -365,7 +365,7 @@ Du erhältst 1W4 Angst.
 ## Hirschritter
 **Niveau 3 Standard**
 
-Ein Ritter mit riesigen, majestätischen Geweihen, der eine Rüstung aus gefährlichen Dornen trägt.
+Ein Ritter mit einem riesigen, majestätischen Geweih, der eine Rüstung aus spitzen Dornen trägt.
 
 **Motive & Taktiken:** Isolieren, manövrieren, den Wald beschützen, die Unerwünschten beseitigen
 
@@ -377,17 +377,17 @@ Ein Ritter mit riesigen, majestätischen Geweihen, der eine Rüstung aus gefähr
 
 ### Fähigkeiten
 
-**Von oben - Passiv:** Wenn der Ritter einen Standardangriff aus der Höhe auf ein Ziel erfolgreich ausführt, fügt er stattdessen **3W12+3** physischen Schaden zu.
+**Von oben - Passiv:** Wenn der Ritter einen Standardangriff von oben auf sein Ziel erfolgreich ausführt, fügt er stattdessen **3W12+3** physischen Schaden zu.
 
 **Klinge des Waldes - Aktion:** Gib eine Angstmarke aus, um einen Angriff gegen alle Ziele in Sehr Naher Reichweite auszuführen.
-Ziele, gegen die der Ritter erfolgreich ist, erleiden physischen Schaden in Höhe von **3W4** plus der Major-Schwellenwert des Ziels.
+Ziele, gegen die der Ritter erfolgreich ist, erleiden physischen Schaden in Höhe von **3W4** plus der schweren Schadensschwelle des Ziels.
 
 **Dornenrüstung - Reaktion:** Wenn der Ritter Schaden durch einen Angriff in Naher Reichweite erleidet, kannst du einen Stress markieren, um dem Angreifer **1W10+5** physischen Schaden zuzufügen.
 
 ## Eichen-Treant
 **Niveau 3 Schläger**
 
-Ein robuster, animierter Baum aus altem Wachstum.
+Ein alter, robuster, animierter Baum.
 
 **Motive & Taktiken:** Im Freien verstecken, den Wald bewahren, verwurzeln, Äste schwingen
 
@@ -399,19 +399,19 @@ Ein robuster, animierter Baum aus altem Wachstum.
 
 ### Fähigkeiten
 
-**Nur ein Baum - Passiv:** Bevor sie ihren ersten Angriff in einem Kampf machen oder nachdem sie sich versteckt haben, sind die Treants bis zu ihrem nächsten Akt oder einem erfolgreichen Instinkt-Wurf zur Identifizierung von anderen Bäumen nicht zu unterscheiden.
+**Nur ein Baum - Passiv:** Bevor sie ihren ersten Angriff in einem Kampf machen oder nachdem sie sich versteckt haben, sind die Treants bis zu ihrer nächsten Aktion oder einem erfolgreichen Instinkt-Wurf zur Identifizierung, von anderen Bäumen nicht zu unterscheiden.
 
 **Samenbeschuss - Aktion:** Markiere einen Stress und führe einen Angriff gegen bis zu drei Ziele in Naher Reichweite aus, indem du sie mit riesigen Eicheln bombardierst.
 Ziele, gegen die der Treant erfolgreich ist, erleiden **2W10+5** physischen Schaden.
 
 **Wurzeln schlagen - Aktion:** Markiere einen Stress, um den Treant an Ort und Stelle zu verwurzeln.
-Der Treant ist während des Verwurzelns *Eingeschränkt* und kann diese Wirkung beenden, anstatt sich zu bewegen, während er im Rampenlicht steht.
-Während des Verwurzelns hat der Treant Widerstand gegen physischen Schaden.
+Der Treant ist während des Verwurzelns *Festgehalten*. Dieser Effekt kann anstelle einer Bewegung beendet werden, wenn der Treant im Rampenlicht steht.
+Während er verwurzelt ist hat der Treant Widerstand gegen physischen Schaden.
 
 ## Treant-Setzling
 **Niveau 3 Lakai**
 
-Ein kleiner, empfindungsfähiger Baumsämling.
+Ein kleiner, empfindungsfähiger Baumsetzling.
 
 **Motive & Taktiken:** Tarnen, den Wald bewahren, zuschlagen, umzingeln
 
@@ -421,19 +421,19 @@ Ein kleiner, empfindungsfähiger Baumsämling.
 
 ### Fähigkeiten
 
-**Lakai (6) - Passiv:** Der Sämling wird besiegt, wenn er Schaden erleidet.
-Für jede 6 Schaden, die ein SC dem Sämling zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
+**Lakai (6) - Passiv:** Der Setzling wird besiegt, wenn er Schaden erleidet.
+Für jede 6 Schaden, die ein SC dem Setzling zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Treant-Sämlinge in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Treant-Setzling in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
 Bei einem Erfolg fügen sie jeweils **8** physischen Schaden zu. Kombiniere diesen Schaden.
 
-## Hauptvampir
+## Obervampir
 **Niveau 3 Anführer**
 
-Ein fesselnder Untoter, gekleidet in aristokratischer Pracht.
+Ein Untoter, gekleidet in aristokratischer Pracht und fesselndem Gebaren.
 
-**Motive & Taktiken:** Thralls erschaffen, bezaubern, befehlen, fliegen, einschüchtern
+**Motive & Taktiken:** Sklaven erschaffen, bezaubern, befehlen, fliegen, einschüchtern
 
 > **Schwierigkeitsgrad:** 17 | **Schwellen:** 22/42 | **TP:** 6 | **Stress:** 6
 > 
@@ -471,10 +471,10 @@ Ein intelligenter Untoter mit blutverschmierten Lippen und dem Lächeln eines Ra
 
 ### Fähigkeiten
 
-**Raubtierbiss - Aktion:** Führe einen Angriff gegen ein Ziel in Nahkampfreichweite aus.
+**Entziehender Biss - Aktion:** Führe einen Angriff gegen ein Ziel in Nahkampfreichweite aus.
 Bei einem Erfolg erleidet das Ziel **5W4** physischen Schaden.
-Ein Ziel, das durch diesen Angriff TP markiert, verliert eine Hoffnung und muss einen Stress markieren.
-Der Vampir heilt dann einen TP.
+Ein Ziel, das durch diesen Angriff TP markiert, verliert eine Hoffnungsmarke und muss einen Stress markieren.
+Der Vampir heilt einen TP.
 
 **Nebelgestalt - Reaktion:** Wenn der Vampir physischen Schaden erleidet, kannst du eine Angstmarke ausgeben, um halben Schaden zu erleiden.
 
@@ -580,9 +580,9 @@ Ziele, die erfolgreich sind, müssen 2 Stress markieren oder halben Schaden erle
 
 **Lawine - Aktion:** Gib eine Angstmarke aus, um den Drachen einen gewaltigen Niedergang von Schnee und Eis entfesseln zu lassen, der alle anderen Kreaturen in Weiter Reichweite bedeckt.
 Alle Ziele in diesem Bereich müssen bei einem Instinkt-Reaktionswurf erfolgreich sein oder in Schnee und Gestein begraben werden und *verwundbar* werden, bis sie sich aus den Trümmern ausgraben.
-Für jeden SC, der den Reaktionswurf verfehlt, erhältst du eine Angst.
+Für jeden SC, dessen Reaktionswurf scheitert, erhältst du eine Angstmarke.
 
 **Gefrorene Schuppen - Reaktion:** Wenn eine Kreatur einen erfolgreichen Angriff gegen den Drachen aus Sehr Naher Reichweite macht, muss sie einen Stress markieren und wird Unterkühlt bis zu ihrer nächsten Rast oder bis sie einen Stress heilt.
-Während sie Unterkühlt sind, haben sie einen Nachteil bei Angriffswürfen.
+Während sie Unterkühlt ist, ist sie einen Nachteil bei Angriffswürfen.
 
 **Schwung - Reaktion:** Wenn der Drache einen erfolgreichen Angriff gegen einen SC macht, erhältst du eine Angst.

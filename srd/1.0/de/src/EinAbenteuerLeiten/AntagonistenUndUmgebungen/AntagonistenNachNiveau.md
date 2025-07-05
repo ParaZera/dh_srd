@@ -112,7 +112,7 @@ Dieser Abschnitt enthält die folgenden Werteblöcke:
 - Hirsch-Ritter
 - Eichen-Treant
 - Treant-Setzling
-- Haupt-Vampir
+- Obervampir
 - Vampir
 - Schließfach-Wächter Kerkermeister
 - Schließfach-Wächter Wache
