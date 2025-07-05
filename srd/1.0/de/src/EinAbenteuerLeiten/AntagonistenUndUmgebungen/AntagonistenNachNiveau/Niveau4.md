@@ -285,7 +285,7 @@ Das Ziel muss einen Wissens-Reaktionswurf machen.
 Bei einem Fehlschlag verliert es alle Hoffnungen und erleidet **2W20+4** direkten magischen Schaden.
 Bei einem Erfolg erleidet es halben Schaden und verliert eine Hoffnung.
 
-**Peiniger beschwören - Aktion:** Einmal pro Tag gib 2 Angstmarken aus, um 2W4 Minion-Stufen 2 oder darunter zu beschwören, die mit einem der persönlichen Albträume des SCs zu tun haben.
+**Peiniger beschwören - Aktion:** Einmal pro Tag gib 2 Angstmarken aus, um 2W4 Lakaien-Stufen 2 oder darunter zu beschwören, die mit einem der persönlichen Albträume des SCs zu tun haben.
 Sie erscheinen in Naher Reichweite relativ zu diesem SC.
 
 **Unheilvolles Wissen - Reaktion:** Wenn das Orakel eine sterbliche Kreatur sieht, weiß es sofort einen ihrer persönlichen Albträume.
@@ -340,7 +340,7 @@ Eine sich verändernde, formlosige Masse, die scheinbar aus chromatischem Licht 
 Ziele müssen einen Wissens-Reaktionswurf bestehen oder 2 Stress markieren.
 
 ## Äußere Sphäre: Sklave
-**Niveau 4 Minion**
+**Niveau 4 Lakai**
 
 Eine vage humanoide Form, der Erinnerung und Identität beraubt.
 
@@ -354,8 +354,8 @@ Eine vage humanoide Form, der Erinnerung und Identität beraubt.
 
 ### Fähigkeiten
 
-**Minion (13) - Passiv:** Der Thrall wird besiegt, wenn er irgendeinen Schaden erleidet.
-Für jeden 13 Schaden, den ein SC dem Thrall zufügt, besiege einen zusätzlichen Minion in Reichweite, gegen den der Angriff erfolgreich wäre.
+**Lakai (13) - Passiv:** Der Thrall wird besiegt, wenn er irgendeinen Schaden erleidet.
+Für jeden 13 Schaden, den ein SC dem Thrall zufügt, besiege einen zusätzliche Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Äußeren Bereiche Thralls in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.

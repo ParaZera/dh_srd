@@ -5,7 +5,7 @@
 
 Ein geflügeltes Insekt von der Größe eines großen Hauses mit schillernden Schuppen und Flügeln, die sich zu schnell bewegen, um sie zu verfolgen.
 
-**Motive & Taktiken:** Glänzende Dinge sammeln, jagen, nisten, stoßen
+**Motive & Taktiken:** Glänzende Dinge sammeln, jagen, nisten, Sturzflug
 
 > **Schwierigkeitsgrad:** 17 | **Schwellen:** 20/35 | **TP:** 12 | **Stress:** 6
 > 
@@ -16,14 +16,14 @@ Ein geflügeltes Insekt von der Größe eines großen Hauses mit schillernden Sc
 **Unerbittlich (4) - Passiv:** Der Flimmerflügel kann bis zu vier Mal pro SL-Zug ins Rampenlicht gestellt werden.
 Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
-**Verfehlt nie - Passiv:** Wenn der Flimmerflügel einen Angriff macht, wird das Ausweichen des Ziels gegen den Angriff halbiert.
+**Verfehlt nie - Passiv:** Wenn der Flimmerflügel einen Angriff macht, wird der Ausweichen-Wert des Ziels gegen den Angriff halbiert.
 
 **Tödlicher Flug - Passiv:** Während er fliegt, kann sich der Flimmerflügel bis zu Weiter Reichweite anstatt Naher Reichweite bewegen, bevor er eine Aktion ausführt.
 
 **Wirbelwind - Aktion:** Gib eine Angstmarke aus, um zu wirbeln und einen Angriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
 Ziele, gegen die der Flimmerflügel erfolgreich ist, erleiden **3W8** direkten physischen Schaden.
 
-**Geistertanz - Aktion:** Markiere einen Stress, um eine magisch blendende Vorstellung zu erschaffen, die die Geister nahegelegener Feinde ergreift.
+**Geistertanz - Aktion:** Markiere einen Stress, um eine magisch anziehende Illusion zu erschaffen, die das Bewustsein nahegelegener Feinde angreift.
 Alle Ziele in Naher Reichweite müssen einen Instinkt-Reaktionswurf machen.
 Für jedes Ziel, das scheitert, erhältst du eine Angst und der Flimmerflügel erfährt eine der Ängste des Ziels.
 
@@ -63,7 +63,7 @@ Füge dem Dämon eine Handvoll Gold für jede Handvoll Gold hinzu, die SCs für 
 ## Dämon der Verzweiflung
 **Niveau 3 Schleicher**
 
-Eine verhüllte Dämonenkreatur mit langen Gliedmaßen und sickernden Schatten.
+Eine verhüllte Dämonenkreatur mit langen Gliedmaßen und zerlaufenen Schatten.
 
 **Motive & Taktiken:** Angst ansteckend machen, in den Schatten bleiben, Entschlossenheit untergraben
 
@@ -77,8 +77,8 @@ Eine verhüllte Dämonenkreatur mit langen Gliedmaßen und sickernden Schatten.
 
 **Tiefen der Verzweiflung - Passiv:** Der Dämon verursacht doppelten Schaden an SCs mit 0 Hoffnung.
 
-**Euer Kampf ist sinnlos - Aktion:** Gib eine Angstmarke aus, um die Geister aller SCs in Weiter Reichweite zu belasten.
-Alle betroffenen Ziele ersetzen ihren Hoffnungswürfel durch einen W8, bis sie einen Erfolg mit Hoffnung würfeln oder ihre nächste Rast.
+**Euer Kampf ist sinnlos - Aktion:** Gib eine Angstmarke aus, um den Verstand aller SCs in Weiter Reichweite zu trüben.
+Alle betroffenen Ziele ersetzen ihren Hoffnungswürfel durch einen W8, bis sie einen Erfolg mit Hoffnung würfeln oder eine Rast einlegen.
 
 **Eure Freunde werden euch im Stich lassen - Reaktion:** Wenn ein SC mit Angst scheitert, kannst du einen Stress markieren, um alle anderen SCs in Naher Reichweite eine Hoffnung verlieren zu lassen.
 
@@ -87,7 +87,7 @@ Alle betroffenen Ziele ersetzen ihren Hoffnungswürfel durch einen W8, bis sie e
 ## Dämon der Hybris
 **Niveau 3 Anführer**
 
-Ein vollkommen schöner und unendlich grausamer Dämon mit einem glänzenden Speer und eleganten Gewändern.
+Ein vollkommener, schöner und unendlich grausamer Dämon mit einem glänzenden Speer und eleganten Gewändern.
 
 **Motive & Taktiken:** Herablassend sein, vorzeitigen Sieg verkünden, Überlegenheit beweisen
 
@@ -106,7 +106,7 @@ Wenn er immer noch scheitert, markiert er 2 Stress und der Dämon heilt einen St
 
 **Unvergleichliche Fertigkeit - Aktion:** Markiere einen Stress, um den Standardangriffschaden des Dämons an einem Ziel in Naher Reichweite zu verursachen.
 
-**Die Wurzel der Schlechtigkeit - Aktion:** Gib eine Angstmarke aus, um zwei andere Dämonen in Weiter Reichweite ins Rampenlicht zu stellen.
+**Die Wurzel des Bösen - Aktion:** Gib eine Angstmarke aus, um zwei andere Dämonen in Weiter Reichweite ins Rampenlicht zu stellen.
 
 **Ihr verblasst im Vergleich - Reaktion:** Wenn ein SC einen Wurf in Naher Reichweite zum Dämon verfehlt, muss er einen Stress markieren.
 
@@ -115,7 +115,7 @@ Wenn er immer noch scheitert, markiert er 2 Stress und der Dämon heilt einen St
 
 Eine launische Kreatur mit dürren Gliedmaßen und unstillbaren Begierden.
 
-**Motive & Taktiken:** Bei anderen Erfolgen mitmachen, nehmen was anderen gehört, Groll hegen
+**Motive & Taktiken:** Beim Erfolg Anderer teilhaben, nehmen was anderen gehört, Groll hegen
 
 > **Schwierigkeitsgrad:** 17 | **Schwellen:** 17/30 | **TP:** 6 | **Stress:** 6
 > 
@@ -164,7 +164,7 @@ Wenn er auslöst, beschwöre **1W4** Geringe Dämonen, die in Naher Reichweite e
 ## Schatten Fledermaus
 **Niveau 3 Schleicher**
 
-Eine weitflügge Fledermaus, die ihrem Vampirherrn endlos treu ist.
+Eine weit geflügelte Fledermaus, die ihrem Vampirherrn endlos treu ist.
 
 **Motive & Taktiken:** Sturzflug, verstecken, Anführer beschützen
 
@@ -204,14 +204,14 @@ Erschaffe ein Gebiet mit Dornen, das einen Bereich in Naher Reichweite dieses Pu
 Alle Ziele in diesem Gebiet erleiden **2W6+2** physischen Schaden, wenn sie handeln.
 Ein Ziel muss einen Geschicklichkeitswurf bestehen oder mehr als 20 Schaden an der Dryade mit einem Angriff verursachen, um das Gebiet zu verlassen.
 
-**Setze Sämlinge - Aktion:** Gib eine Angstmarke aus, um drei Treant-Sämlings-Minions heranwachsen zu lassen, die in Naher Reichweite erscheinen und sofort das Rampenlicht übernehmen.
+**Ziehe Setzlinge - Aktion:** Gib eine Angstmarke aus, um drei Treant-Setzlinge heranwachsen zu lassen, die in Naher Reichweite erscheinen und sofort das Rampenlicht übernehmen.
 
 **Wir sind eins - Reaktion:** Wenn ein Verbündeter in Naher Reichweite stirbt, kannst du eine Angstmarke ausgeben, um 2 TP und 2 Stress zu heilen, während die Lebensenergie des gefallenen Verbündeten in den Wald zurückkehrt.
 
 ## Elementarer Funken
-**Niveau 3 Minion**
+**Niveau 3 Lakai**
 
-Ein glühendes Mote elementaren Feuers.
+Eine glühende Wolke elementaren Feuers.
 
 **Motive & Taktiken:** Explodieren, verzehren, Masse gewinnen
 
@@ -221,11 +221,11 @@ Ein glühendes Mote elementaren Feuers.
 
 ### Fähigkeiten
 
-**Minion (9) - Passiv:** Das Elementar wird besiegt, wenn es Schaden erleidet.
-Für jeden 9 Schaden, den ein SC dem Elementar zufügt, besiege ein zusätzliches Minion in Reichweite, gegen das der Angriff erfolgreich wäre.
+**Lakai (9) - Passiv:** Das Elementar wird besiegt, wenn es Schaden erleidet.
+Für jede 9 Schaden, den ein SC dem Elementar zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Elementaren Funken in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
-Diese Minions bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
+Dieser Lakai bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
 Bei einem Erfolg fügen sie jeweils **5** physischen Schaden zu. Kombiniere diesen Schaden.
 
 ## Größeres Erdelementar
@@ -355,7 +355,7 @@ Der souveräne Herrscher einer Nation, umwoben vom Privileg der Tradition und mi
 **Hinrichten! - Aktion:** Gib eine Angst pro SC in der Gruppe aus, um die Gruppe wegen realer oder eingebildeter Verbrechen zu verurteilen.
 Ein SC, der einen Präsenzwurf schafft, kann ein Gerichtsverfahren durch Kampf oder eine andere spezielle Form des Verfahrens verlangen.
 
-**Kronenwache - Aktion:** Einmal pro Szene, markiere einen Stress, um sechs Minions der Stufe 3 herbeizurufen, die in Naher Reichweite erscheinen, um den Willen des Monarchen durchzusetzen.
+**Kronenwache - Aktion:** Einmal pro Szene, markiere einen Stress, um sechs Lakaien der Stufe 3 herbeizurufen, die in Naher Reichweite erscheinen, um den Willen des Monarchen durchzusetzen.
 
 **Kriegserklärung - Reaktion:** Langfristiger Countdown (8).
 Gib eine Angstmarke aus, um zu aktivieren, nachdem der Wunsch des Monarchen nach Krieg zum ersten Mal offenbart wurde.
@@ -408,8 +408,8 @@ Ziele, gegen die der Treant erfolgreich ist, erleiden **2W10+5** physischen Scha
 Der Treant ist während des Verwurzelns *Eingeschränkt* und kann diese Wirkung beenden, anstatt sich zu bewegen, während er im Rampenlicht steht.
 Während des Verwurzelns hat der Treant Widerstand gegen physischen Schaden.
 
-## Treant-Keimling
-**Niveau 3 Minion**
+## Treant-Setzling
+**Niveau 3 Lakai**
 
 Ein kleiner, empfindungsfähiger Baumsämling.
 
@@ -421,11 +421,11 @@ Ein kleiner, empfindungsfähiger Baumsämling.
 
 ### Fähigkeiten
 
-**Minion () - Passiv:** Der Sämling wird besiegt, wenn er Schaden erleidet.
-Für jeden 6 Schaden, den ein SC dem Sämling zufügt, besiege ein zusätzliches Minion in Reichweite, gegen das der Angriff erfolgreich wäre.
+**Lakai (6) - Passiv:** Der Sämling wird besiegt, wenn er Schaden erleidet.
+Für jeden 6 Schaden, den ein SC dem Sämling zufügt, besiege ein zusätzlichen Lakai in Reichweite, gegen das der Angriff erfolgreich wäre.
 
 **Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel auszuwählen und alle Treant-Sämlinge in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
-Diese Minions bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
+Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und führen einen gemeinsamen Angriffswurf durch.
 Bei einem Erfolg fügen sie jeweils **8** physischen Schaden zu. Kombiniere diesen Schaden.
 
 ## Hauptvampir

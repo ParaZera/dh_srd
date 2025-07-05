@@ -57,3 +57,4 @@
     - "loot" -> "Schätze"
     - "statblock" -> "Werteblock"
     - "•" -> "-"
+    - "minion" -> "Lakai"

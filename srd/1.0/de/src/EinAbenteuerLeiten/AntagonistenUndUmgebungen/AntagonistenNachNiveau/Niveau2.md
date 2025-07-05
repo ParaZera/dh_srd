@@ -505,7 +505,7 @@ Ein listiger Dieb mit akrobatischem Geschick und einem Hang zum Dramatischen.
 
 Ein erfolgreicher Händler mit einem großen Unternehmen unter seinem Kommando.
 
-**Motive & Taktiken:** Macht missbrauchen, Ressourcen sammeln, Minions mobilisieren
+**Motive & Taktiken:** Macht missbrauchen, Ressourcen sammeln, Lakaien mobilisieren
 
 > **Schwierigkeitsgrad:** 15 | **Schwellen:** 9/19 | **TP:** 5 | **Stress:** 3
 > 
