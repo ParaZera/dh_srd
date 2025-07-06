@@ -19,7 +19,7 @@ Ein verwesender Magier, geschmückt in dunkle, zerfetzte Gewänder.
 Angriffe, die sie machen, während sie auf diese Weise im Rampenlicht stehen, verursachen halben Schaden, oder vollen Schaden, wenn du eine Angstmarke ausgibst.
 
 **Strahl der Verwesung - Aktion:** Markiere 2 Stress, um alle Ziele in Weiter Reichweite einen Stärke-Reaktionswurf machen zu lassen.
-Ziele, die scheitern, erleiden **2W20+12** magischen Schaden und du erhältst eine Angst.
+Ziele, die scheitern, erleiden **2W20+12** magischen Schaden und du erhältst eine Angstmarke.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
 Ein Ziel, das 2 oder mehr TP markiert, muss auch 2 Stress markieren und wird *verwundbar*, bis es mit Hoffnung würfelt.
 
@@ -59,7 +59,7 @@ Kombiniere diesen Schaden.
 ## Gefallener Zauberer
 **Niveau 4 Unterstützer**
 
-Ein mächtiger Magier, gebunden durch die Abmachungen, die er im Leben getroffen hat.
+Ein mächtiger Magier, gebunden durch die Verträge, die er im Leben geschlossen hat.
 
 **Motive & Taktiken:** Erwerben, entmutigen, dominieren, quälen
 
@@ -81,8 +81,8 @@ Während es gefangen ist, ist das Ziel *Festgehalten* und *verwundbar*, bis es s
 
 **Fesseln der Schuld - Reaktion:** Countdown (Schleife 2W6).
 Wenn der Zauberer zum ersten Mal im Rampenlicht steht, aktiviere den Countdown.
-Wenn er auslöst, werden alle Ziele in Weiter Reichweite *verwundbar* und müssen einen Stress markieren, während sie ihre größten Bedauern wiedererleben.
-Ein Ziel kann sich mit einem erfolgreichen Präsenz- oder Stärke-Wurf von seinem Bedauern befreien.
+Wenn er auslöst, werden alle Ziele in Weiter Reichweite *verwundbar* und müssen einen Stress markieren, während sie eine Erinnerung, die sie am meisten Bereuen erneut durchleben.
+Ein Ziel kann sich mit einem erfolgreichen Präsenz- oder Stärke-Wurf von seiner Erinnerung befreien.
 Wenn ein SC es nicht schafft, sich zu befreien, verliert er eine Hoffnung.
 
 ## Gefallener Kriegsherr: Weltenbrecher
@@ -103,13 +103,13 @@ Ein Gefallener Gott, gehüllt in Wut und Groll, der jahrtausendelange Erfahrung 
 **Unerbittlich (2) - Passiv:** Der Sphärenbrecher kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
 Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
-**Feuerwut-Plattenrüstung - Passiv:** Wenn der Sphärenbrecher Schaden erleidet, reduziere ihn um **2W10**.
+**Feuerwut-Plattenrüstung - Passiv:** Wenn der Weltenbrecher Schaden erleidet, reduziere ihn um **2W10**.
 
 **Quälender Hieb - Aktion:** Markiere einen Stress, um einen Standardangriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
 Wenn ein Ziel Rüstung verwendet, um Schaden durch diesen Angriff zu reduzieren, muss es 2 Rüstungsfelder markieren.
 
 **Alles verzehrende Wut - Reaktion:** Countdown (Abnehmend 8).
-Wenn der Sphärenbrecher zum ersten Mal im Rampenlicht steht, aktiviere den Countdown.
+Wenn der Weltenbrecher zum ersten Mal im Rampenlicht steht, aktiviere den Countdown.
 Wenn er auslöst, erschaffe einen Strom verkörperter Wut, der Fleisch von Knochen reißt.
 Alle Ziele in Weiter Reichweite müssen einen Präsenz-Reaktionswurf machen.
 Ziele, die scheitern, erleiden **2W6+10** direkten magischen Schaden.
@@ -119,7 +119,7 @@ Wenn der Countdown jemals seinen Maximalwert auf 0 verringert, markiert der Sph�
 
 **Unheilsbringer - Reaktion:** Wenn ein Ziel TP durch einen Angriff des Sphärenbrechers markiert, müssen alle SCs in Weiter Reichweite zum Ziel eine Hoffnung verlieren.
 
-**Ich habe niemals Niederlage gekannt (Phasenwechsel) - Reaktion:** Wenn der Sphärenbrecher seinen letzten TP markiert, ersetze ihn durch den Unbesiegten Champion und stelle ihn sofort ins Rampenlicht.
+**Ich habe niemals Verloren (Phasenwechsel) - Reaktion:** Wenn der Sphärenbrecher seinen letzten TP markiert, ersetze ihn durch den Unbesiegten Champion und stelle ihn sofort ins Rampenlicht.
 
 ## Gefallener Kriegsherr: Unbesiegter Champion
 **Niveau 4 Solo**
@@ -139,7 +139,7 @@ Das, was nur die Gefürchtetesten zu fürchten haben.
 **Unerbittlich (3) - Passiv:** Der Unbesiegte Champion kann bis zu drei Mal pro SL-Zug ins Rampenlicht gestellt werden.
 Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
-**Schwankende Rüstung - Passiv:** Wenn der Unbesiegte Champion Schaden erleidet, reduziere ihn um **1W10**.
+**Schwächelnde Rüstung - Passiv:** Wenn der Unbesiegte Champion Schaden erleidet, reduziere ihn um **1W10**.
 
 **Zerschmetternder Schlag - Aktion:** Markiere einen Stress, um einen Standardangriff gegen alle Ziele in Sehr Naher Reichweite zu machen.
 SCs, gegen die der Champion erfolgreich ist, verlieren eine Anzahl von Hoffnung entsprechend den TP, die sie durch diesen Angriff markiert haben.
