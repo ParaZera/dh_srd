@@ -252,7 +252,7 @@ Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
 **Greifen und Ertränken - Aktion:** Mache einen Angriffswurf gegen ein Ziel in Naher Reichweite.
 Bei einem Erfolg markiere einen Stress, um es mit einem Tentakel zu greifen und unter Wasser zu ziehen.
-Das Ziel ist *Festgehalten* und *verwundbar*, bis es sich mit einem erfolgreichen Stärke-Wurf befreit oder der Kraken schweren oder größeren Schaden erleidet.
+Das Ziel ist *Festgehalten* und *verwundbar*, bis es sich mit einem erfolgreichen Stärke-Wurf befreit oder der Kraken mindestens schweren Schaden erleidet.
 Während es auf diese Weise *Festgehalten* und *verwundbar* ist, muss ein Ziel einen Stress markieren, wenn es einen Aktionswurf macht.
 
 **Kochende Explosion - Aktion:** Gib eine Angstmarke aus, um eine Linie kochenden Wassers auf beliebig viele Ziele in einer Linie bis zu Weiter Reichweite zu speien.
@@ -264,7 +264,7 @@ Wenn ein Ziel ein Rüstungsfeld markiert, um den Schaden zu reduzieren, muss es 
 ## Oracle des Unheils
 **Niveau 4 Solo**
 
-Ein hochaufragender Unsterblicher und Inkarnation des Schicksals, verflucht, nur schlechte Ergebnisse zu sehen.
+Ein hochaufragender Unsterblicher. Eine Inkarnation des Schicksals, verflucht, nur Schlechtes zu sehen.
 
 **Motive & Taktiken:** Umgebung verändern, verurteilen, entmutigen, beiseite werfen
 
@@ -278,14 +278,14 @@ Ein hochaufragender Unsterblicher und Inkarnation des Schicksals, verflucht, nur
 
 **Furcht einflößend - Passiv:** Wenn das Orakel einen erfolgreichen Angriff landet, verlieren alle PCs in Weiter Reichweite eine Hoffnung und du erhältst eine Angst.
 
-**Wände ziehen sich zusammen - Passiv:** Wenn eine Kreatur in Sehr Weiter Reichweite des Orakels einen Fehlschlag würfelt, muss sie einen Stress markieren.
+**In die Enge getrieben - Passiv:** Wenn eine Kreatur in Sehr Weiter Reichweite des Orakels einen Fehlschlag würfelt, muss sie einen Stress markieren.
 
 **Schicksal verkünden - Aktion:** Gib eine Angstmarke aus, um einem Ziel in Weiter Reichweite eine Vision seiner persönlichen Albträume zu präsentieren.
 Das Ziel muss einen Wissens-Reaktionswurf machen.
 Bei einem Fehlschlag verliert es alle Hoffnungen und erleidet **2W20+4** direkten magischen Schaden.
 Bei einem Erfolg erleidet es halben Schaden und verliert eine Hoffnung.
 
-**Peiniger beschwören - Aktion:** Einmal pro Tag gib 2 Angstmarken aus, um 2W4 Lakaien - Stufen 2 oder darunter zu beschwören, die mit einem der persönlichen Albträume des SCs zu tun haben.
+**Peiniger beschwören - Aktion:** Einmal pro Tag kannst du 2 Angstmarken ausgeben, um 2W4 Lakaien - Stufen 2 oder darunter zu beschwören, die mit einem der persönlichen Albträume des SCs zu tun haben.
 Sie erscheinen in Naher Reichweite relativ zu diesem SC.
 
 **Unheilvolles Wissen - Reaktion:** Wenn das Orakel eine sterbliche Kreatur sieht, weiß es sofort einen ihrer persönlichen Albträume.
@@ -295,7 +295,7 @@ Sie erscheinen in Naher Reichweite relativ zu diesem SC.
 ## Äußere Sphäre: Abscheulichkeit
 **Niveau 4 Prügelknabe**
 
-Eine chaotische Verhöhnung des Lebens, ständig im Fluss.
+Eine chaotische Verhöhnung des Lebens, ständig im Wandel.
 
 **Motive & Taktiken:** Zerschlagen, verschlingen, untergraben
 
@@ -313,8 +313,8 @@ Eine chaotische Verhöhnung des Lebens, ständig im Fluss.
 Bei einem Fehlschlag erhält es einen Nachteil auf seinen nächsten Aktionswurf und du erhältst eine Angst.
 
 **Realitätsbeben - Aktion:** Gib eine Angstmarke aus, um die Ränder der Realität in einem Bereich in Weiter Reichweite der Abscheulichkeit zu erschüttern.
-Alle Ziele in diesem Bereich müssen einen Wissens-Reaktionswurf bestehen oder bis zum Ende der Szene aus der Realität gefallen sein.
-Wenn ein aus der Realität gefallenes Ziel Hoffnung ausgibt oder Rüstungsfelder, TP oder Stress markiert, muss es die ausgegebene oder markierte Menge verdoppeln.
+Alle Ziele in diesem Bereich müssen einen Wissens-Reaktionswurf bestehen oder sie lösen sich bis zum Ende der Szene von der Realität.
+Wenn ein aus der Realität gelöstes Ziel Hoffnung ausgibt oder Rüstungsfelder, TP, oder Stress markiert, muss es die ausgegebene oder markierte Menge verdoppeln.
 
 **Unwirkliche Form - Reaktion:** Wenn die Abscheulichkeit Schaden erleidet, reduziere ihn um 1W20.
 Wenn die Abscheulichkeit durch einen erfolgreichen Angriff gegen sie 1 oder weniger Trefferpunkte markiert, erhältst du eine Angst.
@@ -334,9 +334,9 @@ Eine sich verändernde, formlosige Masse, die scheinbar aus chromatischem Licht 
 
 ### Fähigkeiten
 
-**Willenszerbrechender Touch - Passive:** Wenn ein PC Schaden von dem Verderber erleidet, verliert er eine Hoffnung.
+**Willenszerbrechende Berührung - Passive:** Wenn ein PC Schaden von dem Verweser erleidet, verliert er eine Hoffnung.
 
-**Realitätsflotsam ausspucken - Aktion:** Markiere einen Stress, um teilweise verdaute Teile konsumierter Realitäten auf alle Ziele in Naher Reichweite zu speien.
+**Realitäts-Treibgut ausspucken - Aktion:** Markiere einen Stress, um teilweise verdaute Teile konsumierter Realitäten auf alle Ziele in Naher Reichweite zu speien.
 Ziele müssen einen Wissens-Reaktionswurf bestehen oder 2 Stress markieren.
 
 ## Äußere Sphäre: Sklave
@@ -354,10 +354,10 @@ Eine vage humanoide Form, der Erinnerung und Identität beraubt.
 
 ### Fähigkeiten
 
-**Lakai (13) - Passiv:** Der Thrall wird besiegt, wenn er irgendeinen Schaden erleidet.
+**Lakai (13) - Passiv:** Der Sklave wird besiegt, wenn er irgendeinen Schaden erleidet.
 Für jede 13 Schaden, die ein SC dem Sklaven zufügt, besiege einen zusätzlichen Lakaien in Reichweite, gegen den der Angriff erfolgreich wäre.
 
-**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Äußeren Bereiche Thralls in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
+**Gruppenangriff - Aktion:** Gib eine Angstmarke aus, um ein Ziel zu wählen und alle Äußeren Sphäre: Sklaven in Naher Reichweite zu ihm ins Rampenlicht zu stellen.
 Diese Lakaien bewegen sich in Nahkampfreichweite des Ziels und machen einen gemeinsamen Angriffswurf.
 Bei einem Erfolg verursachen sie jeweils 11 physischen Schaden.
 Kombiniere diesen Schaden.
@@ -365,7 +365,7 @@ Kombiniere diesen Schaden.
 ## Vulkandrache: Obsidian-Raubtier
 **Niveau 4 Solo**
 
-Eine massive geflügelte Kreatur mit Obsidianschuppen und unmöglich scharfen Klauen.
+Eine massive geflügelte Kreatur mit Obsidianschuppen und unglaublich scharfen Klauen.
 
 **Motive & Taktiken:** Bau verteidigen, Sturzflug, fliegen, jagen, einschüchtern
 
@@ -377,21 +377,21 @@ Eine massive geflügelte Kreatur mit Obsidianschuppen und unmöglich scharfen Kl
 
 ### Fähigkeiten
 
-**Unerbittlich (2) - Passiv:** Der Obsidian-Räuber kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
+**Unerbittlich (2) - Passiv:** Das Obsidian-Raubtier kann bis zu zwei Mal pro SL-Zug ins Rampenlicht gestellt werden.
 Gib Angstmarken wie üblich aus, um ihn ins Rampenlicht zu stellen.
 
-**Fliegend - Passiv:** Während er fliegt, erhält der Obsidian-Räuber einen +3 Bonus auf seinen Schwierigkeitsgrad.
+**Fliegend - Passiv:** Während er fliegt, erhält das Obsidian-Raubtier einen +3 Bonus auf seinen Schwierigkeitsgrad.
 
-**Obsidianschuppen - Passiv:** Der Obsidian-Räuber ist resistent gegen physischen Schaden.
+**Obsidianschuppen - Passiv:** Das Obsidian-Raubtier ist resistent gegen physischen Schaden.
 
 **Lawinenschwanz - Aktion:** Markiere einen Stress, um einen Angriff gegen alle Ziele in Naher Reichweite zu machen.
-Ziele, gegen die der Obsidian-Räuber erfolgreich ist, erleiden **4W6+4** physischen Schaden und werden auf Weite Reichweite zurückgeschleudert und *verwundbar* bis zu ihrem nächsten Wurf mit Hoffnung.
+Ziele, gegen die das Obsidian-Raubtier erfolgreich ist, erleiden **4W6+4** physischen Schaden, werden auf Weite Reichweite zurückgeschleudert und *verwundbar* bis zu ihrem nächsten Wurf mit Hoffnung.
 
-**Sturzflug - Aktion:** Wenn der Obsidian-Räuber fliegt, markiere einen Stress, um einen Punkt in Weiter Reichweite zu wählen.
+**Sturzflug - Aktion:** Wenn das Obsidian-Raubtier fliegt, markiere einen Stress, um einen Punkt in Weiter Reichweite zu wählen.
 Bewege dich zu diesem Punkt und mache einen Angriff gegen alle Ziele in Sehr Naher Reichweite.
-Ziele, gegen die der Obsidian-Räuber erfolgreich ist, erleiden **2W10+6** physischen Schaden und müssen einen Stress markieren und eine Hoffnung verlieren.
+Ziele, gegen die das Obsidian-Raubtier erfolgreich ist, erleiden **2W10+6** physischen Schaden und müssen einen Stress markieren und eine Hoffnung verlieren.
 
-**Ausbrechende Wut (Phasenwechsel) - Reaktion:** Wenn der Obsidian-Räuber seinen letzten TP markiert, ersetze ihn durch die Geschmolzene Geißel und stelle sie sofort ins Rampenlicht.
+**Ausbrechende Wut (Phasenwechsel) - Reaktion:** Wenn das Obsidian-Raubtier seinen letzten TP markiert, ersetze ihn durch die Geschmolzene Geißel und stelle sie sofort ins Rampenlicht.
 
 ## Vulkandrache: Geschmolzene Geißel
 **Niveau 4 Solo**
@@ -467,7 +467,7 @@ Während es sich in der Aschenwolke befindet, hat ein Ziel einen Nachteil bei Ak
 Die Aschenwolke klärt sich auf, wenn das nächste Mal ein Antagonist ins Rampenlicht gestellt wird.
 
 **Apokalyptisches Toben - Aktion:** Countdown (1W12).
-Gib eine Angstmarke aus, um zu aktivieren.
+Gib eine Angstmarke aus, um ihn zu aktivieren.
 Er reduziert sich, wenn ein SC mit Angst würfelt.
 Wenn er auslöst, tobt der Aschene Tyrann umher und verursacht Umweltschäden (wie ein Erdbeben, eine Lawine oder einstürzende Wände).
 Alle Ziele in Weiter Reichweite müssen einen Stärke-Reaktionswurf machen.
@@ -500,7 +500,7 @@ Ziele, gegen die der Zombie erfolgreich ist, sind *verwundbar* bis zu ihrer näc
 ## Zombie-Legion
 **Niveau 4 Horde (/TP)**
 
-Ein großes Rudel Untoter, immer noch mächtig trotz ihres verwesenden Fleisches.
+Ein großes Rudel Untoter, aber immer noch kräftig, trotz ihres verwesenden Fleisches.
 
 **Motive & Taktiken:** Gehirn verzehren, Fleisch zerreißen, umzingeln
 
