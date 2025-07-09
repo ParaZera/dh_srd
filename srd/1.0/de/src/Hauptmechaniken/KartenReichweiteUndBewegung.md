@@ -63,5 +63,5 @@ Sofern nicht anders angegeben, müssen alle Ziele eines Gruppeneffekts in Sehr N
 ## Sichtlinie & Deckung
 Sofern nicht anders angegeben, muss ein Fernkämpfer eine **Sichtlinie** zu seinem beabsichtigten Ziel haben, um einen Angriffswurf zu machen.
 Wenn die Sichtlinie zwischen Angreifer und Ziel teilweise verdeckt ist, hat das Ziel Deckung.
-Angriffe durch Deckung werden mit Nachteil gewürfelt.
+Angriffe durch Deckung werden mit einem Nachteil gewürfelt.
 Wenn die die Sichtlinie vollständig verdeckt ist, gibt es keine Sichtlinie.

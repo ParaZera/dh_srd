@@ -18,7 +18,7 @@ Wenn ein Antagonist einen Nachteil bei einem Aktionswurf hat, würfelt die SL ei
 ## Antagonisten-Angriffe
 Wenn ein Antagonist einen SC angreift, würfelt die SL einen W20 und addiert den Angriffsmodifikator des Antagonisten zum Ergebnis.
 Wenn die Summe den Ausweichen-Wert des Ziels erreicht oder übertrifft, ist der Angriff erfolgreich; andernfalls scheitert er.
-Vor dem Würfeln kann die SL dem angreifenden Antagonisten einen Vorteil gewähren, einen Nachteil verhängen oder einen Angstpunkt ausgeben, um eine relevante Erfahrung aus dem Werteblock des Antagonisten zur Summe hinzuzufügen.
+Vor dem Würfeln kann die SL dem angreifenden Antagonisten einen Vorteil gewähren, einen Nachteil verhängen oder eine Angstmarke ausgeben, um eine relevante Erfahrung aus dem Werteblock des Antagonisten zur Summe hinzuzufügen.
 
 Bei einem Erfolg verursacht der Antagonist den in seinem Werteblock aufgelisteten Schaden am Ziel.
 

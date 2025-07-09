@@ -42,5 +42,5 @@ Jedes Mal, wenn ein SC die Aktion "An einem Projekt arbeiten" macht, fördern si
 Am Ende einer langen Rast werden alle Fähigkeiten oder Effekte mit einer begrenzten Anzahl von Anwendungen pro Rast oder pro langer Rast wiederhergestellt und alle Fähigkeiten oder Effekte, die bis zu deiner nächsten Rast oder bis zu deiner nächsten langen Rast dauern, laufen ab.
 
 ## Rastkonsequenzen
-Bei einer kurzen Rast erhält die SL 1W4 Angst.
-Bei einer langen Rast erhalten sie Angst entsprechend 1W4 + der Anzahl der SCs, und sie können einen **langfristigen Countdown** ihrer Wahl vorantreiben.
+Bei einer kurzen Rast erhält die SL 1W4 Angstmarken.
+Bei einer langen Rast erhalten sie Angstmarken entsprechend 1W4 + der Anzahl der SCs, und sie können einen **langfristigen Countdown** ihrer Wahl vorantreiben.
