@@ -54,7 +54,7 @@ Dieser Abschnitt enthält die folgenden Werteblöcke:
 - Flickwerk-Zombie-Koloss
 - Verfaulter Zombie
 - Taumelnder Zombie
-- Zombie-Rudel
+- Zombie-Pack
 
 ## Niveau 2 (Stufen 2–4)
 - Bogenschützen-Geschwader
@@ -68,7 +68,7 @@ Dieser Abschnitt enthält die folgenden Werteblöcke:
 - Kult-Adept
 - Kult-Fang
 - Kult-Eingeweihter
-- Dämonische Hunde-Rudel
+- Dämonenhunde-Pack
 - Elektrische Aale
 - Elite-Soldat
 - Fehlgeschlagenes Experiment
@@ -82,7 +82,7 @@ Dieser Abschnitt enthält die folgenden Werteblöcke:
 - Maskierter Dieb
 - Händler-Baron
 - Minotaurus-Zerstörer
-- Sterblicher Jäger
+- Jäger der Sterblichen
 - Königlicher Berater
 - Geheimniswahrer
 - Hai
@@ -112,7 +112,7 @@ Dieser Abschnitt enthält die folgenden Werteblöcke:
 - Hirsch-Ritter
 - Eichen-Treant
 - Treant-Setzling
-- Haupt-Vampir
+- Obervampir
 - Vampir
 - Schließfach-Wächter Kerkermeister
 - Schließfach-Wächter Wache
