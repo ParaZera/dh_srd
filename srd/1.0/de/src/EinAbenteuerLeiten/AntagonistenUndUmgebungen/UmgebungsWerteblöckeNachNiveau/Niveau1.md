@@ -48,7 +48,7 @@ Es erscheint in Weiter Reichweite zu einem gewählten SC und übernimmt sofort d
 *Welche Farbe nimmt das Gras an, wenn das Elementar erscheint?*
 *Wie verzerrt das Chaos Insekten und kleine Wildtiere innerhalb des Hains?*
 
-## Überfallen werden
+## In einen Hinterhalt geraten
 **Niveau 1 Ereignis**
 
 Ein Hinterhalt wird gelegt, um die ahnungslose (SC) Gruppe zu überraschen.
@@ -70,3 +70,26 @@ Ein Hinterhalt wird gelegt, um die ahnungslose (SC) Gruppe zu überraschen.
 
 *Was wollen die Angreifer von der Gruppe?*
 *Wie spiegeln ihre Taktiken beim Überfall das wider?*
+
+## Hinterhalt durch die SCs
+**Niveau 1 Ereignis**
+
+Ein Hinterhalt wird von den SCs gelegt, um ahnungslose Antagonisten zu überraschen.
+
+**Impulse:** Fliehen, sich sammeln, die Verwundbarsten beschützen
+
+> **Schwierigkeitsgrad:** Speziell (siehe "Relative Stärke")
+>
+> **Potentielle Antagonisten:** Beliebige
+
+### Fähigkeiten
+
+**Relative Stärke - Passiv:** Der Schwierigkeitsgrad dieser Umgebung entspricht dem des Antagonisten mit dem höchsten Schwierigkeitsgrad.
+
+*Welcher Antagonist ist am wenigsten vorbereitet?*
+*Welcher ist am besten vorbereitet?*
+
+**Wo kommen sie her? - Reaktion:** Wenn ein SC den Hinterhalt gegen ahnungslose Antagonisten startet, verlierst du 2 Angstmarken und der erste Angriffswurf eines SCs hat einen Vorteil.
+
+*Womit sind die Antagonisten gerade beschäftigt, wenn der Hinterhalt beginnt?*
+*Wie beeinflusst das ihre Herangehensweise an den Kampf?*
