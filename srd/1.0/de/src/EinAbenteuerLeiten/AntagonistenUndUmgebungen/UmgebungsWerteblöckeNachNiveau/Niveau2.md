@@ -53,9 +53,9 @@ Wenn der Leiter besiegt wird, endet der Countdown ohne Wirkung, da das Ritual fe
 ## Geheiligter Tempel
 **Niveau 2 Sozial**
 
-Ein geschäftiger, aber gepflegter Tempel, der Heilung bietet und regelmäßige Gottesdienste abhält, beaufsichtigt von einem Priester oder Seraph.
+Ein geschäftiger, aber gepflegter Tempel, der Heilung verspricht und regelmäßige Gottesdienste abhält, beaufsichtigt von einem Priester oder Seraph.
 
-**Impulse:** Die Sterbliche Sphäre mit den Hallen Droben verbinden, die Macht des Göttlichen zeigen, den Gläubigen Hilfe und Beistand gewähren
+**Impulse:** Die Sterbliche Sphäre mit den obere Sphären verbinden, die Macht des Göttlichen zeigen, den Gläubigen Hilfe und Beistand gewähren
 
 > **Schwierigkeitsgrad:** 13
 >
@@ -86,7 +86,7 @@ Wenn der Gott, den sie anflehen, in diesem Tempel nicht willkommen ist, wird der
 
 *Mit welchen Emotionen oder Erinnerungen verbindest du dich, wenn die Angst eindringt?*
 
-**Göttliche Zensur - Reaktion:** Wenn die SCs sich vergangen haben, gelästert oder die Geistlichkeit beleidigt haben, kannst du eine Angstmarke ausgeben, um einen Hohen Seraph und **1W4** Klingen-Wachen in Naher Reichweite zum höchsten Priester zu beschwören, um ihren Willen zu verstärken.
+**Göttliche Zensur - Reaktion:** Wenn die SCs den Tempel unbefugt betreten haben, gelästert oder die Geistlichen beleidigt haben, kannst du eine Angstmarke ausgeben, um einen Hohen Seraph und **1W4** Klingen-Wachen in Naher Reichweite zum höchsten Priester zu beschwören, um ihren Willen zu verstärken.
 
 *Welche Symbole oder Ikonen tragen sie, die zeigen, dass sie gesalbte Agenten der Gottheit sind?*
 *Wer führt die Gruppe an und was führte sie zu dieser Berufung?*
@@ -131,7 +131,7 @@ Diese Spukerscheinungen verändern das Layout der Stadt um die SCs herum, blocki
 *Was wollen die Geister von euch?*
 *Was braucht ihr von ihnen?*
 
-**Apokalypse damals - Aktion:** Gib eine Angstmarke aus, um das Echo einer vergangenen Katastrophe zu manifestieren, die die Stadt verwüstete.
+**Vergangene Apokalypse - Aktion:** Gib eine Angstmarke aus, um das Echo einer vergangenen Katastrophe zu manifestieren, die die Stadt verwüstete.
 Aktiviere einen Fortschritts-Countdown (5), während sich die Katastrophe um die SCs herum wiederholt.
 Um den Countdown abzuschließen und der Katastrophe zu entkommen, müssen die SCs Bedrohungen wie tobende Feuer, in Panik geratene Zivilisten, einstürzende Gebäude oder bröckelnde Straßen überwinden, während sie sich an die Geschichte erinnern und Hinweise finden, um dem Unvermeidlichen zu entkommen.
 
@@ -154,7 +154,7 @@ Steinige Gipfel, die die Wolken durchbohren, mit einem gewundenen Pfad, der sich
 **Eingravierte Siegel - Passiv:** Große Markierungen und Gravuren wurden in die Bergseite gemacht.
 Ein SC mit einem relevanten Hintergrund oder einer relevanten Erfahrung identifiziert sie als Wettermagie, die die Kraft der eisigen Winde verstärkt.
 Ein SC, der bei einem Wissen-Wurf erfolgreich ist, kann sich an Informationen über die Siegel erinnern, potentielle Informationen über ihre Erschaffer und das Wissen, wie man sie bannen kann.
-Wenn ein SC kritisch erfolgreich ist, erkennt er, dass die Siegel im Stil von Grat-Zauberern erschaffen wurden und erhält einen Vorteil bei einem Wurf, um die Siegel zu bannen.
+Wenn ein SC kritisch erfolgreich ist, erkennt er, dass die Siegel im Stil von Gratgeborenen Zauberern erschaffen wurden und erhält einen Vorteil bei einem Wurf, um die Siegel zu bannen.
 
 *Wer legte diese Verzauberung?*
 *Sind sie in der Nähe?*
@@ -169,7 +169,7 @@ Ziele, die erfolgreich sind, müssen einen Stress markieren.
 *Wie versuchen die SCs, die Lawine zu überstehen?*
 *Welchen Ansatz wählen die Charaktere, um einander zu finden, wenn ihre Gefährten den Berghang hinunterstürzen?*
 
-**Raubtier-Nest - Reaktion:** Wenn die SCs die Jagdgründe der Raubtiere betreten, erscheinen zwei Riesen-Adler in Sehr Weiter Reichweite zu einem gewählten SC und identifizieren die SCs als wahrscheinliche Beute.
+**Raubtier-Nest - Reaktion:** Wenn die SCs die Jagdgründe der Raubtiere betreten, erscheinen zwei Riesen-Adler in Sehr Weiter Reichweite zu einem gewählten SC und identifizieren die SCs als mögliche Beute.
 
 *Wie lange ist es her, seit die Adler das letzte Mal Beute gefunden haben?*
 *Haben sie Eier in ihrem Nest oder noch nicht flügge Junge?*
