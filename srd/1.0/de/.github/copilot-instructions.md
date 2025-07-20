@@ -58,3 +58,6 @@
     - "statblock" -> "Werteblock"
     - "•" -> "-"
     - "minion" -> "Lakai"
+    - "Witherwild" -> "Welk-Wildnis"
+    - "Campaign Frame" -> "Kampagnenrahmen"
+    
