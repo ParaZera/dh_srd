@@ -35,7 +35,7 @@ Du kannst diese Werte nicht wieder erhöhen bis zum nächsten Niveau (wenn deine
 
 - **Permanent 1 oder mehr Stress-Plätze hinzufügen:** Verdunkle die Umrandung des nächsten Rechtecks im Stress-Bereich deines Charakterbogens mit Stift oder permanentem Marker.
 
-- **Eine Erfahrung erhöhen:** Erhalte einen permanenten +1 Bonus auf eine Erfahrung.
+- **Erfahrungen erhöhen:** Erhalte einen permanenten +1 Bonus auf zwei Erfahrungen.
 
 - **Eine zusätzliche Domänenkarte nehmen:** Du kannst eine zusätzliche Domänenkarte auf oder unter deiner Stufe aus den Domänen deiner Klasse wählen.
 Wenn du mehrklassig bist, kannst du stattdessen eine Karte auf oder unter der Hälfte deiner Stufe aus deiner gewählten Mehrklassen-Domäne wählen.

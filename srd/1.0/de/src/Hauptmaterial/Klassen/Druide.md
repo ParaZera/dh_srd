@@ -13,7 +13,7 @@ Durch Jahre des Studiums und der Hingabe können Druiden lernen, sich in Bestien
 **Klassengegenstände** Ein kleiner Beutel mit Steinen und Knochen oder ein seltsamer Anhänger, der im Dreck gefunden wurde
 
 ## Hoffnungsfähigkeit der Druiden
-**Evolution:** Gib 3 Hoffnung aus, um dich in eine Bestienform zu verwandeln, ohne einen Stress zu markieren.
+**Evolution:** **Gib 3 Hoffnung** aus, um dich in eine Bestienform zu verwandeln, ohne einen Stress zu markieren.
 Wenn du das tust, wähle eine Eigenschaft, die um +1 erhöht wird, bis du aus dieser Bestienform herausfällst.
 
 ## Klassenfähigkeiten
@@ -57,7 +57,7 @@ Die Aura betrifft Ziele in Naher Reichweite, bis **Elementare Inkarnation** ende
 
 - **Wasser:** Wenn ein Antagonist dir Schaden zufügt, kannst du einen Stress markieren, um ihn irgendwohin in Sehr Naher Reichweite von seinem aktuellen Ort zu bewegen.
 
-- **Luft:** Wenn du oder ein Verbündeter Schaden von einem Angriff jenseits der Nahkampfreichweite nimmst, reduziere den Schaden um 1W8.
+- **Luft:** Wenn du oder ein Verbündeter Schaden von einem Angriff jenseits der Nahkampfreichweite nimmst, reduziere den Schaden um **1W8**.
 
 ### Meisterschaft
 **Elementare Herrschaft:** Du verkörperst dein Element weiter.
@@ -65,7 +65,7 @@ Während **Elementare Inkarnation** aktiv ist erhältst du den folgenden Vorteil
 
 - **Feuer:** Du erhältst einen +1 Bonus auf deine Kompetenz für Angriffe und Zauber, die Schaden verursachen.
 
-- **Erde:** Wenn du Trefferpunkte markieren würdest, würfle einen W6 pro markiertem Trefferpunkt.
+- **Erde:** Wenn du Trefferpunkte markieren würdest, würfle einen **W6** pro markiertem Trefferpunkt.
 Für jedes Ergebnis von 6 reduziere die Anzahl der Trefferpunkte, die du markierst, um 1.
 
 - **Wasser:** Wenn ein Angriff gegen dich erfolgreich ist, kannst du einen Stress markieren, um den Angreifer vorübergehend verwundbar zu machen.
@@ -223,7 +223,7 @@ Nahkampf Finesse W6+1 physisch
 Erhalte einen Vorteil auf: angreifen, klettern, schleichen
 
 **Giftiger Biss:** Wenn du bei einem Angriff gegen ein Ziel in Nahkampfreichweite erfolgreich bist, wird das Ziel vorübergehend vergiftet.
-Eine vergiftete Kreatur nimmt 1W10 direkten physischen Schaden jedes Mal, wenn sie handelt.
+Eine vergiftete Kreatur nimmt **1W10** direkten physischen Schaden jedes Mal, wenn sie handelt.
 
 **Netzschleuderer:** Du kannst starkes Netzmaterial erschaffen, das sowohl für Abenteuer als auch für den Kampf nützlich ist.
 Das Netz ist widerstandsfähig genug, um eine Kreatur zu tragen.
@@ -244,7 +244,7 @@ Erhalte einen Vorteil auf: graben, lokalisieren, schützen
 Zusätzlich markiere ein Rüstungsfeld, um dich in deinen Panzer zurückzuziehen.
 Während du in deinem Panzer bist, wird physischer Schaden um eine Zahl reduziert, die deinem Rüstungswert entspricht (nach Anwendung der Resistenz), aber du kannst keine anderen Aktionen ausführen, ohne diese Form zu verlassen.
 
-**Kanonenkugel:** Markiere einen Stress, um einem Verbündeten zu erlauben, dich auf einen Antagonisten zu werfen oder zu schleudern.
+**Kanonenkugel:** **Markiere einen Stress**, um einem Verbündeten zu erlauben, dich auf einen Antagonisten zu werfen oder zu schleudern.
 Dazu macht der Verbündete einen Angriffswurf mit Agilität oder Stärke (nach seiner Wahl) gegen ein Ziel in Naher Reichweite.
 Bei Erfolg nimmt der Antagonist W12+2 physischen Schaden mit der Kompetenz des Werfers.
 Du kannst 1 Hoffnung ausgeben, um einen zusätzlichen Antagonisten in Sehr Naher Reichweite des ersten anzuvisieren.
