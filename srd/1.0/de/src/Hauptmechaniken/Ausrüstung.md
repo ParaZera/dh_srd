@@ -5,7 +5,7 @@ Dein Charakter kann nur mit ausgerüsteten Waffen angreifen un und von Rüstung 
 Du kannst keine Waffen oder Rüstung mit einem höheren Niveau als du ausrüsten.
 
 SCs können bis zu zwei zusätzliche Waffen in den "Inventar-Waffen"-Bereichen des Charakterbogens tragen.
-Du kannst eine Inventar-Waffe kostenlos mit einer Aktiven Waffe derselben Bürde während einer Rast oder einem ruhigen Moment tauschen; andernfalls musst du einen Stress markieren, um dies zu tun.
+Du kannst eine Inventar-Waffe kostenlos mit einer Aktiven Waffe während einer Rast oder einem ruhigen Moment tauschen; andernfalls musst du einen Stress markieren, um dies zu tun.
 
 Dein Charakter kann nur eine Aktive Rüstung gleichzeitig haben.
 Er kann keine Rüstung ausrüsten, während er in Gefahr oder unter Druck steht; andernfalls kann er Rüstung kostenlos ausrüsten oder ablegen.

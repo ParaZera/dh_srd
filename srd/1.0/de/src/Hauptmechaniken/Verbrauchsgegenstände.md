@@ -72,7 +72,7 @@ Um einen zufälligen Verbrauchsgegenstand zu generieren, wähle eine Seltenheit,
 | 53 | Schrumpftrank | Du kannst diesen Trank trinken, um deine Größe zu halbieren, bis du diese Form aufgibst oder deine nächste Rast machst. In dieser Form hast du einen +2-Bonus auf Agilität und einen −1-Malus auf deine Kompetenz. |
 | 54 | Wachstumstrank | Du kannst diesen Trank trinken, um deine Größe zu verdoppeln, bis du diese Form aufgibst oder deine nächste Rast machst. In dieser Form hast du einen +2-Bonus auf Stärke und einen +1-Bonus auf deine Kompetenz. |
 | 55 | Wissensstein | Falls du stirbst, während du diesen Stein hältst, kann ein Verbündeter eine Karte aus deiner Ausrüstung nehmen, um sie in seine Ausrüstung oder sein Schließfach zu legen. Nachdem er dieses Wissen genommen hat, zerbröckelt der Stein. |
-| 56 | Süßes Moos | Du kannst dieses Moos während einer Rast konsumieren, um 1W4 TP oder 1W4 Stress zu heilen. |
+| 56 | Süßes Moos | Du kannst dieses Moos während einer Rast konsumieren, um 1W10 TP oder 1W10 Stress zu heilen. |
 | 57 | Blendende Kugel | Du kannst diese Kugel aktivieren, um einen hellen Lichtblitz zu erzeugen. Alle Ziele in Naher Reichweite werden verwundbar, bis sie TP markieren. |
 | 58 | Todestee | Nachdem du diesen Tee getrunken hast, tötest du dein Ziel sofort, wenn du bei einem Angriff kritisch erfolgreich bist. Falls du nicht vor deiner nächsten langen Rast kritisch bei einem Angriff erfolgreich bist, stirbst du. |
 | 59 | Spiegel von Marigold | Wenn du Schaden erleidest, kannst du eine Hoffnung ausgeben, um diesen Schaden zu negieren, woraufhin der Spiegel zerbricht. |

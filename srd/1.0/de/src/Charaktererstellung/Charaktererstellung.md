@@ -24,7 +24,7 @@ Wähle eine der Unterklassen deiner Klasse und nimm deren **Grundlagenkarte**.
 ## Schritt 2
 Wähle deine **Herkunft**.
 Die **Herkunft** des Charakters kombiniert zwei Elemente: **Abstammung** und **Gemeinschaft**.
-- Die **Abstammung** eines Charakters repräsentiert dessen Art oder Spezies; sie gewährt bestimmte körperliche Eigenschaften und zwei einzigartige **Abstammungsfähigkeiten**.
+- Die **Abstammung** eines Charakters repräsentiert seine Butlinie; beeinflusst bestimmte körperliche Eigenschaften und gewährt zwei einzigartige **Abstammungsfähigkeiten**.
 Nimm die Karte für eine der folgenden Abstammungen und schreibe dann deren Namen in das Herkunftsfeld des Charakterbogens: Clank, Drakona, Zwerg, Elf, Fee, Faun, Firbolg, Fungril, Galapa, Riese, Goblin, Halbling, Mensch, Infernis, Katari, Ork, Ribbet, Simiah.
 Um eine gemischte Abstammung zu erstellen, nimm die obere (zuerst aufgelistete) Abstammungsfähigkeit von einer Abstammung und die untere (zweitaufgelistete) Abstammungsfähigkeit von einer anderen.
 - Die **Gemeinschaft** des Charakters repräsentiert dessen Kultur oder Herkunftsumgebung und gewährt eine Gemeinschaftsfähigkeit.
@@ -119,7 +119,7 @@ Entwickle den **Hintergrund** deines Charakters, indem du die **Hintergrundfrage
 ## Schritt 7
 **Erstelle deine Erfahrungen.**
 Eine Erfahrung ist ein Wort oder eine Phrase, die verwendet wird, um eine spezifische Reihe von Fähigkeiten, Persönlichkeitsmerkmalen oder Begabungen zu verkörpern, die der Charakter im Laufe seines Lebens erworben hat.
-Wenn der SC einen Zug macht, kann 1 Hoffnung ausgegeben werden, um den Modifikator einer relevanten Erfahrung zum Aktionswurf hinzuzufügen.
+Wenn der SC einen Zug macht, kann 1 Hoffnung ausgegeben werden, um den Modifikator einer relevanten Erfahrung zu einem Aktionswurf oder Reaktionswurf hinzuzufügen.
 - Der SC erhält zwei Erfahrungen bei der Charaktererstellung, jede mit einem +2-Modifikator.
 
 - Es gibt keine festgelegte Liste von Erfahrungen zur Auswahl, aber eine Erfahrung kann nicht zu breit anwendbar sein und sie kann dem Charakter keine spezifischen mechanischen Vorteile gewähren, wie Zaubersprüche oder besondere Fähigkeiten.
