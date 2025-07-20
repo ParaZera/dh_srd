@@ -27,7 +27,7 @@
     - "proficiency" -> "Kompetenz"
     - "Core Rulebook" -> "Hauptregelwerk"
     - "Core Material" -> "Hauptmaterial"
-    - "realm" -> "SphärSphäre
+    - "realm" -> "Sphäre
     - "downtime" -> "Auszeit"
     - "downtime move" -> "Auszeit-Aktivität"
     - "vault" -> "Schließfach"
