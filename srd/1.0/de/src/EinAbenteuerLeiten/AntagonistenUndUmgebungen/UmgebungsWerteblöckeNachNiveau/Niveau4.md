@@ -121,7 +121,7 @@ Die majestätische Domäne eines mächtigen Imperiums, prächtig ausgestattet mi
 **Alle Wege führen hierher - Passiv:** Während sie sich im Kaiserlichen Hof befinden, haben SCs einen Nachteil bei Präsenz-Würfen, die Aktionen ausführen, die nicht zur imperialen Lebensweise passen oder die Herrschaft des Imperiums unterstützen.
 
 *Wie macht die Art, wie Sprache verwendet wird, selbst das Diskutieren alternativer Lebensweisen schwierig?*
-*Welche offensichtlichen Vorteile für Loyalität schaffen Reibung, wenn du versuchst, Alternativen zu diskutieren?*
+*Welche offensichtlichen Vorteile für Loyalität erzeugen Widerstand, wenn du versuchst, Alternativen zu diskutieren?*
 
 **Rivalisierende Vasallen - Passiv:** Die SCs können imperiale Untertanen, Vasallen und Bittsteller am Hof finden, die alle um Gunst wetteifern, die Nähe zur Macht suchen, Gefallen gegen Loyalität tauschen und ihren Status über andere erheben.
 Einige könnten verzweifelt sein, ihre Rivalen zu untergraben, während andere sogar offen für Diskussionen sein könnten, die an Verrat grenzen.
@@ -132,8 +132,8 @@ Einige könnten verzweifelt sein, ihre Rivalen zu untergraben, während andere s
 **Die Schwerkraft des Imperiums - Aktion:** Gib eine Angstmarke aus, um einem SC eine goldene Gelegenheit oder ein Angebot zu präsentieren, ein wichtiges Ziel zu erreichen, im Austausch dafür, dem Imperium zu gehorchen oder es zu unterstützen.
 Das Ziel muss einen Präsenz-Reaktionswurf machen.
 Bei einem Fehlschlag muss es allen Stress markieren oder das Angebot annehmen.
-Wenn es bereits allen Stress markiert hat, muss es das Angebot annehmen oder sich aus dem Imperium verbannen.
-Bei einem Erfolg muss es **1W4** Stress markieren, während es von der Versuchung belastet wird.
+Wenn es bereits allen Stress markiert hat, muss es das Angebot annehmen oder wird aus dem Imperium verbannt.
+Bei einem Erfolg muss es **1W4** Stress markieren, während es von der Versuchung zur Last wird.
 
 *Was wollen die SCs so verzweifelt, dass sie erwägen könnten, sich mit dieser rücksichtslosen Macht zu verbünden?*
 *Wie erfuhren imperiale Agenten von den größten Wünschen des SCs?*
@@ -155,7 +155,7 @@ Ein SC muss bei einem Instinkt-Reaktionswurf erfolgreich sein, um zu bemerken, d
 
 Eine staubige Krypta mit einer Bibliothek, gewundenen Korridoren und reichlich Sarkophagen, bespritzt mit dem Blut unglückseliger Eindringlinge.
 
-**Impulse:** Eindringlinge verwirren, in Geheimnisse graben, die besser begraben blieben, Unleben manifestieren, eine Flut von Untoten entfesseln
+**Impulse:** Verwirre Eindringlinge, ergründe Geheimnisse, die besser begraben blieben, lass Unleben Gestalt annehmen, und entfessle eine Flut der Untoten.
 
 > **Schwierigkeitsgrad:** 19
 >
@@ -163,7 +163,7 @@ Eine staubige Krypta mit einer Bibliothek, gewundenen Korridoren und reichlich S
 
 ### Fähigkeiten
 
-**Kein Ort für die Lebenden - Passiv:** Eine Fähigkeit oder Aktion, die TP entfernt, erfordert das Ausgeben einer Hoffnung.
+**Kein Ort für die Lebenden - Passiv:** Eine Fähigkeit oder Aktion, die Markierungen von TP entfernt, erfordert das Ausgeben einer Hoffnung.
 Wenn sie bereits Hoffnung kostet, muss ein SC eine zusätzliche Hoffnung ausgeben.
 
 *Wie fühlt es sich an, an einem Ort zu versuchen zu heilen, der dem Leben so widerspricht?*
@@ -173,7 +173,7 @@ Wenn sie bereits Hoffnung kostet, muss ein SC eine zusätzliche Hoffnung ausgebe
 *Wie heißen die Folianten?*
 *An welchem Projekt arbeitet der Nekromant und was teilt es über seine Pläne mit?*
 
-**Skelett-Bersten - Aktion:** Alle Ziele in Naher Reichweite zu einem Punkt deiner Wahl in dieser Umgebung müssen bei einem Agilität-Reaktionswurf erfolgreich sein oder **4W8+8** physischen Schaden durch Skelett-Splitter erleiden, während ein Teil des Beinhauses um sie herum detoniert.
+**Skelett-Bersten - Aktion:** Alle Ziele in Naher Reichweite zu einem Punkt deiner Wahl müssen bei einem Agilität-Reaktionswurf erfolgreich sein oder **4W8+8** physischen Schaden durch Skelett-Splitter erleiden, während ein Teil des Beinhauses um sie herum detoniert.
 
 *Welche uralte Skelett-Architektur wird zerstört?*
 *Welche Knochen stecken in deiner Rüstung?*
