@@ -4,7 +4,7 @@ Barden sind die charismatischsten Menschen in allen Sphären.
 Mitglieder dieser Klasse sind Meister der Faszination und spezialisieren sich auf eine Vielzahl von Darbietungsarten, einschließlich Singen, Spielen von Musikinstrumenten, und Erzählen von Geschichten oder Witzen.
 Ob sie für ein Publikum auftreten oder mit einer einzelnen Person sprechen, Barden blühen in sozialen Situationen auf.
 Mitglieder dieses Berufs lernen und trainieren gemeinsam an Schulen oder Gilden. Dennoch ist bei Barden häufig eine Spur Egoismus zu finden.
-Während sie die Klasse sein mögen, die am ehesten Menschen zusammenbringt, kann ein schlecht gelaunter Barde eine Gruppe aber ebenso schnell außeinandertreiben.
+Während sie die Klasse sein mögen, die am ehesten Menschen zusammenbringt, kann ein schlecht gelaunter Barde eine Gruppe aber ebenso schnell auseinandertreiben.
 
 **Domänen** Anmut & Kodex
 
@@ -15,14 +15,14 @@ Während sie die Klasse sein mögen, die am ehesten Menschen zusammenbringt, kan
 **Klassengegenstände** Ein Liebesroman oder ein nie geöffneter Brief
 
 ## Hoffnungsfähigkeit der Barden
-**Inszenierung:** **Gib 3 Hoffnung** aus, um ein Ziel in Naher Reichweite vorübergehend abzulenken. Dies bedeutetn einen -2 Malus auf seinen Schwierigkeitwerwertt.
+**Inszenierung:** **Gib 3 Hoffnung** aus, um ein Ziel in Naher Reichweite vorübergehend abzulenken. Dies bedeutetn einen -2 Malus auf seinen Schwierigkeitswert.
 
 ## Klassenfähigkeit
 **Mobilisierung**: Einmal pro Spielrunde beschreibe, wie du die Gruppe mobilisierst und gib dir selbst und jedem deiner Verbündeten einen Mobilisierungswürfel.
 Auf Stufe 1 ist dein Mobilisierungswürfel ein **W6**.
 Ein SC kann seinen Mobilisierungswürfel ausgeben, um ihn zu würfeln und das Ergebnis zu seinem Aktionswurf, Reaktionswurf, Schadenswurf hinzuzufügen oder eine Anzahl von Stress zu heilen, die dem Ergebnis entspricht.
 Am Ende jeder Spielrunde entferne alle nicht ausgegebenen Mobilisierungswürfel.
-Auf Stufe 5 erhöht sich dein Sammelwürfel auf einen **W8**.
+Auf Stufe 5 erhöht sich dein Mobilisierungswürfel auf einen **W8**.
 
 # Barden-Unterklassen
 Wähle entweder die Unterklasse **Troubadour** oder **Wortschmied**.

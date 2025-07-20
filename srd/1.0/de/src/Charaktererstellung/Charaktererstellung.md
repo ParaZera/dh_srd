@@ -1,6 +1,6 @@
 # Charaktererstellung
 
-Sofern die Gruppe nicht vorgefertigte Charaktere verwendet, erstellt jede spielende Person ihren eigenen SC durch eine Reihe von Entscheidungen.
+Sofern die Gruppe nicht vorgefertigte Charaktere verwendet, erstellt jede spielende Person ihren eigenen SC in einer Reihe geführter Entscheidungen.
 Einige dieser Entscheidungen sind rein narrativ, das bedeutet, sie erscheinen nur im Spiel oder beeinflussen die Fiktion ausschließlich durch Rollenspiel, andere Entscheidungen beeinflussen die Mechaniken und damit das, was der SC tun kann und bei welchen Aktionen er eher erfolgreich (oder weniger erfolgreich) ist.
 
 > **Hinweis:** Name, Pronomen und Charakterbeschreibung können zu jedem Zeitpunkt des Charaktererstellungsprozesses ausgefüllt werden.
@@ -24,7 +24,7 @@ Wähle eine der Unterklassen deiner Klasse und nimm deren **Grundlagenkarte**.
 ## Schritt 2
 Wähle deine **Herkunft**.
 Die **Herkunft** des Charakters kombiniert zwei Elemente: **Abstammung** und **Gemeinschaft**.
-- Die **Abstammung** eines Charakters repräsentiert seine Butlinie; beeinflusst bestimmte körperliche Eigenschaften und gewährt zwei einzigartige **Abstammungsfähigkeiten**.
+- Die **Abstammung** eines Charakters repräsentiert seine Blutlinie und beeinflusst bestimmte körperliche Eigenschaften und gewährt zwei einzigartige **Abstammungsfähigkeiten**.
 Nimm die Karte für eine der folgenden Abstammungen und schreibe dann deren Namen in das Herkunftsfeld des Charakterbogens: Clank, Drakona, Zwerg, Elf, Fee, Faun, Firbolg, Fungril, Galapa, Riese, Goblin, Halbling, Mensch, Infernis, Katari, Ork, Ribbet, Simiah.
 Um eine gemischte Abstammung zu erstellen, nimm die obere (zuerst aufgelistete) Abstammungsfähigkeit von einer Abstammung und die untere (zweitaufgelistete) Abstammungsfähigkeit von einer anderen.
 - Die **Gemeinschaft** des Charakters repräsentiert dessen Kultur oder Herkunftsumgebung und gewährt eine Gemeinschaftsfähigkeit.
@@ -68,7 +68,7 @@ Weise die Modifikatoren +2, +1, +1, +0, +0, -1 den Eigenschaften deines Charakte
 Notiere die Stufe in dem dafür vorgesehenen Bereich oben auf dem Charakterbogen.
 
 - **Ausweichen** repräsentiert die Fähigkeit des Charakters, Schaden zu vermeiden.
-Das anfängliche Ausweichen-Wert des Charakters wird durch dessen Klasse bestimmt und erscheint direkt unter dem Ausweichen-Feld auf dem Charakterbogen; kopiere diese Zahl in das Feld.
+Der anfängliche Ausweichen-Wert des Charakters wird durch dessen Klasse bestimmt und erscheint direkt unter dem Ausweichen-Feld auf dem Charakterbogen; kopiere diese Zahl in das Feld.
 
 - **Trefferpunkte** (TP) sind ein abstraktes Maß für die körperliche Gesundheit.
 Die anfänglichen TP werden durch die Klasse bestimmt und sind auf dem Charakterbogen vermerkt.
@@ -134,7 +134,7 @@ Wenn der SC einen Zug macht, kann 1 Hoffnung ausgegeben werden, um den Modifikat
 >
 > **Spezialisierungen:** *Akrobat, Glücksspieler, Heiler, Erfinder, Magische Historikerin, Kartenmacher, Meister der Verkleidung, Navigator, Scharfschützin, Überlebenskünstler, Säbelrassler, Taktiker*
 >
-> **Fähigkeiten**: *Tierflüsterer, Feilschen, Schnell Lernend, Unglaubliche Stärke, Lügner, Leichtfuß, Verhandler, Fotografisches Gedächtnis, Schnelle Hände, Reparieren, Sammler, Fährtenleser*
+> **Fähigkeiten**: *Tierflüsterer, Feilschen, Schnell Lernend, Tödliche Präzision, Unglaubliche Stärke, Lügner, Leichtfuß, Verhandler, Fotografisches Gedächtnis, Schnelle Hände, Reparieren, Sammler, Fährtenleser*
 >
 > **Phrasen**: *Nur über meine Leiche, Auge um Auge, Blut ist dicker als Wasser, Der Klügere gibt nach, Geteiltes Leid ist halbes Leid, Was nicht umbringt macht stark, Einer für alle alle für einen, Wer nicht wagt der nicht gewinnt, Ende gut alles gut, Still wie ein Grab*
 

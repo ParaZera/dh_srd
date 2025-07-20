@@ -1,6 +1,5 @@
 # Abstammungen
-
-Abstammungen repräsentiert welches körperliches Erscheinungsbild und den Zugang zu bestimmten besonderen Fähigkeiten auf basis der Ahnen des Charakters.
+Eine Abstammung bestimmt das körperliche Erscheinungsbild eines Charakters und gewährt Zugang zu bestimmten besonderen Fähigkeiten, die auf den Vorfahren des Charakters basieren.
 Der folgende Abschnitt beschreibt jede Abstammung in Daggerheart und die Eigenschaften, die im Allgemeinen von Mitgliedern dieser Abstammung geteilt werden, jedoch entscheidet jede spielende Person, wie sehr ihr Charakter mit dem "Standard"- oder "durchschnittlichen" Ausdruck ihrer Abstammung übereinstimmt.
 
 In Daggerheart wird der Begriff "Personen" verwendet, um sich auf alle Abstammungen zu beziehen, da Individuen aller Linien einzigartige Eigenschaften und Kulturen sowie Persönlichkeit besitzen.

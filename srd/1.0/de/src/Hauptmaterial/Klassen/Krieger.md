@@ -47,7 +47,7 @@ Während du 2 oder weniger Trefferpunkte unmarkiert hast, kannst du einen W20 al
 ### Meisterschaft
 **Kameradschaft:** Deine unerschütterliche Tapferkeit ist ein Sammelpunkt für deine Verbündeten.
 Du kannst einen Tag-Team Wurf ein zusätzliches Mal pro Spielrunde initiieren.
-Zusätzlich müssen Verbündete nur 2 Hoffnung ausgeben, wenn sie einen Teamwurf mit dir initiieren.
+Zusätzlich müssen Verbündete nur 2 Hoffnung ausgeben, wenn sie einen Tag-Team Wurf mit dir initiieren.
 
 ## Ruf der Schlächter
 Spiele den Ruf der Schlächter, wenn du Antagonisten mit immenser Kraft niederschlagen möchtest.

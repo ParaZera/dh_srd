@@ -12,6 +12,6 @@ Du kannst dieses SRD auf verschiedene Weise verwenden:
 
 Das Daggerheart SRD ist kein Ersatz für das Hauptregelwerk, welches Settinginformationen, zusätzliche Beispiele verschiedener Spielelemente und jede Menge großartiger Ratschläge für das Spielen von Daggerheart enthält — ganz zu schweigen von dem wunderschönen Artwork und Layout.
 
-Kurz gesagt, es ist Daggerheart, das System, auf Mechaniken reduziert - eine schlanke und saubere Übersicht ohne all die Hintergrundinformationen und Erklärungen, und weiteres unterstützendes Material, das das Hauptregelwerk zu einem unterhaltsamen Buch macht.
+Kurz gesagt, es ist Daggerheart, das System, auf Mechaniken reduziert - eine schlanke und saubere Übersicht ohne all die Flair-Elemente, den Stil, und unterstützendes Material, das das Hauptregelwerk zu einem unterhaltsamen Buch macht.
 Wir hoffen, dass dieses Dokument für eure Gruppe nützlich ist.
 Viel Erfolg bei euren Abenteuern!
