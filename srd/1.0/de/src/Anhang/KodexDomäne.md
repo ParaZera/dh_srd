@@ -5,7 +5,7 @@
 
 **Erinnerungskosten:** 2
 
-**Machtstoß:** Mache einen Zauberwirken-Wurf gegen ein Ziel in Nahkampfreichweite.
+**Machtstoß:** Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Nahkampfreichweite.
 Bei einem Erfolg wird es auf Weite Reichweite zurückgeschleudert und erleidet **W10+2** magischen Schaden mit deiner Kompetenz.
 
 **Tavas Rüstung:** **Gib eine Hoffnung aus**, um einem Ziel, das du berühren kannst, einen +1 Bonus auf seinen Rüstungswert zu geben, bis zu seiner nächsten Rast oder bis du Tavas Rüstung erneut wirkst.
@@ -19,7 +19,7 @@ Bei einem Erfolg verursache **W6** physischen Schaden mit deiner Kompetenz.
 
 **Erinnerungskosten:** 2
 
-**Schlummer:** Mache einen Zauberwirken-Wurf gegen ein Ziel in Sehr Naher Reichweite.
+**Schlummer:** Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Sehr Naher Reichweite.
 Bei einem Erfolg ist es Schlafend, bis es Schaden erleidet oder die SL eine Angstmarke in ihrem Zug ausgibt, um diesen Zustand zu beenden.
 
 **Arkane Salve:** Einmal pro Rast **gib beliebig viele Hoffnung aus** und schieße magische Geschosse ab, die ein Ziel deiner Wahl in Naher Reichweite treffen.
@@ -28,224 +28,250 @@ Würfle eine Anzahl **W6** entsprechend der ausgegebenen Hoffnung und verursache
 **Telepathie:** **Gib eine Hoffnung aus**, um eine mentale Kommunikationsverbindung mit einem Ziel zu öffnen, das du sehen kannst.
 Diese Verbindung hält bis zu deiner nächsten Rast an oder bis du Telepathie erneut wirkst.
 
-BOOK OF TYFAR
-Level 1 Codex Grimoire
-Recall Cost: 2
-Wild Flame: Make a Spellcast Roll against up to three 
-adversaries within Melee range. Targets you succeed against 
-take 2d6 magic damage and must mark a Stress as flames 
-erupt from your hand. 
-Magic Hand: You conjure a magical hand with the same size 
-and strength as your own within Far range.
-Mysterious Mist: Make a Spellcast Roll (13) to cast a 
-temporary thick fog that gathers in a stationary area within 
-Very Close range. The fog heavily obscures this area and 
-everything in it.
-BOOK OF SITIL
-Level 2 Codex Grimoire
-Recall Cost: 2
-Adjust Appearance: You magically shift your appearance and 
-clothing to avoid recognition.
-Parallela: Spend 2 Hope to cast this spell on yourself or an ally 
-within Close range. The next time the target makes an attack, 
-they can hit an additional target within range that their attack 
-roll would succeed against. You can only hold this spell on one 
-creature at a time.
-Illusion: Make a Spellcast Roll (14).  
-On a success, create a temporary visual illusion no larger than 
-you within Close range that lasts for as long as you look at it. It 
-holds up to scrutiny until an observer is within Melee range.
-BOOK OF VAGRAS
-Level 2 Codex Grimoire
-Recall Cost: 2
-Runic Lock: Make a Spellcast Roll (15) on an object you’re 
-touching that can close (such as a lock, chest, or box). Once 
-per rest on a success, you can lock the object so it can only be 
-opened by creatures of your choice. Someone with access to 
-magic and an hour of time to study the spell can break it.
-Arcane Door: When you have no adversaries within Melee 
-range, make a Spellcast Roll (13). On a success, spend a 
-Hope to create a portal from where you are to a point within 
-Far range you can see. It closes once a creature has passed 
-through it. 
-Reveal: Make a Spellcast Roll. If there is anything magically 
-hidden within Close range, it is revealed.
-BOOK OF KORVAX
-Level 3 Codex Grimoire
-Recall Cost: 2
-Levitation: Make a Spellcast Roll to temporarily lift a target 
-you can see up into the air and move them within Close range 
-of their original position.
-Recant: Spend a Hope to force a target within Melee range 
-to make a Reaction Roll (15). On a failure, they forget the last 
-minute of your conversation.
-Rune Circle: Mark a Stress to create a temporary magical 
-circle on the ground where you stand. All adversaries within 
-Melee range, or who enter Melee range, take 2d12+4 magic 
-damage and are knocked back to Very Close range.
-BOOK OF NORAI
-Level 3 Codex Grimoire
-Recall Cost: 2
-Mystic Tether: Make a Spellcast Roll against a target within Far 
-range. On a success, they’re temporarily Restrained and must 
-mark a Stress. If you target a flying creature, this spell grounds 
-and temporarily Restrains them.
-Fireball: Make a Spellcast Roll against a target within Very Far 
-range. On a success, hurl a sphere of fire toward them that 
-explodes on impact. The target and all creatures within Very 
-Close range of them must make a Reaction Roll (13). Targets 
-who fail take d20+5 magic damage using your Proficiency. 
-Targets who succeed take half damage.
-BOOK OF EXOTA
-Level 4 Codex Grimoire
-Recall Cost: 3
-Repudiate: You can interrupt a magical effect taking place. 
-Make a reaction roll using your Spellcast trait. Once per rest on 
-a success, the effect stops and any consequences are avoided. 
-Create Construct: Spend a Hope to choose a group of objects 
-around you and create an animated construct from them that 
-obeys basic commands. Make a Spellcast Roll to command 
-them to take action. When necessary, they share your Evasion 
-and traits and their attacks deal 2d10+3 physical damage. You 
-can only maintain one construct at a time, and they fall apart 
-when they take any amount of damage.
+## Buch von Tyfar
+**Stufe 1 Kodex Grimoire**
 
-BOOK OF GRYNN
-Level 4 Codex Grimoire
-Recall Cost: 2
-Arcane Deflection: Once per long rest, spend a Hope to negate 
-the damage of an attack targeting you or an ally within Very 
-Close range.
-Time Lock: Target an object within Far range. That object stops 
-in time and space exactly where it is until your next rest. If a 
-creature tries to move it, make a Spellcast Roll against them to 
-maintain this spell.
-Wall of Flame: Make a Spellcast Roll (15). On a success, 
-create a temporary wall of magical flame between two points 
-within Far range. All creatures in its path must choose a side to 
-be on, and anything that subsequently passes through the wall 
-takes 4d10+3 magic damage.
-MANIFEST WALL
-Level 5 Codex Spell
-Recall Cost: 2
-Make a Spellcast Roll (15). Once per rest on a success, spend 
-a Hope to create a temporary magical wall between two points 
-within Far range. It can be up to 50 feet high and form at any 
-angle. Creatures or objects in its path are shunted to a side of 
-your choice. The wall stays up until your next rest or you cast 
-Manifest Wall again.
-TELEPORT
-Level 5 Codex Spell
-Recall Cost: 2
-Once per long rest, you can instantly teleport yourself and any 
-number of willing targets within Close range to a place you’ve 
-been before. Choose one of the following options, then make a 
-Spellcast Roll (16):
-• If you know the place very well, gain a +3 bonus. 
-• If you’ve visited the place frequently, gain a +1 bonus. 
-• If you’ve visited the place infrequently, gain no modifier. 
-• If you’ve only been there once, gain a −2 penalty.
-On a success, you appear where you were intending to go. 
-On a failure, you appear off course, with the range of failure 
-determining how far off course.
-BANISH
-Level 6 Codex Spell
-Recall Cost: 0
-Make a Spellcast Roll against a target within Close range. On 
-a success, roll a number of d20s equal to your Spellcast trait. 
-The target must make a reaction roll with a Difficulty equal 
-to your highest result. On a success, the target must mark a 
-Stress but isn’t banished. Once per rest on a failure, they are 
-banished from this realm. 
-When the PCs roll with Fear, the Difficulty gains a −1 penalty 
-and the target makes another reaction roll. On a success, they 
-return from banishment.
-SIGIL OF RETRIBUTION
-Level 6 Codex Spell
-Recall Cost: 2
-Mark an adversary within Close range with a sigil of 
-retribution. The GM gains a Fear. When the marked adversary 
-deals damage to you or your allies, place a d8 on this card. 
-You can hold a number of d8s equal to your level. When you 
-successfully attack the marked adversary, roll the dice on this 
-card and add the total to your damage roll, then clear the dice. 
-This effect ends when the marked adversary is defeated or you 
-cast Sigil of Retribution again.
-BOOK OF HOMET
-Level 7 Codex Grimoire
-Recall Cost: 0
-Pass Through: Make a Spellcast Roll (13). Once per rest on a 
-success, you and all creatures touching you can pass through a 
-wall or door within Close range. The effect ends once everyone 
-is on the other side.
-Plane Gate: Make a Spellcast Roll (14). Once per long rest on 
-a success, open a gateway to a location in another dimension 
-or plane of existence you’ve been to before. This gateway lasts 
-until your next rest.
-CODEX‑TOUCHED
-Level 7 Codex Ability
-Recall Cost: 2
-When 4 or more of the domain cards in your loadout are from 
-the Codex domain, gain the following benefits:
-• You can mark a Stress to add your Proficiency to a 
-Spellcast Roll.
-• Once per rest, replace this card with any card from your 
-vault without paying its Recall Cost.
-BOOK OF VYOLA
-Level 8 Codex Grimoire
-Recall Cost: 2
-Memory Delve: Make a Spellcast Roll against a target within 
-Far range. On a success, peer into the target’s mind and ask 
-the GM a question. The GM describes any memories the target 
-has pertaining to the answer.
-Shared Clarity: Once per long rest, spend a Hope to choose 
-two willing creatures. When one of them would mark Stress, 
-they can choose between the two of them who marks it. This 
-spell lasts until their next rest.
-SAFE HAVEN
-Level 8 Codex Spell
-Recall Cost: 3
-When you have a few minutes of calm to focus, you can spend 
-2 Hope to summon your Safe Haven, a large interdimensional 
-home where you and your allies can take shelter. When you do, 
-a magical door appears somewhere within Close range. Only 
-creatures of your choice can enter. Once inside, you can make 
-the entrance invisible. You and anyone else inside can always 
-exit. Once you leave, the doorway must be summoned again.
-When you take a rest within your own Safe Haven, you can 
-choose an additional downtime move.
-BOOK OF RONIN
-Level 9 Codex Grimoire
-Recall Cost: 4
-Transform: Make a Spellcast Roll (15). On a success, 
-transform into an inanimate object no larger than twice 
-your normal size. You can remain in this shape until you take 
-damage.
-Eternal Enervation: Once per long rest, make a Spellcast Roll 
-against a target within Close range. On a success, they become 
-permanently Vulnerable. They can’t clear this condition by any 
-means.
-DISINTEGRATION WAVE
-Level 9 Codex Spell
-Recall Cost: 4
-Make a Spellcast Roll (18). Once per long rest on a success, 
-the GM tells you which adversaries within Far range have a 
-Difficulty of 18 or lower. Mark a Stress for each one you wish 
-to hit with this spell. They are killed and can’t come back to life 
-by any means.
-BOOK OF YARROW
-Level 10 Codex Grimoire
-Recall Cost: 2
-Timejammer: Make a Spellcast Roll (18). On a success, time 
-temporarily slows to a halt for everyone within Far range 
-except for you. It resumes the next time you make an action 
-roll that targets another creature.
-Magic Immunity: Spend 5 Hope to become immune to magic 
-damage until your next rest.
-TRANSCENDENT UNION
-Level 10 Codex Spell
-Recall Cost: 1
-Once per long rest, spend 5 Hope to cast this spell on two or 
-more willing creatures. Until your next rest, when a creature 
-connected by this union would mark Stress or Hit Points, the 
-connected creatures can choose who marks it.
+**Erinnerungskosten:** 2
+
+**Wilde Flamme:** Mache einen **Zauberwirken-Wurf** gegen bis zu drei Antagonisten in Nahkampfreichweite.
+Ziele, gegen die du erfolgreich bist, erleiden **2W6** magischen Schaden und müssen einen Stress markieren, während Flammen aus deiner Hand ausbrechen.
+
+**Magische Hand:** Du beschwörst eine magische Hand mit derselben Größe und Stärke wie deine eigene in Weiter Reichweite.
+
+**Geheimnisvoller Nebel:** Mache einen **Zauberwirken-Wurf (13)**, um einen vorübergehenden dichten Nebel zu wirken, der sich in einem stationären Bereich um dich herum sammelt und die Sehr Naher Reichweite füllt.
+Der Nebel verdeckt diesen Bereich und alles darin stark.
+
+## Buch von Sitil
+**Stufe 2 Kodex Grimoire**
+
+**Erinnerungskosten:** 2
+
+**Aussehen anpassen:** Du veränderst magisch dein Aussehen und deine Kleidung, um Wiedererkennung zu vermeiden.
+
+**Parallela:** **Gib 2 Hoffnung aus**, um diesen Zauber auf dich selbst oder einen Verbündeten in Naher Reichweite zu wirken.
+Das nächste Mal, wenn das Ziel einen Angriff macht, kann es ein zusätzliches Ziel in Reichweite treffen, gegen das sein Angriffswurf erfolgreich wäre.
+Du kannst diesen Zauber nur auf einer Kreatur gleichzeitig halten.
+
+**Illusion:** Mache einen **Zauberwirken-Wurf (14)**.
+Bei einem Erfolg erschaffe eine vorübergehende visuelle Illusion, nicht größer als du, in Naher Reichweite, die so lange anhält, wie du sie anblickst.
+Sie hält einer Untersuchung stand, bis ein Beobachter in Nahkampfreichweite ist.
+
+## Buch von Vagras
+**Stufe 2 Kodex Grimoire**
+
+**Erinnerungskosten:** 2
+
+**Runenschloss:** Mache einen **Zauberwirken-Wurf (15)** auf einen Gegenstand, den du berührst und der sich schließen lässt (wie ein Schloss, eine Truhe oder eine Kiste).
+Einmal pro Rast bei einem Erfolg kannst du den Gegenstand so verschließen, dass er nur von Kreaturen deiner Wahl geöffnet werden kann.
+Jemand mit Zugang zu Magie und einer Stunde Zeit, um den Zauber zu studieren, kann ihn brechen.
+
+**Arkane Tür:** Wenn du keine Antagonisten in Nahkampfreichweite hast, mache einen **Zauberwirken-Wurf (13)**.
+Bei einem Erfolg **gib eine Hoffnung aus**, um ein Portal von deiner Position zu einem Punkt in Weiter Reichweite zu erschaffen, den du sehen kannst.
+Es schließt sich, sobald eine Kreatur hindurchgegangen ist.
+
+**Enthüllen:** Mache einen **Zauberwirken-Wurf**.
+Wenn etwas magisch in Naher Reichweite verborgen ist, wird es enthüllt.
+
+## Buch von Korvax
+**Stufe 3 Kodex Grimoire**
+
+**Erinnerungskosten:** 2
+
+**Levitation:** Mache einen **Zauberwirken-Wurf**, um ein Ziel, das du sehen kannst, vorübergehend in die Luft zu heben und es in Naher Reichweite zu seiner ursprünglichen Position zu bewegen.
+
+**Widerrufen:** **Gib eine Hoffnung aus**, um ein Ziel in Nahkampfreichweite zu zwingen, einen Reaktionswurf (15) zu machen.
+Bei einem Fehlschlag vergisst es die letzte Minute eures Gesprächs.
+
+**Runenkreis:** **Markiere einen Stress**, um einen vorübergehenden magischen Kreis auf dem Boden zu erschaffen, auf dem du stehst.
+Alle Antagonisten in Nahkampfreichweite oder die in Nahkampfreichweite eintreten, erleiden **2W12+4** magischen Schaden und werden auf Sehr Nahe Reichweite zurückgeschleudert.
+
+## Buch von Norai
+**Stufe 3 Kodex Grimoire**
+
+**Erinnerungskosten:** 2
+
+**Mystische Fessel:** Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Weiter Reichweite.
+Bei einem Erfolg ist es vorübergehend *Festgehalten* und muss einen Stress markieren.
+Wenn du eine fliegende Kreatur anvisierst, zwingt dieser Zauber die Kreatur zum Landen und *hält* sie vorübergehend *Fest*.
+
+**Feuerball:** Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Sehr Weiter Reichweite.
+Bei einem Erfolg schleuderst du eine Feuerkugel auf sie zu, die beim Aufprall explodiert.
+Das Ziel und alle Kreaturen in Sehr Naher Reichweite zu ihm müssen einen Reaktionswurf (13) machen.
+Ziele, die scheitern, erleiden **W20+5** magischen Schaden mit deiner Kompetenz.
+Ziele, die erfolgreich sind, erleiden halben Schaden.
+
+## Buch von Exota
+**Stufe 4 Kodex Grimoire**
+
+**Erinnerungskosten:** 3
+
+**Zurückweisen:** Du kannst einen stattfindenden magischen Effekt unterbrechen.
+Mache einen Reaktionswurf mit deiner Zauberwirken-Eigenschaft.
+Einmal pro Rast bei einem Erfolg stoppt der Effekt und alle Konsequenzen werden vermieden.
+
+**Konstrukt erschaffen:** **Gib eine Hoffnung aus**, um eine Gruppe von Gegenständen um dich herum zu wählen und aus ihnen ein belebtes Konstrukt zu erschaffen, das einfachen Befehlen gehorcht.
+Mache einen Zauberwirken-Wurf, um es zu kommandieren, eine Aktion auszuführen.
+Bei Bedarf teilt es deinen Ausweichen Wert und deine Eigenschaften und seine Angriffe verursachen **2W10+3** physischen Schaden.
+Du kannst nur ein Konstrukt gleichzeitig aufrechterhalten, und sie fallen auseinander, wenn sie irgendeinen Schaden erleiden.
+
+## Buch von Grynn
+**Stufe 4 Kodex Grimoire**
+
+**Erinnerungskosten:** 2
+
+**Arkane Ablenkung:** Einmal pro langer Rast **gib eine Hoffnung aus**, um den Schaden eines Angriffs gegen dich oder einen Verbündeten in Sehr Naher Reichweite zu negieren.
+
+**Zeitschloss:** Visiere einen Gegenstand in Weiter Reichweite an.
+Dieser Gegenstand stoppt in Zeit und Raum genau dort, wo er ist, bis zu deiner nächsten Rast.
+Wenn eine Kreatur versucht, ihn zu bewegen, mache einen Zauberwirken-Wurf gegen sie, um diesen Zauber aufrechtzuerhalten.
+
+**Flammenwand:** Mache einen **Zauberwirken-Wurf (15)**.
+Bei einem Erfolg erschaffe eine vorübergehende Wand magischer Flammen zwischen zwei Punkten in Weiter Reichweite.
+Alle Kreaturen in ihrem Pfad müssen wählen, auf welcher Seite sie sein wollen, und alles, was anschließend durch die Wand geht, erleidet **4W10+3** magischen Schaden.
+
+## Wand manifestieren
+**Stufe 5 Kodex Zauber**
+
+**Erinnerungskosten:** 2
+
+Mache einen **Zauberwirken-Wurf (15)**.
+Einmal pro Rast bei einem Erfolg **gib eine Hoffnung aus**, um eine vorübergehende magische Wand zwischen zwei Punkten in Weiter Reichweite zu erschaffen.
+Sie kann bis zu 15 Meter hoch sein und in jedem Winkel geformt werden.
+Kreaturen oder Gegenstände in ihrem Pfad werden auf eine Seite deiner Wahl geschoben.
+Die Wand bleibt bis zu deiner nächsten Rast stehen oder bis du Wand manifestieren erneut wirkst.
+
+## Teleportieren
+**Stufe 5 Kodex Zauber**
+
+**Erinnerungskosten:** 2
+
+Einmal pro langer Rast kannst du dich selbst und eine beliebige Anzahl williger Ziele in Naher Reichweite sofort zu einem Ort teleportieren, an dem du zuvor warst.
+Wähle eine der folgenden Optionen und mache dann einen **Zauberwirken-Wurf (16)**:
+
+- Wenn du den Ort sehr gut kennst, erhalte einen +3 Bonus.
+
+- Wenn du den Ort häufig besucht hast, erhalte einen +1 Bonus.
+
+- Wenn du den Ort selten besucht hast, erhalte keinen Modifikator.
+
+- Wenn du nur einmal dort warst, erhalte einen -2 Malus.
+
+Bei einem Erfolg erscheinst du dort, wo du hinwolltest.
+Bei einem Fehlschlag erscheinst du abseits des Kurses, wobei die Schwere des Fehlschlags bestimmt, wie weit abseits des Kurses.
+
+## Verbannen
+**Stufe 6 Kodex Zauber**
+
+**Erinnerungskosten:** 0
+
+Mache einen Zauberwirken-Wurf gegen ein Ziel in Naher Reichweite.
+Bei einem Erfolg würfle eine Anzahl **W20** entsprechend deiner Zauberwirken-Eigenschaft.
+Das Ziel muss einen Reaktionswurf mit einem Schwierigkeitsgrad entsprechend deinem höchsten Ergebnis machen.
+Bei einem Erfolg muss das Ziel einen Stress markieren, wird aber nicht verbannt.
+Einmal pro Rast bei einem Fehlschlag wird es aus dieser Sphäre verbannt.
+Wenn die SCs mit Angst würfeln, erhält der Schwierigkeitsgrad einen -1 Malus und das Ziel macht einen weiteren Reaktionswurf.
+Bei einem Erfolg kehrt es aus der Verbannung zurück.
+
+## Vergeltungssiegel
+**Stufe 6 Kodex Zauber**
+
+**Erinnerungskosten:** 2
+
+Markiere einen Antagonisten in Naher Reichweite mit einem Vergeltungssiegel.
+Die SL erhält eine Angst.
+Wenn der markierte Antagonist dir oder deinen Verbündeten Schaden zufügt, platziere einen W8 auf diese Karte.
+Du kannst eine Anzahl **W8** entsprechend deiner Stufe halten.
+Wenn du den markierten Antagonisten erfolgreich angreifst, würfle die Würfel auf dieser Karte und addiere die Gesamtsumme zu deinem Schadenswurf, dann entferne die Würfel.
+Dieser Effekt endet, wenn der markierte Antagonist besiegt wird oder du Vergeltungssiegel erneut wirkst.
+
+## Buch von Homet
+**Stufe 7 Kodex Grimoire**
+
+**Erinnerungskosten:** 0
+
+**Hindurchgehen:** Mache einen **Zauberwirken-Wurf (13)**.
+Einmal pro Rast bei einem Erfolg können du und alle Kreaturen, die dich berühren, durch eine Wand oder Tür in Naher Reichweite gehen.
+Der Effekt endet, sobald alle auf der anderen Seite sind.
+
+**Sphärentor:** Mache einen **Zauberwirken-Wurf (14)**.
+Einmal pro langer Rast bei einem Erfolg öffne ein Tor zu einem Ort in einer anderen Dimension oder Existenzsphäre, in der du zuvor warst.
+Dieses Tor hält bis zu deiner nächsten Rast an.
+
+## Kodex-Berührung
+**Stufe 7 Kodex Fähigkeit**
+
+**Erinnerungskosten:** 2
+
+Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Kodex-Domäne stammen, erhältst du die folgenden Vorteile:
+
+- Du kannst einen Stress markieren, um deine Kompetenz zu einem Zauberwirken-Wurf hinzuzufügen.
+
+- Einmal pro Rast ersetze diese Karte durch eine beliebige Karte aus deinem Schließfach, ohne ihre Erinnerungskosten zu bezahlen.
+
+## Buch von Vyola
+**Stufe 8 Kodex Grimoire**
+
+**Erinnerungskosten:** 2
+
+**Gedächtnisforschung:** Mache einen Zauberwirken-Wurf gegen ein Ziel in Weiter Reichweite.
+Bei einem Erfolg blicke in den Geist des Ziels und stelle der SL eine Frage.
+Die SL beschreibt alle Erinnerungen, die das Ziel bezüglich der Antwort hat.
+
+**Geteilte Klarheit:** Einmal pro langer Rast **gib eine Hoffnung aus**, um zwei willige Kreaturen zu wählen.
+Wenn eine von ihnen Stress markieren würde, können sie zwischen den beiden wählen, wer ihn markiert.
+Dieser Zauber hält bis zu ihrer nächsten Rast an.
+
+## Sicherer Hafen
+**Stufe 8 Kodex Zauber**
+
+**Erinnerungskosten:** 3
+
+Wenn du einige Minuten Ruhe hast, um dich zu konzentrieren, kannst du **2 Hoffnung ausgeben**, um deinen Sicheren Hafen zu beschwören, ein großes interdimensionales Zuhause, in dem du und deine Verbündeten Zuflucht suchen können.
+Wenn du das tust, erscheint eine magische Tür irgendwo in Naher Reichweite.
+Nur Kreaturen deiner Wahl können eintreten.
+Einmal drinnen, kannst du den Eingang unsichtbar machen.
+Du und alle anderen drinnen können jederzeit hinausgehen.
+Sobald du gehst, muss die Tür erneut beschworen werden.
+Wenn du eine Rast in deinem eigenen Sicheren Hafen einlegst, kannst du eine zusätzliche Auszeit-Aktivität wählen.
+
+## Buch von Ronin
+**Stufe 9 Kodex Grimoire**
+
+**Erinnerungskosten:** 4
+
+**Verwandlung:** Mache einen **Zauberwirken-Wurf (15)**.
+Bei einem Erfolg verwandle dich in einen leblosen Gegenstand, nicht größer als doppelt deine normale Größe.
+Du kannst in dieser Form bleiben, bis du Schaden erleidest.
+
+**Ewige Entkräftung:** Einmal pro langer Rast mache einen Zauberwirken-Wurf gegen ein Ziel in Naher Reichweite.
+Bei einem Erfolg wird es permanent *verwundbar*.
+Es kann diesen Zustand mit keinen Mitteln beenden.
+
+## Desintegrationswelle
+**Stufe 9 Kodex Zauber**
+
+**Erinnerungskosten:** 4
+
+Mache einen **Zauberwirken-Wurf (18)**.
+Einmal pro langer Rast bei einem Erfolg sagt dir die SL, welche Antagonisten in Weiter Reichweite einen Schwierigkeitsgrad von 18 oder niedriger haben.
+**Markiere einen Stress** für jeden, den du mit diesem Zauber treffen möchtest.
+Sie werden getötet und können mit keinen Mitteln wieder zum Leben erweckt werden.
+
+## Buch von Yarrow
+**Stufe 10 Kodex Grimoire**
+
+**Erinnerungskosten:** 2
+
+**Zeitstörer:** Mache einen **Zauberwirken-Wurf (18)**.
+Bei einem Erfolg hält die Zeit vorübergehend für alle in Weiter Reichweite außer dir an.
+Sie setzt sich fort, wenn du das nächste Mal einen Aktionswurf machst, der eine andere Kreatur anvisiert.
+
+**Magieimmunität:** **Gib 5 Hoffnung aus**, um bis zu deiner nächsten Rast immun gegen magischen Schaden zu werden.
+
+## Transzendente Vereinigung
+**Stufe 10 Kodex Zauber**
+
+**Erinnerungskosten:** 1
+
+Einmal pro langer Rast **gib 5 Hoffnung aus**, um diesen Zauber auf zwei oder mehr willige Kreaturen zu wirken.
+Bis zu deiner nächsten Rast, wenn eine durch diese Vereinigung verbundene Kreatur Stress oder Trefferpunkte markieren würde, können die verbundenen Kreaturen wählen, wer sie markiert.
