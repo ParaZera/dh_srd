@@ -244,17 +244,18 @@ Zum Beispiel kannst du Bäume sofort wachsen lassen, einen Pfad durch dichte Ran
 Bevor du einen Aktionswurf machst, musst du **eine Hoffnung ausgeben**.
 Wenn du das nicht kannst, kehrst du zu deiner normalen Form zurück.
 
-TEMPEST
-Level 10 Sage Spell
-Recall Cost: 2
-Choose one of the following tempests and make a Spellcast 
-Roll against all targets within Far range. Targets you succeed 
-against experience its effects until the GM spends a Fear on 
-their turn to end this spell.
-• Blizzard: Deal 2d20+8 magic damage and targets are 
-temporararily Vulnerable.
-• Hurricane: Deal 3d10+10 magic damage and choose a 
-direction the wind is blowing. Targets can’t move against 
-the wind.
-• Sandstorm: Deal 5d6+9 magic damage. Attacks made 
-from beyond Melee range have disadvantage.
+## Sturm
+**Stufe 10 Weise Zauber**
+
+**Erinnerungskosten:** 2
+
+Wähle eines der folgenden Unwetter und mache einen **Zauberwirken-Wurf** gegen alle Ziele in Weiter Reichweite.
+Ziele, gegen die du erfolgreich bist, erfahren seine Auswirkungen, bis die SL in ihrem Zug eine Angst ausgibt, um diesen Zauber zu beenden.
+
+- **Schneesturm:** Verursache **2W20+8** magischen Schaden und Ziele sind vorübergehend *verwundbar*.
+
+- **Orkan:** Verursache **3W10+10** magischen Schaden und wähle eine Richtung, in die der Wind weht.
+Ziele können sich nicht gegen den Wind bewegen.
+
+- **Sandsturm:** Verursache **5W6+9** magischen Schaden.
+Angriffe aus jenseits der Nahkampfreichweite haben einen Nachteil.
