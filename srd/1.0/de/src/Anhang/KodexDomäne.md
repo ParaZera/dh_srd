@@ -136,9 +136,9 @@ Alle Kreaturen in ihrem Pfad müssen wählen, auf welcher Seite sie sein wollen,
 
 Mache einen **Zauberwirken-Wurf (15)**.
 Einmal pro Rast bei einem Erfolg **gib eine Hoffnung aus**, um eine vorübergehende magische Wand zwischen zwei Punkten in Weiter Reichweite zu erschaffen.
-Sie kann bis zu 15 Meter hoch sein und in jedem Winkel geformt werden.
+Sie kann bis zu 15 Meter hoch sein und eine beliebige Ausrichtung im Raum haben.
 Kreaturen oder Gegenstände in ihrem Pfad werden auf eine Seite deiner Wahl geschoben.
-Die Wand bleibt bis zu deiner nächsten Rast stehen oder bis du Wand manifestieren erneut wirkst.
+Die Wand bleibt bis zu deiner nächsten Rast stehen oder bis du *Wand manifestieren* erneut wirkst.
 
 ## Teleportieren
 **Stufe 5 Kodex Zauber**
@@ -157,7 +157,7 @@ Wähle eine der folgenden Optionen und mache dann einen **Zauberwirken-Wurf (16)
 - Wenn du nur einmal dort warst, erhalte einen -2 Malus.
 
 Bei einem Erfolg erscheinst du dort, wo du hinwolltest.
-Bei einem Fehlschlag erscheinst du abseits des Kurses, wobei die Schwere des Fehlschlags bestimmt, wie weit abseits des Kurses.
+Bei einem Fehlschlag erscheinst du abseits deines Zieles, wobei die Schwere des Fehlschlags die Entfernung bestimmt.
 
 ## Verbannen
 **Stufe 6 Kodex Zauber**
@@ -168,8 +168,9 @@ Mache einen Zauberwirken-Wurf gegen ein Ziel in Naher Reichweite.
 Bei einem Erfolg würfle eine Anzahl **W20** entsprechend deiner Zauberwirken-Eigenschaft.
 Das Ziel muss einen Reaktionswurf mit einem Schwierigkeitsgrad entsprechend deinem höchsten Ergebnis machen.
 Bei einem Erfolg muss das Ziel einen Stress markieren, wird aber nicht verbannt.
-Einmal pro Rast bei einem Fehlschlag wird es aus dieser Sphäre verbannt.
-Wenn die SCs mit Angst würfeln, erhält der Schwierigkeitsgrad einen -1 Malus und das Ziel macht einen weiteren Reaktionswurf.
+Einmal pro Rast und bei einem Fehlschlag wird das Ziel aus dieser Sphäre verbannt.
+
+Wenn der SC mit Angst würfelt, verringert sich der Schwierigkeitsgrad um 1 und das Ziel macht einen weiteren Reaktionswurf.
 Bei einem Erfolg kehrt es aus der Verbannung zurück.
 
 ## Vergeltungssiegel
@@ -182,7 +183,7 @@ Die SL erhält eine Angst.
 Wenn der markierte Antagonist dir oder deinen Verbündeten Schaden zufügt, platziere einen W8 auf diese Karte.
 Du kannst eine Anzahl **W8** entsprechend deiner Stufe halten.
 Wenn du den markierten Antagonisten erfolgreich angreifst, würfle die Würfel auf dieser Karte und addiere die Gesamtsumme zu deinem Schadenswurf, dann entferne die Würfel.
-Dieser Effekt endet, wenn der markierte Antagonist besiegt wird oder du Vergeltungssiegel erneut wirkst.
+Dieser Effekt endet, wenn der markierte Antagonist besiegt wird oder du das *Vergeltungssiegel* erneut wirkst.
 
 ## Buch von Homet
 **Stufe 7 Kodex Grimoire**
@@ -190,11 +191,11 @@ Dieser Effekt endet, wenn der markierte Antagonist besiegt wird oder du Vergeltu
 **Erinnerungskosten:** 0
 
 **Hindurchgehen:** Mache einen **Zauberwirken-Wurf (13)**.
-Einmal pro Rast bei einem Erfolg können du und alle Kreaturen, die dich berühren, durch eine Wand oder Tür in Naher Reichweite gehen.
+Einmal pro Rast und bei einem Erfolg können du und alle Kreaturen, die dich berühren, durch eine Wand oder Tür in Naher Reichweite gehen.
 Der Effekt endet, sobald alle auf der anderen Seite sind.
 
 **Sphärentor:** Mache einen **Zauberwirken-Wurf (14)**.
-Einmal pro langer Rast bei einem Erfolg öffne ein Tor zu einem Ort in einer anderen Dimension oder Existenzsphäre, in der du zuvor warst.
+Einmal pro langer Rast unb bei einem Erfolg öffne ein Tor zu einem Ort in einer anderen Dimension oder Existenzsphäre, in der du zuvor warst.
 Dieses Tor hält bis zu deiner nächsten Rast an.
 
 ## Kodex-Berührung
@@ -213,7 +214,7 @@ Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Kodex-Domäne 
 
 **Erinnerungskosten:** 2
 
-**Gedächtnisforschung:** Mache einen Zauberwirken-Wurf gegen ein Ziel in Weiter Reichweite.
+**In Erinnerungen Eintauchen:** Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Weiter Reichweite.
 Bei einem Erfolg blicke in den Geist des Ziels und stelle der SL eine Frage.
 Die SL beschreibt alle Erinnerungen, die das Ziel bezüglich der Antwort hat.
 
@@ -240,7 +241,7 @@ Wenn du eine Rast in deinem eigenen Sicheren Hafen einlegst, kannst du eine zus�
 **Erinnerungskosten:** 4
 
 **Verwandlung:** Mache einen **Zauberwirken-Wurf (15)**.
-Bei einem Erfolg verwandle dich in einen leblosen Gegenstand, nicht größer als doppelt deine normale Größe.
+Bei einem Erfolg verwandle dich in einen leblosen Gegenstand, nicht größer als das Doppelte deiner normalen Größe.
 Du kannst in dieser Form bleiben, bis du Schaden erleidest.
 
 **Ewige Entkräftung:** Einmal pro langer Rast mache einen Zauberwirken-Wurf gegen ein Ziel in Naher Reichweite.
