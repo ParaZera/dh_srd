@@ -7,13 +7,13 @@
 
 Wenn du dich entscheidest, keine Rüstung anzulegen, hast du einen Grundrüstungswert von 3 + deiner Stärke und verwendest die folgenden als deine Grundschadensschwellen:
 
-- Niveau 1: 9/19
+- **Niveau 1**: 9/19
 
-- Niveau 2: 11/24
+- **Niveau 2**: 11/24
 
-- Niveau 3: 13/31
+- **Niveau 3**: 13/31
 
-- Niveau 4: 15/38
+- **Niveau 4**: 15/38
 
 ## Kraftvoller Stoß
 **Stufe 1 Tapferkeit Fähigkeit**
@@ -33,123 +33,148 @@ Zusätzlich kannst du **eine Hoffnung ausgeben**, um es vorübergehend *verwundb
 Wenn ein Verbündeter in Sehr Naher Reichweite Schaden erleiden würde, kannst du **einen Stress markieren**, um dich in den Weg zu stellen und dich selbst zum Ziel des Angriffs zu machen.
 Wenn du durch diesen Angriff Schaden erleidest, kannst du eine beliebige Anzahl von Rüstungsfeldern markieren.
 
-BODY BASHER
-Level 2 Valor Ability
-Recall Cost: 1
-You use the full force of your body in a fight. On a successful 
-attack using a weapon with a Melee range, gain a bonus to 
-your damage roll equal to your Strength.
-BOLD PRESENCE
-Level 2 Valor Ability
-Recall Cost: 0
-When you make a Presence Roll, you can spend a Hope to add 
-your Strength to the roll.
-Additionally, once per rest when you would gain a condition, 
-you can describe how your bold presence aids you in the 
-situation and avoid gaining the condition.
-CRITICAL INSPIRATION
-Level 3 Valor Ability
-Recall Cost: 1
-Once per rest, when you critically succeed on an attack, all 
-allies within Very Close range can clear a Stress or gain a Hope.
-LEAN ON ME
-Level 3 Valor Ability
-Recall Cost: 1
-Once per long rest, when you console or inspire an ally who 
-failed an action roll, you can both clear 2 Stress.
-GOAD THEM ON
-Level 4 Valor Ability
-Recall Cost: 1
-Describe how you taunt a target within Close range, then make 
-a Presence Roll against them. On a success, the target must 
-mark a Stress, and the next time the GM spotlights them, 
-they must target you with an attack, which they make with 
-disadvantage.
-SUPPORT TANK
-Level 4 Valor Ability
-Recall Cost: 2
-When an ally within Close range fails a roll, you can spend 2 
-Hope to allow them to reroll either their Hope or  
-Fear Die.
-ARMORER
-Level 5 Valor Ability
-Recall Cost: 1
-While you’re wearing armor, gain a +1 bonus to your Armor 
-Score.
-During a rest, when you choose to repair your armor as a 
-downtime move, your allies also clear an Armor Slot.
-ROUSING STRIKE
-Level 5 Valor Ability
-Recall Cost: 1
-Once per rest, when you critically succeed on an attack, you 
-and all allies who can see or hear you can clear a Hit Point or 
-1d4 Stress.
-INEVITABLE
-Level 6 Valor Ability
-Recall Cost: 1
-When you fail an action roll, your next action roll has 
-advantage.
-RISE UP
-Level 6 Valor Ability
-Recall Cost: 2
-Gain a bonus to your Severe threshold equal to your 
-Proficiency.
-When you mark 1 or more Hit Points from an attack, clear a 
-Stress.
-SHRUG IT OFF
-Level 7 Valor Ability
-Recall Cost: 1
-When you would take damage, you can mark a Stress to 
-reduce the severity of the damage by one threshold. When you 
-do, roll a d6. On a result of 3 or lower, place this card in your 
-vault.
-VALOR‑TOUCHED
-Level 7 Valor Ability
-Recall Cost: 1
-When 4 or more of the domain cards in your loadout are from 
-the Valor domain, gain the following benefits:
-• +1 bonus to your Armor Score
-• When you mark 1 or more Hit Points without marking an 
-Armor Slot, clear an Armor Slot.
+## Körperschänder
+**Stufe 2 Tapferkeit Fähigkeit**
 
-FULL SURGE
-Level 8 Valor Ability
-Recall Cost: 1
-Once per long rest, mark 3 Stress to push your body to its 
-limits. Gain a +2 bonus to all of your character traits until your 
-next rest. 
-GROUND POUND
-Level 8 Valor Ability
-Recall Cost: 2
-Spend 2 Hope to strike the ground where you stand and make 
-a Strength Roll against all targets within Very Close range. 
-Targets you succeed against are thrown back to Far range and 
-must make a Reaction Roll (17). Targets who fail take 4d10+8 
-damage. Targets who succeed take half damage.
-HOLD THE LINE
-Level 9 Valor Ability
-Recall Cost: 1
-Describe the defensive stance you take and spend a Hope. If 
-an adversary moves within Very Close range, they’re pulled 
-into Melee range and Restrained.
-This condition lasts until you move or fail a roll with Fear, or 
-the GM spends 2 Fear on their turn to clear it.
-LEAD BY EXAMPLE
-Level 9 Valor Ability
-Recall Cost: 3
-When you deal damage to an adversary, you can mark a Stress 
-and describe how you encourage your allies. The next PC to 
-make an attack against that adversary can clear a Stress or 
-gain a Hope.
-UNBREAKABLE
-Level 10 Valor Ability
-Recall Cost: 4
-When you mark your last Hit Point, instead of making a death 
-move, you can roll a d6 and clear a number of Hit Points equal 
-to the result. Then place this card in your vault.
-UNYIELDING ARMOR
-Level 10 Valor Ability
-Recall Cost: 1
-When you would mark an Armor Slot, roll a number of d6s 
-equal to your Proficiency. If any roll a 6, reduce the severity by 
-one threshold without marking an Armor Slot.
+**Erinnerungskosten:** 1
+
+Du nutzt die volle Kraft deines Körpers in einem Kampf.
+Bei einem erfolgreichen Angriff mit einer Waffe mit Nahkampfreichweite erhalte einen Bonus auf deinen Schadenswurf entsprechend deiner Stärke.
+
+## Kühne Präsenz
+**Stufe 2 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 0
+
+Wenn du einen Präsenz-Wurf machst, kannst du **eine Hoffnung ausgeben**, um deine Stärke zum Wurf hinzuzufügen.
+Zusätzlich, einmal pro Rast, wenn du einen Zustand erhalten würdest, kannst du beschreiben, wie deine kühne Präsenz dir in der Situation hilft zu vermeiden den Zustand zu erhalten.
+
+## Kritische Inspiration
+**Stufe 3 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Einmal pro Rast, wenn du bei einem Angriff kritisch erfolgreich bist, können alle Verbündeten in Sehr Naher Reichweite einen Stress entfernen oder eine Hoffnung erhalten.
+
+## Stütz dich an mir ab
+**Stufe 3 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Einmal pro langer Rast, wenn du einen Verbündeten tröstest oder inspirierst, der bei einem Aktionswurf gescheitert ist, könnt ihr beide 2 Stress entfernen.
+
+## Anstacheln
+**Stufe 4 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Beschreibe, wie du ein Ziel in Naher Reichweite verspottest, dann mache einen **Präsenz-Wurf** gegen es.
+Bei einem Erfolg muss das Ziel einen Stress markieren, und das nächste Mal, wenn die SL es ins Rampenlicht stellt, muss es dich mit einem Angriff anvisieren, den es mit einem Nachteil macht.
+
+## Gepanzerter Unterstützer
+**Stufe 4 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 2
+
+Wenn ein Verbündeter in Naher Reichweite bei einem Wurf scheitert, kannst du **2 Hoffnung ausgeben**, um ihm zu erlauben, entweder seinen Hoffnungs- oder Angst-Würfel erneut zu würfeln.
+
+## Rüstungsschmied
+**Stufe 5 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Während du Rüstung trägst, erhalte einen +1 Bonus auf deinen Rüstungswert.
+Während einer Rast, wenn du wählst, deine Rüstung als Auszeit-Aktivität zu reparieren, entfernen deine Verbündeten auch ein Rüstungsfeld.
+
+## Mitreißender Schlag
+**Stufe 5 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Einmal pro Rast, wenn du bei einem Angriff kritisch erfolgreich bist, können du und alle Verbündeten, die dich sehen oder hören können, einen Trefferpunkt heilen oder **1W4** Stress entfernen.
+
+## Unvermeidlich
+**Stufe 6 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Wenn du bei einem Aktionswurf scheiterst, hat dein nächster Aktionswurf einen Vorteil.
+
+## Erhebe dich
+**Stufe 6 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 2
+
+Erhalte einen Bonus auf deine verheerende Schadensschwelle entsprechend deiner Kompetenz.
+Wenn du 1 oder mehr Trefferpunkte durch einen Angriff markierst, entferne einen Stress.
+
+## Schüttle sie ab
+**Stufe 7 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Wenn du Schaden erleiden würdest, kannst du **einen Stress markieren**, um die Schwere des Schadens um eine Schwelle zu reduzieren.
+Wenn du das tust, würfle einen **W6**.
+Bei einem Ergebnis von 3 oder niedriger lege diese Karte in dein Schließfach.
+
+## Tapferkeit-Berührung
+**Stufe 7 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Tapferkeit-Domäne stammen, erhältst du die folgenden Vorteile:
+
+- +1 Bonus auf deinen Rüstungswert
+
+- Wenn du 1 oder mehr Trefferpunkte markierst, ohne ein Rüstungsfeld zu markieren, entferne eine Markierung auf einem Rüstungsfeld.
+
+## Voller Schub
+**Stufe 8 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Einmal pro langer Rast **markiere 3 Stress**, um deinen Körper an seine Grenzen zu bringen.
+Erhalte einen +2 Bonus auf alle deine Charaktereigenschaften bis zu deiner nächsten Rast.
+
+## Erschütterungsschlag
+**Stufe 8 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 2
+
+**Gib 2 Hoffnung aus**, um den Boden auf dem du stehst mit einem Schlag zu erschüttern, und mache einen **Stärke-Wurf** gegen alle Ziele in Sehr Naher Reichweite.
+Ziele, gegen die du erfolgreich bist, werden auf Weite Reichweite zurückgeschleudert und müssen einen **Reaktionswurf (17)** machen.
+Ziele, die scheitern, erleiden **4W10+8** Schaden.
+Ziele, die erfolgreich sind, erleiden halben Schaden.
+
+## Stellung halten
+**Stufe 9 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Beschreibe die Verteidigungshaltung, die du einnimmst, und **gib eine Hoffnung aus**.
+Wenn sich ein Antagonist in Sehr Nahe Reichweite bewegt, wird er in Nahkampfreichweite gezogen und *Festgehalten*.
+Dieser Zustand hält an, bis du dich bewegst oder bei einem Wurf mit Angst scheiterst, oder die SL in ihrem Zug 2 Angst ausgibt, um ihn zu beenden.
+
+## Mit gutem Beispiel vorangehen
+**Stufe 9 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 3
+
+Wenn du einem Antagonisten Schaden zufügst, kannst du **einen Stress markieren** und beschreiben, wie du deine Verbündeten ermutigst.
+Der nächste SC, der einen Angriff gegen diesen Antagonisten macht, kann einen Stress entfernen oder eine Hoffnung erhalten.
+
+## Unzerbrechlich
+**Stufe 10 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 4
+
+Wenn du deinen letzten Trefferpunkt markierst, kannst du anstatt einen Todeswurf zu machen einen **W6** würfeln und eine Anzahl von Trefferpunkten entsprechend dem Ergebnis entfernen.
+Lege dann diese Karte in dein Schließfach.
+
+## Unnachgiebige Rüstung
+**Stufe 10 Tapferkeit Fähigkeit**
+
+**Erinnerungskosten:** 1
+
+Wenn du ein Rüstungsfeld markieren würdest, würfle eine Anzahl **W6** entsprechend deiner Kompetenz.
+Wenn einer eine 6 würfelt, reduziere die Schwere um eine Schwelle, ohne ein Rüstungsfeld zu markieren.
