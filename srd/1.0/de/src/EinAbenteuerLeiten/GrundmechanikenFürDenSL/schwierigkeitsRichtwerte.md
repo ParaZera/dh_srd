@@ -27,7 +27,7 @@ Siehe die folgende Richtwert-Tabelle für weitere Anleitung:
 | **25** | Ein Pferd, einen Ochsen oder ein großes Monster heben. | Durch die Zähne eines Drachens brechen. | Ein großes Tier bezwingen. |
 | **30** | Ein fallendes Fallgitter heben. | Den Griff eines Gottes brechen. | Ein legendäres Tier bezwingen. |
 
-## Finesse
+## Geschick
 
 | SW | Kontrolle | Verstecken | Basteln |
 |----|-----------|------------|---------|

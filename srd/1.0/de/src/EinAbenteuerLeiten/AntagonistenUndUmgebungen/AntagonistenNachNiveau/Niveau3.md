@@ -131,7 +131,7 @@ Eine launische Kreatur mit dürren Gliedmaßen und unstillbaren Begierden.
 
 **Rivalität - Reaktion:** Wenn eine Kreatur in Naher Reichweite Schaden von einem anderen Antagonisten erleidet, kannst du einen Stress markieren, um einen W4 zum Schadenswurf hinzuzufügen.
 
-**Was eures ist, ist meins - Reaktion:** Wenn ein SC verheerenden Schaden in Sehr Naher Reichweite zum Dämon erleidet, kannst du eine Angstmarke ausgeben, um das Ziel einen Finesse-Reaktionswurf machen zu lassen.
+**Was eures ist, ist meins - Reaktion:** Wenn ein SC verheerenden Schaden in Sehr Naher Reichweite zum Dämon erleidet, kannst du eine Angstmarke ausgeben, um das Ziel einen Geschick-Reaktionswurf machen zu lassen.
 Bei einem Fehlschlag ergreift der Dämon einen Gegenstand oder Verbrauchsgegenstand seiner Wahl aus dem Inventar des Ziels.
 
 ## Dämon des Zorns

@@ -42,9 +42,9 @@ Du machst einen Agilitätswurf, um an einem Seil hochzuklettern, in Deckung zu s
 Eine hohe Stärke bedeutet, dass du besser in Kraftakten bist, die deine körperliche Macht und Ausdauer testen.
 Du machst einen Stärkewurf, um eine Tür aufzubrechen, schwere Gegenstände zu heben oder gegen einen angreifenden Feind stand zu halten.
 
-- **Finesse** (Verwende es zum Kontrollieren, Verstecken, Basteln, usw.)
-Eine hohe Finesse bedeutet, dass du geschickt in Aufgaben bist, die Genauigkeit, Heimlichkeit oder höchste Kontrolle erfordern.
-Du machst einen Finessewurf, um feine Werkzeuge zu verwenden, unbemerkt zu bleiben oder mit Präzision zu treffen.
+- **Geschick** (Verwende es zum Kontrollieren, Verstecken, Basteln, usw.)
+Ein hohes Geschick bedeutet, dass du geschickt in Aufgaben bist, die Genauigkeit, Heimlichkeit oder höchste Kontrolle erfordern.
+Du machst einen Geschickwurf, um feine Werkzeuge zu verwenden, unbemerkt zu bleiben oder mit Präzision zu treffen.
 
 - **Instinkt** (Verwende ihn zum Wahrnehmen, Spüren, Navigieren, usw.)
 Ein hoher Instinkt bedeutet, dass du einen scharfen Sinn für deine Umgebung und eine natürliche Intuition hast.
@@ -85,10 +85,10 @@ Wähle deine **Waffe(n)**:
 - Wähle aus den Stufe-1-Waffentabellen.
 Entweder **eine zweihändige Primärwaffe** oder **eine einhändige Primärwaffe und eine einhändige Sekundärwaffe**.
 Rüste deine ausgewählten Waffen aus, indem du sie als **Aktive-Waffe** in deinem Charakterbogen notierst.
-- Auf Stufe 1 ist deine **Kompetenz** 1; schreibe diese Zahl in das Kompetenz-Feld auf deinem Charakterbogen und berechne und notiere dann deinen **Schadenswurf**, indem du deinen Kompetenzswert mit den Schadenswürfeln deiner ausgerüsteten Waffe(n) kombinierst.
+- Auf Stufe 1 ist deine **Übung** 1; schreibe diese Zahl in das Übung-Feld auf deinem Charakterbogen und berechne und notiere dann deinen **Schadenswurf**, indem du deinen Übungswert mit den Schadenswürfeln deiner ausgerüsteten Waffe(n) kombinierst.
 
-    *Beispiel: Wenn deine Kompetenz 1 ist und die Schadenswürfel deiner Waffe W6+1 sind, ist dein Schadenswurf 1W6+1.*
-    *Kompetenz bestimmt nur, wie viele Schadenswürfel du würfelst, und beeinflusst keine festen Schadensmodifikatoren.*
+    *Beispiel: Wenn deine Übung 1 ist und die Schadenswürfel deiner Waffe W6+1 sind, ist dein Schadenswurf 1W6+1.*
+    *Übung bestimmt nur, wie viele Schadenswürfel du würfelst, und beeinflusst keine festen Schadensmodifikatoren.*
 
 Wähle und rüste ein **Rüstungsset** aus der Stufe-1-Rüstungstabelle aus. Notiere dann dessen Details als **Aktive-Rüstung** deines Charakterbogens.
 - Addiere die Stufe des Charakters zu den **Basisschwellen** der ausgerüsteten Rüstung und notiere die Gesamtsumme für beide Zahlen in den entsprechenden Feldern.

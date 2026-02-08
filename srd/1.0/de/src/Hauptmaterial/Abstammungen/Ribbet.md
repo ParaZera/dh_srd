@@ -12,4 +12,4 @@ Ribbets leben etwa 100 Jahre.
 **Amphibisch:** Du kannst unter Wasser atmen und dich natürlich bewegen.
 
 **Lange Zunge:** Du kannst deine lange Zunge verwenden, um Dinge in Naher Reichweite zu greifen.
-Markiere einen Stress, um deine Zunge als Finesse-Nahwaffe zu verwenden, die W12 physischen Schaden mit deiner Kompetenz verursacht.
+Markiere einen Stress, um deine Zunge als Geschick-Nahwaffe zu verwenden, die W12 physischen Schaden mit deiner Übung verursacht.

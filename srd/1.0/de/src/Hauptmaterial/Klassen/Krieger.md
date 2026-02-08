@@ -55,7 +55,7 @@ Spiele den Ruf der Schlächter, wenn du Antagonisten mit immenser Kraft niedersc
 ### Grundlagenfähigkeit
 **Schlächter:** Du erhältst einen Pool von Würfeln namens Schlächter-Würfel.
 Bei einem Wurf mit Hoffnung kannst du einen W6 auf diese Karte legen, anstatt 1 Hoffnung zu erhalten, und den Würfel zum Pool hinzufügen.
-Du kannst eine Anzahl Schlächter-Würfel entsprechend deiner Kompetenz lagern.
+Du kannst eine Anzahl Schlächter-Würfel entsprechend deiner Übung lagern.
 Wenn du einen Angriffs- oder Schadenswurf machst, kannst du eine beliebige Anzahl dieser Schlächter-Würfel ausgeben, sie würfeln und ihr Ergebnis zum Wurf addieren.
 Am Ende jeder Spielrunde entferne alle nicht ausgegebenen Schlächter-Würfel auf dieser Karte und erhalte 1 Hoffnung pro entferntem Würfel.
 

@@ -57,7 +57,7 @@ Wenn du Schaden verursachst, kannst du **einen Stress markieren**, um das maxima
 **Erinnerungskosten:** 2
 
 Einmal pro Rast kannst du deinen ganzen Fokus auf ein Ziel deiner Wahl richten.
-Bis du eine andere Kreatur angreifst, das Ziel besiegst oder der Kampf endet, erhältst du einen +1 Bonus auf deine Kompetenz.
+Bis du eine andere Kreatur angreifst, das Ziel besiegst oder der Kampf endet, erhältst du einen +1 Bonus auf deine Übung.
 
 ## Verstärkte Rüstung
 **Stufe 4 Klinge Fähigkeit**
@@ -127,7 +127,7 @@ Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Klinge-Domäne
 
 **Erinnerungskosten:** 1
 
-Wenn du bei einem Angriff scheiterst, kannst du **einen Stress markieren**, um Waffenschaden mit der Hälfte deiner Kompetenz zu verursachen.
+Wenn du bei einem Angriff scheiterst, kannst du **einen Stress markieren**, um Waffenschaden mit der Hälfte deiner Übung zu verursachen.
 
 ## Schlachtruf
 **Stufe 8 Klinge Fähigkeit**

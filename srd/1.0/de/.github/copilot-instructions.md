@@ -20,11 +20,11 @@
     - "Trait" -> "Eigenschaft"
     - "Agility" -> "Agilität"
     - "Strength" -> "Stärke"
-    - "Finesse" -> "Finesse"
+    - "Finesse" -> "Geschick"
     - "Instinct" -> "Instinkt"
     - "presence" -> "Präsenz"
     - "Knowledge" -> "Wissen"
-    - "proficiency" -> "Kompetenz"
+    - "proficiency" -> "Übung"
     - "Core Rulebook" -> "Hauptregelwerk"
     - "Core Material" -> "Hauptmaterial"
     - "realm" -> "Sphäre

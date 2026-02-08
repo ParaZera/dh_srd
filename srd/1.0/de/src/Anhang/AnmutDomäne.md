@@ -50,7 +50,7 @@ Das Ziel ist normalerweise nicht bewusst, dass dieser Zauber auf ihm liegt, bis 
 **Erinnerungskosten:** 2
 
 Wenn du ein Ziel in Weiter Reichweite verspottest oder provozierst, mache einen **Präsenz-Wurf** gegen es.
-Einmal pro Rast bei einem Erfolg würfle eine Anzahl **W4** entsprechend deiner Kompetenz.
+Einmal pro Rast bei einem Erfolg würfle eine Anzahl **W4** entsprechend deiner Übung.
 Das Ziel muss Stress entsprechend dem höchsten gewürfelten Ergebnis markieren.
 
 ## Hypnotisches Schimmern

@@ -31,7 +31,7 @@ Warum wird der Hain jetzt nicht mehr genutzt?
 
 **Stachlige Ranken - Aktion:** Wähle einen Punkt innerhalb des Hains.
 Alle Ziele in Sehr Naher Reichweite zu diesem Punkt müssen bei einem Agilität-Reaktionswurf erfolgreich sein oder erleiden **1W8+3** physischen Schaden und werden von stachigen Ranken *Festgehalten*.
-Die Ziele sind solange *Festgehalten*, bis sie mit einem erfolgreichen Finesse- oder Stärke-Wurf befreit werden oder indem mindestens 6 Schaden an den Ranken verursacht wird.
+Die Ziele sind solange *Festgehalten*, bis sie mit einem erfolgreichen Geschick- oder Stärke-Wurf befreit werden oder indem mindestens 6 Schaden an den Ranken verursacht wird.
 
 *Wie viele Ranken gibt es?*
 *Wo packen sie dich?*

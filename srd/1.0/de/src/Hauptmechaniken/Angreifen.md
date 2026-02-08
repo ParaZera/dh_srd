@@ -3,7 +3,7 @@
 ## Angriffswürfe
 Ein **Angriffswurf** ist ein Aktionswurf, der darauf abzielt, Schaden zuzufügen.
 Die Eigenschaft, die für einen Angriffswurf gilt, wird durch die verwendete Waffe oder den Zauber spezifiziert.
-Unbewaffnete Angriffswürfe verwenden entweder Stärke oder Finesse (Wahl der SL).
+Unbewaffnete Angriffswürfe verwenden entweder Stärke oder Geschick (Wahl der SL).
 Der Schwierigkeitsgrad eines Angriffswurfs ist, sofern nicht anders angegeben, gleich dem Schwierigkeitsgrad des Ziels.
 
 ## Schadenswürfe
@@ -14,11 +14,11 @@ Jedes Mal, wenn ein Effekt verlangt, Schaden mit deiner Zauberwirken-Eigenschaft
 
 > **Hinweis:** Wenn deine Zauberwirken-Eigenschaft +0 oder niedriger ist, würfelst du nichts.
 
-Bei Waffen entspricht die Anzahl der Schadenswürfel, die du würfelst, deiner Kompetenz.
-Beachte, dass deine Kompetenz die Anzahl der Würfel multipliziert, die du würfelst, aber den Modifikator nicht beeinflusst.
-*Zum Beispiel verursacht ein SC mit Kompetenz 2, der eine Waffe mit einem Schadenswert von "W8+2" führt, bei einem erfolgreichen Angriff Schaden entsprechend "2W8+2".*
+Bei Waffen entspricht die Anzahl der Schadenswürfel, die du würfelst, deiner Übung.
+Beachte, dass deine Übung die Anzahl der Würfel multipliziert, die du würfelst, aber den Modifikator nicht beeinflusst.
+*Zum Beispiel verursacht ein SC mit Übung 2, der eine Waffe mit einem Schadenswert von "W8+2" führt, bei einem erfolgreichen Angriff Schaden entsprechend "2W8+2".*
 
-Erfolgreiche unbewaffnete Angriffe verursachen `[Kompetenz]W4` Schaden.
+Erfolgreiche unbewaffnete Angriffe verursachen `[Übung]W4` Schaden.
 
 ## Kritischer Schaden
 Wenn du einen kritischen Erfolg (d.h. du würfelst übereinstimmende Werte auf deinen Dualitätswürfeln) bei einem Angriffswurf erzielst, verursachst du zusätzlichen Schaden.

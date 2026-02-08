@@ -11,4 +11,4 @@ Mitglieder dieser Abstammung geben das Element ihres Atems über Generationen we
 Wenn du verheerenden Schaden nehmen würdest, kannst du einen Stress markieren, um 1 Trefferpunkt weniger zu markieren.
 
 **Elementarer Atem:** Wähle ein Element für deinen Atem (wie Elektrizität, Feuer oder Eis).
-Du kannst diesen Atem gegen ein Ziel oder eine Gruppe von Zielen in Sehr Naher Reichweite verwenden und ihn als Instinkt-Waffe behandeln, die W8 magischen Schaden mit deiner Kompetenz verursacht.
+Du kannst diesen Atem gegen ein Ziel oder eine Gruppe von Zielen in Sehr Naher Reichweite verwenden und ihn als Instinkt-Waffe behandeln, die W8 magischen Schaden mit deiner Übung verursacht.

@@ -74,7 +74,7 @@ Du hast einen Vorteil bei dem Angriff, fügst einen **W10** zum Schadenswurf hin
 
 **Erinnerungskosten:** 1
 
-Wenn ein Angriff gegen dich von jenseits der Nahkampfreichweite scheitert, würfle eine Anzahl **W6** entsprechend deiner Kompetenz.
+Wenn ein Angriff gegen dich von jenseits der Nahkampfreichweite scheitert, würfle eine Anzahl **W6** entsprechend deiner Übung.
 Wenn einer eine 6 würfelt, kannst du **einen Stress markieren**, um den Angriff umzuleiten und den Schaden stattdessen einem Antagonisten in Sehr Naher Reichweite zuzufügen.
 
 ## Kenne deinen Feind
@@ -135,7 +135,7 @@ Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Knochen-Domän
 
 **Erinnerungskosten:** 1
 
-Wenn du einen erfolgreichen Angriff mit einer Waffe machst, erhalte einen Bonus auf deinen Schadenswurf entsprechend entweder deiner Finesse oder Agilität.
+Wenn du einen erfolgreichen Angriff mit einer Waffe machst, erhalte einen Bonus auf deinen Schadenswurf entsprechend entweder deines Geschick oder Agilität.
 
 ## Brechender Schlag
 **Stufe 8 Knochen Fähigkeit**
@@ -175,7 +175,7 @@ Bevor du nun jedem Ziel den Schaden zufügst, würfle einen zusätzlichen Schade
 
 **Gib 3 Hoffnung aus**, um einen geraden Pfad durch das Schlachtfeld zu einem Punkt in Weiter Reichweite zu laufen und einen Angriff gegen alle Antagonisten in der Reichweite deiner Waffe entlang dieses Pfads zu machen.
 Wähle die Reihenfolge, in der du den Zielen Schaden zufügst, gegen die du erfolgreich warst.
-Für das erste würfle deinen Waffenschaden mit einem +1 Bonus auf deine Kompetenz.
+Für das erste würfle deinen Waffenschaden mit einem +1 Bonus auf deine Übung.
 Dann entferne einen Würfel von deinem Schadenswurf und füge den verbleibenden Schaden dem nächsten Ziel zu.
 Fahre fort, einen Würfel für jedes nachfolgende Ziel zu entfernen, bis du keine Schadenswürfel oder Antagonisten mehr hast.
 Du kannst nicht denselben Antagonisten mehr als einmal pro Angriff anvisieren.

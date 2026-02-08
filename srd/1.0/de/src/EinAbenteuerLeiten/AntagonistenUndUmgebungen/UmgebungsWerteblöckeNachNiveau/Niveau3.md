@@ -30,7 +30,7 @@ Dicke indigoblaue Asche erfüllt die Luft um einen hochragenden, moosbedeckten B
 *Was haben sie bereits mit dem verfluchten Holz und Saft dieses Baumes getan?*
 
 **Greifende Ranken - Aktion:** Belebte Ranken voller Dornen peitschen aus dem Unterholz hervor, um die SCs zu fangen.
-Ein Ziel muss bei einem Agilität-Reaktionswurf erfolgreich sein oder wird *Festgehalten* und *verwundbar*, bis es sich befreit und beide Zustände mit einem erfolgreichen Finesse- oder Stärke-Wurf aufhebt oder indem es 10 Schaden an den Ranken verursacht.
+Ein Ziel muss bei einem Agilität-Reaktionswurf erfolgreich sein oder wird *Festgehalten* und *verwundbar*, bis es sich befreit und beide Zustände mit einem erfolgreichen Geschick- oder Stärke-Wurf aufhebt oder indem es 10 Schaden an den Ranken verursacht.
 Wenn das Ziel einen Wurf zum Entkommen macht, erleidet es **1W8+4** physischen Schaden und verliert eine Hoffnung.
 
 *Welche schmerzhaften Erinnerungen bringen die Ranken an die Oberfläche, während sie das Fleisch durchbohren?*

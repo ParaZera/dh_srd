@@ -115,7 +115,7 @@ Die Kiste verwendet den entsprechenden Zug:
 1. Mana-Strahl. Die Kiste feuert einen sengenden Strahl. Mache einen Angriff gegen ein Ziel in Weiter Reichweite. Bei einem Erfolg verursache **2W10+2** magischen Schaden.
 2. Feuerdüsen. Die Kiste schießt in die Luft, rotiert und stößt Flammenstrahlen aus. Mache einen Angriff gegen alle Ziele in Naher Reichweite. Ziele, gegen die die Kiste erfolgreich ist, erleiden **2W8** physischen Schaden.
 3. Zertrampeln. Die Kiste rast erratisch herum. Mache einen Angriff gegen alle SCs in Naher Reichweite. Ziele, gegen die die Kiste erfolgreich ist, erleiden **1W6+5** physischen Schaden und sind *verwundbar* bis zu ihrem nächsten Wurf mit Hoffnung.
-4. Schockgas. Die Kiste sprüht ein silbernes Gas aus, das vor Blitzen sprüht. Alle Ziele in Naher Reichweite müssen bei einem Finesse-Reaktionswurf erfolgreich sein oder 3 Stress markieren.
+4. Schockgas. Die Kiste sprüht ein silbernes Gas aus, das vor Blitzen sprüht. Alle Ziele in Naher Reichweite müssen bei einem Geschick-Reaktionswurf erfolgreich sein oder 3 Stress markieren.
 5. Betäubender Schlag. Die Kiste springt und ihre Seiten klatschen zusammen, was einen kleinen Schallknall erzeugt. Alle Ziele in Sehr Naher Reichweite müssen bei einem Stärke-Reaktionswurf erfolgreich sein oder *verwundbar* werden, bis der Würfel besiegt ist.
 6. Psionisches Summen. Die Kiste gibt einen Schwarm mechanischer Bienen frei, deren Summen den Geist der sterbliche erschüttert. Alle Ziele in Naher Reichweite müssen bei einem Präsenz-Reaktionswurf erfolgreich sein oder **2W4+9** direkten magischen Schaden erleiden.
 
@@ -344,7 +344,7 @@ Ein in Leder gehüllter Krieger mit Peitsche und massivem Bogen.
 
 **Zwei als Eins - Passiv:** Wenn der Bestienmeister ins Rampenlicht gestellt wird, kannst du auch einen Niveau 1 Tiergegner, der sich derzeit unter seiner Kontrolle befindet, ins Rampenlicht stellen.
 
-**Festnagelnder Schlag - Aktion:** Mache einen Standardangriff gegen ein Ziel. Bei einem Erfolg kannst du einen Stress markieren, um sie an einer nahegelegenen Oberfläche festzunageln. Das festgenagelte Ziel ist *Festgehalten*, bis es sich mit einem erfolgreichen Finesse- oder Stärke-Wurf befreit.
+**Festnagelnder Schlag - Aktion:** Mache einen Standardangriff gegen ein Ziel. Bei einem Erfolg kannst du einen Stress markieren, um sie an einer nahegelegenen Oberfläche festzunageln. Das festgenagelte Ziel ist *Festgehalten*, bis es sich mit einem erfolgreichen Geschick- oder Stärke-Wurf befreit.
 
 **Tödlicher Gefährte - Aktion:** Zweimal pro Szene beschwöre einen Bären, einen Schattenwolf oder einen ähnlichen Tiergegner der Stufe 1 unter der Kontrolle des Bestienmeisters. Der Antagonist erscheint in Naher Reichweite und wird sofort ins Rampenlicht gestellt.
 
@@ -498,7 +498,7 @@ Ein listiger Dieb mit akrobatischem Geschick und einem Hang zum Dramatischen.
 
 **Schnelle Hände - Aktion:** Mache einen Angriff gegen ein Ziel in Nahkampfreichweite. Bei einem Erfolg füge **1W8+2** physischen Schaden zu und der Dieb stiehlt einen Gegenstand oder Verbrauchsgegenstand aus dem Inventar des Ziels.
 
-**Fluchtplan - Aktion:** Markiere einen Stress, um eine Falle zu enthüllen, die der Dieb irgendwo auf dem Schlachtfeld platziert hat. Alle Ziele in Sehr Naher Reichweite der Falle müssen einen Agilität-Reaktionswurf (13) bestehen oder werden von ihren Füßen gerissen und kopfüber aufgehängt. Ein Ziel ist *Festgehalten* und *verwundbar*, bis es sich mit einem erfolgreichen Finesse- oder Stärke-Wurf (13) befreit.
+**Fluchtplan - Aktion:** Markiere einen Stress, um eine Falle zu enthüllen, die der Dieb irgendwo auf dem Schlachtfeld platziert hat. Alle Ziele in Sehr Naher Reichweite der Falle müssen einen Agilität-Reaktionswurf (13) bestehen oder werden von ihren Füßen gerissen und kopfüber aufgehängt. Ein Ziel ist *Festgehalten* und *verwundbar*, bis es sich mit einem erfolgreichen Geschick- oder Stärke-Wurf (13) befreit.
 
 ## Händler-Baron
 **Niveau 2 Sozial**

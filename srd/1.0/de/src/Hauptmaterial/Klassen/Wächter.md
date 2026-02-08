@@ -5,7 +5,7 @@ Viele Wächter schließen sich Gruppen von Kämpfern für ein Land oder einer Sa
 Wächter sind dafür bekannt, mit bemerkenswerter Wildheit selbst gegen überwältigende Chancen zu kämpfen und ihre Kohorte über alles andere zu verteidigen.
 Wehe denen, die die Verbündeten eines Wächters verletzen, denn der Wächter wird diese Verletzung mit gleicher Münze heimzahlen.
 
-**Domänen** - Tapferkeit und Klinge
+**Domänen** - Mut und Klinge
 
 **Start-Ausweichen** 9
 
@@ -67,7 +67,7 @@ Spiele den Rächer, wenn du Feinde niederschlagen möchtest, die dir oder deinen
 **Rache:** Wenn ein Antagonist in Nahkampfreichweite bei einem Angriff gegen dich erfolgreich ist, kannst du 2 Stress markieren, um den Angreifer zu zwingen, einen Trefferpunkt zu markieren.
 
 ### Spezialisierung
-**Vergeltung:** Wenn ein Antagonist einem Verbündeten in Nahkampfreichweite Schaden zufügt, erhältst du einen +1 Bonus auf deine Kompetenz für den nächsten erfolgreichen Angriff, den du gegen diesen Antagonisten machst.
+**Vergeltung:** Wenn ein Antagonist einem Verbündeten in Nahkampfreichweite Schaden zufügt, erhältst du einen +1 Bonus auf deine Übung für den nächsten erfolgreichen Angriff, den du gegen diesen Antagonisten machst.
 
 ### Meisterschaft
 **Nemesis:** Gib 2 Hoffnung aus, um einen Antagonisten bis zu deiner nächsten Rast zu priorisieren.

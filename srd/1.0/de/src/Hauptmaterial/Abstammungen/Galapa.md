@@ -7,7 +7,7 @@ Einige ergänzen die Stärke oder das Aussehen ihres Panzers, indem sie Rüstung
 Die meisten Galapa bewegen sich langsam unabhängig von ihrem Alter, und sie können etwa 150 Jahre leben.
 
 ## Abstammungsfähigkeiten
-**Panzer:** Erhalte einen Bonus auf deine Schadensschwellen entsprechend deiner Kompetenz.
+**Panzer:** Erhalte einen Bonus auf deine Schadensschwellen entsprechend deiner Übung.
 
 **Zurückziehen:** Markiere einen Stress, um dich in deinen Panzer zurückzuziehen.
 Während du in deinem Panzer bist, hast du Resistenz gegen physischen Schaden, hast einen Nachteil auf Aktionswürfe und kannst dich nicht bewegen.

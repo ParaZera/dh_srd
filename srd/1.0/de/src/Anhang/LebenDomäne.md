@@ -1,16 +1,16 @@
-# Pracht Domäne
+# Leben Domäne
 
 ## Blitzlicht
-**Stufe 1 Pracht Zauber**
+**Stufe 1 Leben Zauber**
 
 **Erinnerungskosten:** 1
 
 Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Weiter Reichweite.
-Bei einem Erfolg **gib eine Hoffnung aus**, um einen Blitz schimmernden Lichts zu ihm zu senden, der **W8+2** magischen Schaden mit deiner Kompetenz verursacht.
+Bei einem Erfolg **gib eine Hoffnung aus**, um einen Blitz schimmernden Lichts zu ihm zu senden, der **W8+2** magischen Schaden mit deiner Übung verursacht.
 Das Ziel wird vorübergehend *verwundbar* und leuchtet hell, bis dieser Zustand beendet wird.
 
 ## Heilende Berührung
-**Stufe 1 Pracht Zauber**
+**Stufe 1 Leben Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -19,7 +19,7 @@ Wenn du dir ein paar Minuten Zeit nehmen kannst, um dich auf dein Ziel zu konzen
 Einmal pro langer Rast, wenn du diese Heilungszeit damit verbringst, etwas Neues über dein Ziel zu lernen oder etwas über dich selbst preiszugeben, kannst du bei deinem Ziel stattdessen 2 Trefferpunkte heilen oder 2 Stress entfernen.
 
 ## Bestärken
-**Stufe 1 Pracht Fähigkeit**
+**Stufe 1 Leben Fähigkeit**
 
 **Erinnerungskosten:** 0
 
@@ -27,7 +27,7 @@ Einmal pro Rast, nachdem ein Verbündeter einen Aktionswurf versucht hat, aber b
 Wenn du das tust, kann dein Verbündeter seine Würfel erneut würfeln.
 
 ## Letzte Worte
-**Stufe 2 Pracht Zauber**
+**Stufe 2 Leben Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -39,7 +39,7 @@ Die Leiche antwortet wahrheitsgemäß, besitzt aber nur das Wissen, was sich auc
 Bei einem Fehlschlag oder nachdem die Leiche deine Fragen beantwortet hat, verwandelt sich der Körper zu Staub.
 
 ## Heilende Hände
-**Stufe 2 Pracht Zauber**
+**Stufe 2 Leben Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -49,7 +49,7 @@ Bei einem Fehlschlag **markiere einen Stress**, um einen Trefferpunkt oder einen
 Du kannst dasselbe Ziel nicht erneut heilen, bis zu deiner nächsten langen Rast.
 
 ## Zweiter Atem
-**Stufe 3 Pracht Fähigkeit**
+**Stufe 3 Leben Fähigkeit**
 
 **Erinnerungskosten:** 2
 
@@ -57,17 +57,17 @@ Einmal pro Rast, wenn du bei einem Angriff gegen einen Antagonisten erfolgreich 
 Bei einem Erfolg mit Hoffnung entfernst du auch 3 Stress oder heilst einen Trefferpunkt bei einem Verbündeten in Naher Reichweite zu dir.
 
 ## Stimme der Vernunft
-**Stufe 3 Pracht Fähigkeit**
+**Stufe 3 Leben Fähigkeit**
 
 **Erinnerungskosten:** 1
 
 Du sprichst mit unvergleichlicher Macht und Autorität.
 Du hast einen Vorteil bei Aktionswürfen, um gewalttätige Situationen zu deeskalieren oder jemanden zu überzeugen, deiner Führung zu folgen.
 Zusätzlich bist du in Momenten der Bedrängnis gestärkt.
-Wenn alle deine Stress-Plätze markiert sind, erhältst du einen +1 Bonus auf deine Kompetenz für Schadenswürfe.
+Wenn alle deine Stress-Plätze markiert sind, erhältst du einen +1 Bonus auf deine Übung für Schadenswürfe.
 
 ## Wahrsagung
-**Stufe 4 Pracht Zauber**
+**Stufe 4 Leben Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -75,7 +75,7 @@ Einmal pro langer Rast **gib 3 Hoffnung aus**, um mit den Kräften im Jenseits z
 Für einen Moment entfliehst du der Gegenwart und du siehst die Antwort vor dir.
 
 ## Wächster des Lebens
-**Stufe 4 Pracht Zauber**
+**Stufe 4 Leben Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -85,7 +85,7 @@ Wenn dieser Verbündete einen Todeswurf machen würde, heilt er stattdessen eine
 Dieser Effekt endet, wenn das Sigel das Ziel vor einem Todeswurf rettet, du *Wächster des Lebens* auf ein anderes Ziel wirkst oder du eine lange Rast einlegst.
 
 ## Material formen
-**Stufe 5 Pracht Zauber**
+**Stufe 5 Leben Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -95,7 +95,7 @@ Zum Beispiel kannst du ein rudimentäres Werkzeug formen oder eine Tür erschaff
 Du kannst nur das Material in Naher Reichweite zu dem Punkt beeinflussen, den du berühren kannst.
 
 ## Zerschmettern
-**Stufe 5 Pracht Zauber**
+**Stufe 5 Leben Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -104,7 +104,7 @@ Wenn du das nächste Mal erfolgreich mit einer Waffe angreifst, verdopple das Er
 Dieser Angriff verursacht magischen Schaden, unabhängig vom Schadenstyp der Waffe.
 
 ## Wiederherstellung
-**Stufe 6 Pracht Zauber**
+**Stufe 6 Leben Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -114,7 +114,7 @@ Du kannst auch eine Marke von dieser Karte ausgeben, wenn du eine Kreatur berüh
 Wenn du eine lange Rast einlegst, entferne alle nicht ausgegebenen Marken.
 
 ## Schutzzone
-**Stufe 6 Pracht Zauber**
+**Stufe 6 Leben Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -126,25 +126,25 @@ Du erhöhst dann den Wert des Würfels um eins.
 Wenn der Wert des Würfels 6 überschreiten würde, endet dieser Effekt.
 
 ## Heilender Schlag
-**Stufe 7 Pracht Zauber**
+**Stufe 7 Leben Zauber**
 
 **Erinnerungskosten:** 1
 
 Wenn du einem Antagonisten Schaden zufügst, kannst du **2 Hoffnung ausgeben**, um einen Trefferpunkt bei einem Verbündeten in Naher Reichweite zu heilen.
 
-## Pracht-Berührung
-**Stufe 7 Pracht Fähigkeit**
+## Lebens-Berührung
+**Stufe 7 Leben Fähigkeit**
 
 **Erinnerungskosten:** 2
 
-Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Pracht-Domäne stammen, erhältst du die folgenden Vorteile:
+Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Leben-Domäne stammen, erhältst du die folgenden Vorteile:
 
 - +3 Bonus auf deine verheerende Schadensschwelle
 
 - Einmal pro langer Rast, wenn eingehender Schaden dich dazu zwingen würde, eine Anzahl von Trefferpunkten zu markieren, kannst du wählen, stattdessen so viel Stress zu markieren oder so viel Hoffnung auszugeben.
 
 ## Schildaura
-**Stufe 8 Pracht Zauber**
+**Stufe 8 Leben Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -154,7 +154,7 @@ Wenn dieser Zauber bewirkt, dass eine Kreatur, die Schaden erleiden würde, stat
 Du kannst *Schildaura* nur auf einer Kreatur gleichzeitig halten.
 
 ## Betäubendes Sonnenlicht
-**Stufe 8 Pracht Zauber**
+**Stufe 8 Leben Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -165,7 +165,7 @@ Ziele, die scheitern, erleiden **4W20+5** magischen Schaden und sind vorübergeh
 Während sie *Betäubt* sind, können sie keine Reaktionen verwenden und keine anderen Aktionen ausführen, bis sie diesen Zustand beenden.
 
 ## Überwältigende Aura
-**Stufe 9 Pracht Zauber**
+**Stufe 9 Leben Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -174,7 +174,7 @@ Bei einem Erfolg **gib 2 Hoffnung aus**, um deine Präsenz bis zu deiner nächst
 Während dieser Zauber aktiv ist, muss ein Antagonist einen Stress markieren, wenn er dich mit einem Angriff anvisiert.
 
 ## Erlösungsstrahl
-**Stufe 9 Pracht Zauber**
+**Stufe 9 Leben Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -183,7 +183,7 @@ Bei einem Erfolg **markiere eine beliebige Anzahl Stress**, um eine Linie von Ve
 Du kannst Trefferpunkte bei den Zielen entsprechend der Anzahl der markierten Stress entfernen und sie beliebig zwischen ihnen aufteilen.
 
 ## Stärkung
-**Stufe 10 Pracht Zauber**
+**Stufe 10 Leben Zauber**
 
 **Erinnerungskosten:** 3
 
@@ -191,7 +191,7 @@ Wenn du oder ein Verbündeter in Naher Reichweite eine Fähigkeit verwendet hat,
 Wenn einer eine 6 würfelt, kann die Fähigkeit erneut verwendet werden.
 
 ## Wiederauferstehung
-**Stufe 10 Pracht Zauber**
+**Stufe 10 Leben Zauber**
 
 **Erinnerungskosten:** 2
 

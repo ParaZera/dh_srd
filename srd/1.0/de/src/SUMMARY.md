@@ -130,9 +130,9 @@
     - [Kodex Domäne](./Anhang/KodexDomäne.md)
     - [Anmut Domäne](./Anhang/AnmutDomäne.md)
     - [Mitternacht Domäne](./Anhang/MitternachtDomäne.md)
-    - [Weise Domäne](./Anhang/WeiseDomäne.md)
-    - [Pracht Domäne](./Anhang/PrachtDomäne.md)
-    - [Tapferkeit Domäne](./Anhang/TapferkeitDomäne.md)
+    - [Natur Domäne](./Anhang/NaturDomäne.md)
+    - [Leben Domäne](./Anhang/LebenDomäne.md)
+    - [Mut Domäne](./Anhang/MutDomäne.md)
 
 ---
 [Lizenz](./Lizenz.md)

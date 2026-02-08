@@ -17,11 +17,11 @@ Dein Niveau beeinflusst deine Schadensschwellen, Niveau-Errungenschaften und Zug
 ## Schritt Eins: Niveau-Errungenschaften
 Nimm alle anwendbaren Niveau-Errungenschaften:
 
-- Auf Stufe 2 erhältst du eine neue Erfahrung mit +2 und erhöhst permanent deine Kompetenz um 1.
+- Auf Stufe 2 erhältst du eine neue Erfahrung mit +2 und erhöhst permanent deine Übung um 1.
 
-- Auf Stufe 5 erhältst du eine neue Erfahrung mit +2, erhöhst permanent deine Kompetenz um 1 und entfernst alle markierten Eigenschaftsmarkierungen.
+- Auf Stufe 5 erhältst du eine neue Erfahrung mit +2, erhöhst permanent deine Übung um 1 und entfernst alle markierten Eigenschaftsmarkierungen.
 
-- Auf Stufe 8 erhältst du eine neue Erfahrung mit +2, erhöhst permanent deine Kompetenz um 1 und entfernst alle markierten Eigenschaftsmarkierungen.
+- Auf Stufe 8 erhältst du eine neue Erfahrung mit +2, erhöhst permanent deine Übung um 1 und entfernst alle markierten Eigenschaftsmarkierungen.
 
 ## Schritt Zwei: Fortschritte
 Wähle zwei **Fortschritte** mit mindestens einem unmarkierten Platz aus deinem Niveau oder darunter.
@@ -46,7 +46,7 @@ Wenn du mehrklassig bist, kannst du stattdessen eine Karte auf oder unter der H�
 Wenn du nur die Grundlagenkarte hast, nimm eine Spezialisierung; wenn du bereits eine Spezialisierung hast, nimm eine Meisterschaft.
 Dann streiche die Mehrklassen-Option dieses Niveaus durch.
 
-- **Deine Kompetenz erhöhen:** Fülle einen der offenen Kreise im "Kompetenz"-Bereich deines Charakterbogens aus, dann erhöhe die Anzahl der Schadenswürfel deiner Waffe um 1.
+- **Deine Übung erhöhen:** Fülle einen der offenen Kreise im "Übung"-Bereich deines Charakterbogens aus, dann erhöhe die Anzahl der Schadenswürfel deiner Waffe um 1.
 Die schwarze Box um die Plätze dieses Fortschritts zeigt an, dass du zwei Fortschritte ausgeben und beide Stufenaufstieg-Plätze markieren musst, um ihn als Option zu nehmen.
 
 - **Mehrklassig werden:** Wähle eine zusätzliche Klasse, wähle eine ihrer Domänen und erhalte ihre Klassenfähigkeit.

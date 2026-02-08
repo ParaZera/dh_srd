@@ -21,14 +21,14 @@ Anmut ist die Domäne des **Charismas**. Durch verzückende Geschichtenerzählun
 ## Mitternacht
 Mitternacht ist die Domäne der **Schatten und Geheimnisse**. Ob durch clevere Tricks, geschickte Magie oder den Mantel der Nacht, diejenigen, die diese Kräfte kanalisieren, praktizieren die Kunst der Dunkelheit und können ihre verborgene Schätze entdecken. Mitternacht bietet Praktizierenden die Macht, Rätsel zu kontrollieren und zu erschaffen. Auf die Mitternacht-Domäne können die Klassen **Schurke** und **Zauberer** zugreifen.
 
-## Weise
-Weise ist die Domäne der **natürlichen Welt**. Diejenigen, die auf diesem Pfad wandeln, zapfen die ungezügelte Macht der Erde und ihrer Kreaturen an, um rohe Magie zu entfesseln. Weise gewährt seinen Anhängern die Vitalität einer blühenden Blume und die Wildheit eines gefräßigen Raubtiers. Auf die Weise-Domäne können die Klassen **Druide** und **Waldläufer** zugreifen.
+## Natur
+Natur ist die Domäne der **natürlichen Welt**. Diejenigen, die auf diesem Pfad wandeln, zapfen die ungezügelte Macht der Erde und ihrer Kreaturen an, um rohe Magie zu entfesseln. Natur gewährt seinen Anhängern die Vitalität einer blühenden Blume und die Wildheit eines gefräßigen Raubtiers. Auf die Natur-Domäne können die Klassen **Druide** und **Waldläufer** zugreifen.
 
-## Pracht
-Pracht ist die Domäne des **Lebens**. Durch diese Magie erlangen Anhänger die Fähigkeit zu heilen und, bis zu einem gewissen Grad, den Tod zu kontrollieren. Pracht bietet ihren Jüngern die großartige Fähigkeit, sowohl Leben zu geben als auch zu beenden. Auf die Pracht-Domäne können die Klassen **Seraph** und **Magier** zugreifen.
+## Leben
+Leben ist die Domäne des **Lebens**. Durch diese Magie erlangen Anhänger die Fähigkeit zu heilen und, bis zu einem gewissen Grad, den Tod zu kontrollieren. Leben bietet ihren Jüngern die großartige Fähigkeit, sowohl Leben zu geben als auch zu beenden. Auf die Leben-Domäne können die Klassen **Seraph** und **Magier** zugreifen.
 
-## Tapferkeit
-Tapferkeit ist die Domäne des **Schutzes**. Ob durch Angriff oder Verteidigung, diejenigen, die diese Disziplin wählen, kanalisieren beeindruckende Stärke, um ihre Verbündeten im Kampf zu schützen. Tapferkeit bietet große Macht für diejenigen, die ihre Schilde zur Verteidigung anderer erheben. Auf die Tapferkeit-Domäne können die Klassen **Wächter** und **Seraph** zugreifen.
+## Mut
+Mut ist die Domäne des **Schutzes**. Ob durch Angriff oder Verteidigung, diejenigen, die diese Disziplin wählen, kanalisieren beeindruckende Stärke, um ihre Verbündeten im Kampf zu schützen. Mut bietet große Macht für diejenigen, die ihre Schilde zur Verteidigung anderer erheben. Auf die Mut-Domäne können die Klassen **Wächter** und **Seraph** zugreifen.
 
 
 # Klassendomänen
@@ -38,14 +38,14 @@ Jede Klasse gewährt Zugriff auf zwei Domänen:
 | Klasse | Domänen |  |
 |--------|---------|--|
 | **Barde** | Kodex | Anmut |
-| **Druide** | Arkana | Weise |
-| **Wächter** | Klinge | Tapferkeit |
-| **Waldläufer** | Knochen | Weise |
+| **Druide** | Arkana | Natur |
+| **Wächter** | Klinge | Mut |
+| **Waldläufer** | Knochen | Natur |
 | **Schurke** | Anmut | Mitternacht |
-| **Seraph** | Pracht | Tapferkeit |
+| **Seraph** | Leben | Mut |
 | **Zauberer** | Arkana | Mitternacht |
 | **Krieger** | Klinge | Knochen |
-| **Magier** | Kodex | Pracht |
+| **Magier** | Kodex | Leben |
 
 SCs erwerben zwei Domänenkarten der 1. Stufe bei der Charaktererstellung und eine zusätzliche Domänenkarte mit gleicher oder geringeren Stufe jedes Mal, wenn sie eine Stufe aufsteigen.
 

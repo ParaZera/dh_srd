@@ -6,13 +6,13 @@
 **Erinnerungskosten:** 2
 
 **Machtstoß:** Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Nahkampfreichweite.
-Bei einem Erfolg wird es auf Weite Reichweite zurückgeschleudert und erleidet **W10+2** magischen Schaden mit deiner Kompetenz.
+Bei einem Erfolg wird es auf Weite Reichweite zurückgeschleudert und erleidet **W10+2** magischen Schaden mit deiner Übung.
 
 **Tavas Rüstung:** **Gib eine Hoffnung aus**, um einem Ziel, das du berühren kannst, einen +1 Bonus auf seinen Rüstungswert zu geben, bis zu seiner nächsten Rast oder bis du Tavas Rüstung erneut wirkst.
 
 **Eisstachel:** Mache einen **Zauberwirken-Wurf (12)**, um einen großen Eisstachel in Weiter Reichweite zu beschwören.
 Wenn du ihn als Waffe verwendest, mache den Zauberwirken-Wurf stattdessen gegen den Schwierigkeitsgrad des Ziels.
-Bei einem Erfolg verursache **W6** physischen Schaden mit deiner Kompetenz.
+Bei einem Erfolg verursache **W6** physischen Schaden mit deiner Übung.
 
 ## Buch von Illiat
 **Stufe 1 Kodex Grimoire**
@@ -97,7 +97,7 @@ Wenn du eine fliegende Kreatur anvisierst, zwingt dieser Zauber die Kreatur zum 
 **Feuerball:** Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Sehr Weiter Reichweite.
 Bei einem Erfolg schleuderst du eine Feuerkugel auf sie zu, die beim Aufprall explodiert.
 Das Ziel und alle Kreaturen in Sehr Naher Reichweite zu ihm müssen einen Reaktionswurf (13) machen.
-Ziele, die scheitern, erleiden **W20+5** magischen Schaden mit deiner Kompetenz.
+Ziele, die scheitern, erleiden **W20+5** magischen Schaden mit deiner Übung.
 Ziele, die erfolgreich sind, erleiden halben Schaden.
 
 ## Buch von Exota
@@ -205,7 +205,7 @@ Dieses Tor hält bis zu deiner nächsten Rast an.
 
 Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Kodex-Domäne stammen, erhältst du die folgenden Vorteile:
 
-- Du kannst einen Stress markieren, um deine Kompetenz zu einem Zauberwirken-Wurf hinzuzufügen.
+- Du kannst einen Stress markieren, um deine Übung zu einem Zauberwirken-Wurf hinzuzufügen.
 
 - Einmal pro Rast ersetze diese Karte durch eine beliebige Karte aus deinem Schließfach, ohne ihre Erinnerungskosten zu bezahlen.
 

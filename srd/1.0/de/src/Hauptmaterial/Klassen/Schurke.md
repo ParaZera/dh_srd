@@ -39,7 +39,7 @@ Wähle entweder die Unterklasse Nachtwandler oder Syndikat.
 Spiele den Nachtwandler, wenn du Schatten manipulieren möchtest, um dich durch die Umgebung zu bewegen.
 
 ### Zauberwirken-Eigenschaft
-Finesse
+Geschick
 
 ### Grundlagenfähigkeit
 **Schattenläufer:** Du kannst dich von Schatten zu Schatten bewegen.
@@ -66,7 +66,7 @@ Du bleibst auf diese Weise verhüllt, bis du mit Angst würfelst oder bis zu dei
 Spiele das Syndikat, wenn du überall, wo du hingehst, ein Netz von Kontakten haben möchtest.
 
 ### Zauberwirken-Eigenschaft
-Finesse
+Geschick
 
 ### Grundlagenfähigkeit
 **Gut Vernetzt:** Wenn du in einer bedeutenden Stadt oder Umgebung ankommst, kennst du jemanden, der diesen Ort sein Zuhause nennt.

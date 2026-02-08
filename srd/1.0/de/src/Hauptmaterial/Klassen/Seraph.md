@@ -5,7 +5,7 @@ Ihr Ethos richtet sich traditionell nach der Domäne oder den Zielen ihres Gotte
 Einige Seraphen verbünden sich mit einer Armee oder einem Ort, sehr zum Gefallen ihrer Herrscher, aber andere Kreuzritter kämpfen im Widerstand gegen die Torheiten der Sterblichen Sphäre.
 Es ist besser, ein Verbündeter eines Seraphen zu sein als sein Feind, da sie erschreckende Gegner für diejenigen sind, die sich ihrem Zweck widersetzen.
 
-**Domänen** Pracht & Tapferkeit
+**Domänen** Leben & Mut
 
 **Start-Ausweichen** 9
 

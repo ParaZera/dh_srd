@@ -322,7 +322,7 @@ Eine gepanzerte Wache mit einem Schwert und Schild, die in den Farben der Siedlu
 Wenn zusätzliche Klingen-Wachen in einer Linie neben der ersten stehen und jede in Nahkampfreichweite zu einer anderen Wache in der Linie ist, erhöht sich der Schwierigkeitsgrad um die Gesamtzahl der Wachen in dieser Linie.
 
 **Festhalten - Aktion:** Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
-Bei einem Erfolg markiere einen Stress, um das Ziel *Festzuhalten*, bis es sich mit einem erfolgreichen Angriff, Finesse-Wurf oder Stärke-Wurf befreit.
+Bei einem Erfolg markiere einen Stress, um das Ziel *Festzuhalten*, bis es sich mit einem erfolgreichen Angriff, Geschick-Wurf oder Stärke-Wurf befreit.
 
 ## Hauptmann der Wache
 **Niveau 1 Anführer**
@@ -681,7 +681,7 @@ Ein beweglicher Haufen durchscheinenden flammenden roten Schleims.
 Er entzündet jedes brennbare Objekt, das er berührt.
 
 **Entzünden - Aktion:** Mache einen Angriff gegen ein Ziel in Sehr Naher Reichweite.
-Bei einem Erfolg erleidet das Ziel **1W8** magischen Schaden und ist Entzündet, bis es mit einem erfolgreichen Finesse-Wurf (14) gelöscht wird.
+Bei einem Erfolg erleidet das Ziel **1W8** magischen Schaden und ist Entzündet, bis es mit einem erfolgreichen Geschick-Wurf (14) gelöscht wird.
 Während es Entzündet ist, erleidet das Ziel **1W4** magischen Schaden, wenn es einen Aktionswurf macht.
 
 **Teilen - Reaktion:** Wenn der Schleim 3 oder mehr TP markiert hat, kannst du eine Angstmarke ausgeben, um ihn in zwei Winzige Rote Schleime zu teilen (ohne markierte TP oder Stress).
@@ -976,8 +976,8 @@ Eine Ansammlung belebter, bluttrinkender Steppenläufer, jeder von der Größe e
 **Belasten - Reaktion:** Wenn der Schwarm bei einem Angriff erfolgreich ist, gib dem Ziel einen Dorngestrüpp-Marker.
 Wenn ein Ziel Dorngestrüpp-Marker hat, ist es *Festgehalten*.
 Wenn ein Ziel 3 oder mehr Dorngestrüpp-Marker hat, ist es auch *verwundbar*.
-Alle Dorngestrüpp-Marker können durch einen erfolgreichen Finesse-Wurf (12 + Anzahl der Dorngestrüpp-Marker) oder durch das Zufügen von schwerem oder größerem Schaden am Schwarm entfernt werden.
-Wenn Dorngestrüpp-Marker durch einen Finesse-Wurf von einem Ziel entfernt werden, erscheinen so viele Dorngestrüpp-Lakaien in Nahkampfreichweite, wie Marker entfernt wurden.
+Alle Dorngestrüpp-Marker können durch einen erfolgreichen Geschick-Wurf (12 + Anzahl der Dorngestrüpp-Marker) oder durch das Zufügen von schwerem oder größerem Schaden am Schwarm entfernt werden.
+Wenn Dorngestrüpp-Marker durch einen Geschick-Wurf von einem Ziel entfernt werden, erscheinen so viele Dorngestrüpp-Lakaien in Nahkampfreichweite, wie Marker entfernt wurden.
 
 ## Dorngestrüpp
 **Niveau 1 Lakai**

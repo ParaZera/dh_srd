@@ -13,7 +13,7 @@ Du hast einen Vorteil bei Aktionswürfen, um nichtmagische Schlösser zu knacken
 **Erinnerungskosten:** 1
 
 **Gib eine Hoffnung aus**, um einen **Zauberwirken-Wurf** zu machen und Wurfklingen zu beschwören, die alle Ziele in Sehr Naher Reichweite treffen.
-Ziele, gegen die du erfolgreich bist, erleiden **W8+2** magischen Schaden mit deiner Kompetenz.
+Ziele, gegen die du erfolgreich bist, erleiden **W8+2** magischen Schaden mit deiner Übung.
 Wenn ein Ziel, das du triffst, *verwundbar* ist, erleidet es zusätzliche **1W8** Schaden.
 
 ## Unheimliche Verkleidung

@@ -4,7 +4,7 @@ Während man einen sanften Druiden unterschätzen könnte, der die oft stille Ar
 Druiden kultivieren ihre Fähigkeiten in kleinen Gruppen, die oft durch eine spezifische Ethik oder einen Ort verbunden sind, aber einige wählen es, alleine zu arbeiten.
 Durch Jahre des Studiums und der Hingabe können Druiden lernen, sich in Bestien zu verwandeln und die Natur selbst zu formen.
 
-**Domänen** Weise & Arkana
+**Domänen** Natur & Arkana
 
 **Start-Ausweichen** 10
 
@@ -41,7 +41,7 @@ Instinkt
 
 - **Feuer:** Wenn ein Antagonist in Nahkampfreichweite dir Schaden zufügt, nimmt er 1W10 magischen Schaden.
 
-- **Erde:** Erhalte einen Bonus auf deine Schadensschwellen gleich deiner Kompetenz.
+- **Erde:** Erhalte einen Bonus auf deine Schadensschwellen gleich deiner Übung.
 
 - **Wasser:** Wenn du einem Antagonisten in Nahkampfreichweite Schaden zufügst, müssen alle anderen Antagonisten in Sehr Naher Reichweite einen Stress markieren.
 
@@ -63,7 +63,7 @@ Die Aura betrifft Ziele in Naher Reichweite, bis **Elementare Inkarnation** ende
 **Elementare Herrschaft:** Du verkörperst dein Element weiter.
 Während **Elementare Inkarnation** aktiv ist erhältst du den folgenden Vorteil:
 
-- **Feuer:** Du erhältst einen +1 Bonus auf deine Kompetenz für Angriffe und Zauber, die Schaden verursachen.
+- **Feuer:** Du erhältst einen +1 Bonus auf deine Übung für Angriffe und Zauber, die Schaden verursachen.
 
 - **Erde:** Wenn du Trefferpunkte markieren würdest, würfle einen **W6** pro markiertem Trefferpunkt.
 Für jedes Ergebnis von 6 reduziere die Anzahl der Trefferpunkte, die du markierst, um 1.
@@ -130,9 +130,9 @@ Diesem Namen folgen einige Beispiele von Tieren, die in diese Kategorie passen (
 Zum Beispiel erhältst du als Flinker Späher einen +1 Bonus auf deine Agilität.
 Wenn diese Form endet, verlierst du diesen Bonus.
 
-- **Angriffswürfe:** Wenn du einen Angriff während der Verwandlung machst, verwendest du die aufgelistete Reichweite, Eigenschaft und Schadenswürfel der Kreatur, aber du verwendest deine Kompetenz.
+- **Angriffswürfe:** Wenn du einen Angriff während der Verwandlung machst, verwendest du die aufgelistete Reichweite, Eigenschaft und Schadenswürfel der Kreatur, aber du verwendest deine Übung.
 Zum Beispiel kannst du als Flinker Späher ein Ziel in Nahkampfreichweite mit deiner Agilität angreifen.
-Bei Erfolg verursachst du W4 körperlichen Schaden mit deiner Kompetenz.
+Bei Erfolg verursachst du W4 körperlichen Schaden mit deiner Übung.
 
 - **Ausweichen:** Während der Verwandlung addierst du den Ausweichen-Bonus der Kreatur zu deinem normalen Ausweichen.
 Zum Beispiel, wenn dein Ausweichen normalerweise 8 ist und deine Bestienform "Ausweichen +2" sagt, wird dein Ausweichen zu 10, während du in dieser Form bist.
@@ -216,9 +216,9 @@ Erhalte einen Vorteil auf: navigieren, schleichen, schwimmen
 ### Lauernde Spinne
 (Vogelspinne, Wolfsspinne, usw.)
 
-Finesse +1 | Ausweichen +2
+Geschick +1 | Ausweichen +2
 
-Nahkampf Finesse W6+1 physisch
+Nahkampf Geschick W6+1 physisch
 
 Erhalte einen Vorteil auf: angreifen, klettern, schleichen
 
@@ -227,7 +227,7 @@ Eine vergiftete Kreatur nimmt **1W10** direkten physischen Schaden jedes Mal, we
 
 **Netzschleuderer:** Du kannst starkes Netzmaterial erschaffen, das sowohl für Abenteuer als auch für den Kampf nützlich ist.
 Das Netz ist widerstandsfähig genug, um eine Kreatur zu tragen.
-Du kannst ein Ziel in Naher Reichweite vorübergehend fesseln, indem du einen erfolgreichen Finessewurf gegen es machst.
+Du kannst ein Ziel in Naher Reichweite vorübergehend fesseln, indem du einen erfolgreichen Geschickwurf gegen es machst.
 
 ## Stufe 2
 
@@ -246,7 +246,7 @@ Während du in deinem Panzer bist, wird physischer Schaden um eine Zahl reduzier
 
 **Kanonenkugel:** **Markiere einen Stress**, um einem Verbündeten zu erlauben, dich auf einen Antagonisten zu werfen oder zu schleudern.
 Dazu macht der Verbündete einen Angriffswurf mit Agilität oder Stärke (nach seiner Wahl) gegen ein Ziel in Naher Reichweite.
-Bei Erfolg nimmt der Antagonist W12+2 physischen Schaden mit der Kompetenz des Werfers.
+Bei Erfolg nimmt der Antagonist W12+2 physischen Schaden mit der Übung des Werfers.
 Du kannst 1 Hoffnung ausgeben, um einen zusätzlichen Antagonisten in Sehr Naher Reichweite des ersten anzuvisieren.
 Das zweite Ziel nimmt die Hälfte des Schadens, der dem ersten Ziel zugefügt wurde.
 
@@ -260,7 +260,7 @@ Nahkampf Stärke W10+4 physisch
 Erhalte einen Vorteil auf: navigieren, schützen, erschrecken
 
 **Raserei:** Wenn du eine 1 auf einem Schadenswürfel würfelst, kannst du einen W10 würfeln und das Ergebnis zum Schadenswurf addieren.
-Zusätzlich kannst du vor einem Angriffswurf einen Stress markieren, um einen +1 Bonus auf deine Kompetenz für diesen Angriff zu erhalten.
+Zusätzlich kannst du vor einem Angriffswurf einen Stress markieren, um einen +1 Bonus auf deine Übung für diesen Angriff zu erhalten.
 
 **Dicke Haut:** Du erhältst einen +2 Bonus auf deine Schadensschwellen.
 
@@ -276,14 +276,14 @@ Erhalte einen Vorteil auf: springen, navigieren, sprinten
 **Träger:** Du kannst bis zu zwei willige Verbündete mit dir tragen, wenn du dich bewegst.
 
 **Niedertrampeln:** Markiere einen Stress, um dich bis zu Naher Reichweite in einer geraden Linie zu bewegen und einen Angriff gegen alle Ziele in Nahkampfreichweite der Linie zu machen.
-Ziele, gegen die du erfolgreich bist, nehmen W8+1 physischen Schaden mit deiner Kompetenz und werden vorübergehend verwundbar.
+Ziele, gegen die du erfolgreich bist, nehmen W8+1 physischen Schaden mit deiner Übung und werden vorübergehend verwundbar.
 
 ### Zuschlagende Schlange
 (Kobra, Klapperschlange, Viper, usw.)
 
-Finesse +1 | Ausweichen +2
+Geschick +1 | Ausweichen +2
 
-Sehr Nah Finesse W8+4 physisch
+Sehr Nah Geschick W8+4 physisch
 
 Erhalte einen Vorteil auf: klettern, täuschen, sprinten
 
@@ -305,14 +305,14 @@ Erhalte einen Vorteil auf: angreifen, klettern, schleichen
 **Schnell:** Gib 1 Hoffnung aus, um dich bis zu Weiter Reichweite zu bewegen, ohne zu würfeln.
 
 **Niederstrecken:** Markiere einen Stress, um dich in Nahkampfreichweite eines Ziels zu bewegen und einen Angriffswurf gegen es zu machen.
-Bei Erfolg erhältst du einen +2 Bonus auf deine Kompetenz für diesen Angriff und das Ziel muss einen Stress markieren.
+Bei Erfolg erhältst du einen +2 Bonus auf deine Übung für diesen Angriff und das Ziel muss einen Stress markieren.
 
 ### Geflügelte Bestie
 (Falke, Eule, Rabe, usw.)
 
-Finesse +1 | Ausweichen +3
+Geschick +1 | Ausweichen +3
 
-Nahkampf Finesse W4+2 physisch
+Nahkampf Geschick W4+2 physisch
 
 Erhalte einen Vorteil auf: täuschen, lokalisieren, erschrecken
 
@@ -335,7 +335,7 @@ Erhalte einen Vorteil auf: angreifen, schleichen, sprinten
 
 **Träger:** Du kannst bis zu zwei willige Verbündete mit dir tragen, wenn du dich bewegst.
 
-**Aggressives Zerfleischen:** Wenn du bei einem Angriff gegen ein Ziel erfolgreich bist, kannst du 1 Hoffnung ausgeben, um es vorübergehend verwundbar zu machen und einen +1 Bonus auf deine Kompetenz für diesen Angriff zu erhalten.
+**Aggressives Zerfleischen:** Wenn du bei einem Angriff gegen ein Ziel erfolgreich bist, kannst du 1 Hoffnung ausgeben, um es vorübergehend verwundbar zu machen und einen +1 Bonus auf deine Übung für diesen Angriff zu erhalten.
 
 ### Mächtige Echse
 (Alligator, Krokodil, Gila-Echse, usw.)
@@ -353,9 +353,9 @@ Erhalte einen Vorteil auf: angreifen, schleichen, verfolgen
 ### Große Geflügelte Bestie
 (Riesenadler, Falke, usw.)
 
-Finesse +2 | Ausweichen +3
+Geschick +2 | Ausweichen +3
 
-Nahkampf Finesse W8+6 physisch
+Nahkampf Geschick W8+6 physisch
 
 Erhalte einen Vorteil auf: täuschen, ablenken, lokalisieren
 
@@ -376,7 +376,7 @@ Erhalte Vorteil auf: angreifen, schwimmen, verfolgen
 
 **Aquatisch:** Du kannst unter Wasser atmen und dich natürlich bewegen.
 
-**Aggressives Zerfleischen:** Wenn du bei einem Angriff gegen ein Ziel erfolgreich bist, kannst du 1 Hoffnung ausgeben, um es verwundbar zu machen und einen +1 Bonus auf deine Kompetenz für diesen Angriff zu erhalten.
+**Aggressives Zerfleischen:** Wenn du bei einem Angriff gegen ein Ziel erfolgreich bist, kannst du 1 Hoffnung ausgeben, um es verwundbar zu machen und einen +1 Bonus auf deine Übung für diesen Angriff zu erhalten.
 
 ### Legendäre Bestie
 (Aufgewertete Stufe-1-Optionen)
@@ -415,7 +415,7 @@ Erhalte einen Vorteil auf: lokalisieren, schützen, erschrecken, sprinten
 **Träger:** Du kannst bis zu vier willige Verbündete mit dir tragen, wenn du dich bewegst.
 
 **Demolieren:** Gib 1 Hoffnung aus, um dich bis zu Weiter Reichweite in einer geraden Linie zu bewegen und einen Angriff gegen alle Ziele in Nahkampfreichweite der Linie zu machen.
-Ziele, gegen die du erfolgreich bist, nehmen W8+10 physischen Schaden mit deiner Kompetenz und werden vorübergehend verwundbar.
+Ziele, gegen die du erfolgreich bist, nehmen W8+10 physischen Schaden mit deiner Übung und werden vorübergehend verwundbar.
 
 **Unerschrocken:** Du erhältst einen +2 Bonus auf alle deine Schadensschwellen.
 
@@ -436,16 +436,16 @@ Du ignorierst schwieriges Gelände (nach Ermessen der SL) aufgrund deiner Größ
 ### Mythischer Luftjäger
 (Drache, Pterodactylus, Roch, Wyvern, usw.)
 
-Finesse +3 | Ausweichen +4
+Geschick +3 | Ausweichen +4
 
-Nahkampf Finesse W10+11 physisch
+Nahkampf Geschick W10+11 physisch
 
 Erhalte einen Vorteil auf: angreifen, täuschen, lokalisieren, navigieren
 
 **Träger:** Du kannst bis zu drei willige Verbündete mit dir tragen, wenn du dich bewegst.
 
 **Tödlicher Raubvogel:** Du kannst nach Belieben fliegen und dich bis zu Weiter Reichweite als Teil deiner Aktion bewegen.
-Wenn du dich in einer geraden Linie aus mindestens Naher Reichweite in Nahkampfreichweite eines Ziels bewegst und in derselben Aktion einen Angriff gegen dieses Ziel machst, kannst du alle Schadenswürfel erneut würfeln, die ein Ergebnis niedriger als deine Kompetenz zeigten.
+Wenn du dich in einer geraden Linie aus mindestens Naher Reichweite in Nahkampfreichweite eines Ziels bewegst und in derselben Aktion einen Angriff gegen dieses Ziel machst, kannst du alle Schadenswürfel erneut würfeln, die ein Ergebnis niedriger als deine Übung zeigten.
 
 ### Epische Wasserbestie
 (Riesenkrake, Wal, usw.)

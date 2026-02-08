@@ -1,7 +1,7 @@
-# Weise Domäne
+# Natur Domäne
 
 ## Begabter Spurenleser
-**Stufe 1 Weise Fähigkeit**
+**Stufe 1 Natur Fähigkeit**
 
 **Erinnerungskosten:** 0
 
@@ -15,10 +15,10 @@ Wenn du eine bestimmte Kreatur oder eine Gruppe von Kreaturen anhand der Spuren 
 
 - Wie viele von ihnen waren hier?
 
-Wenn du Kreaturen begegnest, die du auf diese Weise verfolgt hast, erhalte einen +1 Bonus auf Ausweichen gegen sie.
+Wenn du Kreaturen begegnest, die du auf diese Natur verfolgt hast, erhalte einen +1 Bonus auf Ausweichen gegen sie.
 
 ## Sprache der Natur
-**Stufe 1 Weise Fähigkeit**
+**Stufe 1 Natur Fähigkeit**
 
 **Erinnerungskosten:** 0
 
@@ -29,7 +29,7 @@ Bei einem Wurf mit Angst könnte ihr Wissen begrenzt sein oder einen Preis haben
 Zusätzlich, bevor du einen **Zauberwirken-Wurf** in einer natürlichen Umgebung machst, kannst du **eine Hoffnung ausgeben**, um einen +2 Bonus auf den Wurf zu erhalten.
 
 ## Bösartige Verstrickung
-**Stufe 1 Weise Zauber**
+**Stufe 1 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -38,7 +38,7 @@ Bei einem Erfolg strecken sich Wurzeln und Ranken aus dem Boden und verursachen 
 Zusätzlich bei einem Erfolg kannst du **eine Hoffnung ausgeben**, um einen anderen Antagonisten in Sehr Naher Reichweite zu deinem Ziel vorübergehend *festzuhalten*.
 
 ## Schwarm beschwören
-**Stufe 2 Weise Zauber**
+**Stufe 2 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -50,7 +50,7 @@ Du kannst **eine Hoffnung ausgeben**, um die Käfer nach dem erlittenen Schaden 
 **Gib eine Hoffnung aus**, um **2W8+3** magischen Schaden an Zielen zu verursachen, gegen die du erfolgreich warst.
 
 ## Natürlicher Vertrauter
-**Stufe 2 Weise Zauber**
+**Stufe 2 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -60,18 +60,18 @@ Du kannst mit ihm kommunizieren, einen **Zauberwirken-Wurf** machen, um ihm zu b
 Wenn du einem Antagonisten in Nahkampfreichweite zu deinem Vertrauten Schaden zufügst, addierst du einen **W6** zu deinem Schadenswurf.
 
 ## Ätzendes Geschoss
-**Stufe 3 Weise Zauber**
+**Stufe 3 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
 Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Weiter Reichweite.
-Bei einem Erfolg verursache **W6+4** magischen Schaden mit deiner Kompetenz.
+Bei einem Erfolg verursache **W6+4** magischen Schaden mit deiner Übung.
 Zusätzlich **markiere 2 oder mehr Stress**, um es permanent *Korrodiert* zu machen.
 Während ein Ziel *Korrodiert* ist, erhält es einen -1 Malus auf seinen Schwierigkeitsgrad für je 2 Stress, die du ausgegeben hast.
 Dieser Zustand kann gestapelt stapeln.
 
 ## Ragender Stängel
-**Stufe 3 Weise Zauber**
+**Stufe 3 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -79,10 +79,10 @@ Einmal pro Rast kannst du einen dicken, sich windenden Stängel in Naher Reichwe
 Seine Höhe kann bis zu Weiter Reichweite wachsen.
 **Markiere einen Stress**, um diesen Zauber als Angriff zu verwenden.
 Mache einen **Zauberwirken-Wurf** gegen einen Antagonisten oder eine Gruppe von Antagonisten in Naher Reichweite.
-Der ausbrechende Stängel hebt Ziele, gegen die du erfolgreich bist, in die Luft und lässt sie fallen, wodurch er **W8** physischen Schaden mit deiner Kompetenz verursacht.
+Der ausbrechende Stängel hebt Ziele, gegen die du erfolgreich bist, in die Luft und lässt sie fallen, wodurch er **W8** physischen Schaden mit deiner Übung verursacht.
 
 ## Todesgriff
-**Stufe 4 Weise Zauber**
+**Stufe 4 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -97,7 +97,7 @@ Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Naher Reichweite und wähle 
 Bei einem Erfolg strecken sich Ranken aus deinen Händen, verursachen den gewählten Effekt und *halten* das Ziel vorübergehend *fest*.
 
 ## Heilungsfeld
-**Stufe 4 Weise Zauber**
+**Stufe 4 Natur Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -106,7 +106,7 @@ Einmal pro langer Rast kannst du ein Feld heilender Pflanzen um dich herum besch
 **Gib 2 Hoffnung aus**, um dir und allen Verbündeten zu ermöglichen, stattdessen 2 Trefferpunkte zu heile.
 
 ## Dornenhaut
-**Stufe 5 Weise Zauber**
+**Stufe 5 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -118,7 +118,7 @@ Wenn du in Nahkampfreichweite zum Angreifer bist, schleudere diese Schadensmenge
 Wenn du eine Rast einlegst, entferne alle nicht ausgegebenen Marken.
 
 ## Wilde Festung
-**Stufe 5 Weise Zauber**
+**Stufe 5 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -132,7 +132,7 @@ Platziere Marken auf diese Karte, um das Markieren von Trefferpunkten darzustell
 **Schadensschwellen:** 15/30
 
 ## Beschworene Reittiere
-**Stufe 6 Weise Zauber**
+**Stufe 6 Natur Zauber**
 
 **Erinnerungskosten:** 0
 
@@ -141,7 +141,7 @@ Die Reittiere verdoppeln eure Landgeschwindigkeit beim Reisen und ermöglichen e
 Kreaturen, die ein Reittier reiten, erhalten einen -2 Malus auf Angriffswürfe und einen +2 Bonus auf Schadenswürfe.
 
 ## Sammler
-**Stufe 6 Weise Fähigkeit**
+**Stufe 6 Natur Fähigkeit**
 
 **Erinnerungskosten:** 1
 
@@ -161,12 +161,12 @@ Deine Gruppe kann bis zu fünf gesammelte Verbrauchsgegenstände gleichzeitig tr
 
 6. Wähle eine der obigen Optionen.
 
-## Weise-Berührung
-**Stufe 7 Weise Fähigkeit**
+## Natur-Berührung
+**Stufe 7 Natur Fähigkeit**
 
 **Erinnerungskosten:** 2
 
-Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Weise-Domäne stammen, erhältst du die folgenden Vorteile:
+Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Natur-Domäne stammen, erhältst du die folgenden Vorteile:
 
 - Während du in einer natürlichen Umgebung bist, erhältst du einen +2 Bonus auf deine Zauberwirken-Würfe.
 
@@ -174,7 +174,7 @@ Wenn 4 oder mehr der Domänenkarten in deiner Ausrüstung aus der Weise-Domäne 
 Du musst dich dafür entscheiden, bevor du würfelst.
 
 ## Wilder Schub
-**Stufe 7 Weise Zauber**
+**Stufe 7 Natur Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -185,7 +185,7 @@ Nachdem du seinen Wert zu einem Wurf hinzugefügt hast, erhöhe den Wert des Wil
 Wenn der Wert des Würfels 6 überschreiten würde oder du eine Rast einlegst, fällt diese Form ab und du musst **einen zusätzlichen Stress markieren**.
 
 ## Waldkobolde
-**Stufe 8 Weise Zauber**
+**Stufe 8 Natur Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -199,7 +199,7 @@ Bei einem Erfolg **gib eine beliebige Anzahl Hoffnung aus**, um entsprechend vie
 Ein Kobold verschwindet, nachdem er einen Vorteil gewährt hat oder irgendeinen Schaden erlitten hat.
 
 ## Verjüngungsbarriere
-**Stufe 8 Weise Zauber**
+**Stufe 8 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -210,17 +210,17 @@ Während die Barriere steht, haben du und alle Verbündeten darin Resistenz gege
 Wenn du dich bewegst, folgt dir die Barriere.
 
 ## Schrein der Wildnis
-**Stufe 9 Weise Fähigkeit**
+**Stufe 9 Natur Fähigkeit**
 
 **Erinnerungskosten:** 2
 
-Nach einer langen Rast platziere eine Anzahl von Marken entsprechend der Anzahl der Weise-Domänenkarten in deiner Ausrüstung und deinem Schließfach auf diese Karte.
+Nach einer langen Rast platziere eine Anzahl von Marken entsprechend der Anzahl der Natur-Domänenkarten in deiner Ausrüstung und deinem Schließfach auf diese Karte.
 Wenn du einen **Zauberwirken-Wurf** machen würdest, kannst du nach dem Wurf eine beliebige Anzahl von Marken ausgeben, um einen +1 Bonus für jede ausgegebene Marke zu erhalten.
-Wenn du bei einem **Zauberwirken-Wurf** für einen Weise-Domäne Zauber kritisch erfolgreich bist, erhalte eine Marke.
+Wenn du bei einem **Zauberwirken-Wurf** für einen Natur-Domäne Zauber kritisch erfolgreich bist, erhalte eine Marke.
 Wenn du eine lange Rast einlegst, entferne alle nicht ausgegebenen Marken.
 
 ## Pflanzenherrschaft
-**Stufe 9 Weise Zauber**
+**Stufe 9 Natur Zauber**
 
 **Erinnerungskosten:** 1
 
@@ -229,7 +229,7 @@ Einmal pro langer Rast bei einem Erfolg formst du die natürliche Welt um und ve
 Zum Beispiel kannst du Bäume sofort wachsen lassen, einen Pfad durch dichte Ranken freimachen oder eine Wand aus Wurzeln erschaffen.
 
 ## Naturgewalt
-**Stufe 10 Weise Zauber**
+**Stufe 10 Natur Zauber**
 
 **Erinnerungskosten:** 2
 
@@ -245,7 +245,7 @@ Bevor du einen Aktionswurf machst, musst du **eine Hoffnung ausgeben**.
 Wenn du das nicht kannst, kehrst du zu deiner normalen Form zurück.
 
 ## Sturm
-**Stufe 10 Weise Zauber**
+**Stufe 10 Natur Zauber**
 
 **Erinnerungskosten:** 2
 

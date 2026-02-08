@@ -23,15 +23,15 @@ Um einen zufälligen Gegenstand zu generieren, wähle eine Seltenheit, würfle d
 | 05 | Sprechende Kugeln | Dieses Paar von Kugeln ermöglicht es allen Kreaturen, die sie halten, miteinander über jede Entfernung zu kommunizieren. |
 | 06 | Fesseln | Dieses Paar von Verriegelungsmanschetten kommt mit einem Schlüssel. |
 | 07 | Arkaner Umhang | Eine Kreatur mit einer Zauberwirken-Eigenschaft, die diesen Umhang trägt, kann dessen Farbe, Textur und Größe nach Belieben anpassen. |
-| 08 | Gewobenes Netz | Du kannst einen Finessewurf mit diesem Netz machen, um eine kleine Kreatur zu fangen. Ein gefangenes Ziel kann sich mit einem erfolgreichen Angriffswurf (16) befreien. |
+| 08 | Gewobenes Netz | Du kannst einen Geschickwurf mit diesem Netz machen, um eine kleine Kreatur zu fangen. Ein gefangenes Ziel kann sich mit einem erfolgreichen Angriffswurf (16) befreien. |
 | 09 | Feuerglas | Du kannst den seltsamen flüssigen Inhalt dieses Glases ausgießen, um sofort Feuer zu erzeugen. Der Inhalt regeneriert sich, wenn du eine lange Rast machst. |
 | 10 | Schwebender Stab | Dieser flache Stab ist mit Runen eingraviert. Wenn du den Stab aktivierst, wird er sofort an Ort und Stelle schwebend gehalten. Bis der Stab deaktiviert wird, kann er sich nicht bewegen, folgt nicht den Regeln der Schwerkraft und bleibt an Ort und Stelle. |
 | 11 | Glamour-Stein | Aktiviere diesen kieselsteingroßen Stein, um das Aussehen von jemandem zu merken, den du sehen kannst. Gib eine Hoffnung aus, um diese Gestalt magisch als Illusion auf dich selbst zu übertragen. |
 | 12 | Leere Truhe | Diese magische Truhe erscheint leer. Wenn du ein spezifisches Auslösewort oder eine Aktion sprichst und die Truhe öffnest, kannst du die darin gelagerten Gegenstände sehen. |
 | 13 | Begleiter-Koffer | Dieser Koffer kann einen kleinen Tiergefährten aufnehmen. Während der Gefährte drinnen ist, sind das Tier und der Koffer immun gegen allen Schaden und schädliche Effekte. |
-| 14 | Durchdringende Pfeile | Dreimal pro Rast, wenn du bei einem Angriff mit einem dieser Pfeile erfolgreich bist, kannst du deine Kompetenz zum Schadenswurf hinzufügen. |
+| 14 | Durchdringende Pfeile | Dreimal pro Rast, wenn du bei einem Angriff mit einem dieser Pfeile erfolgreich bist, kannst du deine Übung zum Schadenswurf hinzufügen. |
 | 15 | Tapferkeitsstein | Du kannst diesen Stein an eine Rüstung anhängen, die noch keine Fähigkeit hat. Die Rüstung erhält die folgende Fähigkeit. Widerstandsfähig: Bevor du deinen letzten Rüstungsplatz markierst, würfle einen W6. Bei einem Ergebnis von 6 reduziere den Schweregrad um eine Schwelle, ohne einen Rüstungsplatz zu markieren. |
-| 16 | Skelettschlüssel | Wenn du diesen Schlüssel verwendest, um eine verschlossene Tür zu öffnen, erhältst du Vorteil auf den Finessewurf. |
+| 16 | Skelettschlüssel | Wenn du diesen Schlüssel verwendest, um eine verschlossene Tür zu öffnen, erhältst du Vorteil auf den Geschickwurf. |
 | 17 | Arkanes Prisma | Positioniere dieses Prisma an einem Ort deiner Wahl und aktiviere es. Alle Verbündeten in Naher Reichweite davon erhalten einen +1-Bonus auf ihre Zauberwirken-Würfe. Während es aktiviert ist, kann das Prisma nicht bewegt werden. Sobald das Prisma deaktiviert wird, kann es nicht wieder aktiviert werden bis zu deiner nächsten langen Rast. |
 | 18 | Kleiner Ausdauertrank-Rezept | Als Auszeit-Aktivität kannst du den Knochen einer Kreatur verwenden, um einen Kleinen Ausdauertrank herzustellen. |
 | 19 | Kleiner Heiltrank-Rezept | Als Auszeit-Aktivität kannst du ein Fläschchen Blut verwenden, um einen Kleinen Heiltrank herzustellen. |
@@ -46,7 +46,7 @@ Um einen zufälligen Gegenstand zu generieren, wähle eine Seltenheit, würfle d
 | 28 | Ring der Stille | Gib eine Hoffnung aus, um diesen Ring zu aktivieren. Deine Schritte sind bis zu deiner nächsten Rast lautlos. |
 | 29 | Beruhigender Anhänger | Wenn du deinen letzten Stress markieren würdest, würfle einen W6. Bei einem Ergebnis von 5 oder höher markiere ihn nicht. |
 | 30 | Doppelflasche | Diese Flasche kann zwei verschiedene Flüssigkeiten enthalten. Du kannst zwischen ihnen wechseln, indem du einen kleinen Schalter an der Seite der Flasche umlegst. |
-| 31 | Beutel Wankelsand | Du kannst diesen kleinen Sandbeutel mit einem erfolgreichen Präsenzwurf (10) davon überzeugen, viel schwerer oder leichter zu sein. Zusätzlich kannst du bei einem erfolgreichen Finessewurf (10) etwas Sand in das Gesicht eines Ziels blasen, um es vorübergehend verwundbar zu machen. |
+| 31 | Beutel Wankelsand | Du kannst diesen kleinen Sandbeutel mit einem erfolgreichen Präsenzwurf (10) davon überzeugen, viel schwerer oder leichter zu sein. Zusätzlich kannst du bei einem erfolgreichen Geschickwurf (10) etwas Sand in das Gesicht eines Ziels blasen, um es vorübergehend verwundbar zu machen. |
 | 32 | Ring der Resistenz | Einmal pro langer Rast kannst du diesen Ring nach einem erfolgreichen Angriff gegen dich aktivieren, um den Schaden zu halbieren. |
 | 33 | Phönixfeder | Falls du mindestens eine Phönixfeder bei dir hast, wenn du bewusstlos wirst, erhältst du einen +1-Bonus auf den Wurf, den du machst, um zu bestimmen, ob du eine Narbe erhältst. |
 | 34 | Kiste vieler Güter | Einmal pro langer Rast kannst du diese kleine Kiste öffnen und einen W12 würfeln. Bei einem Ergebnis von 1–6 ist sie leer. Bei einem Ergebnis von 7–10 enthält sie einen zufälligen gewöhnlichen Verbrauchsgegenstand. Bei einem Ergebnis von 11–12 enthält sie zwei zufällige gewöhnliche Verbrauchsgegenstände. |
@@ -58,7 +58,7 @@ Um einen zufälligen Gegenstand zu generieren, wähle eine Seltenheit, würfle d
 | 40 | Unendlicher Beutel | Wenn du Gegenstände in diesem Beutel lagerst, werden sie in einer Taschendimension aufbewahrt, der niemals der Platz ausgeht. Du kannst jederzeit einen Gegenstand abrufen. |
 | 41 | Schritt-Relikt | Du erhältst einen +1-Bonus auf deine Agilität. Du kannst nur ein Relikt tragen. |
 | 42 | Stärkungs-Relikt | Du erhältst einen +1-Bonus auf deine Stärke. Du kannst nur ein Relikt tragen. |
-| 43 | Kontroll-Relikt | Du erhältst einen +1-Bonus auf deine Finesse. Du kannst nur ein Relikt tragen. |
+| 43 | Kontroll-Relikt | Du erhältst einen +1-Bonus auf deine Geschick. Du kannst nur ein Relikt tragen. |
 | 44 | Abstimmungs-Relikt | Du erhältst einen +1-Bonus auf deinen Instinkt. Du kannst nur ein Relikt tragen. |
 | 45 | Charme-Relikt | Du erhältst einen +1-Bonus auf deine Präsenz. Du kannst nur ein Relikt tragen. |
 | 46 | Erleuchtungs-Relikt | Du erhältst einen +1-Bonus auf dein Wissen. Du kannst nur ein Relikt tragen. |
@@ -70,7 +70,7 @@ Um einen zufälligen Gegenstand zu generieren, wähle eine Seltenheit, würfle d
 | 52 | Splitter der Erinnerung | Einmal pro langer Rast kannst du 2 Hoffnung ausgeben, um eine Domänenkarte aus deinem Schließfach abzurufen, anstatt ihre Abrufkosten zu bezahlen. |
 | 53 | Edelstein der Gewandtheit | Du kannst diesen Edelstein an eine Waffe anhängen, wodurch du deine Agilität verwenden kannst, wenn du einen Angriff mit dieser Waffe machst. |
 | 54 | Edelstein der Macht | Du kannst diesen Edelstein an eine Waffe anhängen, wodurch du deine Stärke verwenden kannst, wenn du einen Angriff mit dieser Waffe machst. |
-| 55 | Edelstein der Präzision | Du kannst diesen Edelstein an eine Waffe anhängen, wodurch du deine Finesse verwenden kannst, wenn du einen Angriff mit dieser Waffe machst. |
+| 55 | Edelstein der Präzision | Du kannst diesen Edelstein an eine Waffe anhängen, wodurch du deine Geschick verwenden kannst, wenn du einen Angriff mit dieser Waffe machst. |
 | 56 | Edelstein der Einsicht | Du kannst diesen Edelstein an eine Waffe anhängen, wodurch du deinen Instinkt verwenden kannst, wenn du einen Angriff mit dieser Waffe machst. |
 | 57 | Edelstein der Kühnheit | Du kannst diesen Edelstein an eine Waffe anhängen, wodurch du deine Präsenz verwenden kannst, wenn du einen Angriff mit dieser Waffe machst. |
 | 58 | Edelstein der Klugheit | Du kannst diesen Edelstein an eine Waffe anhängen, wodurch du dein Wissen verwenden kannst, wenn du einen Angriff mit dieser Waffe machst. |

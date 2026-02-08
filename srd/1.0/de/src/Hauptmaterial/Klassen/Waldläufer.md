@@ -4,7 +4,7 @@ Durch Meisterschaft des Körpers und ein tiefes Verständnis der Wildnis werden 
 Viele Waldläufer verfolgen und kämpfen an der Seite eines Tiergefährten, mit dem sie eine mächtige spirituelle Bindung geknüpft haben.
 Durch das Schärfen ihrer Fertigkeiten in der Wildnis werden Waldläufer zu den besten Fährtenlesern, die ihre Feinde ebenso wahrscheinlich in einer Falle fangen wie sie sie frontal angreifen.
 
-**Domänen** - Knochen & Weise
+**Domänen** - Knochen & Natur
 
 **Startausweichen** 12
 
@@ -58,7 +58,7 @@ Spiele den Wegfinder, wenn du deine Beute jagen und mit tödlicher Kraft zuschla
 Agilität
 
 ### Grundlagenfähigkeiten
-**Gnadenloser Räuber:** Wenn du einen Schadenswurf machst, kannst du einen Stress markieren, um einen +1 Bonus auf deine Kompetenz zu erhalten.
+**Gnadenloser Räuber:** Wenn du einen Schadenswurf machst, kannst du einen Stress markieren, um einen +1 Bonus auf deine Übung zu erhalten.
 Zusätzlich, wenn du verheerenden Schaden an einem Antagonisten verursachst, muss er einen Stress markieren.
 
 **Weg nach vorn:** Wenn du zu einem Ort reist, den du bereits besucht hast, oder du einen Gegenstand trägst, der bereits an diesem Ort war, kannst du den kürzesten, direktesten Weg zu deinem Ziel identifizieren.
@@ -130,7 +130,7 @@ Bei Erfolg mit Hoffnung erhältst du Vorteil auf den Wurf, wenn deine nächste A
 
 ## Mit deinem Gefährten angreifen
 Wenn du deinem Gefährten befiehlst anzugreifen, erhält er alle Vorteile, die normalerweise nur für dich gelten würden (wie die Effekte von "Waldläufers Fokus").
-Bei Erfolg verwendet sein Schadenswurf deine Kompetenz und seinen Schadenswürfel.
+Bei Erfolg verwendet sein Schadenswurf deine Übung und seinen Schadenswürfel.
 
 ## Schaden als Stress nehmen
 

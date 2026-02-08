@@ -1,98 +1,114 @@
 # Zauberer
-Ob durch eine Institution oder individuelles Studium, diejenigen, die als Zauberer bekannt sind, erwerben und schärfen immense magische Macht über Jahre des Lernens mit einer Vielzahl von Werkzeugen, einschließlich Büchern, Steinen, Tränken und Kräutern.
-Einige Zauberer widmen ihr Leben der Meisterschaft einer bestimmten Zauberschule, während andere aus einer großen Vielfalt von Disziplinen lernen.
-Viele Zauberer werden weise und mächtige Figuren in ihren Gemeinschaften, beraten Herrscher, stellen Medizin und Heilung zur Verfügung und führen sogar Kriegsräte.
-Während diese Magier alle auf das gemeinsame Ziel hinarbeiten, magisches Wissen zu sammeln, haben Zauberer oft die meisten Konflikte in ihren eigenen Reihen, da der Erwerb, das Bewahren und das Teilen mächtiger Geheimnisse ein Thema intensiver Debatte ist, das zu zahllosen Todesfällen geführt hat.
+Nicht all diejenige, die von Geburt an Magieaffin sind verfeinern ihr Handwerk, aber diejenigen, die es tun, können mächtige Zauberer werden.
+Diese Gabe wird innerhalb von Familien weitergegeben, auch wenn die Familie sich diesem nicht bewusst ist oder zögert, Maige zu praktizieren.
+Die Fähigkeiten eines Zauberers können von elementar bis illusorisch und darüber hinaus reichen, und viele Praktizierende schließen sich zu Kollektiven basierend auf ihren Talenten zusammen.
+Der Akt, ein beeindruckender Zauberer zu werden, ist nicht die Praxis des Erwerbs von Macht, sondern das Lernen, die Macht zu kultivieren und zu kontrollieren, die man bereits besitzt.
+Die Magie eines fehlgeleiteten oder undisziplinierten Zauberers ist wahrlich gefährlich.
 
-**Domänen** Kodex & Pracht
+**Domänen** Arkana & Mitternacht
 
-**Start-Ausweichen** 11
+**Start-Ausweichen** 10
 
-**Start-Trefferpunkte** 5
+**Start-Trefferpunkte** 6
 
-**Klassengegenstände** Ein Buch, das du zu übersetzen versuchst, oder ein winziges, harmloses Elementarhaustier
+**Klassengegenstände** Eine flüsternde Kugel oder ein Familienerbstück
 
 ## Hoffnungsfähigkeit der Zauberer
-**Diesmal nicht:** Gib 3 Hoffnung aus, um einen Antagonisten in Weiter Reichweite zu zwingen, einen Angriffs- oder Schadenswurf zu wiederholen.
+**Unbeständige Magie:** Gib 3 Hoffnung aus, um eine beliebige Anzahl deiner Schadenswürfel bei einem Angriff, der magischen Schaden verursacht, erneut zu würfeln.
 
 ## Klassenfähigkeiten
-**Taschenspielertricks:** Du kannst harmlose, subtile magische Effekte nach Belieben ausführen.
-Zum Beispiel kannst du die Farbe eines Objekts ändern, einen Geruch erzeugen, eine Kerze anzünden, ein winziges Objekt schweben lassen, einen Raum beleuchten oder ein kleines Objekt reparieren.
+**Arkaner Sinn:** Du kannst die Präsenz magischer Personen und Objekte in Naher Reichweite spüren.
 
-**Seltsame Muster:** Wähle eine Zahl zwischen 1 und 12.
-Wenn du diese Zahl auf einem Dualitätswürfel würfelst, erhalte 1 Hoffnung oder heile 1 Stress.
+**Kleine Illusion:** Mache einen Zauberwirken-Wurf (10).
+Bei Erfolg erschaffst du eine kleine visuelle Illusion nicht größer als du selbst in Naher Reichweite.
+Diese Illusion ist überzeugend für jeden in Naher Reichweite oder weiter entfernt.
 
-Du kannst diese Zahl ändern, wenn du dich ausruhst.
+**Rohe Kraft kanalisieren:** Einmal pro langer Rast kannst du eine Domänenkarte aus deiner Ausrüstung in dein Schließfach legen um entweder:
+
+- Hoffnung entsprechend der Stufe der Karte zu erhalten.
+
+- Einen Zauber zu verstärken, der Schaden verursacht, und einen Bonus auf deinen Schadenswurf entsprechend der doppelten der Stufe der Karte zu erhalten.
 
 # Zauberer-Unterklassen
-Wähle entweder die Unterklasse **Schule des Wissens** oder **Schule des Krieges**.
+Wähle entweder die Unterklasse Elementarer Herkunft oder Antike Herkunft.
 
-## Schule des Wissens
-Spiele die Schule des Wissens, wenn du ein scharfes Verständnis der Welt um dich herum haben möchtest.
-
-### Zauberwirken-Eigenschaft
-Wissen
-
-### Grundlagenfähigkeiten
-**Vorbereitet:** Nimm eine zusätzliche Domänenkarte deiner Stufe oder niedriger aus einer Domäne, zu der du Zugang hast.
-
-**Geschickt:** Wenn du eine Erfahrung nutzt, kannst du einen Stress markieren, anstatt 1 Hoffnung auszugeben.
-Wenn du das tust, verdopple deinen Erfahrungsmodifikator für diesen Wurf.
-
-### Spezialisierung
-**Erfahren:** Nimm eine zusätzliche Domänenkarte deiner Stufe oder niedriger aus einer Domäne, zu der du Zugang hast.
-
-**Perfekte Erinnerung:** Einmal pro Rast, wenn du eine Domänenkarte aus deinem Schließfach abrufst, kannst du ihre Abrufkosten um 1 reduzieren.
-
-### Meisterschaft
-**Brillant:** Nimm eine zusätzliche Domänenkarte deiner Stufe oder niedriger aus einer Domäne, zu der du Zugang hast.
-
-**Geschärfte Expertise:** Wenn du eine Erfahrung verwendest, würfle einen W6.
-Bei einem Ergebnis von 5 oder höher kannst du sie verwenden, ohne Hoffnung auszugeben.
-
-## Schule des Krieges
-Spiele die Schule des Krieges, wenn du gelenrte Magie für Gewalt nutzen möchtest.
+## Elementarer Herkunft
+Spiele die Elementaren Herkunft, wenn du rohe Magie kanalisieren möchtest, um die Form eines bestimmten Elements anzunehmen.
 
 ### Zauberwirken-Eigenschaft
-Wissen
+Instinkt
 
-### Grundlagenfähigkeiten
-**Kampfmagier:** Du hast dein Studium darauf fokussiert, eine unbesiegbare Kraft auf dem Schlachtfeld zu werden.
-Erhalte einen zusätzlichen Trefferpunkt-Platz.
-
-**Stelle dich deiner Angst:** Wenn du mit Angst bei einem Angriffswurf erfolgreich bist, verursachst du zusätzlich 1W10 magischen Schaden.
+### Grundlagenfähigkeit
+**Elementarist:** Wähle eines der folgenden Elemente bei der Charaktererstellung: Luft, Erde, Feuer, Blitz, Wasser.
+Du kannst dieses Element in harmlose Effekte formen.
+Zusätzlich kannst du 1 Hoffnung ausgeben und beschreiben, wie deine Kontrolle über dieses Element einem Aktionswurf, den du gleich machen wirst, hilft.
+Dann erhältst du entweder einen +2 Bonus auf den Wurf oder einen +3 Bonus auf den Schaden des Wurfs.
 
 ### Spezialisierung
-**Schild beschwören:** Du kannst eine schützende Barriere aus Magie aufrechterhalten.
-Während du mindestens 2 Hoffnung hast, addierst du deine Kompetenz zu deinem Ausweichen.
-
-**Von Angst angetrieben:** Der zusätzliche magische Schaden deiner "Stelle dich deiner Angst"-Fähigkeit erhöht sich auf 2W10.
+**Natürliches Ausweichen:** Du kannst dein Element herbeirufen, um dich vor Schaden zu schützen.
+Wenn ein Angriffswurf gegen dich erfolgreich ist, kannst du einen Stress markieren und beschreiben, wie du dein Element verwendest, um dich zu verteidigen.
+Wenn du das tust, würfle einen W6 und addiere das Ergebnis zu deinem Ausweichen gegen den Angriff.
 
 ### Meisterschaft
-**Im Chaos aufblühen:** Wenn du bei einem Angriff erfolgreich bist, kannst du nach dem Würfeln des Schadens einen Stress markieren, um das Ziel zu zwingen, einen zusätzlichen Trefferpunkt zu markieren.
+**Transzendenz:** Einmal pro langer Rast kannst du dich in eine physische Manifestation deines Elements verwandeln.
+Wenn du das tust, beschreibe deine Verwandlung und wähle zwei der folgenden Vorteile, die du bis zu deiner nächsten Rast erhältst:
 
-**Habe keine Angst:** Der zusätzliche magische Schaden deiner "Stelle dich deiner Angst"-Fähigkeit erhöht sich auf 3W10.
+- +4 Bonus auf deine verheerende Schadensschwelle
+
+- +1 Bonus auf eine Charaktereigenschaft deiner Wahl
+
+- +1 Bonus auf deine Übung
+
+- +2 Bonus auf dein Ausweichen
+
+## Antike Herkunft
+Spiele dien Antike Herkunft, wenn du die Vielseitigkeit deiner Zauber auf mächtige Weise erweitern möchtest.
+
+### Zauberwirken-Eigenschaft
+Instinkt
+
+### Grundlagenfähigkeit
+**Magie manipulieren:** Deine Antike Herkunft erlaubt es dir, die Essenz der Magie selbst zu modifizieren.
+Nachdem du einen Zauber wirkst oder einen Angriff mit einer Waffe machst, die magischen Schaden verursacht, kannst du einen Stress markieren, um eines der folgenden zu tun:
+
+- Die Reichweite des Zaubers oder Angriffs um eine Stufe erweitern
+
+- Einen +2 Bonus auf das Ergebnis des Aktionswurfs erhalten
+
+- Einen Schadenswürfel deiner Wahl verdoppeln
+
+- Ein zusätzliches Ziel in Reichweite treffen
+
+### Spezialisierung
+**Verzauberte Hilfe:** Du kannst die Magie anderer mit deiner Essenz verstärken.
+Wenn du *einem Verbündeten* bei einem Zauberwirken-Wurf *hilfst*, kannst du einen W8 als deinen Vorteilswürfel würfeln.
+Einmal pro langer Rast, nachdem ein Verbündeter einen Zauberwirken-Wurf mit deiner Hilfe gemacht hat, kannst du die Ergebnisse seiner Dualitätswürfel vertauschen.
+
+### Meisterschaft
+**Arkane Ladung:** Du kannst magische Energie sammeln, um deine Fähigkeiten zu verstärken.
+Wenn du magischen Schaden nimmst, wirst du geladen.
+Alternativ kannst du 2 Hoffnung ausgeben, um geladen zu werden.
+Wenn du erfolgreich einen Angriff machst, der magischen Schaden verursacht, während du geladen bist, kannst du deine Ladung aufheben, um entweder einen +10 Bonus auf den Schadenswurf zu erhalten oder einen +3 Bonus auf den Schwierigkeitsgrad eines Reaktionswurfs zu erhalten, den der Zauber das Ziel machen lässt.
+Du hörst auf, geladen zu sein, bei deiner nächsten langen Rast.
 
 > **Hintergrundfragen**
 >
 > Beantworte eine der folgenden Hintergrundfragen.
 > Du kannst auch deine eigenen Fragen erstellen.
 >
-> - Welche Verantwortung hattest du einst in deiner Gemeinschaft?
-> Wie hast du sie enttäuscht?
+> - Was hast du getan, was die Menschen in deiner Gemeinschaft misstrauisch dir gegenüber gemacht hat?
 >
-> - Du hast dein Leben damit verbracht, nach einem Buch oder Objekt von großer Bedeutung zu suchen.
-> Was ist es, und warum ist es so wichtig für dich?
+> - Welcher Mentor hat dir beigebracht, deine ungezähmte Magie zu kontrollieren, und warum können sie dich nicht länger führen?
 >
-> - Du hast einen mächtigen Rivalen.
-> Wer ist das, und warum bist du so entschlossen, ihn zu besiegen?
+> - Du hast eine tiefe Angst, die du vor allen versteckst.
+> Was ist sie, und warum macht sie dir Angst?
 >
 > **Verbindungen**
 >
 > Stelle deinen Mitspielenden eine der folgenden Fragen, damit ihr Charakter sie beantwortet, oder erstelle deine eigenen Fragen.
 >
-> - Um welchen Gefallen habe ich dich gebeten, von dem du nicht sicher bist, ob du ihn erfüllen kannst?
+> - Warum vertraust du mir so tief?
 >
-> - Welches seltsame Hobby oder welche merkwürdige Faszination teilen wir beide?
+> - Was habe ich getan, was dich vorsichtig in meiner Nähe macht?
 >
-> - Welches Geheimnis über dich selbst hast du nur mir anvertraut?
+> - Warum halten wir unsere gemeinsame Vergangenheit geheim?

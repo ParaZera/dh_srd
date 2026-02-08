@@ -123,7 +123,7 @@ Du kannst den Zauber jederzeit lösen, um Rissläufer erneut zu wirken und die M
 Mache einen **Zauberwirken-Wurf** gegen ein Ziel in Weiter Reichweite.
 Bei einem Erfolg kannst du das Ziel mit deinen Gedanken überall in Weiter Reichweite von seiner ursprünglichen Position bewegen.
 Du kannst das schwebende Ziel als Angriff werfen, indem du einen zusätzlichen **Zauberwirken-Wurf** gegen das zweite Ziel machst, das du anzugreifen versuchst.
-Bei einem Erfolg verursache **W12+4** physischen Schaden am zweiten Ziel mit deiner Kompetenz.
+Bei einem Erfolg verursache **W12+4** physischen Schaden am zweiten Ziel mit deiner Übung.
 Dieser Zauber endet dann.
 
 ## Arkane Berührung
